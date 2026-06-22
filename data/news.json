@@ -1,191 +1,527 @@
 {
-  "updated_at": "2026-06-22T18:50:00Z",
+  "updated_at": "2026-06-22T19:51:22.658Z",
   "languages": [
-    { "code": "en", "label": "English" },
-    { "code": "de", "label": "Deutsch" },
-    { "code": "es", "label": "Espa\u00f1ol" },
-    { "code": "fr", "label": "Fran\u00e7ais" }
+    {
+      "code": "en",
+      "label": "English"
+    },
+    {
+      "code": "de",
+      "label": "Deutsch"
+    },
+    {
+      "code": "es",
+      "label": "Español"
+    },
+    {
+      "code": "fr",
+      "label": "Français"
+    }
   ],
   "stories": [
     {
-      "id": "world-markets-central-bank-signals",
-      "region": "World",
+      "id": "mideast-live-updates-u-s-eases-sanctions-on-iranian-oil-but-progress-o-a8ec44f0",
+      "region": "Middle East",
       "topic": "Markets",
       "urgency": "Live",
-      "headline": "Global markets watch central bank signals",
-      "published_at": "2026-06-22T18:48:00Z",
+      "headline": "Mideast Live Updates: U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
+      "published_at": "2026-06-22T19:40:41.000Z",
       "translations": {
-        "en": "Policy expectations, energy prices, and currency moves are driving the live market desk.",
-        "de": "Zinserwartungen, Energiepreise und W\u00e4hrungsbewegungen bestimmen die aktuelle Marktlage.",
-        "es": "Las expectativas de tipos, los precios de la energ\u00eda y las divisas marcan la sesi\u00f3n global.",
-        "fr": "Les attentes de politique mon\u00e9taire, l'\u00e9nergie et les devises dominent les march\u00e9s."
+        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
-        { "name": "Reuters", "url": "https://www.reuters.com/" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/" },
-        { "name": "BBC", "url": "https://www.bbc.com/news" }
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon"
+        }
       ],
-      "impact": 94
+      "impact": 83
     },
     {
-      "id": "europe-security-statement",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Developing",
-      "headline": "European leaders prepare joint security statement",
-      "published_at": "2026-06-22T18:43:00Z",
-      "translations": {
-        "en": "Draft language is being tracked across official briefings and major European publishers.",
-        "de": "PULSE beobachtet Entw\u00fcrfe aus offiziellen Briefings und wichtigen europ\u00e4ischen Medien.",
-        "es": "El radar sigue borradores oficiales y la cobertura de grandes medios europeos.",
-        "fr": "PULSE suit les communiqu\u00e9s officiels et les grands \u00e9diteurs europ\u00e9ens."
-      },
-      "sources": [
-        { "name": "dpa", "url": "https://www.dpa.com/" },
-        { "name": "Die Zeit", "url": "https://www.zeit.de/" },
-        { "name": "S\u00fcddeutsche Zeitung", "url": "https://www.sueddeutsche.de/" }
-      ],
-      "impact": 88
-    },
-    {
-      "id": "americas-washington-trade-defense",
+      "id": "canadian-police-officer-suspect-among-3-dead-in-montreal-shooting-09845d3f",
       "region": "Americas",
-      "topic": "Policy",
-      "urgency": "Update",
-      "headline": "Washington briefing focuses on trade and defense spending",
-      "published_at": "2026-06-22T18:39:00Z",
-      "translations": {
-        "en": "The desk compares official remarks with reporting from major US newsrooms.",
-        "de": "Die Redaktion vergleicht offizielle Aussagen mit Berichten gro\u00dfer US-Medien.",
-        "es": "La mesa compara declaraciones oficiales con informes de grandes medios estadounidenses.",
-        "fr": "La veille compare les d\u00e9clarations officielles aux grands m\u00e9dias am\u00e9ricains."
-      },
-      "sources": [
-        { "name": "AP", "url": "https://apnews.com/" },
-        { "name": "The New York Times", "url": "https://www.nytimes.com/" },
-        { "name": "The Washington Post", "url": "https://www.washingtonpost.com/" }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "middle-east-ceasefire-pressure",
-      "region": "Middle East",
-      "topic": "Security",
+      "topic": "Society",
       "urgency": "Breaking",
-      "headline": "Regional talks continue as ceasefire pressure builds",
-      "published_at": "2026-06-22T18:36:00Z",
+      "headline": "Canadian police officer, suspect among 3 dead in Montreal shooting",
+      "published_at": "2026-06-22T19:20:55.000Z",
       "translations": {
-        "en": "PULSE is holding alerts to confirmed details and cross-checking diplomatic statements.",
-        "de": "PULSE ver\u00f6ffentlicht nur best\u00e4tigte Details und pr\u00fcft diplomatische Aussagen gegen.",
-        "es": "PULSE limita las alertas a datos confirmados y contrasta comunicados diplom\u00e1ticos.",
-        "fr": "PULSE limite les alertes aux faits confirm\u00e9s et recoupe les sources diplomatiques."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
-        { "name": "AFP", "url": "https://www.afp.com/" },
-        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/" },
-        { "name": "BBC", "url": "https://www.bbc.com/news" }
-      ],
-      "impact": 97
-    },
-    {
-      "id": "asia-pacific-chip-export-controls",
-      "region": "Asia-Pacific",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Chip supply chain briefing tracks new export controls",
-      "published_at": "2026-06-22T18:32:00Z",
-      "translations": {
-        "en": "Market, policy, and manufacturer updates are merged into one concise signal.",
-        "de": "Markt-, Politik- und Herstellerupdates werden zu einem kurzen Signal geb\u00fcndelt.",
-        "es": "Actualizaciones de mercado, pol\u00edtica y fabricantes se agrupan en una se\u00f1al breve.",
-        "fr": "March\u00e9s, politiques publiques et fabricants sont r\u00e9sum\u00e9s en un signal court."
-      },
-      "sources": [
-        { "name": "Nikkei Asia", "url": "https://asia.nikkei.com/" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/" },
-        { "name": "Reuters", "url": "https://www.reuters.com/" }
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss"
+        }
       ],
       "impact": 82
     },
     {
-      "id": "africa-flooding-transport-routes",
-      "region": "Africa",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "Emergency teams monitor flooding across key transport routes",
-      "published_at": "2026-06-22T18:28:00Z",
+      "id": "a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-yo-576c28d6",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "A leftward lurch? What to know about the Democratic primaries in New York",
+      "published_at": "2026-06-22T18:28:13.000Z",
       "translations": {
-        "en": "Humanitarian agencies and local officials are publishing fast-moving assessments.",
-        "de": "Hilfsorganisationen und lokale Beh\u00f6rden ver\u00f6ffentlichen laufend neue Einsch\u00e4tzungen.",
-        "es": "Agencias humanitarias y autoridades locales publican evaluaciones en tiempo real.",
-        "fr": "Les agences humanitaires et autorit\u00e9s locales publient des bilans rapides."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
-        { "name": "AP", "url": "https://apnews.com/" },
-        { "name": "BBC", "url": "https://www.bbc.com/news" },
-        { "name": "ReliefWeb", "url": "https://reliefweb.int/" }
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "keir-starmer-resigns-as-uk-prime-minister-463ef080",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Keir Starmer Resigns as UK Prime Minister",
+      "published_at": "2026-06-22T17:41:12.000Z",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "myanmar-army-killed-over-700-civilians-in-six-months-un-says-c7388eea",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Myanmar army killed over 700 civilians in six months, UN says",
+      "published_at": "2026-06-22T15:31:55.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "at-least-13-killed-and-dozens-injured-after-qatar-gas-explosion-3515309f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "published_at": "2026-06-22T15:15:42.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "iran-us-talks-to-end-war-beset-by-tension-mistrust-e20f59a1",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran-US talks to end war beset by tension, mistrust",
+      "published_at": "2026-06-22T14:40:00.000Z",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546?maca=en-rss-en-top-1022-rdf"
+        }
       ],
       "impact": 79
     },
     {
-      "id": "world-energy-supply-risk",
-      "region": "World",
-      "topic": "Energy",
-      "urgency": "Developing",
-      "headline": "Oil and gas desks track supply risk after infrastructure alerts",
-      "published_at": "2026-06-22T18:24:00Z",
-      "translations": {
-        "en": "The public radar flags economic impact while waiting for verified source detail.",
-        "de": "Der Radar markiert wirtschaftliche Folgen und wartet auf best\u00e4tigte Details.",
-        "es": "El radar se\u00f1ala impacto econ\u00f3mico mientras espera detalles verificados.",
-        "fr": "Le radar signale l'impact \u00e9conomique en attendant des d\u00e9tails confirm\u00e9s."
-      },
-      "sources": [
-        { "name": "Reuters", "url": "https://www.reuters.com/" },
-        { "name": "Financial Times", "url": "https://www.ft.com/" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/" }
-      ],
-      "impact": 84
-    },
-    {
-      "id": "europe-migration-debate-framing",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Analysis",
-      "headline": "German and Swiss papers frame migration debate differently",
-      "published_at": "2026-06-22T18:19:00Z",
-      "translations": {
-        "en": "Publisher monitoring compares local emphasis before a neutral PULSE explainer is drafted.",
-        "de": "PULSE vergleicht lokale Schwerpunkte, bevor ein neutraler Erkl\u00e4rtext entsteht.",
-        "es": "El monitoreo compara enfoques locales antes de redactar una explicaci\u00f3n neutral.",
-        "fr": "La veille compare les angles locaux avant un d\u00e9cryptage neutre de PULSE."
-      },
-      "sources": [
-        { "name": "Weltwoche", "url": "https://weltwoche.ch/" },
-        { "name": "Die Zeit", "url": "https://www.zeit.de/" },
-        { "name": "S\u00fcddeutsche Zeitung", "url": "https://www.sueddeutsche.de/" }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "americas-inflation-currency-bonds",
+      "id": "shooting-in-montreal-jewish-neighbourhood-leaves-three-dead-including--e48123f0",
       "region": "Americas",
-      "topic": "Economy",
-      "urgency": "Live",
-      "headline": "Inflation data moves currency and bond alerts",
-      "published_at": "2026-06-22T18:12:00Z",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Shooting in Montreal Jewish neighbourhood leaves three dead, including suspect",
+      "published_at": "2026-06-22T19:00:28.000Z",
       "translations": {
-        "en": "Economic desks are watching market reaction and official commentary in real time.",
-        "de": "Wirtschaftsredaktionen beobachten Marktreaktionen und offizielle Kommentare live.",
-        "es": "Las mesas econ\u00f3micas siguen reacciones de mercado y comentarios oficiales.",
-        "fr": "Les desks \u00e9co suivent les march\u00e9s et les commentaires officiels en direct."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
-        { "name": "AP", "url": "https://apnews.com/" },
-        { "name": "Reuters", "url": "https://www.reuters.com/" },
-        { "name": "The Washington Post", "url": "https://www.washingtonpost.com/" }
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260622-shooting-montreal-jewish-neighbourhood-leaves-three-dead-including-suspect"
+        }
       ],
-      "impact": 81
+      "impact": 78
+    },
+    {
+      "id": "clive-davis-music-mogul-behind-whitney-houston-and-bruce-springsteen-d-5bcfc41a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "published_at": "2026-06-22T18:11:56.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "cuba-s-fuel-crisis-brings-schools-to-a-standstill-3239669b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Cuba’s Fuel Crisis Brings Schools to a Standstill",
+      "published_at": "2026-06-22T14:29:39.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "explosion-at-qatar-gas-plant-kills-at-least-13-and-injures-66-6c070ec0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
+      "published_at": "2026-06-22T14:09:44.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "thousands-of-kites-soar-over-denmark-at-annual-beach-festival-9455aac9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Thousands of kites soar over Denmark at annual beach festival",
+      "published_at": "2026-06-22T19:02:48.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/thousands-of-kites-soar-over-denmark-at-annual-beach-festival?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid-8ed87e7b",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
+      "published_at": "2026-06-22T19:00:57.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "turnover-at-10-downing-street-raises-questions-about-whether-britain-i-086cefac",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Turnover at 10 Downing Street raises questions about 'whether Britain is indeed governable'",
+      "published_at": "2026-06-22T19:38:21.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/turnover-at-10-downing-street-raises-questions-about-whether-britain-is-indeed-governable"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "after-pm-keir-starmer-s-resignation-andy-burnham-could-take-over-by-mi-1fc2ca09",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "After PM Keir Starmer's resignation, Andy Burnham could take over by mid-July",
+      "published_at": "2026-06-22T19:32:42.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/22/after-pm-keir-starmer-s-resignation-andy-burnham-could-take-over-by-mid-july_6754762_4.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "will-colombia-s-right-wing-hardliner-de-la-espriella-be-able-to-govern-a4bb6569",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Will Colombia's right-wing hardliner De la Espriella be able to govern?",
+      "published_at": "2026-06-22T18:58:49.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260622-el-tigre-won-colombia-s-presidential-vote-but-he-may-always-be-an-outsider"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "b-lgica-otorga-visado-a-una-delegaci-n-talib-n-para-hablar-de-migraci--e924b548",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bélgica otorga visado a una delegación talibán para hablar de migración con la UE",
+      "published_at": "2026-06-22T18:52:15.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-06-22/belgica-otorga-visado-a-una-delegacion-taliban-para-hablar-de-migracion-con-la-ue.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "thousands-are-fleeing-as-putin-bombs-the-donbas-cities-he-most-covets-296c8470",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Thousands Are Fleeing as Putin Bombs the Donbas Cities He Most Covets",
+      "published_at": "2026-06-22T15:57:38.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "vance-says-iran-will-allow-nuclear-inspectors-back-into-the-country-3c4e5fd7",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Vance says Iran will allow nuclear inspectors back into the country",
+      "published_at": "2026-06-22T14:18:19.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "italy-rallies-behind-meloni-after-trump-targets-her-but-fears-trade-re-e370d4a7",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Italy rallies behind Meloni after Trump targets her, but fears trade retaliation",
+      "published_at": "2026-06-22T12:58:04.000Z",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/22/italy-rallies-behind-meloni-after-trump-targets-her-but-fears-trade-retaliation_6754745_4.html"
+        }
+      ],
+      "impact": 66
+    },
+    {
+      "id": "lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2-72743fad",
+      "region": "Americas",
+      "topic": "Sports",
+      "urgency": "Live",
+      "headline": "Lionel Messi scores brace as Argentina beat Austria 2-0 at World Cup 2026",
+      "published_at": "2026-06-22T19:26:42.000Z",
+      "translations": {
+        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "europe-sizzles-under-heat-wave-with-little-relief-in-sight-72aedc5f",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Update",
+      "headline": "Europe sizzles under heat wave with little relief in sight",
+      "published_at": "2026-06-22T15:44:00.000Z",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/europe-sizzles-under-heat-wave-with-little-relief-in-sight/live-77663026?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "germany-apos-s-pension-plans-draw-praise-and-outrage-5e321e70",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Germany&apos;s pension plans draw praise and outrage",
+      "published_at": "2026-06-22T15:08:00.000Z",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-s-pension-plans-draw-praise-and-outrage/a-77663371?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "world-cup-2026-messi-makes-history-as-argentina-dominate-austria-a230fdb0",
+      "region": "Americas",
+      "topic": "Sports",
+      "urgency": "Live",
+      "headline": "World Cup 2026: Messi makes history as Argentina dominate Austria",
+      "published_at": "2026-06-22T19:13:01.000Z",
+      "translations": {
+        "en": "PULSE is tracking this sports update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sport-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de deportes de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sport de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20260622-world-cup-2026-messi-makes-history-as-argentina-dominate-austria"
+        }
+      ],
+      "impact": 64
     }
   ]
 }

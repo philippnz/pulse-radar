@@ -1,0 +1,94 @@
+{
+  "enabled_feeds": [
+    {
+      "name": "BBC News",
+      "homepage": "https://www.bbc.com/news",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "default_region": "World",
+      "default_topic": "World",
+      "weight": 88
+    },
+    {
+      "name": "The New York Times",
+      "homepage": "https://www.nytimes.com/",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "default_region": "World",
+      "default_topic": "World",
+      "weight": 84
+    },
+    {
+      "name": "Al Jazeera",
+      "homepage": "https://www.aljazeera.com/",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "default_region": "World",
+      "default_topic": "World",
+      "weight": 83
+    },
+    {
+      "name": "The Guardian",
+      "homepage": "https://www.theguardian.com/world",
+      "type": "rss",
+      "url": "https://www.theguardian.com/world/rss",
+      "default_region": "World",
+      "default_topic": "World",
+      "weight": 80
+    },
+    {
+      "name": "Deutsche Welle",
+      "homepage": "https://www.dw.com/",
+      "type": "rss",
+      "url": "https://rss.dw.com/rdf/rss-en-top",
+      "default_region": "Europe",
+      "default_topic": "World",
+      "weight": 78
+    },
+    {
+      "name": "France 24",
+      "homepage": "https://www.france24.com/en/",
+      "type": "rss",
+      "url": "https://www.france24.com/en/rss",
+      "default_region": "Europe",
+      "default_topic": "World",
+      "weight": 77
+    },
+    {
+      "name": "Le Monde",
+      "homepage": "https://www.lemonde.fr/en/",
+      "type": "rss",
+      "url": "https://www.lemonde.fr/en/international/rss_full.xml",
+      "default_region": "Europe",
+      "default_topic": "World",
+      "weight": 76
+    },
+    {
+      "name": "El Pais",
+      "homepage": "https://elpais.com/",
+      "type": "rss",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+      "default_region": "Europe",
+      "default_topic": "World",
+      "weight": 74
+    }
+  ],
+  "licensed_or_api_sources": [
+    {
+      "name": "Reuters",
+      "note": "Use Reuters licensed API/feed before automated republishing."
+    },
+    {
+      "name": "Associated Press",
+      "note": "Use AP licensed API/feed before automated republishing."
+    },
+    {
+      "name": "Bloomberg",
+      "note": "Use Bloomberg licensed/API access for business and markets coverage."
+    },
+    {
+      "name": "Financial Times",
+      "note": "Use licensed API/feed access for commercial use."
+    }
+  ]
+}
