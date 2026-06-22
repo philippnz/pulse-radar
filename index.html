@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PULSE Radar</title>
+    <meta
+      name="description"
+      content="PULSE Radar filters, translates, sources, and updates the most important world news live."
+    />
+    <link rel="preload" href="assets/img/global-newsroom-hero.png" as="image" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="PULSE home">
+        <span class="brand-signal" aria-hidden="true"></span>
+        <span class="brand-word">PULSE</span>
+      </a>
+      <nav class="nav-links" aria-label="Main sections">
+        <a href="#radar">Radar</a>
+        <a href="#live">Briefing</a>
+        <a href="#model">Model</a>
+        <a href="#telegram">Telegram</a>
+      </nav>
+      <a class="header-action" href="#telegram">Join Live</a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-media" aria-hidden="true"></div>
+        <div class="hero-shade" aria-hidden="true"></div>
+
+        <div class="hero-content">
+          <div class="live-kicker">
+            <span class="live-dot" aria-hidden="true"></span>
+            <span>Global radar online</span>
+            <span id="hero-clock">00:00 CET</span>
+          </div>
+          <h1 id="hero-title">PULSE</h1>
+          <p class="hero-copy">
+            All important world news, filtered, translated, sourced, and
+            updated live.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="primary-action" href="#radar">Open Radar</a>
+            <a class="secondary-action" href="#live">Latest Briefing</a>
+          </div>
+        </div>
+
+        <aside class="hero-briefing" aria-label="Lead briefing">
+          <div class="briefing-top">
+            <span>Top Signal</span>
+            <span id="lead-age">2 min ago</span>
+          </div>
+          <h2 id="lead-headline">Global markets watch central bank signals</h2>
+          <p id="lead-summary">
+            PULSE ranks cross-border impact, source reliability, and update
+            velocity before a story moves to the public radar.
+          </p>
+          <div class="source-line">
+            <span id="lead-source">Reuters / Bloomberg / BBC</span>
+            <span id="lead-region">World</span>
+          </div>
+          <div class="lead-links" id="lead-links" aria-label="Original source links"></div>
+        </aside>
+      </section>
+
+      <section class="ticker" aria-label="Breaking news ticker">
+        <span class="ticker-label">Live Radar</span>
+        <div class="ticker-window">
+          <div class="ticker-track" id="ticker-track"></div>
+        </div>
+      </section>
+
+      <section class="radar-section" id="radar" aria-labelledby="radar-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Pulse radar</p>
+            <h2 id="radar-title">One world feed, many languages</h2>
+          </div>
+          <div class="update-pill" aria-live="polite">
+            <span class="update-ring" aria-hidden="true"></span>
+            <span id="last-updated">Updating</span>
+          </div>
+        </div>
+
+        <div class="control-row">
+          <div>
+            <span class="control-label">Region</span>
+            <div class="region-tabs" id="region-tabs" aria-label="Regions"></div>
+          </div>
+          <div>
+            <span class="control-label">Language</span>
+            <div class="language-tabs" id="language-tabs" aria-label="Languages"></div>
+          </div>
+        </div>
+
+        <div class="radar-layout">
+          <div class="radar-panel">
+            <div class="panel-topline">
+              <span>Filtered Signal</span>
+              <strong id="signal-count">0</strong>
+            </div>
+            <div class="signal-list" id="signal-list" aria-live="polite"></div>
+          </div>
+          <div class="radar-panel source-monitor">
+            <div class="panel-topline">
+              <span>Live Source Monitor</span>
+              <strong>Official Links</strong>
+            </div>
+            <div class="monitor-list" aria-label="Source monitor">
+              <a href="https://www.reuters.com/" target="_blank" rel="noreferrer">
+                <span>Reuters</span><strong>Wire</strong>
+              </a>
+              <a href="https://apnews.com/" target="_blank" rel="noreferrer">
+                <span>Associated Press</span><strong>Wire</strong>
+              </a>
+              <a href="https://www.bbc.com/news" target="_blank" rel="noreferrer">
+                <span>BBC News</span><strong>Live</strong>
+              </a>
+              <a href="https://www.zeit.de/" target="_blank" rel="noreferrer">
+                <span>Die Zeit</span><strong>DE</strong>
+              </a>
+              <a href="https://www.nytimes.com/" target="_blank" rel="noreferrer">
+                <span>The New York Times</span><strong>US</strong>
+              </a>
+              <a href="https://www.aljazeera.com/" target="_blank" rel="noreferrer">
+                <span>Al Jazeera</span><strong>World</strong>
+              </a>
+            </div>
+            <p class="monitor-note">
+              PULSE links to original sources and embeds only official streams
+              where the broadcaster allows it.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="live-board" id="live" aria-labelledby="live-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Global briefing</p>
+            <h2 id="live-title">Most important now</h2>
+          </div>
+        </div>
+        <div class="story-grid" id="story-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="split-section" id="sources" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Source network</p>
+            <h2 id="sources-title">We sell signal, not copied articles</h2>
+          </div>
+        </div>
+        <div class="source-layout">
+          <div class="source-copy">
+            <p>
+              PULSE monitors trusted publishers, agencies, official statements,
+              and public feeds. Every public item is rewritten as a short PULSE
+              summary, translated when needed, and linked back to original
+              sources.
+            </p>
+            <div class="trust-metrics" aria-label="Editorial standards">
+              <div>
+                <strong>Link</strong>
+                <span>to originals</span>
+              </div>
+              <div>
+                <strong>Rank</strong>
+                <span>by importance</span>
+              </div>
+              <div>
+                <strong>Translate</strong>
+                <span>for readers</span>
+              </div>
+            </div>
+          </div>
+          <div class="source-cloud" aria-label="Planned source list">
+            <a href="https://www.reuters.com/" target="_blank" rel="noreferrer">Reuters</a>
+            <a href="https://apnews.com/" target="_blank" rel="noreferrer">Associated Press</a>
+            <a href="https://www.afp.com/" target="_blank" rel="noreferrer">AFP</a>
+            <a href="https://www.bbc.com/news" target="_blank" rel="noreferrer">BBC</a>
+            <a href="https://www.nytimes.com/" target="_blank" rel="noreferrer">The New York Times</a>
+            <a href="https://www.washingtonpost.com/" target="_blank" rel="noreferrer">The Washington Post</a>
+            <a href="https://www.zeit.de/" target="_blank" rel="noreferrer">Die Zeit</a>
+            <a href="https://www.sueddeutsche.de/" target="_blank" rel="noreferrer">S&uuml;ddeutsche Zeitung</a>
+            <a href="https://weltwoche.ch/" target="_blank" rel="noreferrer">Weltwoche</a>
+            <a href="https://www.ft.com/" target="_blank" rel="noreferrer">Financial Times</a>
+            <a href="https://www.bloomberg.com/" target="_blank" rel="noreferrer">Bloomberg</a>
+            <a href="https://www.aljazeera.com/" target="_blank" rel="noreferrer">Al Jazeera</a>
+            <a href="https://www.lemonde.fr/" target="_blank" rel="noreferrer">Le Monde</a>
+            <a href="https://asia.nikkei.com/" target="_blank" rel="noreferrer">Nikkei Asia</a>
+            <a href="https://elpais.com/" target="_blank" rel="noreferrer">El Pa&iacute;s</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="ops-section" id="model" aria-labelledby="ops-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Product model</p>
+            <h2 id="ops-title">From global noise to useful public signal</h2>
+          </div>
+        </div>
+        <div class="ops-grid">
+          <article class="ops-step">
+            <span>01</span>
+            <h3>Monitor</h3>
+            <p>Track trusted sources, official channels, live blogs, RSS, and permitted APIs.</p>
+          </article>
+          <article class="ops-step">
+            <span>02</span>
+            <h3>Filter</h3>
+            <p>Remove duplicates and rank stories by urgency, reach, source strength, and impact.</p>
+          </article>
+          <article class="ops-step">
+            <span>03</span>
+            <h3>Translate</h3>
+            <p>Create short original summaries across languages without republishing articles.</p>
+          </article>
+          <article class="ops-step">
+            <span>04</span>
+            <h3>Link</h3>
+            <p>Keep every public item connected to the original source and publish concise alerts to Telegram.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="telegram-section" id="telegram" aria-labelledby="telegram-title">
+        <div class="telegram-copy">
+          <p class="eyebrow">Telegram channel</p>
+          <h2 id="telegram-title">Pulse Live</h2>
+          <p>
+            Fast public alerts for breaking stories, language-specific
+            briefings, and direct links to the original source. No copied
+            articles, no noise.
+          </p>
+          <a class="primary-action dark" href="https://t.me/pulseupdate" target="_blank" rel="noreferrer">
+            Launch Channel
+          </a>
+        </div>
+        <div class="telegram-card" aria-label="Telegram post preview">
+          <div class="phone-bar">
+            <span></span>
+            <strong>Pulse Live</strong>
+            <span></span>
+          </div>
+          <article class="telegram-post">
+            <div class="post-label" id="telegram-label">WORLD | LIVE</div>
+            <h3 id="telegram-headline">Global markets watch central bank signals</h3>
+            <p id="telegram-body">
+              PULSE summary: Policy expectations, energy prices, and currency
+              moves are driving the live market desk.
+            </p>
+            <p id="telegram-source">Sources: Reuters / Bloomberg / BBC</p>
+            <time id="telegram-time">Updated: 00:00 CET</time>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>PULSE Radar</p>
+      <p>Filtered, translated, sourced, and updated live.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
