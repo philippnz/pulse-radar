@@ -3,267 +3,243 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>PULSE Radar</title>
+    <title>Mira Vale Atelier | Contemporary Paintings</title>
     <meta
       name="description"
-      content="PULSE Radar filters, translates, sources, and updates the most important world news live."
+      content="Portfolio website for Mira Vale, a contemporary painter working across expressive interiors, still lifes, landscapes, and abstraction."
     />
-    <link rel="preload" href="assets/img/global-newsroom-hero.png" as="image" />
+    <link rel="preload" href="assets/img/artworks/hero-studio.png" as="image" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="site-header" aria-label="Primary navigation">
-      <a class="brand" href="#top" aria-label="PULSE home">
-        <span class="brand-signal" aria-hidden="true"></span>
-        <span class="brand-word">PULSE</span>
+      <a class="brand" href="#top" aria-label="Mira Vale home">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>Mira Vale</span>
       </a>
       <nav class="nav-links" aria-label="Main sections">
-        <a href="#radar">Radar</a>
-        <a href="#live">Briefing</a>
-        <a href="#model">Model</a>
-        <a href="#telegram">Telegram</a>
+        <a href="#works">Works</a>
+        <a href="#studio">Studio</a>
+        <a href="#exhibitions">Exhibitions</a>
+        <a href="#contact">Contact</a>
       </nav>
-      <a class="header-action" href="#telegram">Join Live</a>
+      <a class="header-action" href="#contact">Inquire</a>
     </header>
 
     <main id="top">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-media" aria-hidden="true"></div>
-        <div class="hero-shade" aria-hidden="true"></div>
-
+        <div class="hero-overlay" aria-hidden="true"></div>
         <div class="hero-content">
-          <div class="live-kicker">
-            <span class="live-dot" aria-hidden="true"></span>
-            <span>Global radar online</span>
-            <span id="hero-clock">00:00 CET</span>
-          </div>
-          <h1 id="hero-title">PULSE</h1>
+          <p class="eyebrow">Contemporary painting / Berlin</p>
+          <h1 id="hero-title">Mira Vale</h1>
           <p class="hero-copy">
-            All important world news, filtered, translated, sourced, and
-            updated live.
+            Oil paintings that move between intimate rooms, wet gardens, quiet
+            coastlines, and charged abstract color.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
-            <a class="primary-action" href="#radar">Open Radar</a>
-            <a class="secondary-action" href="#live">Latest Briefing</a>
+            <a class="button button-primary" href="#works">View Works</a>
+            <a class="button button-ghost" href="#studio">Read Bio</a>
           </div>
         </div>
-
-        <aside class="hero-briefing" aria-label="Lead briefing">
-          <div class="briefing-top">
-            <span>Top Signal</span>
-            <span id="lead-age">2 min ago</span>
+        <dl class="hero-notes" aria-label="Artist highlights">
+          <div>
+            <dt>New series</dt>
+            <dd>Field Notes, 2026</dd>
           </div>
-          <h2 id="lead-headline">Global markets watch central bank signals</h2>
-          <p id="lead-summary">
-            PULSE ranks cross-border impact, source reliability, and update
-            velocity before a story moves to the public radar.
-          </p>
-          <div class="source-line">
-            <span id="lead-source">Reuters / Bloomberg / BBC</span>
-            <span id="lead-region">World</span>
+          <div>
+            <dt>Medium</dt>
+            <dd>Oil, pigment, paper</dd>
           </div>
-          <div class="lead-links" id="lead-links" aria-label="Original source links"></div>
-        </aside>
+          <div>
+            <dt>Studio</dt>
+            <dd>Visits by appointment</dd>
+          </div>
+        </dl>
       </section>
 
-      <section class="ticker" aria-label="Breaking news ticker">
-        <span class="ticker-label">Live Radar</span>
-        <div class="ticker-window">
-          <div class="ticker-track" id="ticker-track"></div>
-        </div>
+      <section class="intro-band" aria-label="Portfolio summary">
+        <p>
+          Selected works, archive details, and exhibition history for collectors,
+          curators, and studio inquiries.
+        </p>
+        <a href="#works">Browse selected works</a>
       </section>
 
-      <section class="radar-section" id="radar" aria-labelledby="radar-title">
+      <section class="works-section" id="works" aria-labelledby="works-title">
         <div class="section-heading">
-          <div>
-            <p class="eyebrow">Pulse radar</p>
-            <h2 id="radar-title">One world feed, many languages</h2>
-          </div>
-          <div class="update-pill" aria-live="polite">
-            <span class="update-ring" aria-hidden="true"></span>
-            <span id="last-updated">Updating</span>
-          </div>
+          <p class="eyebrow">Selected works</p>
+          <h2 id="works-title">Paintings from recent series</h2>
         </div>
 
-        <div class="control-row">
-          <div>
-            <span class="control-label">Region</span>
-            <div class="region-tabs" id="region-tabs" aria-label="Regions"></div>
-          </div>
-          <div>
-            <span class="control-label">Language</span>
-            <div class="language-tabs" id="language-tabs" aria-label="Languages"></div>
-          </div>
+        <div class="filter-row" aria-label="Artwork filters">
+          <button class="filter-button is-active" type="button" data-filter="All">All</button>
+          <button class="filter-button" type="button" data-filter="Interiors">Interiors</button>
+          <button class="filter-button" type="button" data-filter="Botanicals">Botanicals</button>
+          <button class="filter-button" type="button" data-filter="Still Life">Still Life</button>
+          <button class="filter-button" type="button" data-filter="Nocturnes">Nocturnes</button>
+          <button class="filter-button" type="button" data-filter="Abstraction">Abstraction</button>
         </div>
 
-        <div class="radar-layout">
-          <div class="radar-panel">
-            <div class="panel-topline">
-              <span>Filtered Signal</span>
-              <strong id="signal-count">0</strong>
-            </div>
-            <div class="signal-list" id="signal-list" aria-live="polite"></div>
-          </div>
-          <div class="radar-panel source-monitor">
-            <div class="panel-topline">
-              <span>Live Source Monitor</span>
-              <strong>Official Links</strong>
-            </div>
-            <div class="monitor-list" aria-label="Source monitor">
-              <a href="https://www.reuters.com/" target="_blank" rel="noreferrer">
-                <span>Reuters</span><strong>Wire</strong>
-              </a>
-              <a href="https://apnews.com/" target="_blank" rel="noreferrer">
-                <span>Associated Press</span><strong>Wire</strong>
-              </a>
-              <a href="https://www.bbc.com/news" target="_blank" rel="noreferrer">
-                <span>BBC News</span><strong>Live</strong>
-              </a>
-              <a href="https://www.zeit.de/" target="_blank" rel="noreferrer">
-                <span>Die Zeit</span><strong>DE</strong>
-              </a>
-              <a href="https://www.nytimes.com/" target="_blank" rel="noreferrer">
-                <span>The New York Times</span><strong>US</strong>
-              </a>
-              <a href="https://www.aljazeera.com/" target="_blank" rel="noreferrer">
-                <span>Al Jazeera</span><strong>World</strong>
-              </a>
-            </div>
-            <p class="monitor-note">
-              PULSE links to original sources and embeds only official streams
-              where the broadcaster allows it.
-            </p>
-          </div>
-        </div>
+        <div class="artwork-grid" id="artwork-grid" aria-live="polite"></div>
       </section>
 
-      <section class="live-board" id="live" aria-labelledby="live-title">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Global briefing</p>
-            <h2 id="live-title">Most important now</h2>
-          </div>
+      <section class="studio-section" id="studio" aria-labelledby="studio-title">
+        <div class="studio-image">
+          <img
+            src="assets/img/artworks/blue-hour-interior.png"
+            alt="Blue Hour Interior, an expressive oil painting with a cobalt window and black chair"
+          />
         </div>
-        <div class="story-grid" id="story-grid" aria-live="polite"></div>
-      </section>
-
-      <section class="split-section" id="sources" aria-labelledby="sources-title">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Source network</p>
-            <h2 id="sources-title">We sell signal, not copied articles</h2>
-          </div>
-        </div>
-        <div class="source-layout">
-          <div class="source-copy">
-            <p>
-              PULSE monitors trusted publishers, agencies, official statements,
-              and public feeds. Every public item is rewritten as a short PULSE
-              summary, translated when needed, and linked back to original
-              sources.
-            </p>
-            <div class="trust-metrics" aria-label="Editorial standards">
-              <div>
-                <strong>Link</strong>
-                <span>to originals</span>
-              </div>
-              <div>
-                <strong>Rank</strong>
-                <span>by importance</span>
-              </div>
-              <div>
-                <strong>Translate</strong>
-                <span>for readers</span>
-              </div>
-            </div>
-          </div>
-          <div class="source-cloud" aria-label="Planned source list">
-            <a href="https://www.reuters.com/" target="_blank" rel="noreferrer">Reuters</a>
-            <a href="https://apnews.com/" target="_blank" rel="noreferrer">Associated Press</a>
-            <a href="https://www.afp.com/" target="_blank" rel="noreferrer">AFP</a>
-            <a href="https://www.bbc.com/news" target="_blank" rel="noreferrer">BBC</a>
-            <a href="https://www.nytimes.com/" target="_blank" rel="noreferrer">The New York Times</a>
-            <a href="https://www.washingtonpost.com/" target="_blank" rel="noreferrer">The Washington Post</a>
-            <a href="https://www.zeit.de/" target="_blank" rel="noreferrer">Die Zeit</a>
-            <a href="https://www.sueddeutsche.de/" target="_blank" rel="noreferrer">S&uuml;ddeutsche Zeitung</a>
-            <a href="https://weltwoche.ch/" target="_blank" rel="noreferrer">Weltwoche</a>
-            <a href="https://www.ft.com/" target="_blank" rel="noreferrer">Financial Times</a>
-            <a href="https://www.bloomberg.com/" target="_blank" rel="noreferrer">Bloomberg</a>
-            <a href="https://www.aljazeera.com/" target="_blank" rel="noreferrer">Al Jazeera</a>
-            <a href="https://www.lemonde.fr/" target="_blank" rel="noreferrer">Le Monde</a>
-            <a href="https://asia.nikkei.com/" target="_blank" rel="noreferrer">Nikkei Asia</a>
-            <a href="https://elpais.com/" target="_blank" rel="noreferrer">El Pa&iacute;s</a>
-          </div>
-        </div>
-      </section>
-
-      <section class="ops-section" id="model" aria-labelledby="ops-title">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Product model</p>
-            <h2 id="ops-title">From global noise to useful public signal</h2>
-          </div>
-        </div>
-        <div class="ops-grid">
-          <article class="ops-step">
-            <span>01</span>
-            <h3>Monitor</h3>
-            <p>Track trusted sources, official channels, live blogs, RSS, and permitted APIs.</p>
-          </article>
-          <article class="ops-step">
-            <span>02</span>
-            <h3>Filter</h3>
-            <p>Remove duplicates and rank stories by urgency, reach, source strength, and impact.</p>
-          </article>
-          <article class="ops-step">
-            <span>03</span>
-            <h3>Translate</h3>
-            <p>Create short original summaries across languages without republishing articles.</p>
-          </article>
-          <article class="ops-step">
-            <span>04</span>
-            <h3>Link</h3>
-            <p>Keep every public item connected to the original source and publish concise alerts to Telegram.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="telegram-section" id="telegram" aria-labelledby="telegram-title">
-        <div class="telegram-copy">
-          <p class="eyebrow">Telegram channel</p>
-          <h2 id="telegram-title">Pulse Live</h2>
+        <div class="studio-copy">
+          <p class="eyebrow">Studio practice</p>
+          <h2 id="studio-title">Color, memory, and rooms that feel half awake</h2>
           <p>
-            Fast public alerts for breaking stories, language-specific
-            briefings, and direct links to the original source. No copied
-            articles, no noise.
+            Mira Vale builds paintings through scraped layers, dry-brush marks,
+            and blocks of saturated color. Familiar subjects become unstable:
+            windows flatten into fields, vessels turn monumental, and gardens
+            dissolve into weather.
           </p>
-          <a class="primary-action dark" href="https://t.me/pulseupdate" target="_blank" rel="noreferrer">
-            Launch Channel
-          </a>
-        </div>
-        <div class="telegram-card" aria-label="Telegram post preview">
-          <div class="phone-bar">
-            <span></span>
-            <strong>Pulse Live</strong>
-            <span></span>
+          <p>
+            The portfolio is organized like a working archive, giving each piece
+            room to breathe while keeping dimensions, medium, series, and
+            availability close at hand.
+          </p>
+          <div class="studio-stats" aria-label="Studio facts">
+            <div>
+              <strong>34</strong>
+              <span>paintings archived</span>
+            </div>
+            <div>
+              <strong>8</strong>
+              <span>solo and group shows</span>
+            </div>
+            <div>
+              <strong>2026</strong>
+              <span>new body of work</span>
+            </div>
           </div>
-          <article class="telegram-post">
-            <div class="post-label" id="telegram-label">WORLD | LIVE</div>
-            <h3 id="telegram-headline">Global markets watch central bank signals</h3>
-            <p id="telegram-body">
-              PULSE summary: Policy expectations, energy prices, and currency
-              moves are driving the live market desk.
-            </p>
-            <p id="telegram-source">Sources: Reuters / Bloomberg / BBC</p>
-            <time id="telegram-time">Updated: 00:00 CET</time>
+        </div>
+      </section>
+
+      <section class="exhibitions-section" id="exhibitions" aria-labelledby="exhibitions-title">
+        <div class="section-heading">
+          <p class="eyebrow">Exhibitions</p>
+          <h2 id="exhibitions-title">Recent and upcoming</h2>
+        </div>
+        <div class="exhibition-list">
+          <article>
+            <time>2026</time>
+            <div>
+              <h3>Field Notes</h3>
+              <p>Atelier open studio, Berlin</p>
+            </div>
+          </article>
+          <article>
+            <time>2025</time>
+            <div>
+              <h3>Rooms with Weather</h3>
+              <p>Kleine Halle, Hamburg</p>
+            </div>
+          </article>
+          <article>
+            <time>2024</time>
+            <div>
+              <h3>Afterimage Garden</h3>
+              <p>Group exhibition, Copenhagen</p>
+            </div>
+          </article>
+          <article>
+            <time>2023</time>
+            <div>
+              <h3>Objects at Night</h3>
+              <p>Project Space 18, Munich</p>
+            </div>
           </article>
         </div>
+      </section>
+
+      <section class="contact-section" id="contact" aria-labelledby="contact-title">
+        <div class="contact-copy">
+          <p class="eyebrow">Contact</p>
+          <h2 id="contact-title">Studio inquiries and private viewings</h2>
+          <p>
+            For commissions, sales, press, or exhibition requests, send a short
+            note with the work or series you are interested in.
+          </p>
+          <a class="mail-link" href="mailto:studio@miravale.example">studio@miravale.example</a>
+        </div>
+        <form class="contact-form" id="contact-form">
+          <label>
+            <span>Name</span>
+            <input name="name" type="text" autocomplete="name" required />
+          </label>
+          <label>
+            <span>Email</span>
+            <input name="email" type="email" autocomplete="email" required />
+          </label>
+          <label>
+            <span>Message</span>
+            <textarea name="message" rows="5" required></textarea>
+          </label>
+          <button class="button button-primary" type="submit">Send Inquiry</button>
+          <p class="form-note" id="form-note" role="status"></p>
+        </form>
       </section>
     </main>
 
+    <div class="artwork-modal" id="artwork-modal" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal></div>
+      <section
+        class="modal-panel"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-title"
+      >
+        <button class="modal-close" type="button" data-close-modal aria-label="Close artwork details">
+          &times;
+        </button>
+        <div class="modal-image-wrap">
+          <img id="modal-image" src="" alt="" />
+        </div>
+        <div class="modal-copy">
+          <p class="eyebrow" id="modal-series"></p>
+          <h2 id="modal-title"></h2>
+          <p id="modal-description"></p>
+          <dl class="modal-details">
+            <div>
+              <dt>Year</dt>
+              <dd id="modal-year"></dd>
+            </div>
+            <div>
+              <dt>Medium</dt>
+              <dd id="modal-medium"></dd>
+            </div>
+            <div>
+              <dt>Size</dt>
+              <dd id="modal-size"></dd>
+            </div>
+            <div>
+              <dt>Status</dt>
+              <dd id="modal-status"></dd>
+            </div>
+          </dl>
+          <div class="modal-actions">
+            <button class="icon-button" type="button" id="prev-artwork" aria-label="Previous artwork">
+              &lsaquo;
+            </button>
+            <button class="icon-button" type="button" id="next-artwork" aria-label="Next artwork">
+              &rsaquo;
+            </button>
+            <a class="button button-secondary" href="#contact" data-close-modal>Inquire</a>
+          </div>
+        </div>
+      </section>
+    </div>
+
     <footer class="site-footer">
-      <p>PULSE Radar</p>
-      <p>Filtered, translated, sourced, and updated live.</p>
+      <p>Mira Vale Atelier</p>
+      <p>&copy; <span id="year"></span> Contemporary paintings and works on paper.</p>
     </footer>
 
     <script src="script.js"></script>
