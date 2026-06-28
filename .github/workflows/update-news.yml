@@ -1,0 +1,45 @@
+name: Update PULSE News Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: "@pulseupdate"
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update news feed
+        run: node scripts/update-news.js
+
+      - name: Commit updated feed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update PULSE news feed"
+          file_pattern: data/news.json
+
+      - name: Post top story to Telegram
+        if: ${{ env.TELEGRAM_BOT_TOKEN != '' }}
+        run: node scripts/post-telegram.js --max=1 --min-impact=60 --hours=48
+
+      - name: Commit Telegram posting state
+        if: ${{ env.TELEGRAM_BOT_TOKEN != '' }}
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update PULSE Telegram state"
+          file_pattern: data/telegram-state.json
