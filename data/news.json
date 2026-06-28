@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T18:43:11.451Z",
+  "updated_at": "2026-06-28T20:10:27.355Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "can-the-icj-help-end-the-war-in-the-eastern-drc-42c2abd9",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Can the ICJ help end the war in the eastern DRC?",
+      "published_at": "2026-06-28T19:24:05.000Z",
+      "image": "",
+      "image_alt": "Can the ICJ help end the war in the eastern DRC?",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "eleven-killed-after-plane-carrying-skydivers-crashes-in-eastern-france-99966f9e",
       "region": "Europe",
@@ -40,17 +63,17 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 83
     },
     {
-      "id": "mideast-live-updates-u-s-and-iran-trade-attacks-with-few-signs-of-de-e-70e955d6",
+      "id": "mideast-live-updates-dispute-over-strait-deepens-as-u-s-and-iran-trade-70e955d6",
       "region": "Middle East",
       "topic": "Markets",
       "urgency": "Live",
-      "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
-      "published_at": "2026-06-28T18:28:03.000Z",
+      "headline": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
+      "published_at": "2026-06-28T19:48:27.000Z",
       "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
-      "image_alt": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "image_alt": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
       "translations": {
         "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -66,27 +89,27 @@
       "impact": 82
     },
     {
-      "id": "ukrainian-strike-ignites-russian-oil-refinery-as-putin-acknowledges-di-4245d6d8",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
-      "published_at": "2026-06-28T16:59:02.000Z",
-      "image": "https://s.france24.com/media/display/85339e3e-730e-11f1-9d2b-005056a90284/w:1024/p:16x9/AP26179574081111.jpg",
-      "image_alt": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "id": "us-and-iran-trade-strikes-days-after-peace-agreement-6e990f9f",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US and Iran trade strikes days after peace agreement",
+      "published_at": "2026-06-28T18:55:53.000Z",
+      "image": "",
+      "image_alt": "US and Iran trade strikes days after peace agreement",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "fourteen-killed-in-saudi-arabia-helicopter-crash-abde989e",
@@ -109,7 +132,76 @@
           "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
+    },
+    {
+      "id": "ukrainian-strike-ignites-russian-oil-refinery-as-putin-acknowledges-di-4245d6d8",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "published_at": "2026-06-28T16:59:02.000Z",
+      "image": "https://s.france24.com/media/display/85339e3e-730e-11f1-9d2b-005056a90284/w:1024/p:16x9/AP26179574081111.jpg",
+      "image_alt": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "europe-s-heatwave-linked-to-1-300-deaths-who-says-as-germany-hits-reco-39d1c5d0",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "published_at": "2026-06-28T19:37:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
+      "image_alt": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "two-boys-rescued-from-venezuela-earthquake-rubble-after-days-of-being--160e71c3",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "published_at": "2026-06-28T19:21:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
+      "image_alt": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "translations": {
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "australian-man-charged-with-murder-after-dead-girl-found-in-suitcase-i-7a646a05",
@@ -132,40 +224,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
-      "id": "louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate-ef6dd573",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-      "published_at": "2026-06-28T16:32:13.000Z",
-      "image": "",
-      "image_alt": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "venezuela-live-updates-rescuers-battle-through-aftershocks-in-search-f-0c763cf3",
+      "id": "venezuela-live-updates-window-to-find-survivors-is-closing-as-rescuers-0c763cf3",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
-      "published_at": "2026-06-28T18:34:13.000Z",
+      "headline": "Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks",
+      "published_at": "2026-06-28T19:56:02.000Z",
       "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28venez-200-tpwg/28venez-200-tpwg-mediumSquareAt3X.jpg",
-      "image_alt": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "image_alt": "Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -178,53 +247,122 @@
           "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "europe-s-heatwave-linked-to-1-300-deaths-who-says-as-germany-hits-reco-39d1c5d0",
-      "region": "Europe",
+      "id": "israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue-b98f2768",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "published_at": "2026-06-28T16:38:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
-      "image_alt": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "headline": "Israel kills three Palestinians in Gaza as attacks on tents continue",
+      "published_at": "2026-06-28T19:54:39.000Z",
+      "image": "",
+      "image_alt": "Israel kills three Palestinians in Gaza as attacks on tents continue",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "three-firefighters-die-battling-huge-wildfires-on-colorado-utah-border-dd7aec95",
+      "id": "hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-resc-1a7e693f",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "published_at": "2026-06-28T16:33:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg",
-      "image_alt": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "headline": "Hope of finding more Venezuela quake survivors fades despite late rescues",
+      "published_at": "2026-06-28T19:54:35.000Z",
+      "image": "",
+      "image_alt": "Hope of finding more Venezuela quake survivors fades despite late rescues",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "gaza-s-displaced-families-face-worsening-living-conditions-6cdfe082",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Gaza’s displaced families face worsening living conditions",
+      "published_at": "2026-06-28T19:43:26.000Z",
+      "image": "",
+      "image_alt": "Gaza’s displaced families face worsening living conditions",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank-f8cbb983",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli forces bulldoze olive groves in the occupied West Bank",
+      "published_at": "2026-06-28T19:21:23.000Z",
+      "image": "",
+      "image_alt": "Israeli forces bulldoze olive groves in the occupied West Bank",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "starmer-couldn-t-master-the-media-can-burnham-1a878eb7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Starmer couldn’t master the media. Can Burnham?",
+      "published_at": "2026-06-28T18:59:47.000Z",
+      "image": "",
+      "image_alt": "Starmer couldn’t master the media. Can Burnham?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "skydiving-plane-crashes-in-france-killing-all-11-people-aboard-2234144d",
@@ -251,76 +389,7 @@
           "url": "https://www.france24.com/en/france/20260628-skydiving-plane-crashes-in-france-killing-all-11-people-on-board"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "why-do-reports-of-domestic-abuse-increase-during-world-cups-c3211e25",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why do reports of domestic abuse increase during World Cups?",
-      "published_at": "2026-06-28T18:23:20.000Z",
-      "image": "",
-      "image_alt": "Why do reports of domestic abuse increase during World Cups?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "in-lebanon-framework-agreement-signed-with-israel-spurs-protest-critic-921499e8",
-      "region": "Middle East",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-      "published_at": "2026-06-28T18:05:18.000Z",
-      "image": "",
-      "image_alt": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "the-aftermath-of-venezuela-s-deadly-earthquake-15c3e2a8",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "The aftermath of Venezuela’s deadly earthquake",
-      "published_at": "2026-06-28T17:50:38.000Z",
-      "image": "",
-      "image_alt": "The aftermath of Venezuela’s deadly earthquake",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "us-and-iran-exchange-strikes-and-accuse-each-other-of-violating-ceasef-1b135791",
@@ -343,76 +412,53 @@
           "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes-fcff3692",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
-      "published_at": "2026-06-28T16:38:04.000Z",
-      "image": "",
-      "image_alt": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hope-89f05a03",
-      "region": "World",
-      "topic": "World",
+      "id": "turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul-f62ab4a3",
+      "region": "Europe",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
-      "published_at": "2026-06-28T16:12:13.000Z",
-      "image": "",
-      "image_alt": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+      "headline": "Turkey police detain dozens at LGBTQ+ Pride event in Istanbul",
+      "published_at": "2026-06-28T19:43:23.000Z",
+      "image": "https://s.france24.com/media/display/94f27f66-7327-11f1-89f6-005056bf30b7/w:1024/p:16x9/AP26172500585673.jpg",
+      "image_alt": "Turkey police detain dozens at LGBTQ+ Pride event in Istanbul",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260628-turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "israel-strikes-lebanon-testing-days-old-peace-deal-ce26832c",
-      "region": "Middle East",
+      "id": "new-caledonia-votes-high-stakes-in-france-s-pacific-territory-ddb54472",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israel strikes Lebanon, testing days-old peace deal",
-      "published_at": "2026-06-28T15:53:07.000Z",
-      "image": "",
-      "image_alt": "Israel strikes Lebanon, testing days-old peace deal",
+      "headline": "New Caledonia votes: High stakes in France's Pacific territory",
+      "published_at": "2026-06-28T19:36:28.000Z",
+      "image": "https://s.france24.com/media/display/8f408c84-7327-11f1-8292-005056bfb2b6/w:1024/p:16x9/EN-20260628-211127-211637-CS.jpg",
+      "image_alt": "New Caledonia votes: High stakes in France's Pacific territory",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "helicopter-crash-near-major-saudi-oil-refinery-kills-14-people-98b3ef4c",
@@ -435,53 +481,7 @@
           "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "delcy-rodriguez-venezuela-s-president-is-accused-of-politicizing-earth-c887d6cc",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
-      "published_at": "2026-06-28T14:35:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-venezuela-quake-delcy-wlht/28int-venezuela-quake-delcy-wlht-mediumSquareAt3X.jpg",
-      "image_alt": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwav-d93b6aeb",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "More than 1,300 excess deaths linked to record-breaking Europe heatwave, WHO says",
-      "published_at": "2026-06-28T13:59:40.000Z",
-      "image": "https://s.france24.com/media/display/5d320400-72f7-11f1-9e5d-005056bfb2b6/w:1024/p:16x9/AP26162480255749.jpg",
-      "image_alt": "More than 1,300 excess deaths linked to record-breaking Europe heatwave, WHO says",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260628-more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwave-who-says"
-        }
-      ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "saudi-aramco-helicopter-crashes-all-14-passengers-killed-b323bca5",
@@ -504,76 +504,76 @@
           "url": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "germany-apos-s-development-aid-strategy-under-fire-d2928ca1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany&apos;s development aid strategy under fire",
-      "published_at": "2026-06-28T17:06:00.000Z",
-      "image": "",
-      "image_alt": "Germany&apos;s development aid strategy under fire",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
       "impact": 73
     },
     {
-      "id": "pakistan-apos-s-geo-news-apologizes-for-muharram-broadcast-edf36796",
-      "region": "Asia-Pacific",
+      "id": "venezuela-se-salva-con-sus-propias-manos-4693a63e",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pakistan&apos;s Geo News apologizes for Muharram broadcast",
-      "published_at": "2026-06-28T16:38:00.000Z",
-      "image": "",
-      "image_alt": "Pakistan&apos;s Geo News apologizes for Muharram broadcast",
+      "headline": "Venezuela se salva con sus propias manos",
+      "published_at": "2026-06-28T19:46:40.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/MNXJIPIJ2VH67MIM3WUS6IIR2A.jpg?auth=68f41340579d56c0e72302de5364994de4575628786bd8b36c30e9afeaf13a68",
+      "image_alt": "Venezuela se salva con sus propias manos",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/pakistan-s-geo-news-apologizes-for-muharram-broadcast/a-77744988?maca=en-rss-en-top-1022-rdf"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-06-28/venezuela-se-salva-con-sus-propias-manos.html"
         }
       ],
       "impact": 72
     },
     {
-      "id": "france-11-killed-in-civilian-plane-crash-aea3e93b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "France: 11 killed in civilian plane crash",
-      "published_at": "2026-06-28T11:43:00.000Z",
-      "image": "",
-      "image_alt": "France: 11 killed in civilian plane crash",
+      "id": "delcy-rodriguez-venezuela-s-president-is-accused-of-politicizing-earth-c887d6cc",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
+      "published_at": "2026-06-28T14:35:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-venezuela-quake-delcy-wlht/28int-venezuela-quake-delcy-wlht-mediumSquareAt3X.jpg",
+      "image_alt": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-top-1022-rdf"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
         }
       ],
       "impact": 72
+    },
+    {
+      "id": "three-firefighters-die-battling-huge-wildfires-on-colorado-utah-border-dd7aec95",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "published_at": "2026-06-28T16:33:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg",
+      "image_alt": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
