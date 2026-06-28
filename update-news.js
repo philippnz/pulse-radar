@@ -108,8 +108,8 @@ function tagAttributes(tag) {
 
 function normalizeImageUrl(value = "") {
   const url = decodeEntities(value).trim();
-  if (url.startsWith("//")) return `https:${url}`;
-  if (/^https?:\/\//i.test(url)) return url;
+  const absolute = url.startsWith("//") ? `https:${url}` : url;
+  if (/^https?:\/\//i.test(absolute)) return upgradeKnownImageUrl(absolute);
   return "";
 }
 
@@ -117,8 +117,25 @@ function isLikelyImageUrl(url) {
   return /\.(avif|gif|jpe?g|png|webp)(?:[?#]|$)/i.test(url);
 }
 
+function upgradeKnownImageUrl(url) {
+  if (/ichef\.bbci\.co\.uk/i.test(url)) {
+    return url.replace(/\/standard\/\d+\//i, "/standard/976/");
+  }
+
+  return url;
+}
+
+function imageCandidateScore(attrs, url) {
+  const width = Number(attrs.width || attrs["media:width"] || 0);
+  const height = Number(attrs.height || attrs["media:height"] || 0);
+  const area = width && height ? width * height : width;
+  const urlBoost = /large|super|jumbo|976|1024|1200|2048/i.test(url) ? 100000 : 0;
+  return area + urlBoost;
+}
+
 function imageFromMediaTags(block) {
   const mediaTags = block.match(/<(media:content|media:thumbnail|enclosure)\b[^>]*>/gi) || [];
+  const candidates = [];
 
   for (const tag of mediaTags) {
     const attrs = tagAttributes(tag);
@@ -126,11 +143,11 @@ function imageFromMediaTags(block) {
     const type = `${attrs.type || ""} ${attrs.medium || ""}`;
 
     if (url && (/image/i.test(type) || !/enclosure/i.test(tag) || isLikelyImageUrl(url))) {
-      return url;
+      candidates.push({ url, score: imageCandidateScore(attrs, url) });
     }
   }
 
-  return "";
+  return candidates.sort((left, right) => right.score - left.score)[0]?.url || "";
 }
 
 function imageFromHtml(block) {
@@ -222,12 +239,15 @@ function scoreItem(item, topic, urgency) {
 function pulseSummary(story, language) {
   const sourceName = story.sources[0]?.name || "the original source";
   const topic = TOPIC_LABELS[story.topic]?.[language] || TOPIC_LABELS.World[language] || "world";
+  const region = story.region || "World";
+  const urgency = String(story.urgency || "update").toLowerCase();
+  const impact = story.impact || "?";
 
   const templates = {
-    en: `PULSE is tracking this ${topic} update from ${sourceName}. Open the original source for the full reporting and context.`,
-    de: `PULSE verfolgt dieses ${topic}-Update von ${sourceName}. Die vollst\u00e4ndige Berichterstattung steht bei der Originalquelle.`,
-    es: `PULSE sigue esta actualizaci\u00f3n de ${topic} de ${sourceName}. Abre la fuente original para leer el contexto completo.`,
-    fr: `PULSE suit cette actualit\u00e9 ${topic} de ${sourceName}. Ouvrez la source originale pour le contexte complet.`,
+    en: `${region} ${topic} signal from ${sourceName}. PULSE marks it as ${urgency}, rates it ${impact}/100, and keeps the original report one click away.`,
+    de: `${region}-${topic}-Signal von ${sourceName}. PULSE markiert es als ${urgency}, bewertet es mit ${impact}/100 und verlinkt zur Originalquelle.`,
+    es: `Senal de ${topic} en ${region} desde ${sourceName}. PULSE la marca como ${urgency}, la valora en ${impact}/100 y enlaza la fuente original.`,
+    fr: `Signal ${topic} pour ${region} par ${sourceName}. PULSE le classe ${urgency}, le note ${impact}/100 et renvoie vers la source originale.`,
   };
 
   return templates[language] || templates.en;

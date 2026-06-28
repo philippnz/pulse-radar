@@ -24,6 +24,9 @@ const elements = {
   storyCount: document.querySelector("#story-count"),
   sourceCount: document.querySelector("#source-count"),
   topImpact: document.querySelector("#top-impact"),
+  latestList: document.querySelector("#latest-list"),
+  regionBoard: document.querySelector("#region-board"),
+  topicBoard: document.querySelector("#topic-board"),
   storyGrid: document.querySelector("#story-grid"),
   sourceCloud: document.querySelector("#source-cloud"),
 };
@@ -97,6 +100,37 @@ function visibleStories() {
   });
 }
 
+function byPublishedDesc(left, right) {
+  return Date.parse(right.published_at || 0) - Date.parse(left.published_at || 0);
+}
+
+function groupedStats(stories, key) {
+  const groups = new Map();
+
+  stories.forEach((story) => {
+    const label = story[key] || "World";
+    const existing = groups.get(label) || {
+      label,
+      count: 0,
+      topImpact: 0,
+      latest: null,
+    };
+
+    existing.count += 1;
+    existing.topImpact = Math.max(existing.topImpact, Number(story.impact || 0));
+    if (!existing.latest || Date.parse(story.published_at || 0) > Date.parse(existing.latest.published_at || 0)) {
+      existing.latest = story;
+    }
+
+    groups.set(label, existing);
+  });
+
+  return [...groups.values()].sort((left, right) => {
+    const impactDelta = right.topImpact - left.topImpact;
+    return impactDelta || right.count - left.count || left.label.localeCompare(right.label);
+  });
+}
+
 function renderSegmented(container, values, selected, onSelect) {
   container.innerHTML = "";
 
@@ -159,7 +193,7 @@ function renderLead(stories) {
 
   elements.leadTitle.textContent = lead.headline;
   elements.leadSummary.textContent = storySummary(lead);
-  elements.leadMeta.textContent = `${lead.region || "World"} | ${lead.topic || "News"} | Impact ${lead.impact || "?"}/100`;
+  elements.leadMeta.textContent = `${sourceName(lead)} | Published ${formatTime(lead.published_at)} | ${lead.region || "World"} | Impact ${lead.impact || "?"}/100`;
   elements.leadSource.href = sourceUrl(lead);
   elements.leadSource.textContent = `Open ${sourceName(lead)}`;
   elements.leadSource.style.display = "";
@@ -187,6 +221,75 @@ function renderStats(stories) {
   elements.storyCount.textContent = stories.length;
   elements.sourceCount.textContent = sources.length;
   elements.topImpact.textContent = topImpact;
+}
+
+function renderLatestList() {
+  const latest = [...allStories()].sort(byPublishedDesc).slice(0, 10);
+  elements.latestList.innerHTML = "";
+
+  if (!latest.length) {
+    const empty = document.createElement("div");
+    empty.className = "latest-item";
+    empty.textContent = "Waiting for live stories.";
+    elements.latestList.append(empty);
+    return;
+  }
+
+  latest.forEach((story) => {
+    const item = document.createElement("article");
+    item.className = "latest-item";
+
+    const copy = document.createElement("div");
+    const link = document.createElement("a");
+    link.href = sourceUrl(story);
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = story.headline;
+
+    const meta = document.createElement("div");
+    meta.className = "latest-meta";
+    meta.textContent = `${formatTime(story.published_at)} | ${story.region || "World"} | ${sourceName(story)}`;
+
+    const impact = document.createElement("span");
+    impact.className = "impact-badge";
+    impact.textContent = story.impact || "?";
+
+    copy.append(link, meta);
+    item.append(copy, impact);
+    elements.latestList.append(item);
+  });
+}
+
+function renderBoard(container, groups) {
+  container.innerHTML = "";
+  const maxCount = Math.max(1, ...groups.map((group) => group.count));
+
+  groups.slice(0, 7).forEach((group) => {
+    const item = document.createElement("article");
+    item.className = "board-item";
+
+    const title = document.createElement("strong");
+    title.textContent = group.label;
+
+    const meta = document.createElement("div");
+    meta.className = "board-meta";
+    meta.textContent = `${group.count} stories | top impact ${group.topImpact}`;
+
+    const bar = document.createElement("div");
+    bar.className = "board-bar";
+    const fill = document.createElement("span");
+    fill.style.width = `${Math.max(8, Math.round((group.count / maxCount) * 100))}%`;
+    bar.append(fill);
+
+    item.append(title, meta, bar);
+    container.append(item);
+  });
+}
+
+function renderDesk() {
+  renderLatestList();
+  renderBoard(elements.regionBoard, groupedStats(allStories(), "region"));
+  renderBoard(elements.topicBoard, groupedStats(allStories(), "topic"));
 }
 
 function renderMediaFallback(container, story) {
@@ -241,13 +344,13 @@ function storyCard(story, index) {
   footer.className = "story-footer";
 
   const meta = document.createElement("span");
-  meta.textContent = `${formatTime(story.published_at)} | Impact ${story.impact || "?"}`;
+  meta.textContent = `Published ${formatTime(story.published_at)} | Impact ${story.impact || "?"}`;
 
   const link = document.createElement("a");
   link.href = sourceUrl(story);
   link.target = "_blank";
   link.rel = "noreferrer";
-  link.textContent = sourceName(story);
+  link.textContent = `Read at ${sourceName(story)}`;
 
   kicker.append(urgency, region, topic);
   footer.append(meta, link);
@@ -289,6 +392,7 @@ function render() {
   renderLead(stories);
   renderTicker();
   renderStats(stories);
+  renderDesk();
   renderStories(stories);
   renderSources();
 }

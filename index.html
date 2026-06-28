@@ -19,6 +19,7 @@
       </a>
       <nav class="nav-links" aria-label="Main sections">
         <a href="#radar">Radar</a>
+        <a href="#desk">Live Desk</a>
         <a href="#briefing">Briefing</a>
         <a href="#sources">Sources</a>
         <a href="#telegram">Telegram</a>
@@ -35,10 +36,15 @@
 
         <div class="hero-content">
           <p class="eyebrow">Live global radar</p>
-          <h1 id="hero-title">All important world news, updated in one pulse.</h1>
+          <h1 id="hero-title">Live global news desk.</h1>
           <p class="hero-copy">
-            Filtered, translated, sourced, and linked back to the original reporting.
+            Important world news, filtered, translated, sourced, and updated every 30 minutes.
           </p>
+          <div class="hero-proof" aria-label="PULSE workflow">
+            <span>Source linked</span>
+            <span>Photo enabled</span>
+            <span>Telegram push</span>
+          </div>
         </div>
 
         <section class="lead-brief" aria-label="Lead story">
@@ -65,6 +71,39 @@
         </div>
       </section>
 
+      <section class="live-desk" id="desk" aria-labelledby="desk-title">
+        <div class="desk-head">
+          <div>
+            <p class="eyebrow">Live desk</p>
+            <h2 id="desk-title">Signals by time, region, and topic.</h2>
+          </div>
+          <p id="updated-at">Awaiting update</p>
+        </div>
+        <div class="desk-shell">
+          <section class="desk-panel latest-panel" aria-label="Latest ten stories">
+            <div class="panel-title">
+              <span>Latest 10</span>
+              <span>by publish time</span>
+            </div>
+            <div class="latest-list" id="latest-list"></div>
+          </section>
+          <section class="desk-panel" aria-label="Stories by region">
+            <div class="panel-title">
+              <span>By Region</span>
+              <span>current feed</span>
+            </div>
+            <div class="board-list" id="region-board"></div>
+          </section>
+          <section class="desk-panel" aria-label="Stories by topic">
+            <div class="panel-title">
+              <span>By Topic</span>
+              <span>impact weighted</span>
+            </div>
+            <div class="board-list" id="topic-board"></div>
+          </section>
+        </div>
+      </section>
+
       <section class="control-strip" aria-label="Radar controls">
         <div>
           <p class="control-label">Language</p>
@@ -86,7 +125,7 @@
             <p class="eyebrow">Briefing</p>
             <h2 id="briefing-title">Priority stories</h2>
           </div>
-          <p id="updated-at">Awaiting update</p>
+          <p>Original source, publish time, and impact score stay visible on every item.</p>
         </div>
 
         <div class="stats-grid" aria-label="Feed statistics">
