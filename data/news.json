@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T14:21:38.356Z",
+  "updated_at": "2026-06-28T15:47:35.223Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,27 @@
   ],
   "stories": [
     {
-      "id": "paradise-lost-how-israel-is-making-war-on-west-bank-farmers-d784e953",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "australian-man-charged-with-murder-after-girl-found-dead-in-suitcase-i-7a646a05",
+      "region": "World",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "Paradise lost: How Israel is making war on West Bank farmers",
-      "published_at": "2026-06-28T13:19:26.000Z",
-      "image": "",
-      "image_alt": "Paradise lost: How Israel is making war on West Bank farmers",
+      "headline": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "published_at": "2026-06-28T14:30:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/50421640-72ed-11f1-8e1d-bbbb1017d210.jpg",
+      "image_alt": "Australian man charged with murder after girl found dead in suitcase in Thailand",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
       "id": "eleven-killed-after-plane-carrying-skydivers-crashes-in-eastern-france-99966f9e",
@@ -63,7 +63,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
+    },
+    {
+      "id": "helicopter-crash-near-major-saudi-oil-refinery-kills-14-people-98b3ef4c",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+      "published_at": "2026-06-28T15:18:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-saudi-crash-pqch/28int-saudi-crash-pqch-mediumSquareAt3X.jpg",
+      "image_alt": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "mideast-live-updates-u-s-and-iran-trade-attacks-with-few-signs-of-de-e-70e955d6",
@@ -71,7 +94,7 @@
       "topic": "Markets",
       "urgency": "Live",
       "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
-      "published_at": "2026-06-28T14:15:44.000Z",
+      "published_at": "2026-06-28T15:18:31.000Z",
       "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-header-jvfz-promo/28mideast-header-jvfz-mediumSquareAt3X.jpg",
       "image_alt": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
       "translations": {
@@ -86,53 +109,30 @@
           "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
-      "id": "ukraine-says-it-attacked-two-russian-oil-refineries-4ba9a51e",
-      "region": "Europe",
-      "topic": "Markets",
+      "id": "delcy-rodriguez-venezuela-s-president-is-accused-of-politicizing-earth-c887d6cc",
+      "region": "World",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "Ukraine says it attacked two Russian oil refineries",
-      "published_at": "2026-06-28T13:36:15.000Z",
-      "image": "",
-      "image_alt": "Ukraine says it attacked two Russian oil refineries",
+      "headline": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
+      "published_at": "2026-06-28T14:35:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-venezuela-quake-delcy-wlht/28int-venezuela-quake-delcy-wlht-mediumSquareAt3X.jpg",
+      "image_alt": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
       "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "new-us-iran-exchange-of-attacks-threatens-ceasefire-f5fa1391",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "New US-Iran exchange of attacks threatens ceasefire",
-      "published_at": "2026-06-28T11:27:57.000Z",
-      "image": "https://s.france24.com/media/display/526e7798-72e2-11f1-842c-005056bfb2b6/w:1024/p:16x9/EN-20260628-120137-120332-CS.jpg",
-      "image_alt": "New US-Iran exchange of attacks threatens ceasefire",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire"
-        }
-      ],
-      "impact": 81
+      "impact": 82
     },
     {
       "id": "us-and-iran-exchange-strikes-and-accuse-each-other-of-violating-ceasef-1b135791",
@@ -155,7 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "venezuela-live-updates-rescuers-battle-through-aftershocks-in-search-f-0c763cf3",
@@ -163,7 +163,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
-      "published_at": "2026-06-28T14:10:36.000Z",
+      "published_at": "2026-06-28T15:36:54.000Z",
       "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28venezuela-quake-live-promo-kwhp/28venezuela-quake-live-promo-kwhp-mediumSquareAt3X.jpg",
       "image_alt": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
       "translations": {
@@ -179,6 +179,98 @@
         }
       ],
       "impact": 78
+    },
+    {
+      "id": "iraq-arrests-senior-officials-in-anti-corruption-raids-a5b59aa4",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iraq arrests senior officials in anti-corruption raids",
+      "published_at": "2026-06-28T15:19:36.000Z",
+      "image": "",
+      "image_alt": "Iraq arrests senior officials in anti-corruption raids",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "ben-stokes-england-test-captain-to-retire-from-international-cricket-97cb4566",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ben Stokes, England test captain, to retire from international cricket",
+      "published_at": "2026-06-28T15:12:59.000Z",
+      "image": "",
+      "image_alt": "Ben Stokes, England test captain, to retire from international cricket",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/28/ben-stokes-england-test-captain-to-retire-from-international-cricket?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "here-s-what-to-know-about-the-standoff-in-the-strait-of-hormuz-1f24baa0",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+      "published_at": "2026-06-28T14:45:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-us-iran-deal-wtk-jcqg/28int-us-iran-deal-wtk-jcqg-mediumSquareAt3X.jpg",
+      "image_alt": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "skydiving-plane-crashes-in-france-killing-all-11-people-aboard-2234144d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+      "published_at": "2026-06-28T14:42:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28xp-plane-pgkj/28xp-plane-pgkj-mediumSquareAt3X.jpg",
+      "image_alt": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwav-d93b6aeb",
@@ -201,40 +293,63 @@
           "url": "https://www.france24.com/en/europe/20260628-more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwave-who-says"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "two-boys-rescued-from-venezuela-earthquake-rubble-after-days-of-being--160e71c3",
+      "id": "saudi-aramco-helicopter-crashes-all-14-passengers-killed-b323bca5",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Saudi Aramco helicopter crashes, all 14 passengers killed",
+      "published_at": "2026-06-28T13:38:00.000Z",
+      "image": "",
+      "image_alt": "Saudi Aramco helicopter crashes, all 14 passengers killed",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "q-a-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak-43375aeb",
       "region": "World",
-      "topic": "Climate",
+      "topic": "Health",
       "urgency": "Live",
-      "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "published_at": "2026-06-28T12:39:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
-      "image_alt": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "headline": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
+      "published_at": "2026-06-28T15:01:18.000Z",
+      "image": "",
+      "image_alt": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
       "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes-3ab898d4",
-      "region": "Middle East",
+      "id": "if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses-ca3274ed",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-      "published_at": "2026-06-28T14:01:29.000Z",
+      "headline": "If USMCA is not renewed, analysts expect uncertainty for businesses",
+      "published_at": "2026-06-28T14:52:35.000Z",
       "image": "",
-      "image_alt": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+      "image_alt": "If USMCA is not renewed, analysts expect uncertainty for businesses",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,20 +359,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "the-us-iran-mou-a-mirage-of-an-agreement-dd82ff72",
+      "id": "pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran-fdc3a46d",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The US-Iran MoU: A mirage of an agreement",
-      "published_at": "2026-06-28T13:59:38.000Z",
+      "headline": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
+      "published_at": "2026-06-28T14:46:32.000Z",
       "image": "",
-      "image_alt": "The US-Iran MoU: A mirage of an agreement",
+      "image_alt": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -267,10 +382,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "european-heatwave-causes-1-000-excess-deaths-in-france-11f97409",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "European heatwave causes 1,000 excess deaths in France",
+      "published_at": "2026-06-28T14:38:09.000Z",
+      "image": "",
+      "image_alt": "European heatwave causes 1,000 excess deaths in France",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "trump-cut-a-billion-dollar-mining-deal-his-sons-stand-to-profit-a670280b",
@@ -293,7 +431,30 @@
           "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes-3ab898d4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+      "published_at": "2026-06-28T14:01:29.000Z",
+      "image": "",
+      "image_alt": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "israel-government-recognizes-armenian-genocide-in-rebuke-to-turkey-ba5ca2be",
@@ -316,7 +477,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/06/28/israel-government-recognizes-armenian-genocide-in-rebuke-to-turkey_6754948_4.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "france-11-killed-in-civilian-plane-crash-aea3e93b",
@@ -339,224 +500,63 @@
           "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "adam-johnson-on-how-us-corporate-media-sold-israel-s-genocide-in-gaza-3ff1f15c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-      "published_at": "2026-06-28T13:30:00.000Z",
-      "image": "",
-      "image_alt": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "stories-of-survivors-of-venezuela-s-earthquakes-483b2383",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Stories of survivors of Venezuela’s earthquakes",
-      "published_at": "2026-06-28T13:21:47.000Z",
-      "image": "",
-      "image_alt": "Stories of survivors of Venezuela’s earthquakes",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/stories-of-survivors-of-venezuelas-earthquakes?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "what-is-article-5-of-iran-us-mou-and-why-is-it-blamed-for-hormuz-strik-b0709347",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-      "published_at": "2026-06-28T13:17:40.000Z",
-      "image": "",
-      "image_alt": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "new-caledonia-election-tests-territory-s-future-after-unrest-and-deadl-eacf51b0",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "New Caledonia election tests territory's future after unrest and deadlock",
-      "published_at": "2026-06-28T11:30:22.000Z",
-      "image": "https://s.france24.com/media/display/cb3c2f80-72e2-11f1-b275-005056a90284/w:1024/p:16x9/EN-20260628-121057-121259-CS.jpg",
-      "image_alt": "New Caledonia election tests territory's future after unrest and deadlock",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days-2af370b3",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-      "published_at": "2026-06-28T12:38:33.000Z",
-      "image": "",
-      "image_alt": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "heat-starts-to-break-in-western-europe-as-central-europe-begins-to-bro-50397117",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
-      "published_at": "2026-06-28T11:26:27.000Z",
-      "image": "",
-      "image_alt": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "what-france-gets-wrong-about-air-conditioning-34c65766",
+      "id": "russia-apos-s-putin-promises-security-as-ukraine-ramps-up-attacks-fd48f592",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "What France gets wrong about air conditioning",
-      "published_at": "2026-06-28T13:12:59.000Z",
-      "image": "https://s.france24.com/media/display/d2bfcdd4-72f1-11f1-b14d-005056a97e36/w:1024/p:16x9/EN-WB-TECH24-A-C-mythbust.png",
-      "image_alt": "What France gets wrong about air conditioning",
+      "headline": "Russia&apos;s Putin promises security as Ukraine ramps up attacks",
+      "published_at": "2026-06-28T14:58:00.000Z",
+      "image": "",
+      "image_alt": "Russia&apos;s Putin promises security as Ukraine ramps up attacks",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/tech-24/20260628-what-france-gets-wrong-about-air-conditioning"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 73
     },
     {
-      "id": "the-week-in-pictures-earthquakes-in-venezuela-starmer-s-resignation-an-c87b7b1a",
+      "id": "germany-news-new-heat-record-at-41-7-degrees-celsius-7e677109",
       "region": "Europe",
       "topic": "Climate",
       "urgency": "Live",
-      "headline": "The week in pictures: Earthquakes in Venezuela, Starmer's resignation and extreme heat in France",
-      "published_at": "2026-06-28T13:06:16.000Z",
-      "image": "https://s.france24.com/media/display/34c45568-7144-11f1-946f-005056a97e36/w:1024/p:16x9/000-B8AL7J7.jpg",
-      "image_alt": "The week in pictures: Earthquakes in Venezuela, Starmer's resignation and extreme heat in France",
+      "headline": "Germany news: New heat record at 41.7 degrees Celsius",
+      "published_at": "2026-06-28T14:47:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: New heat record at 41.7 degrees Celsius",
       "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260628-the-week-in-pictures-earthquakes-in-venezuela-starmer-s-resignation-and-extreme-heat-in-france"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-new-heat-record-at-41-7-degrees-celsius/live-77733670?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
+      "impact": 73
     },
     {
-      "id": "venezuela-government-accused-of-politicizing-quake-relief-c887d6cc",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Venezuela Government Accused of Politicizing Quake Relief",
-      "published_at": "2026-06-28T09:00:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-venezuela-quake-delcy-wlht/28int-venezuela-quake-delcy-wlht-mediumSquareAt3X.jpg",
-      "image_alt": "Venezuela Government Accused of Politicizing Quake Relief",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "albania-s-flamingo-revolution-trump-linked-luxury-resort-plan-triggers-5ad89305",
+      "id": "heatwave-spreads-across-eastern-europe-france-records-1-000-deaths-in--cca351aa",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Albania's \"Flamingo revolution\": Trump-linked luxury resort plan triggers mass protests",
-      "published_at": "2026-06-28T11:33:03.000Z",
-      "image": "https://s.france24.com/media/display/fa996e2c-72e3-11f1-b4e4-005056bf30b7/w:1024/p:16x9/EN-20260628-131225-131959-CS.jpg",
-      "image_alt": "Albania's \"Flamingo revolution\": Trump-linked luxury resort plan triggers mass protests",
+      "headline": "Heatwave spreads across eastern Europe, France records 1,000 deaths in a week",
+      "published_at": "2026-06-28T14:27:39.000Z",
+      "image": "https://s.france24.com/media/display/db4554cc-72f8-11f1-9bdd-005056bfb2b6/w:1024/p:16x9/EN-20260628-150606-150754-CS.jpg",
+      "image_alt": "Heatwave spreads across eastern Europe, France records 1,000 deaths in a week",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,10 +566,10 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/albania-s-flamingo-revolution-trump-linked-luxury-resort-plan-triggers-mass-protests"
+          "url": "https://www.france24.com/en/heatwave-spreads-across-eastern-europe-france-records-1-000-deaths-in-a-week"
         }
       ],
-      "impact": 71
+      "impact": 72
     }
   ]
 }
