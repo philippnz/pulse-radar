@@ -10,6 +10,8 @@ const state = {
 
 const elements = {
   feedStatus: document.querySelector("#feed-status"),
+  leadPhoto: document.querySelector("#lead-photo"),
+  leadImage: document.querySelector("#lead-image"),
   leadTitle: document.querySelector("#lead-title"),
   leadSummary: document.querySelector("#lead-summary"),
   leadMeta: document.querySelector("#lead-meta"),
@@ -49,6 +51,22 @@ function sourceName(story) {
 
 function sourceUrl(story) {
   return story.sources?.[0]?.url || "#";
+}
+
+function storyImage(story) {
+  const candidates = [
+    story.image,
+    story.image_url,
+    story.media?.image,
+    story.sources?.[0]?.image,
+  ];
+
+  for (const candidate of candidates) {
+    const value = typeof candidate === "string" ? candidate : candidate?.url;
+    if (/^https?:\/\//i.test(value || "")) return value;
+  }
+
+  return "";
 }
 
 function uniqueValues(values) {
@@ -114,6 +132,8 @@ function renderLead(stories) {
 
   if (!lead) {
     elements.feedStatus.textContent = "Feed unavailable";
+    elements.leadPhoto.hidden = true;
+    elements.leadImage.removeAttribute("src");
     elements.leadTitle.textContent = "No stories are available yet.";
     elements.leadSummary.textContent = "";
     elements.leadMeta.textContent = "";
@@ -122,6 +142,21 @@ function renderLead(stories) {
   }
 
   elements.feedStatus.textContent = `${lead.urgency || "Live"} | ${formatTime(lead.published_at)}`;
+  const image = storyImage(lead);
+
+  if (image) {
+    elements.leadImage.src = image;
+    elements.leadImage.alt = lead.headline;
+    elements.leadImage.onerror = () => {
+      elements.leadPhoto.hidden = true;
+      elements.leadImage.removeAttribute("src");
+    };
+    elements.leadPhoto.hidden = false;
+  } else {
+    elements.leadPhoto.hidden = true;
+    elements.leadImage.removeAttribute("src");
+  }
+
   elements.leadTitle.textContent = lead.headline;
   elements.leadSummary.textContent = storySummary(lead);
   elements.leadMeta.textContent = `${lead.region || "World"} | ${lead.topic || "News"} | Impact ${lead.impact || "?"}/100`;
@@ -154,9 +189,34 @@ function renderStats(stories) {
   elements.topImpact.textContent = topImpact;
 }
 
+function renderMediaFallback(container, story) {
+  container.className = "story-media story-media-fallback";
+  const label = document.createElement("span");
+  label.textContent = `${story.region || "World"} / ${story.topic || "News"}`;
+  container.replaceChildren(label);
+}
+
 function storyCard(story, index) {
   const article = document.createElement("article");
   article.className = `story-card${index === 0 ? " is-priority" : ""}`;
+
+  const media = document.createElement("div");
+  media.className = "story-media";
+  const image = storyImage(story);
+
+  if (image) {
+    const imageElement = document.createElement("img");
+    imageElement.src = image;
+    imageElement.alt = story.headline;
+    imageElement.loading = index < 4 ? "eager" : "lazy";
+    imageElement.addEventListener("error", () => renderMediaFallback(media, story), { once: true });
+    media.append(imageElement);
+  } else {
+    renderMediaFallback(media, story);
+  }
+
+  const body = document.createElement("div");
+  body.className = "story-body";
 
   const kicker = document.createElement("div");
   kicker.className = "story-kicker";
@@ -191,7 +251,8 @@ function storyCard(story, index) {
 
   kicker.append(urgency, region, topic);
   footer.append(meta, link);
-  article.append(kicker, title, summary, footer);
+  body.append(kicker, title, summary, footer);
+  article.append(media, body);
 
   return article;
 }
