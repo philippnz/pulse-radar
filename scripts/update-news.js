@@ -81,9 +81,13 @@ function stripHtml(value = "") {
   return decodeEntities(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
-function getTag(block, tag) {
+function getTagRaw(block, tag) {
   const match = block.match(new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`, "i"));
-  return match ? stripHtml(match[1]) : "";
+  return match ? decodeEntities(match[1]).trim() : "";
+}
+
+function getTag(block, tag) {
+  return stripHtml(getTagRaw(block, tag));
 }
 
 function getLink(block) {
@@ -91,6 +95,56 @@ function getLink(block) {
   if (atomLink) return decodeEntities(atomLink[1]).trim();
 
   return getTag(block, "link");
+}
+
+function tagAttributes(tag) {
+  const attrs = {};
+  tag.replace(/([\w:-]+)\s*=\s*["']([^"']*)["']/g, (_, key, value) => {
+    attrs[key.toLowerCase()] = decodeEntities(value).trim();
+    return "";
+  });
+  return attrs;
+}
+
+function normalizeImageUrl(value = "") {
+  const url = decodeEntities(value).trim();
+  if (url.startsWith("//")) return `https:${url}`;
+  if (/^https?:\/\//i.test(url)) return url;
+  return "";
+}
+
+function isLikelyImageUrl(url) {
+  return /\.(avif|gif|jpe?g|png|webp)(?:[?#]|$)/i.test(url);
+}
+
+function imageFromMediaTags(block) {
+  const mediaTags = block.match(/<(media:content|media:thumbnail|enclosure)\b[^>]*>/gi) || [];
+
+  for (const tag of mediaTags) {
+    const attrs = tagAttributes(tag);
+    const url = normalizeImageUrl(attrs.url || attrs["rdf:resource"] || attrs.href);
+    const type = `${attrs.type || ""} ${attrs.medium || ""}`;
+
+    if (url && (/image/i.test(type) || !/enclosure/i.test(tag) || isLikelyImageUrl(url))) {
+      return url;
+    }
+  }
+
+  return "";
+}
+
+function imageFromHtml(block) {
+  const html = [
+    getTagRaw(block, "content:encoded"),
+    getTagRaw(block, "description"),
+    getTagRaw(block, "summary"),
+  ].join(" ");
+  const match = html.match(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/i);
+  return match ? normalizeImageUrl(match[1]) : "";
+}
+
+function getImage(block) {
+  return imageFromMediaTags(block) || imageFromHtml(block);
 }
 
 function parseDate(value) {
@@ -112,6 +166,7 @@ function parseFeedItems(xml, source) {
         source,
         title,
         link,
+        image: getImage(block),
         published_at: parseDate(published),
       };
     })
@@ -192,6 +247,8 @@ function storyFromItem(item) {
     urgency,
     headline,
     published_at: item.published_at,
+    image: item.image || "",
+    image_alt: headline,
     translations: {},
     sources: [
       {
@@ -224,6 +281,10 @@ function mergeDuplicates(stories) {
 
     existing.impact = Math.min(99, Math.max(existing.impact, story.impact) + 3);
     existing.sources.push(...story.sources.filter((source) => !existing.sources.some((item) => item.url === source.url)));
+    if (!existing.image && story.image) {
+      existing.image = story.image;
+      existing.image_alt = story.image_alt;
+    }
     if (new Date(story.published_at) > new Date(existing.published_at)) {
       existing.published_at = story.published_at;
     }
