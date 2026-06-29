@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T19:51:13.348Z",
+  "updated_at": "2026-06-29T21:22:06.897Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "whatever-you-do-in-russia-don-t-talk-about-the-war-d878fdff",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Whatever You Do in Russia, Don’t Talk About the War",
+      "published_at": "2026-06-29T20:02:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29int-russia-denial-qvlw/29int-russia-denial-qvlw-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Whatever You Do in Russia, Don’t Talk About the War",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html"
+        }
+      ],
+      "impact": 86
+    },
+    {
       "id": "six-people-shot-dead-at-centre-for-mothers-and-children-in-germany-cd656ee9",
       "region": "Europe",
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Six people shot dead at centre for mothers and children in Germany",
-      "published_at": "2026-06-29T18:47:00.000Z",
+      "published_at": "2026-06-29T19:53:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
       "image_alt": "Six people shot dead at centre for mothers and children in Germany",
       "translations": {
@@ -43,73 +66,50 @@
       "impact": 84
     },
     {
-      "id": "burnham-pledges-devolution-and-discipline-if-he-becomes-uk-prime-minis-73248c50",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Burnham pledges devolution and discipline if he becomes UK prime minister",
-      "published_at": "2026-06-29T18:15:12.000Z",
-      "image": "",
-      "image_alt": "Burnham pledges devolution and discipline if he becomes UK prime minister",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/burnham-pledges-devolution-and-discipline-if-he-becomes-uk-prime-minister?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "can-governments-fix-the-global-housing-crisis-48cd0447",
+      "id": "no-one-move-the-agonising-silence-as-venezuela-rescuers-listen-for-sur-5ced2fc8",
       "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Can governments fix the global housing crisis?",
-      "published_at": "2026-06-29T18:03:50.000Z",
-      "image": "",
-      "image_alt": "Can governments fix the global housing crisis?",
+      "urgency": "Live",
+      "headline": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "published_at": "2026-06-29T21:19:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
+      "image_alt": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
     },
     {
-      "id": "andy-burnham-the-uk-s-likely-next-prime-minister-promises-shift-of-pow-166c1eb5",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "aftershock-frays-nerves-as-many-venezuelans-left-to-fend-for-themselve-6dbdac37",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-      "published_at": "2026-06-29T17:28:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29uk-burnham-tcgf/29uk-burnham-tcgf-mediumSquareAt3X.jpg",
-      "image_alt": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+      "headline": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "published_at": "2026-06-29T20:00:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
+      "image_alt": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "south-african-leader-warns-anti-migrant-protesters-ahead-of-unofficial-82e142e2",
@@ -132,30 +132,99 @@
           "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "putin-makes-rare-admission-of-fuel-shortages-caused-by-ukrainian-strik-f1b4ea59",
+      "id": "efforts-to-rescue-venezuela-quake-victims-grow-more-desperate-8a657f72",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "published_at": "2026-06-29T17:28:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d81/live/801dc920-73d5-11f1-b1db-af71d47507d6.jpg",
-      "image_alt": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+      "headline": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
+      "published_at": "2026-06-29T21:05:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29int-venezuela-leadall-01-gwlf/29int-venezuela-leadall-01-gwlf-mediumSquareAt3X.jpg",
+      "image_alt": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "israel-s-smotrich-calls-for-settlements-conquest-of-gaza-strip-308bfe07",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+      "published_at": "2026-06-29T21:01:38.000Z",
+      "image": "",
+      "image_alt": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "mideast-live-updates-u-s-and-iran-set-for-new-talks-in-qatar-trump-say-4211f273",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
+      "published_at": "2026-06-29T20:33:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29mideast-live-header-zwqg/29mideast-live-header-zwqg-mediumSquareAt3X.jpg",
+      "image_alt": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "what-s-behind-the-anti-corruption-crackdown-in-iraq-8bb04020",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What’s behind the anti-corruption crackdown in Iraq?",
+      "published_at": "2026-06-29T20:24:15.000Z",
+      "image": "",
+      "image_alt": "What’s behind the anti-corruption crackdown in Iraq?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow-e1a408c5",
@@ -178,109 +247,17 @@
           "url": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "mideast-live-updates-u-s-and-iran-set-for-new-talks-in-qatar-trump-say-4211f273",
+      "id": "israeli-attacks-kill-eight-people-in-gaza-and-a-teenager-in-the-west-b-26da68c0",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
-      "published_at": "2026-06-29T19:05:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29mideast-live-header-zwqg/29mideast-live-header-zwqg-mediumSquareAt3X.jpg",
-      "image_alt": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "at-funerals-venezuela-s-wounded-families-and-friends-unite-in-grief-4018a1af",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
-      "published_at": "2026-06-29T18:38:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29venezuela-quake-funerals-01-wlgv/29venezuela-quake-funerals-01-wlgv-mediumSquareAt3X.jpg",
-      "image_alt": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-c-7cae708d",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
-      "published_at": "2026-06-29T18:14:26.000Z",
-      "image": "https://s.france24.com/media/display/609567ce-73e5-11f1-943e-005056a90284/w:1024/p:16x9/Anglais-2026-06-29T17-56-08-723Z.jpg",
-      "image_alt": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "whatever-you-do-in-russia-don-t-talk-about-the-war-d878fdff",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Whatever You Do in Russia, Don’t Talk About the War",
-      "published_at": "2026-06-29T09:02:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29int-russia-denial-qvlw/29int-russia-denial-qvlw-mediumSquareAt3X-v2.jpg",
-      "image_alt": "Whatever You Do in Russia, Don’t Talk About the War",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-26da68c0",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+      "headline": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
       "published_at": "2026-06-29T19:08:43.000Z",
       "image": "",
-      "image_alt": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+      "image_alt": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -293,7 +270,7 @@
           "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "pakistani-strikes-kill-dozens-of-afghan-villagers-87806408",
@@ -316,53 +293,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "israel-launches-attacks-and-incursions-inside-southern-syria-876f2bc6",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel launches attacks and incursions inside southern Syria",
-      "published_at": "2026-06-29T18:43:15.000Z",
-      "image": "",
-      "image_alt": "Israel launches attacks and incursions inside southern Syria",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes-14a842c8",
+      "id": "at-funerals-venezuela-s-wounded-families-and-friends-unite-in-grief-4018a1af",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
-      "published_at": "2026-06-29T18:35:12.000Z",
-      "image": "",
-      "image_alt": "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
+      "headline": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
+      "published_at": "2026-06-29T18:38:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29venezuela-quake-funerals-01-wlgv/29venezuela-quake-funerals-01-wlgv-mediumSquareAt3X.jpg",
+      "image_alt": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "scale-of-venezuela-earthquakes-death-toll-could-take-weeks-to-emerge-b4b9caae",
@@ -385,17 +339,17 @@
           "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "undocumented-migrants-flee-south-africa-amid-rising-anti-immigrant-pro-736d782d",
-      "region": "Africa",
+      "id": "israel-launches-attacks-and-incursions-inside-southern-syria-876f2bc6",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Undocumented migrants flee South Africa amid rising anti-immigrant protests",
-      "published_at": "2026-06-29T18:18:48.000Z",
+      "headline": "Israel launches attacks and incursions inside southern Syria",
+      "published_at": "2026-06-29T18:43:15.000Z",
       "image": "",
-      "image_alt": "Undocumented migrants flee South Africa amid rising anti-immigrant protests",
+      "image_alt": "Israel launches attacks and incursions inside southern Syria",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -405,56 +359,102 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/undocumented-migrants-flee-south-africa-amid-rising-anti-immigrant-protests?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "pakistan-attacks-afghanistan-killing-more-than-30-9671cb0c",
-      "region": "Asia-Pacific",
+      "id": "miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes-14a842c8",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pakistan Attacks Afghanistan, Killing More Than 30",
-      "published_at": "2026-06-29T17:47:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/2929int-afghanistan-strikes-01-zfvc/2929int-afghanistan-strikes-01-zfvc-mediumSquareAt3X-v2.jpg",
-      "image_alt": "Pakistan Attacks Afghanistan, Killing More Than 30",
+      "headline": "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
+      "published_at": "2026-06-29T18:35:12.000Z",
+      "image": "",
+      "image_alt": "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-hea-53b9d678",
-      "region": "Europe",
-      "topic": "Health",
+      "id": "south-africa-s-anti-migrant-deadline-looms-75b41b09",
+      "region": "Africa",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
-      "published_at": "2026-06-29T19:44:06.000Z",
-      "image": "https://img.lemde.fr/2026/06/29/0/0/8055/4027/644/322/60/0/c773754_ftp-1-37q8p32ux7ay-5481989-01-06.jpg",
-      "image_alt": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
+      "headline": "South Africa's anti-migrant deadline looms",
+      "published_at": "2026-06-29T20:23:18.000Z",
+      "image": "https://s.france24.com/media/display/21b88fec-73f7-11f1-97a7-005056a90284/w:1024/p:16x9/DN195632-A-01-20260623-01.jpg",
+      "image_alt": "South Africa's anti-migrant deadline looms",
       "translations": {
-        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/29/israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-health-ministry_6754989_4.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/south-africa-s-anti-migrant-deadline-looms"
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "alarm-over-alleged-abuse-in-french-schools-and-nurseries-a913860e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Alarm over alleged abuse in French schools and nurseries",
+      "published_at": "2026-06-29T19:43:00.000Z",
+      "image": "",
+      "image_alt": "Alarm over alleged abuse in French schools and nurseries",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/alarm-over-alleged-abuse-in-french-schools-and-nurseries/a-77729372?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-in-investmen-3486a0ad",
+      "region": "Asia-Pacific",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "South Korea bets big on AI with nearly a trillion dollars in investment",
+      "published_at": "2026-06-29T19:54:57.000Z",
+      "image": "https://s.france24.com/media/display/2fd9a596-73f4-11f1-a29a-005056a90284/w:1024/p:16x9/capture-16782617006a42cd3350bcc2-50756723.jpg",
+      "image_alt": "South Korea bets big on AI with nearly a trillion dollars in investment",
+      "translations": {
+        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-of-investment"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "healthcare-in-a-heatwave-french-hospitals-and-aged-care-homes-bear-the-d2baea75",
@@ -477,7 +477,7 @@
           "url": "https://www.france24.com/en/france/20260629-healthcare-in-a-heatwave-french-hospitals-and-aged-care-homes-bear-the-brunt-of-rising-temperatures"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "venezuela-earthquakes-old-footage-and-ai-fakes-exploit-disaster-online-fc66461e",
@@ -500,30 +500,7 @@
           "url": "https://www.france24.com/en/venezuela-earthquakes-old-footage-and-ai-fakes-exploit-disaster-online"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "us-races-to-reopen-venezuela-port-as-earthquake-deaths-top-1-700-484208d4",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "US races to reopen Venezuela port as earthquake deaths top 1,700",
-      "published_at": "2026-06-29T19:30:28.000Z",
-      "image": "https://img.lemde.fr/2026/06/29/688/0/8256/4128/644/322/60/0/177fdb3_ftp-1-vmkak8hn3ek9-598dbdd8859b4e08bf6449e947beb250-0-d82a9982dff14b308e537eb7ffc60dfc.jpg",
-      "image_alt": "US races to reopen Venezuela port as earthquake deaths top 1,700",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/29/us-races-to-reopen-venezuela-port-as-earthquake-deaths-top-1-700_6754988_4.html"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "strait-of-hormuz-iran-has-made-it-very-clear-that-there-are-new-rules--7a703777",
@@ -546,30 +523,53 @@
           "url": "https://www.france24.com/en/strait-of-hormuz-iran-has-made-it-very-clear-that-there-are-new-rules-analyst-says"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-qu-c5689672",
-      "region": "World",
-      "topic": "World",
+      "id": "israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-hea-53b9d678",
+      "region": "Europe",
+      "topic": "Health",
       "urgency": "Live",
-      "headline": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
-      "published_at": "2026-06-29T17:37:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/fb8e38958f9d37890b4da3b093af7b9187ffcf29/362_0_4065_3254/master/4065.jpg?width=140&quality=85&auto=format&fit=max&s=829cb13dc1fc3acca07efdd3cf7cb35d",
-      "image_alt": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
+      "headline": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
+      "published_at": "2026-06-29T19:44:06.000Z",
+      "image": "https://img.lemde.fr/2026/06/29/0/0/8055/4027/644/322/60/0/c773754_ftp-1-37q8p32ux7ay-5481989-01-06.jpg",
+      "image_alt": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
       "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/29/israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-health-ministry_6754989_4.html"
         }
       ],
-      "impact": 73
+      "impact": 71
+    },
+    {
+      "id": "us-races-to-reopen-venezuela-port-as-earthquake-deaths-top-1-700-484208d4",
+      "region": "Americas",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "US races to reopen Venezuela port as earthquake deaths top 1,700",
+      "published_at": "2026-06-29T19:30:28.000Z",
+      "image": "https://img.lemde.fr/2026/06/29/688/0/8256/4128/644/322/60/0/177fdb3_ftp-1-vmkak8hn3ek9-598dbdd8859b4e08bf6449e947beb250-0-d82a9982dff14b308e537eb7ffc60dfc.jpg",
+      "image_alt": "US races to reopen Venezuela port as earthquake deaths top 1,700",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/29/us-races-to-reopen-venezuela-port-as-earthquake-deaths-top-1-700_6754988_4.html"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
