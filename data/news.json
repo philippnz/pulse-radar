@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T22:58:58.276Z",
+  "updated_at": "2026-06-29T00:13:52.180Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-t-2f65829f",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+      "published_at": "2026-06-29T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
       "id": "mideast-live-updates-dispute-over-strait-deepens-as-u-s-and-iran-trade-70e955d6",
       "region": "Middle East",
       "topic": "Markets",
       "urgency": "Live",
       "headline": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
-      "published_at": "2026-06-28T22:45:29.000Z",
+      "published_at": "2026-06-28T23:41:20.000Z",
       "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg",
       "image_alt": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
       "translations": {
@@ -41,6 +64,29 @@
         }
       ],
       "impact": 82
+    },
+    {
+      "id": "two-boys-pulled-from-venezuela-earthquake-rubble-among-33-people-rescu-160e71c3",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "published_at": "2026-06-29T00:11:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png",
+      "image_alt": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "translations": {
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "eleven-killed-after-plane-carrying-skydivers-crashes-in-eastern-france-99966f9e",
@@ -63,29 +109,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "two-boys-rescued-from-venezuela-earthquake-rubble-after-days-of-being--160e71c3",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "published_at": "2026-06-28T21:58:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
-      "image_alt": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 79
     },
     {
@@ -94,7 +117,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Venezuela Live Updates: Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
-      "published_at": "2026-06-28T22:54:17.000Z",
+      "published_at": "2026-06-28T23:10:52.000Z",
       "image": "https://static01.nyt.com/images/2026/06/28/multimedia/28venez-200-tpwg/28venez-200-tpwg-mediumSquareAt3X.jpg",
       "image_alt": "Venezuela Live Updates: Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
       "translations": {
@@ -109,53 +132,7 @@
           "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake"
         }
       ],
-      "impact": 78
-    },
-    {
-      "id": "armed-conflict-threatens-ethiopia-s-ancient-monasteries-a3d467fb",
-      "region": "Africa",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Armed conflict threatens Ethiopia’s ancient monasteries",
-      "published_at": "2026-06-28T22:00:47.000Z",
-      "image": "https://s.france24.com/media/display/8f93a6d4-733c-11f1-8c34-005056a90284/w:1024/p:16x9/EN-20260626-224858-225042-CS.jpg",
-      "image_alt": "Armed conflict threatens Ethiopia’s ancient monasteries",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "ukrainian-strike-ignites-russian-oil-refinery-as-putin-acknowledges-di-4245d6d8",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
-      "published_at": "2026-06-28T16:59:02.000Z",
-      "image": "https://s.france24.com/media/display/85339e3e-730e-11f1-9d2b-005056a90284/w:1024/p:16x9/AP26179574081111.jpg",
-      "image_alt": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period"
-        }
-      ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "fourteen-killed-in-saudi-arabia-helicopter-crash-abde989e",
@@ -178,30 +155,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "australian-man-charged-with-murder-after-dead-girl-found-in-suitcase-i-7a646a05",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-      "published_at": "2026-06-28T14:30:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/50421640-72ed-11f1-8e1d-bbbb1017d210.jpg",
-      "image_alt": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "id": "armed-conflict-threatens-ethiopia-s-ancient-monasteries-a3d467fb",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Armed conflict threatens Ethiopia’s ancient monasteries",
+      "published_at": "2026-06-28T22:00:47.000Z",
+      "image": "https://s.france24.com/media/display/8f93a6d4-733c-11f1-8c34-005056a90284/w:1024/p:16x9/EN-20260626-224858-225042-CS.jpg",
+      "image_alt": "Armed conflict threatens Ethiopia’s ancient monasteries",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "ukrainian-strike-ignites-russian-oil-refinery-as-putin-acknowledges-di-4245d6d8",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "published_at": "2026-06-28T16:59:02.000Z",
+      "image": "https://s.france24.com/media/display/85339e3e-730e-11f1-9d2b-005056a90284/w:1024/p:16x9/AP26179574081111.jpg",
+      "image_alt": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "ireland-upstage-world-champions-india-to-win-t20-series-at-home-8dd0e252",
@@ -224,50 +224,27 @@
           "url": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "protesters-in-serbia-doubt-vucic-resignation-will-bring-change-da47dd60",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Protesters in Serbia doubt Vucic resignation will bring change",
-      "published_at": "2026-06-28T20:29:18.000Z",
-      "image": "",
-      "image_alt": "Protesters in Serbia doubt Vucic resignation will bring change",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "pope-leo-prays-for-venezuela-s-recovery-after-deadly-quakes-7acaa634",
+      "id": "australian-man-charged-with-murder-after-dead-girl-found-in-suitcase-i-7a646a05",
       "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-      "published_at": "2026-06-28T20:21:47.000Z",
-      "image": "",
-      "image_alt": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+      "urgency": "Breaking",
+      "headline": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "published_at": "2026-06-28T14:30:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/50421640-72ed-11f1-8e1d-bbbb1017d210.jpg",
+      "image_alt": "Australian man charged with murder after dead girl found in suitcase in Thailand",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 75
@@ -293,7 +270,7 @@
           "url": "https://www.lemonde.fr/en/opinion/article/2026/06/29/better-an-imperfect-digital-euro-than-no-digital-euro-at-all_6754958_23.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "iran-attacks-bahrain-and-kuwait-threatens-to-halt-talks-after-fresh-us-620828ea",
@@ -316,7 +293,7 @@
           "url": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "from-meat-grinder-to-ransom-the-key-words-that-define-russian-soldiers-df161439",
@@ -339,7 +316,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/06/29/from-meat-grinder-to-ransom-the-key-words-that-define-russian-soldiers-daily-life_6754957_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "canada-reach-last-16-with-stoppage-time-win-over-south-africa-de624eea",
@@ -362,30 +339,7 @@
           "url": "https://www.france24.com/en/sport/20260628-canada-reach-last-16-with-stoppage-time-win-over-south-africa"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "europe-s-heatwave-linked-to-1-300-deaths-who-says-as-germany-hits-reco-39d1c5d0",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "published_at": "2026-06-28T19:37:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
-      "image_alt": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "us-and-iran-exchange-strikes-and-accuse-each-other-of-violating-ceasef-1b135791",
@@ -408,7 +362,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "europe-s-heatwave-linked-to-1-300-deaths-who-says-as-germany-hits-reco-39d1c5d0",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "published_at": "2026-06-28T19:37:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
+      "image_alt": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
     },
     {
       "id": "helicopter-crash-near-major-saudi-oil-refinery-kills-14-people-98b3ef4c",
@@ -431,7 +408,7 @@
           "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "saudi-aramco-helicopter-crashes-all-14-passengers-killed-b323bca5",
@@ -454,7 +431,53 @@
           "url": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 70
+      "impact": 69
+    },
+    {
+      "id": "protesters-in-serbia-doubt-vucic-resignation-will-bring-change-da47dd60",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Protesters in Serbia doubt Vucic resignation will bring change",
+      "published_at": "2026-06-28T20:29:18.000Z",
+      "image": "",
+      "image_alt": "Protesters in Serbia doubt Vucic resignation will bring change",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "pope-leo-prays-for-venezuela-s-recovery-after-deadly-quakes-7acaa634",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+      "published_at": "2026-06-28T20:21:47.000Z",
+      "image": "",
+      "image_alt": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss"
+        }
+      ],
+      "impact": 68
     },
     {
       "id": "israel-kills-four-palestinians-in-gaza-as-attacks-on-tents-continue-b98f2768",
@@ -477,7 +500,7 @@
           "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-resc-1a7e693f",
@@ -500,30 +523,7 @@
           "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "three-firefighters-die-battling-huge-wildfires-on-colorado-utah-border-dd7aec95",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "published_at": "2026-06-28T16:33:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg",
-      "image_alt": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "delcy-rodriguez-venezuela-s-president-is-accused-of-politicizing-earth-c887d6cc",
@@ -546,30 +546,30 @@
           "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
-      "id": "france-11-killed-in-civilian-plane-crash-aea3e93b",
-      "region": "Europe",
+      "id": "three-firefighters-die-battling-huge-wildfires-on-colorado-utah-border-dd7aec95",
+      "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "France: 11 killed in civilian plane crash",
-      "published_at": "2026-06-28T11:43:00.000Z",
-      "image": "",
-      "image_alt": "France: 11 killed in civilian plane crash",
+      "urgency": "Update",
+      "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "published_at": "2026-06-28T16:33:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg",
+      "image_alt": "Three firefighters die battling huge wildfires on Colorado-Utah border",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-top-1022-rdf"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 68
+      "impact": 67
     }
   ]
 }
