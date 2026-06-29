@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T14:33:14.396Z",
+  "updated_at": "2026-06-29T17:32:48.907Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,60 @@
   ],
   "stories": [
     {
-      "id": "five-dead-in-shooting-at-youth-welfare-centre-in-northern-germany-cd656ee9",
+      "id": "andy-burnham-the-uk-s-likely-next-prime-minister-promises-shift-of-pow-166c1eb5",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+      "published_at": "2026-06-29T17:28:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29uk-burnham-tcgf/29uk-burnham-tcgf-mediumSquareAt3X.jpg",
+      "image_alt": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "supreme-court-blocks-trump-s-attempt-to-fire-federal-reserve-governor--206b20f6",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "published_at": "2026-06-29T16:51:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea62/live/7a927010-17db-11f1-992f-8778a9867203.jpg",
+      "image_alt": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "sixth-person-dies-after-shooting-at-youth-welfare-centre-in-germany-cd656ee9",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Five dead in shooting at youth welfare centre in northern Germany",
-      "published_at": "2026-06-29T14:01:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23cf/live/845e7ab0-73c2-11f1-8e1d-bbbb1017d210.jpg",
-      "image_alt": "Five dead in shooting at youth welfare centre in northern Germany",
+      "urgency": "Live",
+      "headline": "Sixth person dies after shooting at youth welfare centre in Germany",
+      "published_at": "2026-06-29T16:24:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
+      "image_alt": "Sixth person dies after shooting at youth welfare centre in Germany",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,76 +86,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
-    },
-    {
-      "id": "why-oman-has-become-a-key-diplomatic-player-in-mideast-war-2e69a1cd",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Why Oman has become a key diplomatic player in Mideast war",
-      "published_at": "2026-06-29T14:02:18.000Z",
-      "image": "https://s.france24.com/media/display/f76be800-73c0-11f1-8c4e-005056a97e36/w:1024/p:16x9/EN-20260629-151346-151851-CS.jpg",
-      "image_alt": "Why Oman has become a key diplomatic player in Mideast war",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "is-the-israeli-military-deliberately-targeting-children-in-gaza-a5723259",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Is the Israeli military deliberately targeting children in Gaza?",
-      "published_at": "2026-06-29T13:55:36.000Z",
-      "image": "",
-      "image_alt": "Is the Israeli military deliberately targeting children in Gaza?",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "5-killed-in-shooting-at-youth-center-in-northern-germany-police-say-adee7132",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Breaking",
-      "headline": "5 Killed in Shooting at Youth Center in Northern Germany, Police Say",
-      "published_at": "2026-06-29T13:30:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29germany-shooting-kblm/29germany-shooting-kblm-mediumSquareAt3X.jpg",
-      "image_alt": "5 Killed in Shooting at Youth Center in Northern Germany, Police Say",
-      "translations": {
-        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html"
-        }
-      ],
-      "impact": 82
+      "impact": 79
     },
     {
       "id": "whatever-you-do-in-russia-don-t-talk-about-the-war-d878fdff",
@@ -132,91 +109,45 @@
           "url": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html"
         }
       ],
-      "impact": 82
+      "impact": 79
     },
     {
-      "id": "russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine-a5c34318",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Russian missile and drone attacks kill at least eight in Ukraine",
-      "published_at": "2026-06-29T13:54:35.000Z",
-      "image": "",
-      "image_alt": "Russian missile and drone attacks kill at least eight in Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "five-killed-in-shooting-at-youth-welfare-centre-in-germany-s-stade-86ca91fa",
-      "region": "Europe",
+      "id": "pakistani-strikes-kill-at-least-28-civilians-in-afghanistan-un-says-82266613",
+      "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Five killed in shooting at youth welfare centre in Germany’s Stade",
-      "published_at": "2026-06-29T13:05:48.000Z",
-      "image": "",
-      "image_alt": "Five killed in shooting at youth welfare centre in Germany’s Stade",
+      "urgency": "Live",
+      "headline": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+      "published_at": "2026-06-29T15:46:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd12/live/616bf460-73d1-11f1-8f46-43735d200ab1.jpg",
+      "image_alt": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
-      "id": "andy-burnham-the-uk-s-likely-next-prime-minister-promises-shift-of-pow-166c1eb5",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "trump-s-final-appeal-of-e-jean-carroll-sex-abuse-case-rejected-04fe70c9",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-      "published_at": "2026-06-29T12:56:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29uk-burnham-tcgf/29uk-burnham-tcgf-mediumSquareAt3X.jpg",
-      "image_alt": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "us-supreme-court-rejects-trump-s-appeal-of-e-jean-carroll-s-sexual-abu-04fe70c9",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
-      "published_at": "2026-06-29T14:19:03.000Z",
+      "headline": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
+      "published_at": "2026-06-29T15:30:35.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b79/live/b1279970-73c5-11f1-a785-7f6fcfc76fe8.jpg",
-      "image_alt": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "image_alt": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
       "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
@@ -224,99 +155,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "dr-congo-bans-mass-gatherings-in-the-capital-to-prevent-spread-of-ebol-639f6977",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
-      "published_at": "2026-06-29T14:10:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23aa/live/5d149fa0-73ba-11f1-8546-8f19e4fe30f4.jpg",
-      "image_alt": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "afghanistan-at-least-36-killed-in-deadly-pakistani-strikes-555051c4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Afghanistan: at least 36 killed in deadly Pakistani strikes",
-      "published_at": "2026-06-29T13:58:56.000Z",
-      "image": "https://s.france24.com/media/display/0bf6023c-73c2-11f1-8381-005056a97e36/w:1024/p:16x9/Vignette-Afghanistan-strikes.png",
-      "image_alt": "Afghanistan: at least 36 killed in deadly Pakistani strikes",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260629-afghanistan-at-least-36-killed-in-deadly-pakistani-strike"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "dr-congo-conflict-rwandan-fm-disappointed-by-increasingly-biased-us-me-090b515b",
-      "region": "Africa",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "DR Congo conflict: Rwandan FM 'disappointed by increasingly biased US mediation'",
-      "published_at": "2026-06-29T13:31:34.000Z",
-      "image": "https://s.france24.com/media/display/d2f19f56-739d-11f1-9dfa-005056bfb2b6/w:1024/p:16x9/MultiCorder5-Output-2-29-juin-2026-09-26-30.jpg",
-      "image_alt": "DR Congo conflict: Rwandan FM 'disappointed by increasingly biased US mediation'",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260629-dr-congo-conflict-rwandan-fm-disappointed-by-increasingly-biased-us-mediation"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "us-says-it-has-agreed-to-stand-down-after-exchange-of-strikes-with-ira-8ac67419",
-      "region": "Middle East",
+      "id": "at-funerals-venezuela-s-wounded-families-and-friends-unite-in-grief-4018a1af",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "published_at": "2026-06-29T12:51:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1a/live/c0952770-737e-11f1-b1db-af71d47507d6.jpg",
-      "image_alt": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "headline": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
+      "published_at": "2026-06-29T17:08:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29venezuela-quake-funerals-01-wlgv/29venezuela-quake-funerals-01-wlgv-mediumSquareAt3X.jpg",
+      "image_alt": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "mideast-live-updates-u-s-and-iran-set-for-new-talks-in-qatar-trump-say-4211f273",
@@ -324,7 +186,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
-      "published_at": "2026-06-29T14:18:26.000Z",
+      "published_at": "2026-06-29T17:06:51.000Z",
       "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29mideast-live-header-zwqg/29mideast-live-header-zwqg-mediumSquareAt3X.jpg",
       "image_alt": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
       "translations": {
@@ -342,152 +204,267 @@
       "impact": 77
     },
     {
-      "id": "us-india-trade-deal-inside-the-key-sticking-points-1d2c2ed2",
-      "region": "Asia-Pacific",
-      "topic": "Markets",
+      "id": "supreme-court-blocks-trump-s-bid-to-fire-us-federal-reserve-s-lisa-coo-e0c445b5",
+      "region": "Americas",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "US-India trade deal: Inside the key sticking points",
-      "published_at": "2026-06-29T12:33:00.000Z",
+      "headline": "Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook",
+      "published_at": "2026-06-29T16:59:51.000Z",
       "image": "",
-      "image_alt": "US-India trade deal: Inside the key sticking points",
+      "image_alt": "Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook",
       "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-india-trade-deal-inside-the-key-sticking-points/a-77754790?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "can-thailand-cambodia-unlock-massive-oil-and-gas-reserves-37f7760b",
+      "id": "senegal-president-faye-to-call-referendum-on-constitutional-reform-lim-61fa1a8b",
       "region": "Europe",
-      "topic": "Markets",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
-      "published_at": "2026-06-29T12:16:00.000Z",
-      "image": "",
-      "image_alt": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
+      "headline": "Senegal president Faye to call referendum on constitutional reform limiting his powers",
+      "published_at": "2026-06-29T15:57:40.000Z",
+      "image": "https://s.france24.com/media/display/dbd043bc-64d8-11f1-87f3-005056bfb2b6/w:1024/p:16x9/split-dr-1006.jpg",
+      "image_alt": "Senegal president Faye to call referendum on constitutional reform limiting his powers",
       "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/can-thailand-cambodia-unlock-massive-oil-and-gas-reserves/a-77753561?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/africa/20260629-senegal-president-faye-to-call-referendum-on-constitutional-reform-limiting-his-powers"
         }
       ],
       "impact": 77
     },
     {
-      "id": "germany-at-least-5-killed-in-shooting-in-stade-54c6e5cf",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Germany: At least 5 killed in shooting in Stade",
-      "published_at": "2026-06-29T11:54:00.000Z",
-      "image": "",
-      "image_alt": "Germany: At least 5 killed in shooting in Stade",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-at-least-5-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "why-pakistan-s-afghan-air-strikes-aren-t-stopping-armed-attacks-05a8191c",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
-      "published_at": "2026-06-29T13:51:19.000Z",
-      "image": "",
-      "image_alt": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "more-than-1-300-deaths-in-europe-amid-heatwave-what-can-countries-do-0af971df",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "More than 1,300 deaths in Europe amid heatwave: What can countries do?",
-      "published_at": "2026-06-29T13:47:50.000Z",
-      "image": "",
-      "image_alt": "More than 1,300 deaths in Europe amid heatwave: What can countries do?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/more-than-1300-deaths-in-europe-amid-heatwave-what-can-countries-do?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "brazil-supporters-in-indonesia-grab-israeli-flag-off-motorcyclist-49907877",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Brazil supporters in Indonesia grab Israeli flag off motorcyclist",
-      "published_at": "2026-06-29T13:38:10.000Z",
-      "image": "",
-      "image_alt": "Brazil supporters in Indonesia grab Israeli flag off motorcyclist",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/brazil-supporters-in-indonesia-grab-israeli-flag-off-motorcyclist?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-risks-peace-talks-with-u-s-to-maintain-leverage-over-strait-e5c5e783",
+      "id": "us-says-it-has-agreed-to-stand-down-after-exchange-of-strikes-with-ira-8ac67419",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
-      "published_at": "2026-06-29T12:34:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29int-iran-attacks-assess-vqtg/29int-iran-attacks-assess-vqtg-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+      "headline": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "published_at": "2026-06-29T14:52:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1a/live/c0952770-737e-11f1-b1db-af71d47507d6.jpg",
+      "image_alt": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "dr-congo-bans-mass-gatherings-in-the-capital-to-prevent-spread-of-ebol-639f6977",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "published_at": "2026-06-29T14:40:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23aa/live/5d149fa0-73ba-11f1-8546-8f19e4fe30f4.jpg",
+      "image_alt": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-eff-d59e243f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+      "published_at": "2026-06-29T16:42:41.000Z",
+      "image": "",
+      "image_alt": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "ex-nba-players-malik-beasley-ed-davis-indicted-in-gambling-case-77b82c3c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case",
+      "published_at": "2026-06-29T16:38:33.000Z",
+      "image": "",
+      "image_alt": "Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/ex-nba-players-malik-beasley-ed-davis-indicted-in-gambling-case?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise-b93865c4",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Afghan families mourn loved ones as border tensions with Pakistan rise",
+      "published_at": "2026-06-29T16:15:35.000Z",
+      "image": "",
+      "image_alt": "Afghan families mourn loved ones as border tensions with Pakistan rise",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran-4c0e768a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US petrol prices ease despite ongoing uncertainties with Iran",
+      "published_at": "2026-06-29T16:01:07.000Z",
+      "image": "",
+      "image_alt": "US petrol prices ease despite ongoing uncertainties with Iran",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-supreme-court-rebuffs-trump-s-appeal-in-e-jean-carroll-case-cee781ad",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
+      "published_at": "2026-06-29T15:59:52.000Z",
+      "image": "",
+      "image_alt": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iraq-s-corruption-crackdown-is-a-start-not-a-solution-63c24377",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iraq’s corruption crackdown is a start, not a solution",
+      "published_at": "2026-06-29T15:57:02.000Z",
+      "image": "",
+      "image_alt": "Iraq’s corruption crackdown is a start, not a solution",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "gaza-high-school-student-s-fight-for-a-future-1e8b348d",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Gaza high school student’s fight for a future",
+      "published_at": "2026-06-29T15:54:36.000Z",
+      "image": "",
+      "image_alt": "Gaza high school student’s fight for a future",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "pakistan-attacks-afghanistan-killing-more-than-30-9671cb0c",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pakistan Attacks Afghanistan, Killing More Than 30",
+      "published_at": "2026-06-29T15:35:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/2929int-afghanistan-strikes-01-zfvc/2929int-afghanistan-strikes-01-zfvc-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Pakistan Attacks Afghanistan, Killing More Than 30",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -497,20 +474,20 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html"
+          "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html"
         }
       ],
       "impact": 76
     },
     {
-      "id": "venezuela-earthquakes-aftershock-hits-near-capital-city-as-miracle-res-faf7ab0d",
+      "id": "venezuela-earthquakes-aftershock-hits-near-capital-city-as-man-rescued-faf7ab0d",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Venezuela earthquakes aftershock hits near capital city as ‘miracle’ rescues reported – latest updates",
-      "published_at": "2026-06-29T14:16:32.000Z",
+      "headline": "Venezuela earthquakes aftershock hits near capital city as man rescued from rubble after being trapped for 106 hours – as it happened",
+      "published_at": "2026-06-29T16:56:14.000Z",
       "image": "https://i.guim.co.uk/img/media/97379d7dfd7bcdec7f780a6631ae2315b1c9c1e3/520_0_6338_5070/master/6338.jpg?width=140&quality=85&auto=format&fit=max&s=69e4763c1f473e062a45aee42c694d3e",
-      "image_alt": "Venezuela earthquakes aftershock hits near capital city as ‘miracle’ rescues reported – latest updates",
+      "image_alt": "Venezuela earthquakes aftershock hits near capital city as man rescued from rubble after being trapped for 106 hours – as it happened",
       "translations": {
         "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -526,50 +503,73 @@
       "impact": 75
     },
     {
-      "id": "sudan-says-china-has-waived-50m-loan-what-s-in-it-for-khartoum-beijing-61c0ad6d",
-      "region": "Africa",
+      "id": "scale-of-venezuela-earthquakes-death-toll-could-take-weeks-to-emerge-b4b9caae",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-      "published_at": "2026-06-29T12:51:57.000Z",
-      "image": "",
-      "image_alt": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
+      "headline": "Scale of Venezuela Earthquakes Death Toll Could Take Weeks to Emerge",
+      "published_at": "2026-06-29T15:06:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29venezuela-quake-casualties-hmcj/29venezuela-quake-casualties-hmcj-mediumSquareAt3X.jpg",
+      "image_alt": "Scale of Venezuela Earthquakes Death Toll Could Take Weeks to Emerge",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html"
         }
       ],
       "impact": 75
     },
     {
-      "id": "venezuela-earthquake-rescues-five-heart-warming-moments-51f3b7fb",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Venezuela earthquake rescues: Five heart-warming moments",
-      "published_at": "2026-06-29T12:09:32.000Z",
+      "id": "germany-at-least-6-killed-in-shooting-in-stade-48876df1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Germany: At least 6 killed in shooting in Stade",
+      "published_at": "2026-06-29T11:54:00.000Z",
       "image": "",
-      "image_alt": "Venezuela earthquake rescues: Five heart-warming moments",
+      "image_alt": "Germany: At least 6 killed in shooting in Stade",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/29/venezuela-earthquake-rescues-five-heart-warming-moments?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
+      "impact": 74
+    },
+    {
+      "id": "dawud-al-ansari-says-oman-committed-to-de-escalation-and-peace-in-the--e69fa390",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Dawud Al Ansari says 'Oman committed to de-escalation and peace in the region at any cost'",
+      "published_at": "2026-06-29T17:21:35.000Z",
+      "image": "https://s.france24.com/media/display/7ff848ca-73db-11f1-9f3a-005056a97e36/w:1024/p:16x9/EN-20260629-181644-182647-CS.jpg",
+      "image_alt": "Dawud Al Ansari says 'Oman committed to de-escalation and peace in the region at any cost'",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20260629-dawud-al-ansari-says-oman-committed-to-de-escalation-and-peace-in-the-region-at-any-cost"
+        }
+      ],
+      "impact": 73
     }
   ]
 }
