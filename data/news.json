@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T22:35:43.711Z",
+  "updated_at": "2026-06-30T00:00:04.629Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zon-b34fc90d",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "published_at": "2026-06-29T23:29:41.000Z",
+      "image": "",
+      "image_alt": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "whatever-you-do-in-russia-don-t-talk-about-the-war-d878fdff",
       "region": "Europe",
@@ -40,7 +63,7 @@
           "url": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "monaco-explosion-leaves-three-wounded-as-authorities-probe-deliberate--f01480cd",
@@ -63,7 +86,7 @@
           "url": "https://www.france24.com/en/europe/20260629-monaco-residential-building-explosion-deliberate-attack"
         }
       ],
-      "impact": 83
+      "impact": 81
     },
     {
       "id": "six-people-shot-dead-at-centre-for-mothers-and-children-in-germany-cd656ee9",
@@ -86,7 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisi-daeaf6fc",
@@ -109,30 +132,30 @@
           "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "no-one-move-the-agonising-silence-as-venezuela-rescuers-listen-for-sur-5ced2fc8",
-      "region": "World",
+      "id": "mideast-live-updates-iran-says-its-delegation-will-be-in-doha-but-not--4211f273",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "published_at": "2026-06-29T21:19:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
-      "image_alt": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "headline": "Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
+      "published_at": "2026-06-29T23:42:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29mideast-live-header-zwqg/29mideast-live-header-zwqg-mediumSquareAt3X.jpg",
+      "image_alt": "Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
       "id": "peru-president-elect-fujimori-vows-order-and-hope-after-narrow-electio-64e33247",
@@ -155,30 +178,53 @@
           "url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "architecture-city-design-a-frontline-of-defense-against-heatwaves-expe-a289743b",
+      "id": "germany-at-least-6-killed-in-shooting-in-stade-48876df1",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
-      "published_at": "2026-06-29T21:32:07.000Z",
-      "image": "https://s.france24.com/media/display/d64d11f8-7401-11f1-9959-005056bfb2b6/w:1024/p:16x9/capture-695750446a42e419ea2169-87998006.jpg",
-      "image_alt": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Germany: At least 6 killed in shooting in Stade",
+      "published_at": "2026-06-29T21:32:00.000Z",
+      "image": "",
+      "image_alt": "Germany: At least 6 killed in shooting in Stade",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260629-architecture-city-design-a-frontline-of-defense-against-heatwaves-expert-says"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "no-one-move-the-agonising-silence-as-venezuela-rescuers-listen-for-sur-5ced2fc8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "published_at": "2026-06-29T21:19:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
+      "image_alt": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "efforts-to-rescue-venezuela-quake-victims-grow-more-desperate-8a657f72",
@@ -201,30 +247,53 @@
           "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "mideast-live-updates-u-s-and-iran-set-for-new-talks-in-qatar-trump-say-4211f273",
-      "region": "Middle East",
-      "topic": "World",
+      "id": "architecture-city-design-a-frontline-of-defense-against-heatwaves-expe-a289743b",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Live",
-      "headline": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
-      "published_at": "2026-06-29T22:04:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29mideast-live-header-zwqg/29mideast-live-header-zwqg-mediumSquareAt3X.jpg",
-      "image_alt": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
+      "headline": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
+      "published_at": "2026-06-29T21:32:07.000Z",
+      "image": "https://s.france24.com/media/display/d64d11f8-7401-11f1-9959-005056bfb2b6/w:1024/p:16x9/capture-695750446a42e419ea2169-87998006.jpg",
+      "image_alt": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260629-architecture-city-design-a-frontline-of-defense-against-heatwaves-expert-says"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "venezuelans-newly-deported-from-us-missing-after-hotel-collapse-f159a0ce",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Venezuelans newly deported from US missing after hotel collapse",
+      "published_at": "2026-06-29T23:10:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/1e55ec14b3d1572d5285202a019cf6d0cd28b5ca/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=5a7648b80dc14b712f7555ed7c210266",
+      "image_alt": "Venezuelans newly deported from US missing after hotel collapse",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "sinner-and-sabalenka-answer-doubters-on-wimbledon-day-one-62bc09f1",
@@ -247,53 +316,7 @@
           "url": "https://www.aljazeera.com/sports/2026/6/29/sinner-and-sabalenka-answer-doubters-on-wimbledon-day-one?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "peru-fujimori-declared-winner-of-presidential-election-33dece40",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Peru: Fujimori declared winner of presidential election",
-      "published_at": "2026-06-29T20:33:00.000Z",
-      "image": "",
-      "image_alt": "Peru: Fujimori declared winner of presidential election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "aftershock-frays-nerves-as-many-venezuelans-left-to-fend-for-themselve-6dbdac37",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "published_at": "2026-06-29T20:00:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
-      "image_alt": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "venezuela-earthquake-victims-shelter-at-golf-course-4b636278",
@@ -316,7 +339,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-earthquake-victims-shelter-at-golf-course?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "israel-s-smotrich-calls-for-settlements-conquest-of-gaza-strip-308bfe07",
@@ -339,30 +362,53 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "what-s-behind-the-anti-corruption-crackdown-in-iraq-8bb04020",
-      "region": "World",
+      "id": "trump-says-iran-requested-doha-meeting-as-tehran-denies-direct-us-talk-dcaca8f2",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "What’s behind the anti-corruption crackdown in Iraq?",
-      "published_at": "2026-06-29T20:24:15.000Z",
-      "image": "",
-      "image_alt": "What’s behind the anti-corruption crackdown in Iraq?",
+      "headline": "Trump says Iran requested Doha meeting as Tehran denies direct US talks",
+      "published_at": "2026-06-29T23:46:13.000Z",
+      "image": "https://s.france24.com/media/display/599ae99a-73f8-11f1-8341-005056a90284/w:1024/p:16x9/01d7d56829d4a4b87d04e643984a32cfd5ae3ebf.jpg",
+      "image_alt": "Trump says Iran requested Doha meeting as Tehran denies direct US talks",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260629-trump-iran-doha-tehran-us-talks-hormuz-lebanon"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "us-supreme-court-gives-trump-the-power-to-fire-top-officials-across-th-868e9404",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "US Supreme Court gives Trump the power to fire top officials across the administration – except at the Fed",
+      "published_at": "2026-06-29T22:50:31.000Z",
+      "image": "https://img.lemde.fr/2026/01/21/19/0/3000/1500/644/322/60/0/363c4fb_ftp-1-o5vrzzn1e9uk-5949111-01-06.jpg",
+      "image_alt": "US Supreme Court gives Trump the power to fire top officials across the administration – except at the Fed",
+      "translations": {
+        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/06/30/us-supreme-court-gives-trump-the-power-to-fire-top-officials-across-the-administration-except-at-the-fed_6754992_19.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "trump-says-iran-meeting-to-take-place-in-qatar-20e3cc28",
@@ -385,7 +431,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/06/30/trump-says-iran-meeting-to-take-place-in-qatar_6754991_4.html"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "keiko-fujimori-narrowly-wins-peru-s-presidential-runoff-88eaae33",
@@ -408,7 +454,53 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/06/29/keiko-fujimori-narrowly-wins-peru-s-presidential-runoff_6754990_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "peru-fujimori-declared-winner-of-presidential-election-33dece40",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Peru: Fujimori declared winner of presidential election",
+      "published_at": "2026-06-29T20:33:00.000Z",
+      "image": "",
+      "image_alt": "Peru: Fujimori declared winner of presidential election",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "aftershock-frays-nerves-as-many-venezuelans-left-to-fend-for-themselve-6dbdac37",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "published_at": "2026-06-29T20:00:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
+      "image_alt": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "south-african-leader-warns-anti-migrant-protesters-ahead-of-unofficial-82e142e2",
@@ -429,121 +521,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "south-africa-s-anti-migrant-deadline-looms-75b41b09",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Africa's anti-migrant deadline looms",
-      "published_at": "2026-06-29T20:23:18.000Z",
-      "image": "https://s.france24.com/media/display/21b88fec-73f7-11f1-97a7-005056a90284/w:1024/p:16x9/DN195632-A-01-20260623-01.jpg",
-      "image_alt": "South Africa's anti-migrant deadline looms",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/south-africa-s-anti-migrant-deadline-looms"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-in-investmen-3486a0ad",
-      "region": "Asia-Pacific",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "South Korea bets big on AI with nearly a trillion dollars in investment",
-      "published_at": "2026-06-29T19:54:57.000Z",
-      "image": "https://s.france24.com/media/display/2fd9a596-73f4-11f1-a29a-005056a90284/w:1024/p:16x9/capture-16782617006a42cd3350bcc2-50756723.jpg",
-      "image_alt": "South Korea bets big on AI with nearly a trillion dollars in investment",
-      "translations": {
-        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-of-investment"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "alarm-over-alleged-abuse-in-french-schools-and-nurseries-a913860e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Alarm over alleged abuse in French schools and nurseries",
-      "published_at": "2026-06-29T19:43:00.000Z",
-      "image": "",
-      "image_alt": "Alarm over alleged abuse in French schools and nurseries",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/alarm-over-alleged-abuse-in-french-schools-and-nurseries/a-77729372?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "healthcare-in-a-heatwave-french-hospitals-and-aged-care-homes-bear-the-d2baea75",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Healthcare in a heatwave: French hospitals and aged care homes bear the brunt of rising temperatures",
-      "published_at": "2026-06-29T19:41:29.000Z",
-      "image": "https://s.france24.com/media/display/c33e9216-73e4-11f1-92f7-005056a90284/w:1024/p:16x9/000-B8KD7KM.jpg",
-      "image_alt": "Healthcare in a heatwave: French hospitals and aged care homes bear the brunt of rising temperatures",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260629-healthcare-in-a-heatwave-french-hospitals-and-aged-care-homes-bear-the-brunt-of-rising-temperatures"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-hea-53b9d678",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
-      "published_at": "2026-06-29T19:44:06.000Z",
-      "image": "https://img.lemde.fr/2026/06/29/0/0/8055/4027/644/322/60/0/c773754_ftp-1-37q8p32ux7ay-5481989-01-06.jpg",
-      "image_alt": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
-      "translations": {
-        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/29/israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-health-ministry_6754989_4.html"
         }
       ],
       "impact": 70
@@ -569,7 +546,30 @@
           "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
+    },
+    {
+      "id": "at-funerals-venezuela-s-wounded-families-and-friends-unite-in-grief-4018a1af",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
+      "published_at": "2026-06-29T18:38:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29venezuela-quake-funerals-01-wlgv/29venezuela-quake-funerals-01-wlgv-mediumSquareAt3X.jpg",
+      "image_alt": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html"
+        }
+      ],
+      "impact": 67
     }
   ]
 }
