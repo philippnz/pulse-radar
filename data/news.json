@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T01:30:53.765Z",
+  "updated_at": "2026-07-02T05:55:34.155Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks-2fcd8db4",
+      "id": "at-least-10-killed-in-large-scale-russian-missile-and-drone-strikes-on-03ca13f0",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "published_at": "2026-07-02T05:00:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg",
+      "image_alt": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
+      "id": "oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-ira-ff1268fb",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-      "published_at": "2026-07-02T00:00:00.000Z",
+      "headline": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+      "published_at": "2026-07-02T05:17:25.000Z",
       "image": "",
-      "image_alt": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+      "image_alt": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,33 +60,125 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 87
     },
     {
-      "id": "from-truman-s-pension-to-trump-s-billions-eb1d83bd",
-      "region": "World",
-      "topic": "Politics",
+      "id": "people-smuggler-convicted-in-france-now-seeking-asylum-in-uk-bbc-disco-27bd2873",
+      "region": "Europe",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "From Truman's pension to Trump's billions",
-      "published_at": "2026-07-01T22:36:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcae/live/0a189580-759b-11f1-aa81-a5efa93da41b.jpg",
-      "image_alt": "From Truman's pension to Trump's billions",
+      "headline": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
+      "published_at": "2026-07-02T05:00:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c00/live/0635e400-73a1-11f1-b1db-af71d47507d6.jpg",
+      "image_alt": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 79
+    },
+    {
+      "id": "two-weeks-after-her-death-i-got-a-call-gaza-patients-face-agonising-de-4577780d",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "published_at": "2026-07-02T04:59:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec3/live/6f002bc0-709b-11f1-86cf-0fd142c2b6fb.jpg",
+      "image_alt": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "belgium-fans-erupt-after-latest-ever-goal-seals-place-in-last-16-7f0c6899",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Belgium fans erupt after latest-ever goal seals place in last 16",
+      "published_at": "2026-07-02T05:21:01.000Z",
+      "image": "",
+      "image_alt": "Belgium fans erupt after latest-ever goal seals place in last 16",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/belgium-fans-erupt-after-latest-ever-goal-seals-place-in-last-16?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela-a74a5173",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Survivors look to foreign aid after the earthquakes in Venezuela",
+      "published_at": "2026-07-02T04:54:29.000Z",
+      "image": "",
+      "image_alt": "Survivors look to foreign aid after the earthquakes in Venezuela",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "california-gets-bruce-lee-day-in-a-first-for-us-state-s-chinese-americ-dd9a1688",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "California gets Bruce Lee Day in a first for US state’s Chinese Americans",
+      "published_at": "2026-07-02T04:41:41.000Z",
+      "image": "",
+      "image_alt": "California gets Bruce Lee Day in a first for US state’s Chinese Americans",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/2/california-gets-bruce-lee-day-in-a-first-for-us-states-chinese-americans?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "war-in-ukraine-exceeds-two-million-casualties-1cae339c",
@@ -86,36 +201,289 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/02/war-in-ukraine-exceeds-two-million-casualties-study_6755059_4.html"
         }
       ],
-      "impact": 80
+      "impact": 76
     },
     {
-      "id": "russian-missile-drone-strikes-on-kyiv-injure-at-least-11-after-zelensk-d97dc7db",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russian missile, drone strikes on Kyiv injure at least 11 after Zelensky warns of 'massive attack'",
-      "published_at": "2026-07-01T21:41:54.000Z",
-      "image": "https://s.france24.com/media/display/27945062-6868-11f1-83d7-005056bf30b7/w:1024/p:16x9/7159af25ae032b553673699c71ede634e2ea4527.jpg",
-      "image_alt": "Russian missile, drone strikes on Kyiv injure at least 11 after Zelensky warns of 'massive attack'",
+      "id": "us-designates-ecuador-s-chone-killers-gang-as-terrorist-organisation-7bf4ad21",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
+      "published_at": "2026-07-02T03:58:07.000Z",
+      "image": "",
+      "image_alt": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosion-380ebeeb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
+      "published_at": "2026-07-02T03:31:32.000Z",
+      "image": "",
+      "image_alt": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "google-faces-eu-top-court-ruling-on-record-4-1-billion-fine-e7773570",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Google faces EU top court ruling on record €4.1 billion fine",
+      "published_at": "2026-07-02T05:30:00.000Z",
+      "image": "",
+      "image_alt": "Google faces EU top court ruling on record €4.1 billion fine",
+      "translations": {
+        "en": "PULSE is tracking this society update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/google-faces-eu-top-court-ruling-on-record-€4-1-billion-fine/a-77794948?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "lawyer-takes-trump-to-task-over-unchecked-presidential-powers-870144f0",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Lawyer takes Trump to task over unchecked presidential powers",
+      "published_at": "2026-07-02T03:16:38.000Z",
+      "image": "",
+      "image_alt": "Lawyer takes Trump to task over unchecked presidential powers",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-war-68fe3feb",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "EU border rules causing travel chaos ahead of summer peak, industry warns",
+      "published_at": "2026-07-02T03:14:42.000Z",
+      "image": "",
+      "image_alt": "EU border rules causing travel chaos ahead of summer peak, industry warns",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "from-truman-s-pension-to-trump-s-billions-eb1d83bd",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "From Truman's pension to Trump's billions",
+      "published_at": "2026-07-01T22:36:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcae/live/0a189580-759b-11f1-aa81-a5efa93da41b.jpg",
+      "image_alt": "From Truman's pension to Trump's billions",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-require-e9d5f0b9",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Middle East live: Iran says to use frozen funds in Qatar to buy 'required goods'",
+      "published_at": "2026-07-02T03:47:49.000Z",
+      "image": "https://s.france24.com/media/display/70a32612-3865-11f1-b01b-005056bf30b7/w:1024/p:16x9/8023416733001.jpg",
+      "image_alt": "Middle East live: Iran says to use frozen funds in Qatar to buy 'required goods'",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert"
+          "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods"
         }
       ],
-      "impact": 80
+      "impact": 72
+    },
+    {
+      "id": "the-us-deported-them-to-venezuela-c2b5b5f8",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "The US deported them to Venezuela",
+      "published_at": "2026-07-02T01:56:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5e/live/da381f70-75a9-11f1-9510-1546718f668b.jpg",
+      "image_alt": "The US deported them to Venezuela",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "did-this-ai-anti-drug-video-make-drugs-look-appealing-0ab3ce6d",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Update",
+      "headline": "Did this AI anti-drug video make drugs look appealing?",
+      "published_at": "2026-07-02T01:54:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/437e/live/066f07f0-75bb-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Did this AI anti-drug video make drugs look appealing?",
+      "translations": {
+        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "after-venezuela-earthquakes-deportees-from-the-u-s-are-missing-or-foun-b0818c1c",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+      "published_at": "2026-07-01T18:24:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/01/multimedia/01int-venezuela-quake-deportees-4-bjgt/01int-venezuela-quake-deportees-4-bjgt-mediumSquareAt3X.jpg",
+      "image_alt": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "los-otros-negocios-de-trump-de-hoteles-y-campos-de-golf-hasta-relojes--781c970d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Los otros negocios de Trump: de hoteles y campos de golf hasta relojes y biblias",
+      "published_at": "2026-07-02T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/L7ABRMZND5HOTJ7KX6NTKENP34.jpg?auth=1e5a5ee15e949c19b2e052fe44a6f779615439efab9296715ba5c1d4691e74d8",
+      "image_alt": "Los otros negocios de Trump: de hoteles y campos de golf hasta relojes y biblias",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-02/los-otros-negocios-de-trump-de-hoteles-y-campos-de-golf-hasta-relojes-y-biblias.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "harvard-gana-a-trump-la-primera-batalla-pero-la-guerra-no-ha-terminado-c6141b70",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Harvard gana a Trump la primera batalla, pero la guerra no ha terminado: “Nos jugamos la democracia”",
+      "published_at": "2026-07-02T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/7ZKREXIS4RH2ZIGN563YUMRWM4.JPG?auth=dd81034558998acda0f77501580b47ba2eac68879ffb210117c84576bedc41ec",
+      "image_alt": "Harvard gana a Trump la primera batalla, pero la guerra no ha terminado: “Nos jugamos la democracia”",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-02/harvard-gana-a-trump-la-primera-batalla-pero-la-guerra-no-ha-terminado-nos-jugamos-la-democracia.html"
+        }
+      ],
+      "impact": 70
     },
     {
       "id": "aunt-of-venezuelan-boy-pulled-from-rubble-tells-bbc-she-will-give-him--ef198d69",
       "region": "World",
       "topic": "World",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
       "published_at": "2026-07-02T00:26:13.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e305/live/80da2240-75ac-11f1-9510-1546718f668b.jpg",
@@ -132,99 +500,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "burkina-faso-severs-diplomatic-ties-with-france-a-sudden-move-with-far-38cd57a0",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Burkina Faso severs diplomatic ties with France, a sudden move with far-reaching consequences",
-      "published_at": "2026-07-01T23:40:38.000Z",
-      "image": "https://img.lemde.fr/2026/06/26/300/0/3600/1800/644/322/60/0/5c9def6_ftp-1-cnbuzyglkj2f-5453807-01-06.jpg",
-      "image_alt": "Burkina Faso severs diplomatic ties with France, a sudden move with far-reaching consequences",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/07/02/burkina-faso-severs-diplomatic-ties-with-france-a-sudden-move-with-far-reaching-consequences_6755062_124.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "after-venezuela-earthquakes-deportees-from-the-u-s-are-missing-or-foun-b0818c1c",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
-      "published_at": "2026-07-01T18:24:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/01/multimedia/01int-venezuela-quake-deportees-4-bjgt/01int-venezuela-quake-deportees-4-bjgt-mediumSquareAt3X.jpg",
-      "image_alt": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "couple-arrested-after-daring-empire-state-marriage-proposal-stunt-2119bae9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Couple arrested after daring Empire State marriage proposal stunt",
-      "published_at": "2026-07-01T23:03:58.000Z",
-      "image": "",
-      "image_alt": "Couple arrested after daring Empire State marriage proposal stunt",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions-d4ac8ae0",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US judge sides with NAACP over proposed mail-in ballot restrictions",
-      "published_at": "2026-07-01T22:53:50.000Z",
-      "image": "",
-      "image_alt": "US judge sides with NAACP over proposed mail-in ballot restrictions",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 70
     },
     {
       "id": "explosion-in-monaco-who-is-vadym-yermolaiev-0e7aaba6",
@@ -247,7 +523,7 @@
           "url": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 69
     },
     {
       "id": "ivory-coast-nearly-60-people-killed-in-flooding-since-may-974c4a91",
@@ -270,303 +546,27 @@
           "url": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 69
     },
     {
-      "id": "us-blocks-long-term-renewal-of-north-american-trade-deal-e2e2d15a",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "US blocks long-term renewal of North American trade deal",
-      "published_at": "2026-07-01T18:56:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4da/live/64317d10-757e-11f1-b1b0-0d044d289b5c.jpg",
-      "image_alt": "US blocks long-term renewal of North American trade deal",
-      "translations": {
-        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "turkish-police-beat-us-with-iron-rods-before-we-lost-limbs-to-frostbit-14f4c2d0",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Update",
-      "headline": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "published_at": "2026-07-01T22:13:03.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc8/live/a4a15a10-7131-11f1-b1db-af71d47507d6.jpg",
-      "image_alt": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "ukraine-s-general-valery-zaluzhny-emerges-as-a-key-figure-in-national--c7c99364",
+      "id": "burkina-faso-severs-diplomatic-ties-with-france-a-sudden-move-with-far-38cd57a0",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine's General Valery Zaluzhny emerges as a key figure in national politics",
-      "published_at": "2026-07-01T23:27:56.000Z",
-      "image": "https://img.lemde.fr/2026/07/01/1246/0/7476/3738/644/322/60/0/fe21320_upload-1-2ozdgnjzemcc-ap26033602107206.jpg",
-      "image_alt": "Ukraine's General Valery Zaluzhny emerges as a key figure in national politics",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Burkina Faso severs diplomatic ties with France, a sudden move with far-reaching consequences",
+      "published_at": "2026-07-01T23:40:38.000Z",
+      "image": "https://img.lemde.fr/2026/06/26/300/0/3600/1800/644/322/60/0/5c9def6_ftp-1-cnbuzyglkj2f-5453807-01-06.jpg",
+      "image_alt": "Burkina Faso severs diplomatic ties with France, a sudden move with far-reaching consequences",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/02/ukraine-s-general-valery-zaluzhny-emerges-as-a-key-figure-in-national-politics_6755061_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "trump-sees-progress-as-us-and-iran-hold-qatar-talks-155ff9aa",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump sees progress as US and Iran hold Qatar talks",
-      "published_at": "2026-07-01T23:15:38.000Z",
-      "image": "https://img.lemde.fr/2026/07/01/478/0/7807/3903/644/322/60/0/8c75ad3_ftp-1-p4tfxaqxiryl-5505445-01-06.jpg",
-      "image_alt": "Trump sees progress as US and Iran hold Qatar talks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/02/trump-sees-progress-as-us-and-iran-hold-qatar-talks_6755060_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "two-arrested-after-climbing-empire-state-building-antenna-for-marriage-e4a1ce67",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Two arrested after climbing Empire State Building antenna for marriage proposal",
-      "published_at": "2026-07-01T22:39:07.000Z",
-      "image": "https://s.france24.com/media/display/e68d38b2-759c-11f1-b11d-005056bf30b7/w:1024/p:16x9/AP26182590393289.jpg",
-      "image_alt": "Two arrested after climbing Empire State Building antenna for marriage proposal",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260701-two-arrested-after-scaling-empire-state-building-antenna-for-marriage-proposal"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "trump-refuses-to-renew-us-canada-mexico-trade-pact-he-once-championed-7bfc39c4",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-      "published_at": "2026-07-01T20:09:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/31a210d511166fa5719f31e725a7fc480c0f4e99/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=342e5ed2a92d2234d65a6b3163254193",
-      "image_alt": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-      "translations": {
-        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "catholic-group-consecrates-4-bishops-risking-break-with-vatican-47400276",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
-      "published_at": "2026-07-01T21:57:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/01/multimedia/01int-vatican-breakaway-01-qcbt/01int-vatican-breakaway-01-qcbt-mediumSquareAt3X.jpg",
-      "image_alt": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/01/world/europe/vatican-bishops-church-excommunication.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "as-earthquake-death-toll-mounts-venezuela-grapples-with-recovering-and-1e3ace20",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies",
-      "published_at": "2026-07-01T21:21:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-mediumSquareAt3X.jpg",
-      "image_alt": "As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case-70987125",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "published_at": "2026-07-01T21:45:58.000Z",
-      "image": "",
-      "image_alt": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusa-7c0b6402",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-      "published_at": "2026-07-01T21:09:15.000Z",
-      "image": "",
-      "image_alt": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision-c3894467",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Update",
-      "headline": "US Supreme Court hands wealthy donors more sway with latest decision",
-      "published_at": "2026-07-01T21:04:19.000Z",
-      "image": "",
-      "image_alt": "US Supreme Court hands wealthy donors more sway with latest decision",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "ukrainian-charged-in-germany-over-nord-stream-blasts-243849b8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Ukrainian charged in Germany over Nord Stream blasts",
-      "published_at": "2026-07-01T18:19:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d6/live/06d83860-756b-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Ukrainian charged in Germany over Nord Stream blasts",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "nigeria-to-seek-compensation-for-property-abandoned-by-citizens-fleein-0096e0a2",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-      "published_at": "2026-07-01T17:40:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8094/live/c0bc61f0-7554-11f1-ad35-0b5033d4b93e.jpg",
-      "image_alt": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/07/02/burkina-faso-severs-diplomatic-ties-with-france-a-sudden-move-with-far-reaching-consequences_6755062_124.html"
         }
       ],
       "impact": 67
