@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T09:35:01.496Z",
+  "updated_at": "2026-07-04T11:23:27.677Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "ukraine-hits-oil-and-military-facilities-near-russia-s-st-petersburg-8b5fb300",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+      "published_at": "2026-07-04T10:29:19.000Z",
+      "image": "",
+      "image_alt": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
     {
       "id": "mali-insurgents-attack-multiple-towns-and-a-prison-army-says-de219311",
       "region": "Europe",
@@ -40,63 +63,17 @@
           "url": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says"
         }
       ],
-      "impact": 83
+      "impact": 81
     },
     {
-      "id": "keiko-fujimori-declared-winner-of-peru-s-presidential-election-weeks-a-82919e70",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "published_at": "2026-07-04T07:52:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
-      "image_alt": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-re-5a3d5135",
+      "id": "pope-urges-europe-to-do-more-for-migrants-while-visiting-gateway-islan-657a802c",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-      "published_at": "2026-07-04T07:26:23.000Z",
-      "image": "https://s.france24.com/media/display/c5de0ace-769b-11f1-9a7c-005056bfb2b6/w:1024/p:16x9/main-2-16.png",
-      "image_alt": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "iran-begins-public-mourning-for-ayatollah-killed-in-february-2a7c274e",
-      "region": "Middle East",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Iran begins public mourning for Ayatollah killed in February",
-      "published_at": "2026-07-04T04:12:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Iran begins public mourning for Ayatollah killed in February",
+      "urgency": "Live",
+      "headline": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "published_at": "2026-07-04T10:42:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f69/live/f6627020-7788-11f1-a627-714adb4eed6e.jpg",
+      "image_alt": "Pope urges Europe to do more for migrants while visiting gateway island",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -106,10 +83,79 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
+    },
+    {
+      "id": "large-crowds-gather-in-tehran-on-first-day-of-ayatollah-khamenei-s-fun-32c61b4e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "published_at": "2026-07-04T09:45:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "trump-s-travel-crackdown-has-a-winner-mexican-tourism-da2d0316",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "published_at": "2026-07-04T10:34:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-mediumSquareAt3X.jpg",
+      "image_alt": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "india-news-government-lists-23-pakistanis-as-apos-terrorists-apos-97dd372b",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "India news: Government lists 23 Pakistanis as &apos;terrorists&apos;",
+      "published_at": "2026-07-04T09:13:00.000Z",
+      "image": "",
+      "image_alt": "India news: Government lists 23 Pakistanis as &apos;terrorists&apos;",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "ukraine-strikes-oil-terminals-near-st-petersburg-in-russia-6de2096e",
@@ -132,7 +178,145 @@
           "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 77
+    },
+    {
+      "id": "keiko-fujimori-declared-winner-of-peru-s-presidential-election-weeks-a-82919e70",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "published_at": "2026-07-04T07:52:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
+      "image_alt": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "in-south-asia-america-has-stopped-asking-india-for-permission-f865da42",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "In South Asia, America has stopped asking India for permission",
+      "published_at": "2026-07-04T10:29:41.000Z",
+      "image": "",
+      "image_alt": "In South Asia, America has stopped asking India for permission",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/7/4/in-south-asia-america-has-stopped-asking-india-for-permission?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "millions-mourn-iran-s-ali-khamenei-amid-historic-funeral-procession-d8f04aa9",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+      "published_at": "2026-07-04T10:16:31.000Z",
+      "image": "",
+      "image_alt": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiant-51779663",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
+      "published_at": "2026-07-04T10:04:35.000Z",
+      "image": "",
+      "image_alt": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran-55a79fd4",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+      "published_at": "2026-07-04T09:35:45.000Z",
+      "image": "",
+      "image_alt": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "mali-s-army-says-rebels-launch-new-attacks-on-towns-and-cities-3ba899db",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mali’s army says rebels launch new attacks on towns and cities",
+      "published_at": "2026-07-04T09:14:56.000Z",
+      "image": "",
+      "image_alt": "Mali’s army says rebels launch new attacks on towns and cities",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "in-rwanda-july-4-is-liberation-day-from-genocide-4cd6a4d3",
@@ -155,7 +339,7 @@
           "url": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "momentary-unity-at-a-funeral-masks-deep-divisions-among-iran-s-leaders-ff9639bc",
@@ -178,30 +362,7 @@
           "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "trump-s-travel-crackdown-has-a-winner-mexican-tourism-da2d0316",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
-      "published_at": "2026-07-04T09:00:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-mediumSquareAt3X.jpg",
-      "image_alt": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html"
-        }
-      ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats-fb1dcd80",
@@ -224,145 +385,99 @@
           "url": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "trump-set-to-put-nato-unity-to-the-test-at-turkey-summit-35411075",
+      "id": "pope-leo-calls-on-europe-to-do-more-for-migrants-dac1d7a3",
       "region": "Europe",
-      "topic": "Politics",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Trump set to put NATO unity to the test at Turkey summit",
-      "published_at": "2026-07-04T07:01:00.000Z",
+      "headline": "Pope Leo calls on Europe to do more for migrants",
+      "published_at": "2026-07-04T10:47:00.000Z",
       "image": "",
-      "image_alt": "Trump set to put NATO unity to the test at Turkey summit",
+      "image_alt": "Pope Leo calls on Europe to do more for migrants",
       "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 74
     },
     {
-      "id": "la-crisis-del-combustible-se-agudiza-en-rusia-colas-enormes-y-racionam-a1c6ce36",
+      "id": "with-trump-the-founding-fathers-belief-in-the-exemplary-nature-of-us-p-a41bffe4",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'With Trump, the Founding Fathers' belief in the exemplary nature of US presidents has been lost'",
+      "published_at": "2026-07-04T10:49:38.000Z",
+      "image": "https://img.lemde.fr/2026/06/25/1382/0/8288/4144/644/322/60/0/ecdd2cf_ftp-1-m6bykblwer5l-2d96a7827a96450191311b63ee979272-0-0188c7d997b244b9ae3587c649bf1a93.jpg",
+      "image_alt": "'With Trump, the Founding Fathers' belief in the exemplary nature of US presidents has been lost'",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/07/04/with-trump-the-founding-fathers-belief-in-the-exemplary-nature-of-us-presidents-has-been-lost_6755145_23.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "firefighters-combat-blazes-in-northern-spain-portugal-dbc9b210",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "La crisis del combustible se agudiza en Rusia: colas enormes y racionamiento en las gasolineras por todo el país",
-      "published_at": "2026-07-04T08:39:55.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/PNF4FNEQK5KV7HE5B4E3V7TJ7Y.jpg?auth=6d0db2a258df36be241ce3ba823042516440622bf3f92e387e3def285432f46f",
-      "image_alt": "La crisis del combustible se agudiza en Rusia: colas enormes y racionamiento en las gasolineras por todo el país",
+      "urgency": "Live",
+      "headline": "Firefighters combat blazes in northern Spain, Portugal",
+      "published_at": "2026-07-04T10:32:23.000Z",
+      "image": "https://s.france24.com/media/display/5bbfd4fe-7792-11f1-8e0e-005056a90284/w:1024/p:16x9/EN-20260704-121120-121314-CS.jpg",
+      "image_alt": "Firefighters combat blazes in northern Spain, Portugal",
       "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-04/la-crisis-del-combustible-se-agudiza-en-rusia-colas-enormes-y-racionamiento-en-las-gasolineras-por-todo-el-pais.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260704-firefighters-combat-blazes-in-northern-spain-portugal"
         }
       ],
-      "impact": 76
+      "impact": 73
     },
     {
-      "id": "cape-verde-fans-celebrate-history-despite-loss-fe8af839",
-      "region": "World",
+      "id": "pope-urges-europe-to-protect-migrants-in-visit-to-lampedusa-island-c3087276",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Cape Verde fans celebrate history despite loss",
-      "published_at": "2026-07-04T08:22:25.000Z",
-      "image": "",
-      "image_alt": "Cape Verde fans celebrate history despite loss",
+      "headline": "Pope urges Europe to protect migrants in visit to Lampedusa island",
+      "published_at": "2026-07-04T10:03:36.000Z",
+      "image": "https://img.lemde.fr/2026/07/04/246/0/2949/1474/644/322/60/0/906d975_ftp-1-glhqdob42rls-5528359-01-06.jpg",
+      "image_alt": "Pope urges Europe to protect migrants in visit to Lampedusa island",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/cape-verde-fans-celebrate-history-despite-loss?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/04/pope-urges-europe-to-protect-migrants-in-visit-to-lampedusa-island_6755143_4.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "taylor-swift-and-travis-kelce-marry-at-nyc-s-madison-square-garden-23e6ae06",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Taylor Swift and Travis Kelce marry at NYC’s Madison Square Garden",
-      "published_at": "2026-07-04T07:46:55.000Z",
-      "image": "",
-      "image_alt": "Taylor Swift and Travis Kelce marry at NYC’s Madison Square Garden",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/4/taylor-swift-and-travis-kelce-marry-at-nycs-madison-square-garden?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-praises-army-rails-against-communism-in-us-250th-anniversary-spe-b9897bb8",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump praises army, rails against communism in US 250th anniversary speech",
-      "published_at": "2026-07-04T07:19:57.000Z",
-      "image": "",
-      "image_alt": "Trump praises army, rails against communism in US 250th anniversary speech",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "at-250-america-is-still-deciding-who-belongs-7f6b2ea4",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "At 250, America is still deciding who belongs",
-      "published_at": "2026-07-04T07:07:30.000Z",
-      "image": "",
-      "image_alt": "At 250, America is still deciding who belongs",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 72
     },
     {
       "id": "germany-news-afd-kicks-off-conference-amid-massive-protests-35ee8961",
@@ -385,30 +500,30 @@
           "url": "https://www.dw.com/en/germany-news-afd-kicks-off-conference-amid-massive-protests/live-77830605?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 72
     },
     {
-      "id": "overseas-education-project-for-women-and-girls-axed-by-uk-after-two-ye-2d5e2dca",
+      "id": "russia-announces-dozens-of-ukrainian-drones-downed-over-st-petersburg-309302a6",
       "region": "Europe",
-      "topic": "Society",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Overseas education project for women and girls axed by UK after two years",
-      "published_at": "2026-07-04T08:00:08.000Z",
-      "image": "https://i.guim.co.uk/img/media/8fe3bfd9209ce4fc803c25bb4ed0fe3aa3314837/0_0_2497_1996/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=1028c8fc470e044221bbf9a6c97fcab7",
-      "image_alt": "Overseas education project for women and girls axed by UK after two years",
+      "headline": "Russia announces dozens of Ukrainian drones downed over St Petersburg",
+      "published_at": "2026-07-04T09:46:12.000Z",
+      "image": "https://img.lemde.fr/2026/07/01/31/0/7892/3946/644/322/60/0/82dfd6d_ftp-1-bqp45h0xa2w2-b0f6305762204586bc8d9b755693b588-1-88821c4a02f7416ba250aaa77bb09e47.jpg",
+      "image_alt": "Russia announces dozens of Ukrainian drones downed over St Petersburg",
       "translations": {
-        "en": "PULSE is tracking this society update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/04/russia-announces-dozens-of-ukrainian-drones-downed-over-st-petersburg_6755142_4.html"
         }
       ],
-      "impact": 74
+      "impact": 71
     },
     {
       "id": "trump-kicks-off-us-250th-anniversary-celebrations-at-mount-rushmore-89ae16f3",
@@ -431,7 +546,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/04/trump-kicks-off-us-250th-anniversary-celebrations-at-mount-rushmore_6755141_4.html"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "15-million-people-expected-to-attend-former-supreme-leader-s-funeral-24d434f1",
@@ -454,122 +569,7 @@
           "url": "https://www.france24.com/en/15-million-people-expected-to-attend-former-supreme-leader-s-funeral"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "pope-leo-s-visits-to-lampedusa-on-july-4-symbolic-9dc5352f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo's visits to Lampedusa on July 4 'symbolic'",
-      "published_at": "2026-07-04T08:43:21.000Z",
-      "image": "https://s.france24.com/media/display/8605ccc0-7781-11f1-887d-005056a90284/w:1024/p:16x9/EN-20260704-100135-100526-CS.jpg",
-      "image_alt": "Pope Leo's visits to Lampedusa on July 4 'symbolic'",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/pope-leo-s-visits-to-lampedusa-on-july-4-symbolic"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims-29873fc4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Foreign rescue workers help with recovering Venezuela's quake victims",
-      "published_at": "2026-07-04T08:41:14.000Z",
-      "image": "https://s.france24.com/media/display/64a2635c-7783-11f1-a801-005056bfb2b6/w:1024/p:16x9/EN-20260704-101120-101352-CS.jpg",
-      "image_alt": "Foreign rescue workers help with recovering Venezuela's quake victims",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "trump-marks-us-250th-celebration-with-speech-and-mount-rushmore-flyove-6ecd3423",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump marks US 250th celebration with speech and Mount Rushmore flyover",
-      "published_at": "2026-07-04T08:38:47.000Z",
-      "image": "https://s.france24.com/media/display/e453cb64-7782-11f1-ab4d-005056bf30b7/w:1024/p:16x9/EN-20260704-100857-101047-CS.jpg",
-      "image_alt": "Trump marks US 250th celebration with speech and Mount Rushmore flyover",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/trump-marks-us-250th-celebration-with-speech-and-mount-rushmore-flyover"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "england-face-mexico-in-azteca-fortress-returning-to-scene-of-maradona--4052a38a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "England face Mexico in Azteca fortress, returning to scene of Maradona handball",
-      "published_at": "2026-07-04T08:24:29.000Z",
-      "image": "https://s.france24.com/media/display/a6f205dc-4d44-11f1-9733-005056bf30b7/w:1024/p:16x9/AP22286616759702.jpg",
-      "image_alt": "England face Mexico in Azteca fortress, returning to scene of Maradona handball",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260704-world-cup-england-face-mexico-azteca-fortress-return-scene-maradona-handball"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "australia-apos-s-great-barrier-reef-again-avoids-apos-in-danger-apos-l-dd81c9ac",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Australia&apos;s Great Barrier Reef again avoids &apos;in danger&apos; label",
-      "published_at": "2026-07-04T07:41:00.000Z",
-      "image": "",
-      "image_alt": "Australia&apos;s Great Barrier Reef again avoids &apos;in danger&apos; label",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/australia-s-great-barrier-reef-again-avoids-in-danger-label/a-77829982?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     }
   ]
 }
