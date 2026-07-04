@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T20:51:41.992Z",
+  "updated_at": "2026-07-04T21:54:50.078Z",
   "languages": [
     {
       "code": "en",
@@ -19,29 +19,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "ukraine-hits-major-oil-terminal-in-russia-s-st-petersburg-0a6fbb1c",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "published_at": "2026-07-04T18:41:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
-      "image_alt": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "translations": {
-        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
-    },
     {
       "id": "momentary-unity-at-a-funeral-masks-deep-divisions-among-iran-s-leaders-ff9639bc",
       "region": "Middle East",
@@ -63,7 +40,99 @@
           "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "ukraine-hits-major-oil-terminal-in-russia-s-st-petersburg-0a6fbb1c",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "published_at": "2026-07-04T18:41:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+      "image_alt": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "masses-of-iranians-defy-heatwave-on-second-day-of-khamenei-s-funeral-a20654a6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+      "published_at": "2026-07-04T21:08:18.000Z",
+      "image": "",
+      "image_alt": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "huge-crowds-mass-in-tehran-for-ayatollah-s-state-funeral-8a1cba11",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+      "published_at": "2026-07-04T20:39:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-khamenei-funeral-fmvh/04int-khamenei-funeral-fmvh-mediumSquareAt3X.jpg",
+      "image_alt": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "prince-harry-will-travel-to-london-but-without-his-family-1214abe2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Prince Harry Will Travel to London, but Without His Family",
+      "published_at": "2026-07-04T20:26:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-mediumSquareAt3X.jpg",
+      "image_alt": "Prince Harry Will Travel to London, but Without His Family",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "lebanon-s-aoun-calls-on-us-to-keep-always-standing-beside-his-country-b2f7f604",
@@ -86,7 +155,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary-4d46a997",
@@ -109,7 +178,7 @@
           "url": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "america-s-indigenous-legacy-ab7189f8",
@@ -132,7 +201,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "has-the-us-reckoned-with-its-own-history-7667c26b",
@@ -155,7 +224,7 @@
           "url": "https://www.aljazeera.com/video/upfront/2026/7/4/has-the-us-reckoned-with-its-own-history?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv-e391bc5b",
@@ -178,7 +247,30 @@
           "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "archaeologists-uncover-ancient-byzantine-city-in-egypt-s-western-deser-aa16ba8f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "published_at": "2026-07-04T20:32:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=140&quality=85&auto=format&fit=max&s=8edc3dc6eea3352f53f37e661884deb9",
+      "image_alt": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-co-e74c6794",
@@ -201,76 +293,53 @@
           "url": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "archaeologists-uncover-ancient-byzantine-city-in-egypt-s-western-deser-aa16ba8f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "published_at": "2026-07-04T20:32:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/17ad937a21027e72d540a4a4a14381f50860caf2/395_0_719_575/master/719.jpg?width=140&quality=85&auto=format&fit=max&s=91475943b02095eb4dba4725a91ae190",
-      "image_alt": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "russia-s-medvedev-says-strait-of-hormuz-is-iran-s-nuclear-weapon-1001d34c",
+      "id": "man-climbs-eiffel-tower-and-hangs-american-flag-9eb0dd1c",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’",
-      "published_at": "2026-07-04T18:46:13.000Z",
-      "image": "",
-      "image_alt": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’",
+      "headline": "Man climbs Eiffel Tower and hangs American flag",
+      "published_at": "2026-07-04T21:32:12.000Z",
+      "image": "https://img.lemde.fr/2026/07/03/241/0/8450/4225/644/322/60/0/3a4d233_ftp-1-wkvcmpvkjrzy-81326daf0c6043948252cc30289876fd-0-f0ccf0b9cb4648d8a672f9ef919a66fb.jpg",
+      "image_alt": "Man climbs Eiffel Tower and hangs American flag",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/04/man-climbs-eiffel-tower-and-hangs-american-flag_6755155_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "trump-s-travel-crackdown-has-a-winner-mexican-tourism-da2d0316",
-      "region": "World",
+      "id": "ireland-s-gdp-trends-reflect-global-strategies-of-a-handful-of-multina-2d02ca48",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
-      "published_at": "2026-07-04T18:03:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-mediumSquareAt3X.jpg",
-      "image_alt": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "headline": "'Ireland's GDP trends reflect global strategies of a handful of multinationals more than the actual state of the economy'",
+      "published_at": "2026-07-04T21:24:13.000Z",
+      "image": "https://img.lemde.fr/2026/06/29/903/0/4012/2006/644/322/60/0/5a9a85f_upload-1-dpzga9uiac0v-000-39z43ck.jpg",
+      "image_alt": "'Ireland's GDP trends reflect global strategies of a handful of multinationals more than the actual state of the economy'",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/07/04/ireland-s-gdp-trends-reflect-global-strategies-of-a-handful-of-multinationals-more-than-the-actual-state-of-the-economy_6755154_23.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "hezbollah-hamas-and-houthi-officials-attend-funeral-ceremonies-for-ira-1d8a6210",
@@ -293,7 +362,7 @@
           "url": "https://www.france24.com/en/middle-east/20260704-hezbollah-hamas-and-houthi-officials-attend-funeral-ceremonies-for-iran-s-khamenei"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "paraguay-france-live-les-bleus-aim-to-extend-perfect-tournament-run-e6c4225c",
@@ -316,7 +385,7 @@
           "url": "https://www.france24.com/en/sport/20260704-paraguay-france-live-les-bleus-aim-to-extend-perfect-tournament-run"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "injury-ends-williams-wimbledon-comeback-e7a250ab",
@@ -339,7 +408,7 @@
           "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "what-role-did-france-play-in-the-american-revolution-95b26cf1",
@@ -362,7 +431,7 @@
           "url": "https://www.lemonde.fr/en/videos/video/2026/07/04/what-role-did-france-play-in-the-american-revolution_6755152_108.html"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "ukraine-strikes-oil-terminals-near-st-petersburg-in-russia-6de2096e",
@@ -385,7 +454,30 @@
           "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "trump-s-travel-crackdown-has-a-winner-mexican-tourism-da2d0316",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "published_at": "2026-07-04T18:03:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-mediumSquareAt3X.jpg",
+      "image_alt": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "former-chess-champion-kramnik-banned-over-cheating-remarks-1bf49b6d",
@@ -408,7 +500,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "putin-visits-battlefield-and-vows-to-take-more-of-ukraine-1058df1d",
@@ -431,30 +523,7 @@
           "url": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "armenia-s-defiant-drag-scene-braves-pushback-9f8e2ed2",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Armenia’s defiant drag scene braves pushback",
-      "published_at": "2026-07-04T17:44:41.000Z",
-      "image": "https://s.france24.com/media/display/3840bc6e-77ba-11f1-8a29-005056a97e36/w:1024/p:16x9/EN-20260702-183529-184623-CS.jpg",
-      "image_alt": "Armenia’s defiant drag scene braves pushback",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260704-armenia-s-defiant-drag-scene-braves-pushback"
-        }
-      ],
-      "impact": 66
+      "impact": 68
     },
     {
       "id": "pope-urges-europe-to-do-more-for-migrants-as-he-visits-gateway-island-657a802c",
@@ -477,96 +546,27 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 66
-    },
-    {
-      "id": "vingegaard-takes-early-tour-de-france-lead-as-visma-win-opening-stage--409af1e7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Vingegaard takes early Tour de France lead as Visma win opening stage in Barcelona",
-      "published_at": "2026-07-04T17:37:31.000Z",
-      "image": "https://s.france24.com/media/display/4adb91ce-77cd-11f1-ac0a-005056bfb2b6/w:1024/p:16x9/000-B99U9DY.jpg",
-      "image_alt": "Vingegaard takes early Tour de France lead as Visma win opening stage in Barcelona",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260704-vingegaard-takes-early-tour-de-france-lead-as-visma-win-opening-stage-in-barcelona"
-        }
-      ],
       "impact": 65
     },
     {
-      "id": "curtis-young-on-america-s-diffcult-moment-in-the-mirror-50c77d61",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Curtis Young on America's \"diffcult moment in the mirror\"",
-      "published_at": "2026-07-04T17:36:25.000Z",
-      "image": "https://s.france24.com/media/display/e73db1c8-77c8-11f1-8e2c-005056bfb2b6/w:1024/p:16x9/Anglais-2026-07-04T16-07-44-881Z.jpg",
-      "image_alt": "Curtis Young on America's \"diffcult moment in the mirror\"",
+      "id": "i-can-only-describe-it-as-a-war-zone-the-rescuers-navigating-venezuela-8a3521e8",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "published_at": "2026-07-03T11:08:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=140&quality=85&auto=format&fit=max&s=0df847c9b31e0aa5ee93cf8419ab1469",
+      "image_alt": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260704-curtis-young-on-the-america-s-diffcult-moment-in-the-mirror"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "tens-of-thousands-rally-in-france-for-a-comprehensive-law-to-fight-sex-11f4cb38",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Tens of thousands rally in France for a comprehensive law to fight sexual violence",
-      "published_at": "2026-07-04T17:03:10.000Z",
-      "image": "https://s.france24.com/media/display/168e1c8e-7543-11f1-8b54-005056a90284/w:1024/p:16x9/000-B8PM8AR.jpg",
-      "image_alt": "Tens of thousands rally in France for a comprehensive law to fight sexual violence",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260704-tens-of-thousands-rally-in-france-for-a-comprehensive-law-to-fight-sexual-violence"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "us-250th-independence-day-merz-modi-extend-congratulations-c1a5669a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "US 250th Independence Day: Merz, Modi extend congratulations",
-      "published_at": "2026-07-04T16:42:00.000Z",
-      "image": "",
-      "image_alt": "US 250th Independence Day: Merz, Modi extend congratulations",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-250th-independence-day-merz-modi-extend-congratulations/live-77833580?maca=en-rss-en-top-1022-rdf"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape"
         }
       ],
       "impact": 65
