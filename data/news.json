@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T15:41:11.225Z",
+  "updated_at": "2026-07-04T17:00:07.385Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-d98ef646",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+      "published_at": "2026-07-04T16:23:48.000Z",
+      "image": "",
+      "image_alt": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
     {
       "id": "ukraine-hits-major-oil-terminal-in-russia-s-st-petersburg-0a6fbb1c",
       "region": "Europe",
@@ -40,7 +63,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "former-chess-champion-kramnik-banned-over-cheating-remarks-1bf49b6d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Former chess champion Kramnik banned over cheating remarks",
+      "published_at": "2026-07-04T15:45:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffb/live/51aa3090-77b5-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Former chess champion Kramnik banned over cheating remarks",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "injury-ends-williams-wimbledon-comeback-e7a250ab",
@@ -63,27 +109,50 @@
           "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "mali-government-says-rebels-attacking-northern-towns-b6f46899",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemorat-fc868fb7",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Mali government says rebels attacking northern towns",
-      "published_at": "2026-07-04T13:18:56.000Z",
-      "image": "https://s.france24.com/media/display/a6d6293a-77aa-11f1-bfb8-005056bf30b7/w:1024/p:16x9/EN-20260704-150110-150423-CS.jpg",
-      "image_alt": "Mali government says rebels attacking northern towns",
+      "headline": "Iran promotes message of continuity and revenge at Khamenei commemoration",
+      "published_at": "2026-07-04T15:49:39.000Z",
+      "image": "",
+      "image_alt": "Iran promotes message of continuity and revenge at Khamenei commemoration",
       "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "russian-attacks-leave-trail-of-destruction-across-ukraine-78fe0707",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian attacks leave trail of destruction across Ukraine",
+      "published_at": "2026-07-04T15:46:35.000Z",
+      "image": "",
+      "image_alt": "Russian attacks leave trail of destruction across Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -109,53 +178,76 @@
           "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "brain-drain-leaves-yemen-s-health-sector-in-tatters-and-millions-helpl-59b2db0b",
-      "region": "Middle East",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-      "published_at": "2026-07-04T13:38:32.000Z",
-      "image": "",
-      "image_alt": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "why-closure-matters-at-the-end-of-life-bd36da26",
-      "region": "World",
+      "id": "mali-rebels-target-army-bases-prison-in-fresh-attacks-ea227a9c",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why closure matters at the end of life",
-      "published_at": "2026-07-04T12:41:19.000Z",
+      "headline": "Mali rebels target army bases, prison in fresh attacks",
+      "published_at": "2026-07-04T16:04:00.000Z",
       "image": "",
-      "image_alt": "Why closure matters at the end of life",
+      "image_alt": "Mali rebels target army bases, prison in fresh attacks",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/mali-rebels-target-army-bases-prison-in-fresh-attacks/a-77833144?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "guizhou-where-china-s-bridge-and-highway-construction-boom-runs-up-aga-f1135c1f",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Guizhou: Where China's bridge and highway construction boom runs up against wall of debt",
+      "published_at": "2026-07-04T16:19:44.000Z",
+      "image": "https://img.lemde.fr/2026/07/01/572/0/4096/2048/644/322/60/0/5ed26b5_upload-1-buvfiayjppea-rea11436840.jpg",
+      "image_alt": "Guizhou: Where China's bridge and highway construction boom runs up against wall of debt",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/07/04/guizhou-where-china-s-bridge-and-highway-construction-boom-runs-up-against-wall-of-debt_6755149_19.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-c47b5d0c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
+      "published_at": "2026-07-04T15:44:25.000Z",
+      "image": "https://s.france24.com/media/display/457ce7be-77be-11f1-9579-005056bf30b7/w:1024/p:16x9/EN-20260704-170114-170548-CS.jpg",
+      "image_alt": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "france-s-first-detected-ebola-patient-recovers-leaves-hospital-0de43aea",
@@ -178,7 +270,30 @@
           "url": "https://www.france24.com/en/france/20260704-france-first-detected-ebola-patient-recovers-leaves-hospital"
         }
       ],
-      "impact": 73
+      "impact": 72
+    },
+    {
+      "id": "germany-news-afd-elects-leaders-amid-massive-protests-dadedc34",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany news: AfD elects leaders amid massive protests",
+      "published_at": "2026-07-04T14:23:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: AfD elects leaders amid massive protests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "germany-sees-mass-protests-around-far-right-afd-congress-ecb77353",
@@ -201,7 +316,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/04/germany-sees-mass-protests-around-far-right-afd-congress_6755148_4.html"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "a-divided-us-celebrates-250th-birthday-as-heatwave-bears-down-on-east--19dd9b5f",
@@ -224,7 +339,7 @@
           "url": "https://www.france24.com/en/americas/20260704-divided-celebrates-250th-birthday-heatwave-bears-down-east-coast"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "new-wave-of-coordinated-rebel-attacks-hits-mali-7a66c740",
@@ -247,99 +362,53 @@
           "url": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
-      "id": "keiko-fujimori-declared-winner-of-peru-s-presidential-election-weeks-a-82919e70",
-      "region": "World",
+      "id": "mali-government-says-rebels-attacking-northern-towns-b6f46899",
+      "region": "Europe",
       "topic": "Politics",
       "urgency": "Update",
-      "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "published_at": "2026-07-04T07:52:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
-      "image_alt": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "headline": "Mali government says rebels attacking northern towns",
+      "published_at": "2026-07-04T13:18:56.000Z",
+      "image": "https://s.france24.com/media/display/a6d6293a-77aa-11f1-bfb8-005056bf30b7/w:1024/p:16x9/EN-20260704-150110-150423-CS.jpg",
+      "image_alt": "Mali government says rebels attacking northern towns",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns"
         }
       ],
-      "impact": 72
+      "impact": 70
     },
     {
-      "id": "iran-holds-funeral-for-ali-khamenei-attendees-hardline-factions-of-soc-0a1836e8",
+      "id": "brain-drain-leaves-yemen-s-health-sector-in-tatters-and-millions-helpl-59b2db0b",
       "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran holds funeral for Ali Khamenei: Attendees 'hardline factions' of society, specialist says",
-      "published_at": "2026-07-04T13:15:42.000Z",
-      "image": "https://s.france24.com/media/display/9816a7b4-77a8-11f1-a9bf-005056bfb2b6/w:1024/p:16x9/EN-20260704-140147-140938-CS.jpg",
-      "image_alt": "Iran holds funeral for Ali Khamenei: Attendees 'hardline factions' of society, specialist says",
+      "topic": "Health",
+      "urgency": "Update",
+      "headline": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
+      "published_at": "2026-07-04T13:38:32.000Z",
+      "image": "",
+      "image_alt": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/iran-holds-funeral-for-ali-khamenei-attendees-hardline-factions-of-society-specialist-says"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "pop-star-taylor-swift-marries-travis-kelce-at-madison-square-garden-42363739",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pop star Taylor Swift marries Travis Kelce at Madison Square Garden",
-      "published_at": "2026-07-04T13:02:44.000Z",
-      "image": "https://s.france24.com/media/display/0c2616c8-77a7-11f1-bbcd-005056a97e36/w:1024/p:16x9/EN-20260704-144405-144527-CS.jpg",
-      "image_alt": "Pop star Taylor Swift marries Travis Kelce at Madison Square Garden",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/pop-star-taylor-swift-marries-travis-kelce-at-madison-square-garden"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "tour-de-france-kicks-off-in-barcelona-abf1f4b3",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Tour de France kicks off in Barcelona",
-      "published_at": "2026-07-04T12:44:07.000Z",
-      "image": "https://s.france24.com/media/display/0051afcc-779f-11f1-9c20-005056a90284/w:1024/p:16x9/EN-20260704-132504-132656-CS.jpg",
-      "image_alt": "Tour de France kicks off in Barcelona",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tour-de-france-kicks-off-in-barcelona"
-        }
-      ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "pope-urges-europe-to-do-more-for-migrants-while-visiting-gateway-islan-657a802c",
@@ -362,30 +431,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
-      "id": "welcoming-the-taliban-germany-apos-s-new-afghanistan-policy-7c3b2393",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "why-closure-matters-at-the-end-of-life-bd36da26",
+      "region": "World",
+      "topic": "World",
       "urgency": "Update",
-      "headline": "Welcoming the Taliban? — Germany&apos;s new Afghanistan policy",
-      "published_at": "2026-07-04T11:08:00.000Z",
+      "headline": "Why closure matters at the end of life",
+      "published_at": "2026-07-04T12:41:19.000Z",
       "image": "",
-      "image_alt": "Welcoming the Taliban? — Germany&apos;s new Afghanistan policy",
+      "image_alt": "Why closure matters at the end of life",
       "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss"
         }
       ],
-      "impact": 70
+      "impact": 68
     },
     {
       "id": "nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions-317fffe5",
@@ -408,53 +477,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions?traffic_source=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
-      "id": "pope-leo-urges-migrant-protection-integration-on-visit-to-lampedusa-ece67d05",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
-      "published_at": "2026-07-04T12:17:29.000Z",
-      "image": "",
-      "image_alt": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "firefighters-race-to-contain-flames-in-northeastern-spain-9da4d331",
+      "id": "welcoming-the-taliban-germany-apos-s-new-afghanistan-policy-7c3b2393",
       "region": "Europe",
-      "topic": "World",
+      "topic": "Politics",
       "urgency": "Update",
-      "headline": "Firefighters race to contain flames in northeastern Spain",
-      "published_at": "2026-07-04T12:09:27.000Z",
+      "headline": "Welcoming the Taliban? — Germany&apos;s new Afghanistan policy",
+      "published_at": "2026-07-04T11:08:00.000Z",
       "image": "",
-      "image_alt": "Firefighters race to contain flames in northeastern Spain",
+      "image_alt": "Welcoming the Taliban? — Germany&apos;s new Afghanistan policy",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "large-crowds-gather-in-tehran-on-first-day-of-ayatollah-khamenei-s-fun-32c61b4e",
@@ -477,53 +523,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
-      "id": "england-vs-mexico-at-azteca-kickoff-altitude-and-weather-explained-6dc67283",
-      "region": "Americas",
-      "topic": "Climate",
+      "id": "pope-leo-urges-migrant-protection-integration-on-visit-to-lampedusa-ece67d05",
+      "region": "World",
+      "topic": "World",
       "urgency": "Update",
-      "headline": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
-      "published_at": "2026-07-04T11:27:18.000Z",
+      "headline": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+      "published_at": "2026-07-04T12:17:29.000Z",
       "image": "",
-      "image_alt": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
+      "image_alt": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "thousands-protest-in-germany-as-far-right-afd-party-meets-4c9c3cc2",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Update",
-      "headline": "Thousands protest in Germany as far-right AfD party meets",
-      "published_at": "2026-07-04T11:18:18.000Z",
-      "image": "",
-      "image_alt": "Thousands protest in Germany as far-right AfD party meets",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss"
-        }
-      ],
-      "impact": 68
+      "impact": 67
     },
     {
       "id": "trump-s-travel-crackdown-has-a-winner-mexican-tourism-da2d0316",
@@ -546,30 +569,7 @@
           "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "india-news-government-lists-23-pakistanis-as-apos-terrorists-apos-97dd372b",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "India news: Government lists 23 Pakistanis as &apos;terrorists&apos;",
-      "published_at": "2026-07-04T09:13:00.000Z",
-      "image": "",
-      "image_alt": "India news: Government lists 23 Pakistanis as &apos;terrorists&apos;",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 68
+      "impact": 66
     }
   ]
 }
