@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T18:35:48.510Z",
+  "updated_at": "2026-07-05T20:10:41.051Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantyn-b6c4dcfc",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+      "published_at": "2026-07-05T19:06:39.000Z",
+      "image": "",
+      "image_alt": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
       "id": "exhausted-by-iran-war-tehran-transforms-for-khamenei-s-funeral-9262fe76",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
-      "published_at": "2026-07-05T17:45:43.000Z",
+      "published_at": "2026-07-05T17:45:44.000Z",
       "image": "https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-mood-dispatch-01-fvjq/05int-iran-mood-dispatch-01-fvjq-mediumSquareAt3X.jpg",
       "image_alt": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
       "translations": {
@@ -40,17 +63,17 @@
           "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html"
         }
       ],
-      "impact": 87
+      "impact": 85
     },
     {
-      "id": "nigeria-says-two-nationals-killed-in-south-africa-amid-rise-of-anti-mi-2f47dad5",
-      "region": "Africa",
+      "id": "definitely-felt-a-big-bang-delta-plane-hit-by-firework-while-landing-i-5cf2c6cd",
+      "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "published_at": "2026-07-05T17:30:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b20/live/c527be30-760b-11f1-ac6e-25f7e4f0c9b9.jpg",
-      "image_alt": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "urgency": "Live",
+      "headline": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+      "published_at": "2026-07-05T18:18:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed43/live/cf601a20-7898-11f1-87a6-29e20436c2da.jpg",
+      "image_alt": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,56 +83,10 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "50-houthi-fighters-killed-in-renewed-clashes-in-yemen-24d1157c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "50 Houthi fighters killed in renewed clashes in Yemen",
-      "published_at": "2026-07-05T16:59:34.000Z",
-      "image": "",
-      "image_alt": "50 Houthi fighters killed in renewed clashes in Yemen",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "syria-delays-first-session-of-transitional-parliament-without-explanat-e29a3d74",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Syria delays first session of transitional parliament without explanation",
-      "published_at": "2026-07-05T16:19:03.000Z",
-      "image": "",
-      "image_alt": "Syria delays first session of transitional parliament without explanation",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 78
     },
     {
       "id": "iran-s-supreme-leader-absent-as-senior-officials-attend-ayatollah-s-fu-ddc678e5",
@@ -132,63 +109,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "turkey-steps-up-arrests-ahead-of-nato-summit-0ca38b1e",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Turkey steps up arrests ahead of NATO summit",
-      "published_at": "2026-07-05T17:08:00.000Z",
-      "image": "",
-      "image_alt": "Turkey steps up arrests ahead of NATO summit",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "lawmaker-mcgovern-americans-need-to-fight-for-the-soul-of-the-us-9b3a5ac1",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lawmaker McGovern: Americans need to ‘fight for the soul’ of the US",
-      "published_at": "2026-07-05T18:20:25.000Z",
-      "image": "",
-      "image_alt": "Lawmaker McGovern: Americans need to ‘fight for the soul’ of the US",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/5/lawmaker-mcgovern-americans-need-to-fight-for-the-soul-of-the-us?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "from-a-beautiful-night-to-world-s-greatest-hangover-guests-react-to-ta-1f51f0c1",
+      "id": "watch-lyse-doucet-on-emotion-and-politics-at-tehran-funeral-of-former--9726ba2e",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-      "published_at": "2026-07-05T15:48:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/3525a160-7888-11f1-a627-714adb4eed6e.jpg",
-      "image_alt": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "headline": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+      "published_at": "2026-07-05T17:54:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07e/live/a49ba830-7899-11f1-9510-1546718f668b.jpg",
+      "image_alt": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,20 +129,43 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "12-tonne-whale-removed-from-dr-congo-beach-89fcb7a2",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "12-tonne whale removed from DR Congo beach",
+      "published_at": "2026-07-05T19:33:46.000Z",
+      "image": "",
+      "image_alt": "12-tonne whale removed from DR Congo beach",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/12-tonne-whale-removed-from-dr-congo-beach?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "us-congressman-denies-existence-of-palestinians-in-interview-06a4ad1f",
+      "id": "america-at-250-democracy-s-greatest-experiment-e58e0f11",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US Congressman denies existence of Palestinians in interview",
-      "published_at": "2026-07-05T17:37:26.000Z",
+      "headline": "America at 250: Democracy’s greatest experiment?",
+      "published_at": "2026-07-05T19:15:00.000Z",
       "image": "",
-      "image_alt": "US Congressman denies existence of Palestinians in interview",
+      "image_alt": "America at 250: Democracy’s greatest experiment?",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -221,102 +175,171 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/5/america-at-250-democracys-greatest-experiment?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding-19771bc4",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
-      "published_at": "2026-07-05T16:54:26.000Z",
-      "image": "",
-      "image_alt": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "what-is-the-religious-and-political-messaging-behind-khamenei-s-funera-d0816f15",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What is the religious and political messaging behind Khamenei’s funeral?",
-      "published_at": "2026-07-05T16:42:03.000Z",
-      "image": "",
-      "image_alt": "What is the religious and political messaging behind Khamenei’s funeral?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "charles-leclerc-wins-f1-british-grand-prix-behind-safety-car-6e09ae59",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Charles Leclerc wins F1 British Grand Prix behind safety car",
-      "published_at": "2026-07-05T16:17:28.000Z",
-      "image": "",
-      "image_alt": "Charles Leclerc wins F1 British Grand Prix behind safety car",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/5/charles-leclerc-wins-f1-british-grand-prix-behind-the-safety-car?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "at-site-where-iran-s-slain-leader-lies-some-see-a-symbol-of-his-failur-cd5527b5",
+      "id": "sons-of-iran-s-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absen-0a18027d",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
-      "published_at": "2026-07-05T16:02:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-mosalla-vjzg/05int-iran-mosalla-vjzg-mediumSquareAt3X.jpg",
-      "image_alt": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
+      "headline": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
+      "published_at": "2026-07-05T18:55:37.000Z",
+      "image": "",
+      "image_alt": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "osaka-knocks-out-top-seeded-sabalenka-to-reach-wimbledon-quarterfinals-318e96fb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals",
+      "published_at": "2026-07-05T18:45:55.000Z",
+      "image": "",
+      "image_alt": "Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/5/osaka-knocks-out-top-seeded-sabalenka-to-reach-wimbledon-quarterfinals?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuat-976d17a4",
+      "region": "World",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
+      "published_at": "2026-07-05T18:40:43.000Z",
+      "image": "",
+      "image_alt": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "florida-republican-says-deporting-haitians-with-tps-would-be-huge-mist-196c92e9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
+      "published_at": "2026-07-05T19:54:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/2264b79b9425157f39e0961676cee0bac524b79e/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=030c688833b69bdabe5b444411a6e40f",
+      "image_alt": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez"
         }
       ],
       "impact": 75
+    },
+    {
+      "id": "some-lebanese-christian-villages-asked-to-be-annexed-to-israel-netanya-3c24700c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
+      "published_at": "2026-07-05T18:35:23.000Z",
+      "image": "https://s.france24.com/media/display/c879c718-789f-11f1-bfee-005056bfb2b6/w:1024/p:16x9/000-B9AY3G8.jpg",
+      "image_alt": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260705-netanyahu-says-lebanese-christian-villages-sought-annexation-by-israel"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "could-islamist-fighters-take-timbuktu-ce8c2b6c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Could islamist fighters take Timbuktu?",
+      "published_at": "2026-07-05T18:21:55.000Z",
+      "image": "https://s.france24.com/media/display/ac1eca44-789c-11f1-81f5-005056a90284/w:1024/p:16x9/Anglais-2026-07-05T18-03-09-890Z.jpg",
+      "image_alt": "Could islamist fighters take Timbuktu?",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "wildfires-rage-in-portugal-greece-france-and-spain-8a168e22",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Wildfires rage in Portugal, Greece, France and Spain",
+      "published_at": "2026-07-05T18:02:00.000Z",
+      "image": "",
+      "image_alt": "Wildfires rage in Portugal, Greece, France and Spain",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/wildfires-rage-in-portugal-greece-france-and-spain/a-77839526?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "thieves-steal-around-4-million-in-jewellery-from-french-museum-65b0028a",
@@ -339,30 +362,7 @@
           "url": "https://www.france24.com/en/france/20260705-thieves-steal-around-%E2%82%AC4-million-in-jewellery-from-french-museum"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "why-iran-s-unseen-leader-remains-in-the-shadows-96fad650",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why Iran's unseen leader remains in the shadows",
-      "published_at": "2026-07-05T17:30:05.000Z",
-      "image": "https://s.france24.com/media/display/326b82ae-788e-11f1-9265-005056a97e36/w:1024/p:16x9/ANGL260705-1815-Live-CS1815.jpg",
-      "image_alt": "Why Iran's unseen leader remains in the shadows",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260705-why-iran-s-unseen-leader-remains-in-the-shadows"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "vladimir-putin-or-the-loneliness-of-homo-sovieticus-2d0f9f31",
@@ -385,122 +385,99 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/05/vladimir-putin-or-the-loneliness-of-homo-sovieticus_6755172_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "students-leave-gaza-to-continue-studies-others-in-limbo-5763e121",
+      "id": "why-iran-s-unseen-leader-remains-in-the-shadows-96fad650",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Students leave Gaza to continue studies, others in limbo",
-      "published_at": "2026-07-05T16:28:00.000Z",
-      "image": "",
-      "image_alt": "Students leave Gaza to continue studies, others in limbo",
+      "headline": "Why Iran's unseen leader remains in the shadows",
+      "published_at": "2026-07-05T17:30:05.000Z",
+      "image": "https://s.france24.com/media/display/326b82ae-788e-11f1-9265-005056a97e36/w:1024/p:16x9/ANGL260705-1815-Live-CS1815.jpg",
+      "image_alt": "Why Iran's unseen leader remains in the shadows",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20260705-why-iran-s-unseen-leader-remains-in-the-shadows"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "turkey-steps-up-arrests-ahead-of-nato-summit-0ca38b1e",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Turkey steps up arrests ahead of NATO summit",
+      "published_at": "2026-07-05T17:08:00.000Z",
+      "image": "",
+      "image_alt": "Turkey steps up arrests ahead of NATO summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "isaac-del-toro-overcomes-mechanical-setback-to-win-tour-de-france-2nd--4a802ba7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Isaac Del Toro overcomes mechanical setback to win Tour de France 2nd stage",
-      "published_at": "2026-07-05T16:12:19.000Z",
-      "image": "https://s.france24.com/media/display/db602778-788b-11f1-9b96-005056bfb2b6/w:1024/p:16x9/000-B9B976X.jpg",
-      "image_alt": "Isaac Del Toro overcomes mechanical setback to win Tour de France 2nd stage",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260705-isaac-del-toro-overcomes-mechanical-setback-to-win-tour-de-france-2nd-stage"
+          "url": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 71
     },
     {
-      "id": "marine-le-pen-faces-key-appeal-ruling-over-2027-presidential-bid-b536814d",
-      "region": "Europe",
+      "id": "from-a-beautiful-night-to-world-s-greatest-hangover-guests-react-to-ta-1f51f0c1",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Marine Le Pen faces key appeal ruling over 2027 presidential bid",
-      "published_at": "2026-07-05T15:52:07.000Z",
-      "image": "https://s.france24.com/media/display/e8406b18-7888-11f1-8cb0-005056bf30b7/w:1024/p:16x9/EN-20260705-160750-161222-CS.jpg",
-      "image_alt": "Marine Le Pen faces key appeal ruling over 2027 presidential bid",
+      "urgency": "Update",
+      "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "published_at": "2026-07-05T15:48:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/3525a160-7888-11f1-a627-714adb4eed6e.jpg",
+      "image_alt": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/marine-le-pen-faces-key-appeal-ruling-over-2027-presidential-bid"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 71
     },
     {
-      "id": "guam-on-alert-as-super-typhoon-bavi-closes-in-72b32a2b",
-      "region": "Europe",
+      "id": "at-site-where-iran-s-slain-leader-lies-some-see-a-symbol-of-his-failur-cd5527b5",
+      "region": "Middle East",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Guam on alert as Super Typhoon Bavi closes in",
-      "published_at": "2026-07-05T15:47:58.000Z",
-      "image": "https://s.france24.com/media/display/6ed0fcca-7888-11f1-b439-005056bf30b7/w:1024/p:16x9/EN-20260705-160122-160306-CS.jpg",
-      "image_alt": "Guam on alert as Super Typhoon Bavi closes in",
+      "urgency": "Update",
+      "headline": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
+      "published_at": "2026-07-05T16:02:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-mosalla-vjzg/05int-iran-mosalla-vjzg-mediumSquareAt3X.jpg",
+      "image_alt": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/guam-on-alert-as-super-typhoon-bavi-closes-in"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "pope-leo-xiv-visits-lampedusa-delivers-powerful-and-symbolic-message-t-167fc28e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo XIV visits Lampedusa, delivers powerful and symbolic message to 'protect migrants'",
-      "published_at": "2026-07-05T15:59:03.000Z",
-      "image": "https://img.lemde.fr/2026/07/04/655/0/8640/4320/644/322/60/0/ae9db0f_ftp-1-yesxgsxp5yau-a89a1c2fef2446c69f8d1f0bf981b84c-0-10abb026508a4d32972bf46a88f5d6f7.jpg",
-      "image_alt": "Pope Leo XIV visits Lampedusa, delivers powerful and symbolic message to 'protect migrants'",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/pope-leo-xiv-visits-lampedusa-delivers-powerful-and-symbolic-message-to-protect-migrants_6755169_4.html"
-        }
-      ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "australia-probes-mystery-space-balls-that-washed-up-on-beach-23eadbf6",
@@ -523,7 +500,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
+    },
+    {
+      "id": "students-leave-gaza-to-continue-studies-others-in-limbo-5763e121",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Students leave Gaza to continue studies, others in limbo",
+      "published_at": "2026-07-05T16:28:00.000Z",
+      "image": "",
+      "image_alt": "Students leave Gaza to continue studies, others in limbo",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 66
     },
     {
       "id": "mourners-chant-revenge-at-funeral-prayers-for-iran-s-slain-supreme-lea-a0281251",
@@ -546,30 +546,30 @@
           "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html"
         }
       ],
-      "impact": 68
+      "impact": 66
     },
     {
-      "id": "top-iranian-officials-attend-day-2-of-ali-khamenei-apos-s-funeral-49d0e02c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Top Iranian officials attend day 2 of Ali Khamenei&apos;s funeral",
-      "published_at": "2026-07-05T15:28:00.000Z",
+      "id": "australia-thrash-england-to-win-record-seventh-women-s-t20-world-cup-d9610fcf",
+      "region": "Asia-Pacific",
+      "topic": "Sports",
+      "urgency": "Live",
+      "headline": "Australia thrash England to win record seventh Women’s T20 World Cup",
+      "published_at": "2026-07-05T19:46:35.000Z",
       "image": "",
-      "image_alt": "Top Iranian officials attend day 2 of Ali Khamenei&apos;s funeral",
+      "image_alt": "Australia thrash England to win record seventh Women’s T20 World Cup",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/top-iranian-officials-attend-day-2-of-ali-khamenei-s-funeral/a-77836567?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/5/australia-thrash-england-to-win-record-seventh-womens-t20-world-cup?traffic_source=rss"
         }
       ],
-      "impact": 66
+      "impact": 65
     }
   ]
 }
