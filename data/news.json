@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T23:58:33.551Z",
+  "updated_at": "2026-07-05T03:54:58.970Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocc-12e0a9af",
-      "region": "Europe",
+      "id": "iran-war-live-huge-crowds-mourn-khamenei-trump-vows-to-hold-fire-ae2dada3",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+      "published_at": "2026-07-05T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "fireworks-light-up-new-york-city-to-mark-250-years-of-us-independence-fb75a97f",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
-      "published_at": "2026-07-04T23:25:33.000Z",
+      "headline": "Fireworks light up New York City to mark 250 years of US independence",
+      "published_at": "2026-07-05T02:55:06.000Z",
       "image": "",
-      "image_alt": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
+      "image_alt": "Fireworks light up New York City to mark 250 years of US independence",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,20 +60,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "prince-harry-will-travel-to-london-but-without-his-family-1214abe2",
+      "id": "severe-weather-disrupts-us-s-250th-celebrations-6fb7fea4",
+      "region": "Americas",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Severe weather disrupts US’s 250th celebrations",
+      "published_at": "2026-07-05T02:54:05.000Z",
+      "image": "",
+      "image_alt": "Severe weather disrupts US’s 250th celebrations",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "huge-crowds-mass-in-tehran-for-ayatollah-s-state-funeral-8a1cba11",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Prince Harry Will Travel to London, but Without His Family",
-      "published_at": "2026-07-04T23:18:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-mediumSquareAt3X.jpg",
-      "image_alt": "Prince Harry Will Travel to London, but Without His Family",
+      "headline": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+      "published_at": "2026-07-05T01:03:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-khamenei-funeral-fmvh/04int-khamenei-funeral-fmvh-mediumSquareAt3X.jpg",
+      "image_alt": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,56 +106,171 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html"
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "trump-speaks-with-putin-and-zelensky-ahead-of-nato-summit-a82a9e7d",
+      "id": "venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors--d59d15b2",
       "region": "Europe",
-      "topic": "Politics",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Trump speaks with Putin and Zelensky ahead of NATO summit",
-      "published_at": "2026-07-04T22:18:34.000Z",
-      "image": "https://img.lemde.fr/2026/07/04/0/0/1792/896/644/322/60/0/51d5a9f_ftp-1-xz8dirmxaot0-2026-07-04t210732z-42590236-rc2xpiag1mob-rtrmadp-3-ukraine-crisis-zelenskiy-trump.JPG",
-      "image_alt": "Trump speaks with Putin and Zelensky ahead of NATO summit",
+      "headline": "Venezuela earthquake death toll nears 3,000 as hope to find survivors dims",
+      "published_at": "2026-07-05T03:27:00.000Z",
+      "image": "",
+      "image_alt": "Venezuela earthquake death toll nears 3,000 as hope to find survivors dims",
       "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/trump-speaks-with-putin-and-zelensky-ahead-of-nato-summit_6755156_4.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "us-influence-challenged-by-changing-global-order-paolo-von-schirach-5b8346c8",
+      "id": "this-immigrant-served-in-the-us-military-now-he-faces-deportation-9d29ecc1",
       "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US influence challenged by changing global order: Paolo von Schirach",
-      "published_at": "2026-07-04T22:10:39.000Z",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "This immigrant served in the US military. Now he faces deportation",
+      "published_at": "2026-07-05T00:49:14.000Z",
       "image": "",
-      "image_alt": "US influence challenged by changing global order: Paolo von Schirach",
+      "image_alt": "This immigrant served in the US military. Now he faces deportation",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
+    },
+    {
+      "id": "250-a-os-de-presidentes-de-estados-unidos-y-ninguno-tan-destructivo-co-a7b46bb7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "250 años de presidentes de Estados Unidos y ninguno tan destructivo como Trump",
+      "published_at": "2026-07-05T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZMJJKZALEBEGBMYUWI2TBTKGXY.jpeg?auth=4251b802540d51e83db12a1bbb72b92169d6f74a82606c85fa05c00af0957fae",
+      "image_alt": "250 años de presidentes de Estados Unidos y ninguno tan destructivo como Trump",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-05/250-anos-de-presidentes-de-estados-unidos-y-ninguno-tan-destructivo-como-trump.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "hannah-arendt-contra-nixon-y-trump-82e1c324",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hannah Arendt contra Nixon y Trump",
+      "published_at": "2026-07-05T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/FRFM2EZWSFLFRNVT3B4ZBYAYWU.jpg?auth=0a71f98e6567a888a993b542211532eaffc503510002afed94b4171ab49643a5",
+      "image_alt": "Hannah Arendt contra Nixon y Trump",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-05/hannah-arendt-contra-nixon-y-trump.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "el-mundo-se-precipita-a-una-peligrosa-espiral-de-gasto-militar-8e0368c8",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "El mundo se precipita a una peligrosa espiral de gasto militar",
+      "published_at": "2026-07-05T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/EPTFZBPUYJL3NLKR7ORLUVTNTQ.jpg?auth=adc1a6e3b1bdbe3e9ec5d80bd035accc0192b6d02bfdc8313596f0a2d8c0cf3d",
+      "image_alt": "El mundo se precipita a una peligrosa espiral de gasto militar",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-05/el-mundo-se-precipita-a-una-peligrosa-espiral-de-gasto-militar.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "diplom-tico-o-sirviente-de-trump-la-estrategia-de-rutte-para-salvar-la-8b056f45",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "¿Diplomático o sirviente de Trump? La estrategia de Rutte para salvar la OTAN",
+      "published_at": "2026-07-05T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/2EBZ5EISG5NWBK77PHVKQSJIEI.jpg?auth=daff8dcfc33e6ade41d40e31338f6f2bb1d58c112c8805adce4e4aeee7b16be1",
+      "image_alt": "¿Diplomático o sirviente de Trump? La estrategia de Rutte para salvar la OTAN",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-05/diplomatico-o-sirviente-de-trump-la-estrategia-de-rutte-para-salvar-la-otan.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "france-paraguay-french-fans-in-philly-react-to-1-0-score-29e1f9c0",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France-Paraguay : French fans in Philly react to 1-0 score",
+      "published_at": "2026-07-05T01:18:25.000Z",
+      "image": "https://s.france24.com/media/display/aedf428e-780d-11f1-98ef-005056a97e36/w:1024/p:16x9/TN-France-Paraguay0.jpg",
+      "image_alt": "France-Paraguay : French fans in Philly react to 1-0 score",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france-paraguay-french-fans-in-philly-react-to-1-0-score"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "ukraine-hits-major-oil-terminal-in-russia-s-st-petersburg-0a6fbb1c",
@@ -132,17 +293,17 @@
           "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
+      "impact": 71
     },
     {
-      "id": "masses-of-iranians-defy-heatwave-on-second-day-of-khamenei-s-funeral-a20654a6",
-      "region": "World",
+      "id": "white-nationalists-march-on-washington-dc-ahead-of-freedom-250-celebra-8c31ead4",
+      "region": "Americas",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-      "published_at": "2026-07-04T21:08:18.000Z",
+      "urgency": "Update",
+      "headline": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+      "published_at": "2026-07-05T00:08:47.000Z",
       "image": "",
-      "image_alt": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+      "image_alt": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -152,79 +313,102 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss"
         }
       ],
-      "impact": 74
+      "impact": 68
     },
     {
-      "id": "we-sacrificed-everything-in-nablus-the-relentless-decline-of-palestini-41233e53",
+      "id": "white-nationalists-march-in-washington-dc-area-during-july-4-festiviti-19870dc2",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "White nationalists march in Washington, DC, area during July 4 festivities",
+      "published_at": "2026-07-04T23:57:52.000Z",
+      "image": "",
+      "image_alt": "White nationalists march in Washington, DC, area during July 4 festivities",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocc-12e0a9af",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "'We sacrificed everything': In Nablus, the relentless decline of Palestinian society",
-      "published_at": "2026-07-04T22:41:54.000Z",
-      "image": "https://img.lemde.fr/2026/06/30/630/0/3298/1649/644/322/60/0/7124d9c_upload-1-x6flnj53esn5-ll-naplouse-crise-eco-cisjordanie-50.jpg",
-      "image_alt": "'We sacrificed everything': In Nablus, the relentless decline of Palestinian society",
+      "urgency": "Update",
+      "headline": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
+      "published_at": "2026-07-04T23:25:33.000Z",
+      "image": "",
+      "image_alt": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "prince-harry-will-travel-to-london-but-without-his-family-1214abe2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Prince Harry Will Travel to London, but Without His Family",
+      "published_at": "2026-07-04T23:18:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-mediumSquareAt3X.jpg",
+      "image_alt": "Prince Harry Will Travel to London, but Without His Family",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "trump-speaks-with-putin-and-zelensky-ahead-of-nato-summit-a82a9e7d",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Trump speaks with Putin and Zelensky ahead of NATO summit",
+      "published_at": "2026-07-04T22:18:34.000Z",
+      "image": "https://img.lemde.fr/2026/07/04/0/0/1792/896/644/322/60/0/51d5a9f_ftp-1-xz8dirmxaot0-2026-07-04t210732z-42590236-rc2xpiag1mob-rtrmadp-3-ukraine-crisis-zelenskiy-trump.JPG",
+      "image_alt": "Trump speaks with Putin and Zelensky ahead of NATO summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/we-sacrificed-everything-in-nablus-the-relentless-decline-of-palestinian-society_6755157_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/trump-speaks-with-putin-and-zelensky-ahead-of-nato-summit_6755156_4.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "man-climbs-eiffel-tower-and-hangs-american-flag-9eb0dd1c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Man climbs Eiffel Tower and hangs American flag",
-      "published_at": "2026-07-04T21:32:12.000Z",
-      "image": "https://img.lemde.fr/2026/07/03/241/0/8450/4225/644/322/60/0/3a4d233_ftp-1-wkvcmpvkjrzy-81326daf0c6043948252cc30289876fd-0-f0ccf0b9cb4648d8a672f9ef919a66fb.jpg",
-      "image_alt": "Man climbs Eiffel Tower and hangs American flag",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/04/man-climbs-eiffel-tower-and-hangs-american-flag_6755155_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "ireland-s-gdp-trends-reflect-global-strategies-of-a-handful-of-multina-2d02ca48",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'Ireland's GDP trends reflect global strategies of a handful of multinationals more than the actual state of the economy'",
-      "published_at": "2026-07-04T21:24:13.000Z",
-      "image": "https://img.lemde.fr/2026/06/29/903/0/4012/2006/644/322/60/0/5a9a85f_upload-1-dpzga9uiac0v-000-39z43ck.jpg",
-      "image_alt": "'Ireland's GDP trends reflect global strategies of a handful of multinationals more than the actual state of the economy'",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/07/04/ireland-s-gdp-trends-reflect-global-strategies-of-a-handful-of-multinationals-more-than-the-actual-state-of-the-economy_6755154_23.html"
-        }
-      ],
-      "impact": 71
+      "impact": 67
     },
     {
       "id": "momentary-unity-at-a-funeral-masks-deep-divisions-among-iran-s-leaders-ff9639bc",
@@ -247,122 +431,7 @@
           "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "huge-crowds-mass-in-tehran-for-ayatollah-s-state-funeral-8a1cba11",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
-      "published_at": "2026-07-04T20:39:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-khamenei-funeral-fmvh/04int-khamenei-funeral-fmvh-mediumSquareAt3X.jpg",
-      "image_alt": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "lebanon-s-aoun-calls-on-us-to-keep-always-standing-beside-his-country-b2f7f604",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
-      "published_at": "2026-07-04T20:06:41.000Z",
-      "image": "",
-      "image_alt": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary-4d46a997",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "A politically charged holiday: The US celebrates its 250th anniversary",
-      "published_at": "2026-07-04T19:43:18.000Z",
-      "image": "",
-      "image_alt": "A politically charged holiday: The US celebrates its 250th anniversary",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "america-s-indigenous-legacy-ab7189f8",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "America’s Indigenous Legacy",
-      "published_at": "2026-07-04T19:32:43.000Z",
-      "image": "",
-      "image_alt": "America’s Indigenous Legacy",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "ukraine-strikes-oil-terminals-near-st-petersburg-in-russia-6de2096e",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-      "published_at": "2026-07-04T17:48:00.000Z",
-      "image": "",
-      "image_alt": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 68
+      "impact": 66
     },
     {
       "id": "injury-ends-williams-wimbledon-comeback-e7a250ab",
@@ -383,144 +452,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "archaeologists-uncover-ancient-byzantine-city-in-egypt-s-western-deser-aa16ba8f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "published_at": "2026-07-04T20:32:52.000Z",
-      "image": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=140&quality=85&auto=format&fit=max&s=8edc3dc6eea3352f53f37e661884deb9",
-      "image_alt": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "trump-s-travel-crackdown-has-a-winner-mexican-tourism-da2d0316",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
-      "published_at": "2026-07-04T18:03:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-mediumSquareAt3X.jpg",
-      "image_alt": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "former-chess-champion-kramnik-banned-over-cheating-remarks-1bf49b6d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Former chess champion Kramnik banned over cheating remarks",
-      "published_at": "2026-07-04T15:45:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffb/live/51aa3090-77b5-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Former chess champion Kramnik banned over cheating remarks",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "putin-visits-battlefield-and-vows-to-take-more-of-ukraine-1058df1d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Putin Visits Battlefield and Vows to Take More of Ukraine",
-      "published_at": "2026-07-04T17:11:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/03/multimedia/03int-russia-putin-mqlp/03int-russia-putin-mqlp-mediumSquareAt3X.jpg",
-      "image_alt": "Putin Visits Battlefield and Vows to Take More of Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "ticket-prices-plunge-for-usa-belgium-world-cup-last-16-match-fab56374",
-      "region": "World",
-      "topic": "Sports",
-      "urgency": "Live",
-      "headline": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
-      "published_at": "2026-07-04T23:36:37.000Z",
-      "image": "",
-      "image_alt": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
-      "translations": {
-        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match?traffic_source=rss"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "hezbollah-hamas-and-houthi-officials-attend-funeral-ceremonies-for-ira-1d8a6210",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Hezbollah, Hamas and Houthi officials attend funeral ceremonies for Iran's Khamenei",
-      "published_at": "2026-07-04T20:28:50.000Z",
-      "image": "https://s.france24.com/media/display/8c647eaa-77e4-11f1-97ff-005056a97e36/w:1024/p:16x9/AP26185653352363.jpg",
-      "image_alt": "Hezbollah, Hamas and Houthi officials attend funeral ceremonies for Iran's Khamenei",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260704-hezbollah-hamas-and-houthi-officials-attend-funeral-ceremonies-for-iran-s-khamenei"
         }
       ],
       "impact": 65
@@ -549,27 +480,96 @@
       "impact": 65
     },
     {
-      "id": "world-cup-2026-mbapp-sends-les-bleus-into-quarterfinals-after-hard-fou-617d78b1",
+      "id": "trump-pushes-ahead-with-250th-birthday-speech-after-storm-forces-evacu-db3fe195",
       "region": "Europe",
-      "topic": "Sports",
-      "urgency": "Live",
-      "headline": "World Cup 2026: Mbappé sends Les Bleus into quarterfinals after hard-fought win over Paraguay",
-      "published_at": "2026-07-04T23:10:56.000Z",
-      "image": "https://s.france24.com/media/display/c7f9ce30-77fc-11f1-a1fc-005056a97e36/w:1024/p:16x9/2026-07-04T225350Z-1734595029-UP1EM741RHC4A-RTRMADP-3-SOCCER-WORLDCUP-PRY-FRA.jpg",
-      "image_alt": "World Cup 2026: Mbappé sends Les Bleus into quarterfinals after hard-fought win over Paraguay",
+      "topic": "Climate",
+      "urgency": "Update",
+      "headline": "Trump pushes ahead with 250th birthday speech after storm forces evacuations",
+      "published_at": "2026-07-05T00:19:40.000Z",
+      "image": "https://img.lemde.fr/2026/07/04/300/0/6000/3000/644/322/60/0/846da6d_ftp-1-jiwywf9qou5w-2026-07-04t233105z-1509933678-rc2b7mal04ah-rtrmadp-3-usa-250-trump.JPG",
+      "image_alt": "Trump pushes ahead with 250th birthday speech after storm forces evacuations",
       "translations": {
-        "en": "PULSE is tracking this sports update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sport-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de deportes de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sport de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260704-world-cup-2026-mbapp%C3%A9-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/massive-july-4th-celebration-in-washington-dc-evacuated-due-to-weather_6755159_4.html"
         }
       ],
       "impact": 64
+    },
+    {
+      "id": "ukraine-strikes-oil-terminals-near-st-petersburg-in-russia-6de2096e",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "published_at": "2026-07-04T17:48:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 64
+    },
+    {
+      "id": "we-sacrificed-everything-in-nablus-the-relentless-decline-of-palestini-41233e53",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "'We sacrificed everything': In Nablus, the relentless decline of Palestinian society",
+      "published_at": "2026-07-04T22:41:54.000Z",
+      "image": "https://img.lemde.fr/2026/06/30/630/0/3298/1649/644/322/60/0/7124d9c_upload-1-x6flnj53esn5-ll-naplouse-crise-eco-cisjordanie-50.jpg",
+      "image_alt": "'We sacrificed everything': In Nablus, the relentless decline of Palestinian society",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/we-sacrificed-everything-in-nablus-the-relentless-decline-of-palestinian-society_6755157_4.html"
+        }
+      ],
+      "impact": 63
+    },
+    {
+      "id": "archaeologists-uncover-ancient-byzantine-city-in-egypt-s-western-deser-aa16ba8f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "published_at": "2026-07-04T20:32:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=140&quality=85&auto=format&fit=max&s=8edc3dc6eea3352f53f37e661884deb9",
+      "image_alt": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert"
+        }
+      ],
+      "impact": 63
     }
   ]
 }
