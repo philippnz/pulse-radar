@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T22:58:33.581Z",
+  "updated_at": "2026-07-06T00:11:42.161Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "a-global-hub-for-fake-luxury-goods-vietnam-cracks-down-on-its-black-ma-d420d1ad",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "published_at": "2026-07-05T22:01:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg",
+      "image_alt": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
     {
       "id": "exhausted-by-iran-war-tehran-transforms-for-khamenei-s-funeral-9262fe76",
       "region": "Middle East",
@@ -40,7 +63,7 @@
           "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html"
         }
       ],
-      "impact": 83
+      "impact": 81
     },
     {
       "id": "turkiye-gears-up-for-its-first-nato-summit-in-22-years-f260da70",
@@ -63,7 +86,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "marine-le-pen-appeal-verdict-why-this-moment-matters-for-france-9cd08cb9",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "published_at": "2026-07-05T23:31:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae5/live/6c2d8350-7868-11f1-ab53-3dbca6ef5ee1.jpg",
+      "image_alt": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "rodr-guez-defends-venezuela-s-emergency-earthquake-response-as-number--07d47556",
@@ -86,7 +132,7 @@
           "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "super-typhoon-bavi-makes-landfall-on-us-pacific-islands-with-huge-wind-14d99658",
@@ -109,7 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
       "id": "venezuelan-leader-marks-independence-day-with-message-of-no-social-unr-7e7bc5ea",
@@ -132,7 +178,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "how-a-son-rescued-his-father-from-the-rubble-of-venezuela-s-earthquake-816d3d88",
@@ -155,7 +201,7 @@
           "url": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "world-cup-2026-haaland-brace-sinks-brazil-as-norway-storm-into-quarter-8ea62af2",
@@ -178,7 +224,7 @@
           "url": "https://www.france24.com/en/sport/20260705-world-cup-2026-haaland-brace-sinks-brazil-as-norway-storm-into-quarter-finals"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical--ace102c4",
@@ -201,30 +247,53 @@
           "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "albanian-court-frees-protesters-who-rallied-against-kushner-linked-res-e87ba62a",
-      "region": "World",
-      "topic": "Society",
+      "id": "white-supremacist-march-in-dc-just-messy-democracy-official-says-3833f32d",
+      "region": "Europe",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Albanian court frees protesters who rallied against Kushner-linked resort",
-      "published_at": "2026-07-05T20:50:58.000Z",
-      "image": "",
-      "image_alt": "Albanian court frees protesters who rallied against Kushner-linked resort",
+      "headline": "White supremacist march in DC just 'messy' democracy, official says",
+      "published_at": "2026-07-06T00:03:44.000Z",
+      "image": "https://img.lemde.fr/2026/07/04/440/0/5275/2637/644/322/60/0/5fcbd96_ftp-1-o1wf8bmoymae-5529850-01-06.jpg",
+      "image_alt": "White supremacist march in DC just 'messy' democracy, official says",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/06/white-supremacist-march-in-dc-just-messy-democracy-official-says_6755176_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "mexico-vs-england-live-world-cup-blockbuster-delayed-by-an-hour-due-to-55b659ed",
+      "region": "Americas",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Mexico vs England live: World Cup blockbuster delayed by an hour due to weather",
+      "published_at": "2026-07-05T22:59:27.000Z",
+      "image": "https://s.france24.com/media/display/310565c6-78aa-11f1-b679-005056a90284/w:1024/p:16x9/MEX-ENG-H.png",
+      "image_alt": "Mexico vs England live: World Cup blockbuster delayed by an hour due to weather",
+      "translations": {
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20260705-mexico-vs-england-live-azteca-fortress-hosts-three-lions-world-cup-last-16"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "netanyahu-says-some-lebanese-christian-villages-asked-to-be-annexed-by-7c8c1041",
@@ -247,30 +316,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/05/netanyahu-says-some-lebanese-christian-villages-asked-to-be-annexed-by-israel_6755174_4.html"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
-      "id": "zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-con-3a0f62e5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
-      "published_at": "2026-07-05T20:19:22.000Z",
-      "image": "https://s.france24.com/media/display/571b76c0-78ae-11f1-8c8e-005056a90284/w:1024/p:16x9/000-A2AK9CQ.jpg",
-      "image_alt": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+      "id": "albanian-court-frees-protesters-who-rallied-against-kushner-linked-res-e87ba62a",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Update",
+      "headline": "Albanian court frees protesters who rallied against Kushner-linked resort",
+      "published_at": "2026-07-05T20:50:58.000Z",
+      "image": "",
+      "image_alt": "Albanian court frees protesters who rallied against Kushner-linked resort",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "definitely-felt-a-big-bang-delta-plane-hit-by-firework-while-landing-i-5cf2c6cd",
@@ -293,7 +362,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "iran-s-supreme-leader-absent-as-senior-officials-attend-ayatollah-s-fu-ddc678e5",
@@ -316,7 +385,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "watch-lyse-doucet-on-emotion-and-politics-at-tehran-funeral-of-former--9726ba2e",
@@ -339,7 +408,7 @@
           "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "turkey-steps-up-arrests-ahead-of-nato-summit-0ca38b1e",
@@ -362,7 +431,7 @@
           "url": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 68
+      "impact": 67
     },
     {
       "id": "from-a-beautiful-night-to-world-s-greatest-hangover-guests-react-to-ta-1f51f0c1",
@@ -385,7 +454,7 @@
           "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 68
+      "impact": 67
     },
     {
       "id": "florida-republican-says-deporting-haitians-with-tps-would-be-huge-mist-196c92e9",
@@ -408,7 +477,30 @@
           "url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez"
         }
       ],
-      "impact": 67
+      "impact": 66
+    },
+    {
+      "id": "zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-con-3a0f62e5",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+      "published_at": "2026-07-05T20:19:22.000Z",
+      "image": "https://s.france24.com/media/display/571b76c0-78ae-11f1-8c8e-005056a90284/w:1024/p:16x9/000-A2AK9CQ.jpg",
+      "image_alt": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues"
+        }
+      ],
+      "impact": 65
     },
     {
       "id": "at-site-where-iran-s-slain-leader-lies-some-see-a-symbol-of-his-failur-cd5527b5",
@@ -429,29 +521,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last--88256fc8",
-      "region": "Americas",
-      "topic": "Sports",
-      "urgency": "Live",
-      "headline": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
-      "published_at": "2026-07-05T22:26:49.000Z",
-      "image": "",
-      "image_alt": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
-      "translations": {
-        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16?traffic_source=rss"
         }
       ],
       "impact": 65
@@ -477,7 +546,7 @@
           "url": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 65
+      "impact": 64
     },
     {
       "id": "australia-probes-mystery-space-balls-that-washed-up-on-beach-23eadbf6",
@@ -498,75 +567,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "some-lebanese-christian-villages-asked-to-be-annexed-to-israel-netanya-3c24700c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
-      "published_at": "2026-07-05T18:35:23.000Z",
-      "image": "https://s.france24.com/media/display/c879c718-789f-11f1-bfee-005056bfb2b6/w:1024/p:16x9/000-B9AY3G8.jpg",
-      "image_alt": "Some Lebanese Christian villages 'asked to be annexed to Israel', Netanyahu says",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260705-netanyahu-says-lebanese-christian-villages-sought-annexation-by-israel"
-        }
-      ],
-      "impact": 64
-    },
-    {
-      "id": "could-islamist-fighters-take-timbuktu-ce8c2b6c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Could islamist fighters take Timbuktu?",
-      "published_at": "2026-07-05T18:21:55.000Z",
-      "image": "https://s.france24.com/media/display/ac1eca44-789c-11f1-81f5-005056a90284/w:1024/p:16x9/Anglais-2026-07-05T18-03-09-890Z.jpg",
-      "image_alt": "Could islamist fighters take Timbuktu?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu"
-        }
-      ],
-      "impact": 64
-    },
-    {
-      "id": "wildfires-rage-in-portugal-greece-france-and-spain-8a168e22",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Wildfires rage in Portugal, Greece, France and Spain",
-      "published_at": "2026-07-05T18:02:00.000Z",
-      "image": "",
-      "image_alt": "Wildfires rage in Portugal, Greece, France and Spain",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/wildfires-rage-in-portugal-greece-france-and-spain/a-77839526?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 64
