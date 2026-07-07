@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:36:20.609Z",
+  "updated_at": "2026-07-07T23:54:51.566Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "russian-missiles-strike-ukraine-s-capital-kyiv-for-third-time-in-a-wee-67fe65ff",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "published_at": "2026-07-07T22:53:35.000Z",
+      "image": "",
+      "image_alt": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "woman-suspected-of-monaco-bomb-attack-found-dead-in-ukraine-84bd5b5e",
       "region": "Europe",
@@ -40,7 +63,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "us-launches-strikes-on-iran-after-tankers-hit-in-strait-of-hormuz-2cb8fd2b",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "published_at": "2026-07-07T23:53:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+      "image_alt": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "suspect-in-monaco-bombing-attack-is-found-dead-in-ukraine-7eb590df",
@@ -63,7 +109,7 @@
           "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse-6e9c8f89",
@@ -86,96 +132,27 @@
           "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
-      "id": "us-launches-strikes-on-iran-after-tankers-hit-in-strait-of-hormuz-2cb8fd2b",
-      "region": "Middle East",
+      "id": "in-quebec-moving-day-overshadowed-by-housing-crisis-52669c92",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "published_at": "2026-07-07T22:19:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-      "image_alt": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "urgency": "Breaking",
+      "headline": "In Quebec, 'moving day' overshadowed by housing crisis",
+      "published_at": "2026-07-07T23:00:11.000Z",
+      "image": "https://img.lemde.fr/2026/07/02/557/0/4032/2016/644/322/60/0/d6298ff_upload-1-tt7w2pkl3lew-img-4325.JPG",
+      "image_alt": "In Quebec, 'moving day' overshadowed by housing crisis",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye-cfaed042",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
-      "published_at": "2026-07-07T20:08:40.000Z",
-      "image": "",
-      "image_alt": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "new-footage-shown-at-kirk-hearing-shows-man-on-rooftop-near-shooting-s-a405ddf8",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "published_at": "2026-07-07T20:00:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9139/live/497a46a0-7a3d-11f1-ab76-d75965dea4d1.jpg",
-      "image_alt": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "marine-le-pen-to-run-for-french-presidency-and-appeal-conviction-in-to-dd88be69",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "published_at": "2026-07-07T19:55:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg",
-      "image_alt": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/08/in-quebec-moving-day-overshadowed-by-housing-crisis_6755252_4.html"
         }
       ],
       "impact": 77
@@ -201,191 +178,30 @@
           "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "le-pen-says-she-will-run-for-presidency-after-court-lifts-ban-19a4afcd",
-      "region": "World",
-      "topic": "Society",
+      "id": "pakistan-plane-with-5-onboard-loses-contact-off-karachi-9b426c1b",
+      "region": "Asia-Pacific",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
-      "published_at": "2026-07-07T20:49:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-france-lepen01-photo-lpfm/07int-france-lepen01-photo-lpfm-mediumSquareAt3X.jpg",
-      "image_alt": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
-      "translations": {
-        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-apos-s-goal-d7a70f70",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Attacks on Kyiv ahead of NATO summit: What is Putin&apos;s goal?",
-      "published_at": "2026-07-07T19:46:00.000Z",
+      "headline": "Pakistan: Plane with 5 onboard loses contact off Karachi",
+      "published_at": "2026-07-07T22:54:00.000Z",
       "image": "",
-      "image_alt": "Attacks on Kyiv ahead of NATO summit: What is Putin&apos;s goal?",
+      "image_alt": "Pakistan: Plane with 5 onboard loses contact off Karachi",
       "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/pakistan-plane-with-5-onboard-loses-contact-off-karachi/a-77869075?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-614f1056",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Woman suspected of Monaco bombing is found dead in Ukraine, authorities say",
-      "published_at": "2026-07-07T19:27:39.000Z",
-      "image": "https://s.france24.com/media/display/768f8ae6-7a39-11f1-8283-005056bf30b7/w:1024/p:16x9/EN-20260707-211744-211852-CS.jpg",
-      "image_alt": "Woman suspected of Monaco bombing is found dead in Ukraine, authorities say",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-say"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one-29eebe07",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-      "published_at": "2026-07-07T20:50:34.000Z",
-      "image": "",
-      "image_alt": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "venezuela-buries-earthquake-victims-as-death-toll-reaches-3-535-5f8c7bc4",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Venezuela buries earthquake victims as death toll reaches 3,535",
-      "published_at": "2026-07-07T20:30:06.000Z",
-      "image": "",
-      "image_alt": "Venezuela buries earthquake victims as death toll reaches 3,535",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying-terroris-54367360",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
-      "published_at": "2026-07-07T20:27:41.000Z",
-      "image": "",
-      "image_alt": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-ques-c9952726",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-      "published_at": "2026-07-07T20:26:16.000Z",
-      "image": "",
-      "image_alt": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-war-699c98ee",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
-      "published_at": "2026-07-07T20:14:53.000Z",
-      "image": "",
-      "image_alt": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "ghana-halts-visit-by-south-african-president-amid-row-over-anti-migran-4f562314",
@@ -408,7 +224,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "ireland-passes-bill-banning-imports-of-goods-from-israeli-settlements-53fa895f",
@@ -431,7 +247,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/08/ireland-passes-bill-banning-imports-of-goods-from-israeli-settlements_6755251_4.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-s-28984c71",
@@ -454,30 +270,7 @@
           "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "pakistan-plane-with-5-onboard-loses-contact-off-karachi-9b426c1b",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pakistan: Plane with 5 onboard loses contact off Karachi",
-      "published_at": "2026-07-07T20:52:00.000Z",
-      "image": "",
-      "image_alt": "Pakistan: Plane with 5 onboard loses contact off Karachi",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/pakistan-plane-with-5-onboard-loses-contact-off-karachi/a-77869075?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "farage-resigns-and-says-he-will-run-again-in-special-election-798ba9a7",
@@ -500,7 +293,7 @@
           "url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "us-launches-new-strikes-on-iran-after-hormuz-attacks-3160d469",
@@ -508,7 +301,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "US launches new strikes on Iran after Hormuz attacks",
-      "published_at": "2026-07-07T21:57:47.000Z",
+      "published_at": "2026-07-07T21:57:44.000Z",
       "image": "https://img.lemde.fr/2026/07/07/1011/0/9930/4965/644/322/60/0/f768288_ftp-1-mlkxro66dpaz-2026-07-07t191605z-1137450747-rc279ma9krpo-rtrmadp-3-iran-crisis-missiles-hormuz.JPG",
       "image_alt": "US launches new strikes on Iran after Hormuz attacks",
       "translations": {
@@ -523,7 +316,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/07/us-launches-new-strikes-on-iran-after-hormuz-attacks_6755250_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-77466d50",
@@ -546,7 +339,7 @@
           "url": "https://www.france24.com/en/viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-1"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "undeterred-by-blasts-macron-says-france-ready-to-help-rebuild-syria-s--ec57e712",
@@ -569,7 +362,214 @@
           "url": "https://www.france24.com/en/tv-shows/business/20260707-undeterred-by-blasts-macron-says-france-ready-to-help-rebuild-syria-s-economy"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "new-footage-shown-at-kirk-hearing-shows-man-on-rooftop-near-shooting-s-a405ddf8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+      "published_at": "2026-07-07T20:00:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9139/live/497a46a0-7a3d-11f1-ab76-d75965dea4d1.jpg",
+      "image_alt": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "marine-le-pen-to-run-for-french-presidency-and-appeal-conviction-in-to-dd88be69",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Update",
+      "headline": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+      "published_at": "2026-07-07T19:55:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg",
+      "image_alt": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "venezuelans-criticize-own-government-response-after-twin-earthquakes-507128b9",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+      "published_at": "2026-07-07T17:15:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-venezuela-quakes-anger01-photo-fgvt/07int-venezuela-quakes-anger01-photo-fgvt-mediumSquareAt3X.jpg",
+      "image_alt": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "estados-unidos-lanza-nuevos-golpes-contra-ir-n-como-represalia-por-los-c8fc107a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques contra petroleros en Ormuz",
+      "published_at": "2026-07-07T21:48:20.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/CDGFWEGWVNIBRPJB6DW5V4VVQ4.jpg?auth=18722559c4c654924af619d4a9dab827a59062273b94f2c2d4b32c6900ce83a7",
+      "image_alt": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques contra petroleros en Ormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-07/estados-unidos-vuelve-a-prohibir-la-exportacion-de-petroleo-de-iran.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "canada-province-preparing-lawsuit-against-openai-over-school-shooting-c92aed1a",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canada province preparing lawsuit against OpenAI over school shooting",
+      "published_at": "2026-07-07T20:59:53.000Z",
+      "image": "https://img.lemde.fr/2026/07/02/461/0/5500/2750/644/322/60/0/899a424_ftp-1-hr7zr3xlj3po-2026-07-02t050138z-236351594-rc2umca4c3z1-rtrmadp-3-openai-stake-usa.JPG",
+      "image_alt": "Canada province preparing lawsuit against OpenAI over school shooting",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/07/canada-province-preparing-lawsuit-against-openai-over-school-shooting_6755249_4.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "le-pen-says-she-will-run-for-presidency-after-court-lifts-ban-19a4afcd",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Update",
+      "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
+      "published_at": "2026-07-07T20:49:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-france-lepen01-photo-lpfm/07int-france-lepen01-photo-lpfm-mediumSquareAt3X.jpg",
+      "image_alt": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
+      "translations": {
+        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-apos-s-goal-d7a70f70",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Attacks on Kyiv ahead of NATO summit: What is Putin&apos;s goal?",
+      "published_at": "2026-07-07T19:46:00.000Z",
+      "image": "",
+      "image_alt": "Attacks on Kyiv ahead of NATO summit: What is Putin&apos;s goal?",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "trump-looms-large-as-nato-grapples-with-challenge-of-rearming-europe-2cb5c862",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Trump looms large as Nato grapples with challenge of rearming Europe",
+      "published_at": "2026-07-07T18:56:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fce/live/b4660930-7a34-11f1-ab76-d75965dea4d1.jpg",
+      "image_alt": "Trump looms large as Nato grapples with challenge of rearming Europe",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "hungary-s-public-news-broadcasts-halted-in-bid-to-scrap-orban-era-prop-58ba29b4",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
+      "published_at": "2026-07-07T18:34:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8012/live/4853a720-7a20-11f1-b450-9f402cd7a05e.jpg",
+      "image_alt": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
     }
   ]
 }
