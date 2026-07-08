@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:54:51.566Z",
+  "updated_at": "2026-07-08T02:14:58.652Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "russian-missiles-strike-ukraine-s-capital-kyiv-for-third-time-in-a-wee-67fe65ff",
-      "region": "Europe",
+      "id": "iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks-8d4390bc",
+      "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
-      "published_at": "2026-07-07T22:53:35.000Z",
+      "headline": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
+      "published_at": "2026-07-08T00:00:00.000Z",
       "image": "",
-      "image_alt": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "image_alt": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +37,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
+    },
+    {
+      "id": "farage-resigns-and-says-he-will-run-again-in-special-election-798ba9a7",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Farage Resigns and Says He Will Run Again in Special Election",
+      "published_at": "2026-07-08T01:48:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-uk-farage-01-mvcf/08int-uk-farage-01-mvcf-mediumSquareAt3X.jpg",
+      "image_alt": "Farage Resigns and Says He Will Run Again in Special Election",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "venezuelans-criticize-own-government-response-after-twin-earthquakes-507128b9",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+      "published_at": "2026-07-08T01:14:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-venezuela-quakes-anger01-photo-fgvt/07int-venezuela-quakes-anger01-photo-fgvt-mediumSquareAt3X.jpg",
+      "image_alt": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "woman-suspected-of-monaco-bomb-attack-found-dead-in-ukraine-84bd5b5e",
@@ -63,7 +109,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 82
+    },
+    {
+      "id": "how-the-us-iran-conflict-is-reshaping-africa-s-geopolitical-opportunit-a02cad0a",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+      "published_at": "2026-07-08T01:04:26.000Z",
+      "image": "",
+      "image_alt": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "us-launches-strikes-on-iran-after-tankers-hit-in-strait-of-hormuz-2cb8fd2b",
@@ -71,7 +140,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "published_at": "2026-07-07T23:53:45.000Z",
+      "published_at": "2026-07-08T02:11:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
       "image_alt": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
       "translations": {
@@ -89,12 +158,35 @@
       "impact": 80
     },
     {
+      "id": "on-the-first-day-of-the-nato-summit-in-ankara-rutte-unveils-a-wave-of--cdcf816d",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "On the first day of the NATO summit in Ankara, Rutte unveils a wave of defense contracts worth billions of euros",
+      "published_at": "2026-07-08T02:00:35.000Z",
+      "image": "https://img.lemde.fr/2026/07/07/0/0/5500/2750/644/322/60/0/1297d75_ftp-1-vyrtbe0tqafp-2026-07-07t101522z-1934421449-rc2y8maco7a1-rtrmadp-3-nato-summit-defence.JPG",
+      "image_alt": "On the first day of the NATO summit in Ankara, Rutte unveils a wave of defense contracts worth billions of euros",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/08/on-the-first-day-of-the-nato-summit-in-ankara-rutte-unveils-a-wave-of-defense-contracts-worth-billions-of-euros_6755255_4.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
       "id": "suspect-in-monaco-bombing-attack-is-found-dead-in-ukraine-7eb590df",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
-      "published_at": "2026-07-07T15:34:06.000Z",
+      "published_at": "2026-07-07T15:34:07.000Z",
       "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-ukraine-monaco-bomber-promo-hp/07int-ukraine-monaco-bomber-01-tfmz-mediumSquareAt3X.jpg",
       "image_alt": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
       "translations": {
@@ -109,7 +201,7 @@
           "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
       "id": "estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse-6e9c8f89",
@@ -132,7 +224,145 @@
           "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html"
         }
       ],
-      "impact": 79
+      "impact": 77
+    },
+    {
+      "id": "us-immigration-officer-shoots-and-kills-man-in-texas-92b69e44",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US immigration officer shoots and kills man in Texas",
+      "published_at": "2026-07-08T01:26:01.000Z",
+      "image": "",
+      "image_alt": "US immigration officer shoots and kills man in Texas",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "argentina-fans-hurl-beer-at-egypt-supporters-after-final-whistle-2cbf8466",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Argentina fans hurl beer at Egypt supporters after final whistle",
+      "published_at": "2026-07-08T01:21:37.000Z",
+      "image": "",
+      "image_alt": "Argentina fans hurl beer at Egypt supporters after final whistle",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_argentina-fans-hurl-beer-at-egypt-supporters-070726?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-strikes-iran-despite-promised-pause-for-khamenei-funeral-a2ae22fb",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US strikes Iran despite promised pause for Khamenei funeral",
+      "published_at": "2026-07-08T01:13:54.000Z",
+      "image": "",
+      "image_alt": "US strikes Iran despite promised pause for Khamenei funeral",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "unstable-manhattan-skyscraper-triggers-collapse-fears-d7101e47",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Unstable Manhattan skyscraper triggers collapse fears",
+      "published_at": "2026-07-08T01:09:49.000Z",
+      "image": "",
+      "image_alt": "Unstable Manhattan skyscraper triggers collapse fears",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction-9b77a880",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Marine Le Pen to run for French Presidency despite criminal conviction",
+      "published_at": "2026-07-08T00:23:53.000Z",
+      "image": "",
+      "image_alt": "Marine Le Pen to run for French Presidency despite criminal conviction",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon-d74194a8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
+      "published_at": "2026-07-08T00:15:21.000Z",
+      "image": "",
+      "image_alt": "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "in-quebec-moving-day-overshadowed-by-housing-crisis-52669c92",
@@ -155,53 +385,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/08/in-quebec-moving-day-overshadowed-by-housing-crisis_6755252_4.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "us-says-strikes-launched-as-explosions-heard-in-southern-iran-67acba3b",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US says strikes launched as explosions heard in southern Iran",
-      "published_at": "2026-07-07T21:21:16.000Z",
-      "image": "",
-      "image_alt": "US says strikes launched as explosions heard in southern Iran",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "pakistan-plane-with-5-onboard-loses-contact-off-karachi-9b426c1b",
-      "region": "Asia-Pacific",
+      "id": "two-israeli-ngos-warn-of-a-de-facto-annexation-at-an-unprecedented-pac-1854ed25",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pakistan: Plane with 5 onboard loses contact off Karachi",
-      "published_at": "2026-07-07T22:54:00.000Z",
-      "image": "",
-      "image_alt": "Pakistan: Plane with 5 onboard loses contact off Karachi",
+      "headline": "Two Israeli NGOs warn of a 'de facto annexation at an unprecedented pace' in the West Bank",
+      "published_at": "2026-07-08T00:25:50.000Z",
+      "image": "https://img.lemde.fr/2026/07/06/1192/0/5760/2880/644/322/60/0/8634809_upload-1-uk1xknyly443-lgeai-routes-colonisation-67.jpg",
+      "image_alt": "Two Israeli NGOs warn of a 'de facto annexation at an unprecedented pace' in the West Bank",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/pakistan-plane-with-5-onboard-loses-contact-off-karachi/a-77869075?maca=en-rss-en-top-1022-rdf"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/08/two-israeli-ngos-warn-of-a-de-facto-annexation-at-an-unprecedented-pace-in-the-west-bank_6755253_4.html"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "ghana-halts-visit-by-south-african-president-amid-row-over-anti-migran-4f562314",
@@ -224,145 +431,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "ireland-passes-bill-banning-imports-of-goods-from-israeli-settlements-53fa895f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ireland passes bill banning imports of goods from Israeli settlements",
-      "published_at": "2026-07-07T22:29:06.000Z",
-      "image": "https://img.lemde.fr/2026/07/04/468/0/5616/2808/644/322/60/0/2bac957_ftp-1-wz44j044smyi-82307378e6704834ada17f57f98859ce-0-f4206e0d4b744d5f99d01978f0179832.jpg",
-      "image_alt": "Ireland passes bill banning imports of goods from Israeli settlements",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/08/ireland-passes-bill-banning-imports-of-goods-from-israeli-settlements_6755251_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-s-28984c71",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Middle East live: US launches strikes on Iran after ships attacked in Strait of Hormuz",
-      "published_at": "2026-07-07T21:46:41.000Z",
-      "image": "https://s.france24.com/media/display/b0d8e15a-7a4f-11f1-a337-005056a90284/w:1024/p:16x9/2026-07-07T191614Z-1043438909-RC2R4LAN4FM4-RTRMADP-3-IRAN-CRISIS-MISSILES-HORMUZ.jpg",
-      "image_alt": "Middle East live: US launches strikes on Iran after ships attacked in Strait of Hormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "farage-resigns-and-says-he-will-run-again-in-special-election-798ba9a7",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Farage Resigns and Says He Will Run Again in Special Election",
-      "published_at": "2026-07-07T18:14:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-uk-farage-01-mvcf/08int-uk-farage-01-mvcf-mediumSquareAt3X.jpg",
-      "image_alt": "Farage Resigns and Says He Will Run Again in Special Election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "us-launches-new-strikes-on-iran-after-hormuz-attacks-3160d469",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US launches new strikes on Iran after Hormuz attacks",
-      "published_at": "2026-07-07T21:57:44.000Z",
-      "image": "https://img.lemde.fr/2026/07/07/1011/0/9930/4965/644/322/60/0/f768288_ftp-1-mlkxro66dpaz-2026-07-07t191605z-1137450747-rc279ma9krpo-rtrmadp-3-iran-crisis-missiles-hormuz.JPG",
-      "image_alt": "US launches new strikes on Iran after Hormuz attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/07/us-launches-new-strikes-on-iran-after-hormuz-attacks_6755250_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-77466d50",
-      "region": "Middle East",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Viral AI fakes flood social media as Iran mourns Khamenei",
-      "published_at": "2026-07-07T21:09:45.000Z",
-      "image": "https://s.france24.com/media/display/1070b2e6-7a46-11f1-8596-005056a97e36/w:1024/p:16x9/capture-12678221876a4d678c291772-72427440.jpg",
-      "image_alt": "Viral AI fakes flood social media as Iran mourns Khamenei",
-      "translations": {
-        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-1"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "undeterred-by-blasts-macron-says-france-ready-to-help-rebuild-syria-s--ec57e712",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Undeterred by blasts, Macron says France ready to help rebuild Syria's economy",
-      "published_at": "2026-07-07T21:05:49.000Z",
-      "image": "https://s.france24.com/media/display/9526983e-7a46-11f1-a87c-005056bf30b7/w:1024/p:16x9/Anglais-2026-07-07T19-23-34-884Z.jpg",
-      "image_alt": "Undeterred by blasts, Macron says France ready to help rebuild Syria's economy",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20260707-undeterred-by-blasts-macron-says-france-ready-to-help-rebuild-syria-s-economy"
-        }
-      ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "new-footage-shown-at-kirk-hearing-shows-man-on-rooftop-near-shooting-s-a405ddf8",
@@ -385,7 +454,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "marine-le-pen-to-run-for-french-presidency-and-appeal-conviction-in-to-dd88be69",
@@ -408,99 +477,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "venezuelans-criticize-own-government-response-after-twin-earthquakes-507128b9",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
-      "published_at": "2026-07-07T17:15:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-venezuela-quakes-anger01-photo-fgvt/07int-venezuela-quakes-anger01-photo-fgvt-mediumSquareAt3X.jpg",
-      "image_alt": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "estados-unidos-lanza-nuevos-golpes-contra-ir-n-como-represalia-por-los-c8fc107a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques contra petroleros en Ormuz",
-      "published_at": "2026-07-07T21:48:20.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/CDGFWEGWVNIBRPJB6DW5V4VVQ4.jpg?auth=18722559c4c654924af619d4a9dab827a59062273b94f2c2d4b32c6900ce83a7",
-      "image_alt": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques contra petroleros en Ormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-07/estados-unidos-vuelve-a-prohibir-la-exportacion-de-petroleo-de-iran.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "canada-province-preparing-lawsuit-against-openai-over-school-shooting-c92aed1a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canada province preparing lawsuit against OpenAI over school shooting",
-      "published_at": "2026-07-07T20:59:53.000Z",
-      "image": "https://img.lemde.fr/2026/07/02/461/0/5500/2750/644/322/60/0/899a424_ftp-1-hr7zr3xlj3po-2026-07-02t050138z-236351594-rc2umca4c3z1-rtrmadp-3-openai-stake-usa.JPG",
-      "image_alt": "Canada province preparing lawsuit against OpenAI over school shooting",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/07/canada-province-preparing-lawsuit-against-openai-over-school-shooting_6755249_4.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "le-pen-says-she-will-run-for-presidency-after-court-lifts-ban-19a4afcd",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Update",
-      "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
-      "published_at": "2026-07-07T20:49:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-france-lepen01-photo-lpfm/07int-france-lepen01-photo-lpfm-mediumSquareAt3X.jpg",
-      "image_alt": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
-      "translations": {
-        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
-        }
-      ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-apos-s-goal-d7a70f70",
@@ -523,7 +500,7 @@
           "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 70
+      "impact": 68
     },
     {
       "id": "trump-looms-large-as-nato-grapples-with-challenge-of-rearming-europe-2cb5c862",
@@ -546,7 +523,30 @@
           "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 68
+    },
+    {
+      "id": "le-pen-says-she-will-run-for-presidency-after-court-lifts-ban-19a4afcd",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Update",
+      "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
+      "published_at": "2026-07-07T20:49:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07int-france-lepen01-photo-lpfm/07int-france-lepen01-photo-lpfm-mediumSquareAt3X.jpg",
+      "image_alt": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
+      "translations": {
+        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
+        }
+      ],
+      "impact": 67
     },
     {
       "id": "hungary-s-public-news-broadcasts-halted-in-bid-to-scrap-orban-era-prop-58ba29b4",
@@ -569,7 +569,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 67
     }
   ]
 }
