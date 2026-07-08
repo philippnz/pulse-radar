@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T12:17:41.609Z",
+  "updated_at": "2026-07-08T14:55:17.661Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "teenager-arrested-after-two-girls-13-seriously-injured-in-german-schoo-ae16d6db",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "published_at": "2026-07-08T14:41:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e6/live/ba4f3b90-7ada-11f1-9c5e-418249f4ce83.jpg",
+      "image_alt": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
     {
       "id": "trump-says-ceasefire-is-over-after-us-and-iran-trade-strikes-b323ebc1",
       "region": "Middle East",
@@ -40,63 +63,40 @@
           "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 86
     },
     {
-      "id": "nigeria-s-president-demands-to-know-how-fake-agency-was-allegedly-set--8a19e058",
-      "region": "Africa",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-      "published_at": "2026-07-08T11:46:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
-      "image_alt": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "id": "eight-killed-after-landslide-hits-girls-school-in-bangladesh-546a2c03",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Eight killed after landslide hits girls' school in Bangladesh",
+      "published_at": "2026-07-08T14:02:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116a/live/3c94ce00-7acf-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Eight killed after landslide hits girls' school in Bangladesh",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
-      "id": "trump-says-ceasefire-over-after-us-iran-trade-attacks-f1f50cb1",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
-      "published_at": "2026-07-08T10:06:29.000Z",
-      "image": "",
-      "image_alt": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
-      "id": "live-updates-trump-lashes-out-at-europe-at-nato-summit-c4cf3a51",
+      "id": "live-updates-trump-lashes-out-at-nato-summit-but-offers-new-help-to-uk-c4cf3a51",
       "region": "Europe",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
-      "published_at": "2026-07-08T12:10:56.000Z",
+      "headline": "Live Updates: Trump Lashes Out at NATO Summit but Offers New Help to Ukraine",
+      "published_at": "2026-07-08T14:54:28.000Z",
       "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08nato-promo/08nato-promo-mediumSquareAt3X.jpg",
-      "image_alt": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
+      "image_alt": "Live Updates: Trump Lashes Out at NATO Summit but Offers New Help to Ukraine",
       "translations": {
         "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -112,37 +112,83 @@
       "impact": 83
     },
     {
-      "id": "russian-fuel-shortages-bite-but-will-putin-change-tack-in-ukraine-war-f4650abb",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "published_at": "2026-07-08T05:05:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b7/live/3b3ee060-7a1e-11f1-8228-eda6b31aeccd.jpg",
-      "image_alt": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "id": "nigeria-s-president-demands-to-know-how-fake-agency-was-allegedly-set--8a19e058",
+      "region": "Africa",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "published_at": "2026-07-08T13:05:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
+      "image_alt": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 83
     },
     {
-      "id": "syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-v-c1d2e6b1",
+      "id": "germany-police-arrest-suspect-after-bavaria-school-attack-0a79f5e1",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Germany: Police arrest suspect after Bavaria school attack",
+      "published_at": "2026-07-08T12:25:00.000Z",
+      "image": "",
+      "image_alt": "Germany: Police arrest suspect after Bavaria school attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-police-arrest-suspect-after-bavaria-school-attack/a-77877219?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exi-45fdf41c",
       "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+      "published_at": "2026-07-08T13:29:22.000Z",
+      "image": "",
+      "image_alt": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "why-can-t-we-count-our-dead-1e9b06ea",
+      "region": "World",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-      "published_at": "2026-07-08T11:22:22.000Z",
+      "headline": "Why can’t we count our dead?",
+      "published_at": "2026-07-08T13:28:54.000Z",
       "image": "",
-      "image_alt": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+      "image_alt": "Why can’t we count our dead?",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -152,30 +198,76 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss"
         }
       ],
       "impact": 81
     },
     {
-      "id": "from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-com-d33484ee",
-      "region": "Europe",
-      "topic": "Markets",
+      "id": "nato-summit-gives-trump-new-chance-to-bust-out-old-grievances-e8bc1489",
+      "region": "World",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "From Spain trade to Greenland threats: Key points from Trump's NATO comments",
-      "published_at": "2026-07-08T12:10:38.000Z",
-      "image": "https://s.france24.com/media/display/d077d074-7ab9-11f1-ad5c-005056a90284/w:1024/p:16x9/EN-20260708-120044-120438-CS.jpg",
-      "image_alt": "From Spain trade to Greenland threats: Key points from Trump's NATO comments",
+      "headline": "NATO Summit Gives Trump New Chance to Bust Out Old Grievances",
+      "published_at": "2026-07-08T12:54:35.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-nato-trump-topart-qlmc/08int-nato-trump-topart-qlmc-mediumSquareAt3X.jpg",
+      "image_alt": "NATO Summit Gives Trump New Chance to Bust Out Old Grievances",
       "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "german-doctor-jailed-for-murder-of-15-patients-and-suspected-of-more-f98dc2fd",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "German doctor jailed for murder of 15 patients and suspected of more",
+      "published_at": "2026-07-08T14:25:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf0/live/9a971ed0-1aa0-11f0-b1b3-7358f8d35a35.jpg",
+      "image_alt": "German doctor jailed for murder of 15 patients and suspected of more",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "what-apos-s-behind-hamas-apos-s-move-to-dissolve-gaza-government-b0735d1f",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "What&apos;s behind Hamas&apos;s move to dissolve Gaza government",
+      "published_at": "2026-07-08T14:19:00.000Z",
+      "image": "",
+      "image_alt": "What&apos;s behind Hamas&apos;s move to dissolve Gaza government",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/what-s-behind-hamas-s-move-to-dissolve-gaza-government/a-77876196?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 79
@@ -186,7 +278,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
-      "published_at": "2026-07-08T12:04:34.000Z",
+      "published_at": "2026-07-08T14:52:36.000Z",
       "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08mideast-promo-gmpz/08mideast-promo-gmpz-mediumSquareAt3X.jpg",
       "image_alt": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
       "translations": {
@@ -204,35 +296,12 @@
       "impact": 78
     },
     {
-      "id": "explosions-in-damascus-during-macron-s-visit-one-person-killed-and-36--88d49af3",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Explosions in Damascus during Macron's visit, one person killed and 36 injured",
-      "published_at": "2026-07-08T11:27:57.000Z",
-      "image": "https://img.lemde.fr/2026/07/07/500/0/6000/3000/644/322/60/0/70410bb_ftp-1-ivqtzcpyiapx-0ea9d07e7a4e46e9ba59a022b19d7775-3-72254cc13e204ea694230c3f2224e5a7.jpg",
-      "image_alt": "Explosions in Damascus during Macron's visit, one person killed and 36 injured",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/syria/article/2026/07/08/explosions-in-damascus-during-macron-s-visit-one-person-killed-and-36-injured_6755267_229.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
       "id": "the-alluring-albanian-island-inspiring-ivanka-s-fantasy-8016483d",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
       "headline": "The Alluring Albanian Island Inspiring Ivanka’s Fantasy",
-      "published_at": "2026-07-08T10:49:03.000Z",
+      "published_at": "2026-07-08T14:51:20.000Z",
       "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-albania-dispatch-01-gkwv/08int-albania-dispatch-01-gkwv-mediumSquareAt3X.jpg",
       "image_alt": "The Alluring Albanian Island Inspiring Ivanka’s Fantasy",
       "translations": {
@@ -247,17 +316,40 @@
           "url": "https://www.nytimes.com/2026/07/08/world/europe/albania-sazan-island-kushner-ivanka.html"
         }
       ],
-      "impact": 76
+      "impact": 78
     },
     {
-      "id": "marine-le-pen-s-return-has-sidelined-her-prot-g-can-they-join-forces-0d75e242",
+      "id": "replay-macron-addresses-ukraine-greenland-at-nato-summit-803f034d",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "REPLAY: Macron addresses Ukraine, Greenland at NATO summit",
+      "published_at": "2026-07-08T13:46:01.000Z",
+      "image": "https://s.france24.com/media/display/17463d34-7ad2-11f1-90f4-005056a97e36/w:1024/p:16x9/EN-20260708-150140-152110-CS.jpg",
+      "image_alt": "REPLAY: Macron addresses Ukraine, Greenland at NATO summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "iraqis-turn-out-in-droves-to-mourn-khamenei-and-show-solidarity-7e10d457",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Marine Le Pen’s Return Has Sidelined Her Protégé. Can They Join Forces?",
-      "published_at": "2026-07-08T09:58:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-france-lepen-bardella-HP-wfpk/08int-france-lepen-bardella-HP-wfpk-mediumSquareAt3X.jpg",
-      "image_alt": "Marine Le Pen’s Return Has Sidelined Her Protégé. Can They Join Forces?",
+      "headline": "Iraqis Turn Out in Droves to Mourn Khamenei and Show Solidarity",
+      "published_at": "2026-07-08T14:22:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-promo-funeral-ayatollah-mqkl/08int-promo-funeral-ayatollah-mqkl-mediumSquareAt3X.jpg",
+      "image_alt": "Iraqis Turn Out in Droves to Mourn Khamenei and Show Solidarity",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -267,20 +359,20 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/08/world/france-marine-le-pen-jordan-bardella-national-rally.html"
+          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html"
         }
       ],
-      "impact": 75
+      "impact": 77
     },
     {
-      "id": "nigeria-s-counterterrorism-gains-carry-a-warning-23cce5be",
-      "region": "Africa",
+      "id": "trump-on-iran-we-ll-probably-hit-them-hard-again-tonight-382388a6",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Nigeria’s counterterrorism gains carry a warning",
-      "published_at": "2026-07-08T09:57:19.000Z",
+      "headline": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
+      "published_at": "2026-07-08T14:20:03.000Z",
       "image": "",
-      "image_alt": "Nigeria’s counterterrorism gains carry a warning",
+      "image_alt": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -290,20 +382,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/7/8/nigerias-counterterrorism-gains-carry-a-warning?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 77
     },
     {
-      "id": "why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-9a20e635",
-      "region": "Middle East",
+      "id": "down-with-the-usa-us-influencer-jackson-hinkle-attends-khamenei-s-fune-0c6f1975",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why have US-Iran strikes resumed and what does it mean for peace?",
-      "published_at": "2026-07-08T09:42:40.000Z",
+      "headline": "‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera",
+      "published_at": "2026-07-08T14:17:23.000Z",
       "image": "",
-      "image_alt": "Why have US-Iran strikes resumed and what does it mean for peace?",
+      "image_alt": "‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -313,20 +405,112 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/8/why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/down-with-the-usa-us-influencer-jackson-hinkle-attends-khameneis-funera?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 77
     },
     {
-      "id": "pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea-9215b9d7",
-      "region": "Asia-Pacific",
+      "id": "at-iran-s-funeral-for-ayatollah-khamenei-mourners-bid-an-emotional-far-4b258495",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
-      "published_at": "2026-07-08T09:39:24.000Z",
+      "headline": "At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell",
+      "published_at": "2026-07-08T14:11:19.000Z",
       "image": "",
-      "image_alt": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
+      "image_alt": "At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-khamenei-funeral-photos.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "replay-trump-zelenksy-meet-at-nato-summit-845a34c3",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "REPLAY: Trump, Zelenksy meet at NATO summit",
+      "published_at": "2026-07-08T13:38:23.000Z",
+      "image": "https://s.france24.com/media/display/66e53c1a-7ad1-11f1-8f05-005056a97e36/w:1024/p:16x9/EN-20260708-145223-150140-CS.jpg",
+      "image_alt": "REPLAY: Trump, Zelenksy meet at NATO summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-replay-trump-zelenksy-meet-at-nato-summit"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-crac-f8851749",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
+      "published_at": "2026-07-08T13:11:38.000Z",
+      "image": "https://s.france24.com/media/display/50ad11f8-7acb-11f1-ac41-005056bfb2b6/w:1024/p:16x9/EN-20260708-140116-140322-CS.jpg",
+      "image_alt": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "le-pen-taking-a-gamble-in-decision-to-run-for-president-723d4f78",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Le Pen taking 'a gamble' in decision to run for president",
+      "published_at": "2026-07-08T13:08:56.000Z",
+      "image": "https://s.france24.com/media/display/6bc775c4-7aca-11f1-9a37-005056bf30b7/w:1024/p:16x9/EN-20260708-131156-131815-CS.jpg",
+      "image_alt": "Le Pen taking 'a gamble' in decision to run for president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-le-pen-taking-a-gamble-in-decision-to-run-for-president"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "why-has-uk-reform-s-nigel-farage-resigned-as-mp-what-happens-next-370365d2",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?",
+      "published_at": "2026-07-08T13:53:41.000Z",
+      "image": "",
+      "image_alt": "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -336,89 +520,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/8/why-has-uk-reforms-nigel-farage-resigned-as-mp-what-happens-next?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 76
     },
     {
-      "id": "iran-war-trump-says-ceasefire-apos-over-apos-after-fresh-strikes-48194028",
+      "id": "un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel-7a633587",
       "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war: Trump says ceasefire &apos;over&apos; after fresh strikes",
-      "published_at": "2026-07-08T02:56:00.000Z",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UN inquiry urges release of Palestinian doctor jailed by Israel",
+      "published_at": "2026-07-08T13:17:47.000Z",
       "image": "",
-      "image_alt": "Iran war: Trump says ceasefire &apos;over&apos; after fresh strikes",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "summer-2026-top-destinations-spending-habits-and-emerging-trends-e9a5e9b4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Summer 2026: Top destinations, spending habits and emerging trends",
-      "published_at": "2026-07-08T12:13:19.000Z",
-      "image": "https://s.france24.com/media/display/e5e26ff4-7ac4-11f1-9fc9-005056a90284/w:1024/p:16x9/capture-5263811356a4e3c5703a718-74094720.jpg",
-      "image_alt": "Summer 2026: Top destinations, spending habits and emerging trends",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/entre-nous/20260708-summer-2026-top-destinations-spending-habits-and-emerging-trends"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-i-653091f7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Thousands of mourners march as Khamenei's funeral procession crosses into Iraq",
-      "published_at": "2026-07-08T12:13:07.000Z",
-      "image": "https://s.france24.com/media/display/d7b50216-7abf-11f1-8f64-005056a97e36/w:1024/p:16x9/EN-20260708-131017-131155-CS.jpg",
-      "image_alt": "Thousands of mourners march as Khamenei's funeral procession crosses into Iraq",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-into-iraq"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "european-mps-call-for-probe-of-fifa-boss-infantino-over-red-card-suspe-8b0b2702",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "European MPs call for probe of FIFA boss Infantino over red card suspension",
-      "published_at": "2026-07-08T09:24:41.000Z",
-      "image": "",
-      "image_alt": "European MPs call for probe of FIFA boss Infantino over red card suspension",
+      "image_alt": "UN inquiry urges release of Palestinian doctor jailed by Israel",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,148 +543,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/8/european-mps-call-for-probe-of-fifa-boss-infantino-over-red-card-suspension?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss"
         }
       ],
-      "impact": 74
+      "impact": 76
     },
     {
-      "id": "nato-allies-announce-37bn-for-new-missile-project-a5e39d6d",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Nato allies announce £37bn for new missile project",
-      "published_at": "2026-07-08T05:57:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b9c/live/d6af33b0-7a73-11f1-b49c-fd67f645cd09.jpg",
-      "image_alt": "Nato allies announce £37bn for new missile project",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "i-feel-forgiveness-daniel-gwynn-on-life-after-30-years-on-death-row-2169fd9d",
+      "id": "uk-judges-begin-hearing-appeal-over-trinidad-and-tobago-anti-gay-law-e34e9ede",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "'I feel forgiveness': Daniel Gwynn on life after 30 years on death row",
-      "published_at": "2026-07-08T11:15:07.000Z",
-      "image": "https://s.france24.com/media/display/8c949982-7a19-11f1-a518-005056a97e36/w:1024/p:16x9/MultiCorder5-Output-2-01-juillet-2026-10-41-14.jpg",
-      "image_alt": "'I feel forgiveness': Daniel Gwynn on life after 30 years on death row",
+      "headline": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+      "published_at": "2026-07-08T14:01:35.000Z",
+      "image": "https://i.guim.co.uk/img/media/df099147619de4c1f6a96fd8bb43231d50b1eca4/523_0_3561_2850/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=fa32eba055a8cafd018630403f3a0e2a",
+      "image_alt": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260708-i-feel-forgiveness-daniel-gwynn-on-life-after-30-years-on-death-row"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "assassin-apos-s-creed-why-pop-culture-is-hooked-to-pirates-18ae7f10",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Assassin&apos;s Creed: Why pop culture is hooked to pirates",
-      "published_at": "2026-07-08T10:34:00.000Z",
-      "image": "",
-      "image_alt": "Assassin&apos;s Creed: Why pop culture is hooked to pirates",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/assassin-s-creed-why-pop-culture-is-hooked-to-pirates/a-77871133?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "us-strikes-target-iranian-military-boats-3bb48807",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "US strikes target Iranian military boats",
-      "published_at": "2026-07-08T05:42:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a58/live/59564310-7a94-11f1-932b-1f29e7985956.jpg",
-      "image_alt": "US strikes target Iranian military boats",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "macron-expresses-belief-that-a-new-era-is-dawning-in-syria-in-damascus-0ebcbaa6",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Macron expresses 'belief that a new era is dawning in Syria' in Damascus visit",
-      "published_at": "2026-07-08T10:55:05.000Z",
-      "image": "https://img.lemde.fr/2026/07/07/871/0/7672/3836/644/322/60/0/d2d21b6_upload-1-uwrjnyjynggq-dsc-6622.jpg",
-      "image_alt": "Macron expresses 'belief that a new era is dawning in Syria' in Damascus visit",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/08/macron-expresses-belief-that-a-new-era-is-dawning-in-syria-in-damascus-visit_6755266_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "photograph-linking-sa-s-zuma-with-fugitive-indian-businessman-sparks-o-ae5eae83",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Photograph linking SA's Zuma with fugitive Indian businessman sparks outrage",
-      "published_at": "2026-07-08T10:37:11.000Z",
-      "image": "https://s.france24.com/media/display/7a17c1a2-7ab5-11f1-bd40-005056a90284/w:1024/p:16x9/EN-20260707-225438-225724-CS.jpg",
-      "image_alt": "Photograph linking SA's Zuma with fugitive Indian businessman sparks outrage",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-photograph-linking-sa-s-zuma-with-fugitive-indian-businessman-sparks-outrage"
-        }
-      ],
-      "impact": 72
+      "impact": 75
     }
   ]
 }
