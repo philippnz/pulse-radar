@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T19:38:37.307Z",
+  "updated_at": "2026-07-09T21:19:19.184Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,50 @@
   ],
   "stories": [
     {
-      "id": "israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire-08dcf487",
+      "id": "palestinians-mourn-gaza-world-cup-screenings-organiser-killed-in-israe-c52be81d",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
-      "published_at": "2026-07-09T18:04:00.000Z",
-      "image": "",
-      "image_alt": "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
+      "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "published_at": "2026-07-09T21:04:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c1/live/a90ff130-7bd9-11f1-a606-4508f5fb0e83.jpg",
+      "image_alt": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 90
+    },
+    {
+      "id": "un-deeply-concerned-by-ongoing-drone-attack-in-sudan-0ad01cef",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "UN 'deeply concerned' by ongoing drone attack in Sudan",
+      "published_at": "2026-07-09T20:29:20.000Z",
+      "image": "https://s.france24.com/media/display/fd097302-7bd3-11f1-9739-005056a97e36/w:1024/p:16x9/DN195784-A-01-20260629-01.jpg",
+      "image_alt": "UN 'deeply concerned' by ongoing drone attack in Sudan",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/un-deeply-concerned-by-ongoing-drone-attack-in-sudan"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "gaza-aid-worker-on-his-way-to-watch-world-cup-killed-by-israeli-strike-498c00c4",
@@ -63,53 +86,76 @@
           "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
-      "id": "mali-rebels-attack-convoy-of-russian-reinforcements-headed-to-besieged-6f966f2f",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
-      "published_at": "2026-07-09T16:09:41.000Z",
-      "image": "https://s.france24.com/media/display/8f381382-7bac-11f1-8200-005056a97e36/w:1024/p:16x9/000-A92J2CF-1.jpg",
-      "image_alt": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "iran-claims-us-strike-hit-near-nuclear-powerplant-f86a4ded",
+      "id": "tehran-launches-more-strikes-after-explosions-reported-in-southern-ira-b694a473",
       "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran claims US strike hit near nuclear powerplant",
-      "published_at": "2026-07-09T15:48:49.000Z",
-      "image": "https://s.france24.com/media/display/e1106c06-7ba0-11f1-b5eb-005056bfb2b6/w:1024/p:16x9/EN-20260709-160234-160433-CS.jpg",
-      "image_alt": "Iran claims US strike hit near nuclear powerplant",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tehran launches more strikes after explosions reported in southern Iran",
+      "published_at": "2026-07-09T21:13:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/066e/live/c9c79920-7bbe-11f1-8b3b-4de03d5aab17.jpg",
+      "image_alt": "Tehran launches more strikes after explosions reported in southern Iran",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
+    },
+    {
+      "id": "ukrainian-agent-accused-of-murdering-monaco-bomb-suspect-changes-story-739e723c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "published_at": "2026-07-09T20:47:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
+      "image_alt": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "factory-blaze-in-china-s-shoe-capital-kills-28-4ed478f5",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
+      "published_at": "2026-07-09T20:27:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-china-fire-01-whjf/09int-china-fire-01-whjf-mediumSquareAt3X.jpg",
+      "image_alt": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "live-updates-u-s-and-iran-sink-into-violent-cycle-after-latest-strikes-97e77c9b",
@@ -117,7 +163,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
-      "published_at": "2026-07-09T19:35:57.000Z",
+      "published_at": "2026-07-09T20:07:23.000Z",
       "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09mideast-promo-230pm-hlqw/09trump-news-promo-1045am-hlqw-mediumSquareAt3X.jpg",
       "image_alt": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
       "translations": {
@@ -132,7 +178,168 @@
           "url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "mexico-seeks-prosecutions-over-migrant-deaths-in-the-us-8999664d",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mexico seeks prosecutions over migrant deaths in the US",
+      "published_at": "2026-07-09T20:23:16.000Z",
+      "image": "",
+      "image_alt": "Mexico seeks prosecutions over migrant deaths in the US",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/mexico-seeks-prosecutions-over-migrant-deaths-in-the-us?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "uk-labour-s-burnham-apologises-for-response-to-israel-s-gaza-violence-e689e195",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+      "published_at": "2026-07-09T20:20:39.000Z",
+      "image": "",
+      "image_alt": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "canadian-pm-visits-saudi-arabia-to-strengthen-energy-mining-partnershi-56a45262",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
+      "published_at": "2026-07-09T20:06:25.000Z",
+      "image": "",
+      "image_alt": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/9/canadian-pm-visits-saudi-arabia-to-strengthen-energy-mining-partnerships?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "south-african-protesters-intimidate-migrants-as-aid-group-issues-warni-e8d37123",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "South African protesters intimidate migrants as aid group issues warning",
+      "published_at": "2026-07-09T20:03:39.000Z",
+      "image": "",
+      "image_alt": "South African protesters intimidate migrants as aid group issues warning",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/9/south-african-protesters-intimidate-migrants-as-aid-group-issues-warning?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions-eacf93ec",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
+      "published_at": "2026-07-09T20:03:00.000Z",
+      "image": "",
+      "image_alt": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "two-more-men-plead-guilty-in-us-for-deadly-2021-human-smuggling-truck--af47e344",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Two more men plead guilty in US for deadly 2021 human-smuggling truck crash",
+      "published_at": "2026-07-09T20:00:37.000Z",
+      "image": "",
+      "image_alt": "Two more men plead guilty in US for deadly 2021 human-smuggling truck crash",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/9/two-more-men-plead-guilty-in-us-for-deadly-2021-human-smuggling-truck-crash?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "what-happened-to-the-beautiful-game-9ae6627f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What happened to the beautiful game?",
+      "published_at": "2026-07-09T19:55:21.000Z",
+      "image": "",
+      "image_alt": "What happened to the beautiful game?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/what-happened-to-the-beautiful-game?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "palestinian-authority-sets-date-for-first-major-elections-in-20-years-618103f2",
@@ -140,7 +347,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
-      "published_at": "2026-07-09T19:19:37.000Z",
+      "published_at": "2026-07-09T19:53:05.000Z",
       "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-Palestinian-election-qthp/09int-Palestinian-election-qthp-mediumSquareAt3X.jpg",
       "image_alt": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
       "translations": {
@@ -155,7 +362,7 @@
           "url": "https://www.nytimes.com/2026/07/09/world/middleeast/palestinian-authority-elections-abbas.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "sifting-through-venezuela-earthquakes-rubble-and-the-ashes-of-a-revolu-4a1aa231",
@@ -178,7 +385,7 @@
           "url": "https://www.nytimes.com/2026/07/09/world/americas/jacqueline-zuniga-venezuela-earthquakes-socialist-revolution.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "how-lyhanna-s-rape-and-murder-put-france-s-justice-system-under-scruti-e918a762",
@@ -201,7 +408,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/how-lyhannas-rape-and-murder-put-frances-justice-system-under-scrutiny?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "final-stage-of-ayatollah-ali-khamenei-s-funeral-begins-after-delay-fba464dd",
@@ -224,168 +431,30 @@
           "url": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "ex-olympian-pleads-not-guilty-to-reflecting-pool-vandalism-charges-dbd5bb95",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "published_at": "2026-07-09T17:01:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df7/live/1dde8630-7bac-11f1-9671-6995d20a3bb8.jpg",
-      "image_alt": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "is-syria-stable-enough-to-engage-with-the-world-1def62bd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Is Syria stable enough to engage with the world?",
-      "published_at": "2026-07-09T18:56:46.000Z",
-      "image": "",
-      "image_alt": "Is Syria stable enough to engage with the world?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "deadly-fire-breaks-out-at-shoe-factory-in-china-d84b079d",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Deadly fire breaks out at shoe factory in China",
-      "published_at": "2026-07-09T18:51:56.000Z",
-      "image": "",
-      "image_alt": "Deadly fire breaks out at shoe factory in China",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-fire-breaks-out-at-shoe-factory-in-china?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant-43bb2ff0",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US expands Iran strikes Iran hitting fishing piers near nuclear plant",
-      "published_at": "2026-07-09T18:17:55.000Z",
-      "image": "",
-      "image_alt": "US expands Iran strikes Iran hitting fishing piers near nuclear plant",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "factory-blaze-in-china-s-shoe-capital-kills-28-4ed478f5",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
-      "published_at": "2026-07-09T17:58:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-china-fire-01-whjf/09int-china-fire-01-whjf-mediumSquareAt3X.jpg",
-      "image_alt": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "mexico-to-seek-us-criminal-complaints-over-ice-related-deaths-of-citiz-612044cd",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mexico to seek US criminal complaints over ICE-related deaths of citizens",
-      "published_at": "2026-07-09T17:46:30.000Z",
-      "image": "",
-      "image_alt": "Mexico to seek US criminal complaints over ICE-related deaths of citizens",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/9/mexico-to-seek-us-criminal-complaints-over-ice-related-deaths-of-citizens?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait-701880d8",
-      "region": "Middle East",
+      "id": "abbas-announces-november-28-legislative-elections-for-palestine-first--6c971c85",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
-      "published_at": "2026-07-09T17:43:36.000Z",
-      "image": "",
-      "image_alt": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
+      "headline": "Abbas announces November 28 legislative elections for Palestine, first in nearly 20 years",
+      "published_at": "2026-07-09T21:02:52.000Z",
+      "image": "https://img.lemde.fr/2026/05/08/641/0/7687/3843/644/322/60/0/0b814c4_upload-1-1a0lyph147wm-2025-12-22t123339z-820270276-rc2mliaf3fqg-rtrmadp-3-palestinians-diplomacy-greece.JPG",
+      "image_alt": "Abbas announces November 28 legislative elections for Palestine, first in nearly 20 years",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/09/abbas-announces-november-28-legislative-elections-for-palestine-first-in-nearly-20-years_6755313_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "big-fall-in-oil-gas-and-cargo-ships-taking-us-backed-hormuz-route-afte-8a5072cb",
@@ -408,7 +477,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "democrat-graham-platner-suspends-campaign-for-key-us-senate-race-after-9a490f5d",
@@ -431,40 +500,40 @@
           "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "mexico-investigates-whether-us-lied-about-role-in-capture-of-drug-lord-c8f0e548",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mexico investigates whether US lied about role in capture of drug lord",
-      "published_at": "2026-07-09T18:17:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/d0cfc80c5603c13819ba56c51101b2175286d613/378_0_2678_2143/master/2678.jpg?width=140&quality=85&auto=format&fit=max&s=3e08e0f3ae95d4bb57c7e897404c3e56",
-      "image_alt": "Mexico investigates whether US lied about role in capture of drug lord",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "los-grupos-antiinmigraci-n-de-sud-frica-pasan-del-ultim-tum-al-puerta--77a2aeaf",
+      "id": "technical-details-need-to-be-agreed-before-ukraine-can-produce-patriot-4964193a",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Los grupos antiinmigración de Sudáfrica pasan del ultimátum al puerta a puerta",
-      "published_at": "2026-07-09T19:26:06.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/LNSX2U6BG5FQ5GJ7PMDYHNSME4.jpg?auth=ef70e9bb14d0edb17e482b211307fbbbed51025b06bc6bda6eda73a12f851a71",
-      "image_alt": "Los grupos antiinmigración de Sudáfrica pasan del ultimátum al puerta a puerta",
+      "headline": "Technical details need to be agreed before Ukraine can produce Patriot missiles, Zelensky says",
+      "published_at": "2026-07-09T19:58:56.000Z",
+      "image": "https://s.france24.com/media/display/9112de04-7bce-11f1-b2de-005056bf30b7/w:1024/p:16x9/000-B68B7UY.jpg",
+      "image_alt": "Technical details need to be agreed before Ukraine can produce Patriot missiles, Zelensky says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260709-technical-details-need-to-be-agreed-before-ukraine-can-produce-patriot-missiles-zelensky-says"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "ir-n-ataca-de-nuevo-intereses-de-estados-unidos-en-kuwait-bar-in-y-qat-9aa131f8",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Irán ataca de nuevo intereses de Estados Unidos en Kuwait, Baréin y Qatar en respuesta a los bombardeos de Washington",
+      "published_at": "2026-07-09T20:47:14.000Z",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260709/1193095_064937_video_1800.mp4",
+      "image_alt": "Irán ataca de nuevo intereses de Estados Unidos en Kuwait, Baréin y Qatar en respuesta a los bombardeos de Washington",
       "translations": {
         "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,102 +543,33 @@
       "sources": [
         {
           "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-09/los-grupos-antiinmigracion-de-sudafrica-pasan-del-ultimatum-al-puerta-a-puerta.html"
+          "url": "https://elpais.com/internacional/2026-07-09/iran-ataca-de-nuevo-intereses-de-estados-unidos-en-kuwait-barein-y-qatar-en-respuesta-a-los-bombardeos-de-washington.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "eu-lawmakers-pave-way-for-apos-digital-euro-apos-negotiations-26f0c0fc",
+      "id": "not-built-for-the-heat-how-do-cities-adapt-to-record-temperatures-e529d26c",
       "region": "Europe",
-      "topic": "World",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "EU lawmakers pave way for &apos;digital euro&apos; negotiations",
-      "published_at": "2026-07-09T17:20:00.000Z",
-      "image": "",
-      "image_alt": "EU lawmakers pave way for &apos;digital euro&apos; negotiations",
+      "headline": "Not built for the heat: How do cities adapt to record temperatures?",
+      "published_at": "2026-07-09T19:07:15.000Z",
+      "image": "https://s.france24.com/media/display/81964ab2-7bc7-11f1-af65-005056a90284/w:1024/p:16x9/EN-20260709-191226-195546-CS.jpg",
+      "image_alt": "Not built for the heat: How do cities adapt to record temperatures?",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/eu-lawmakers-pave-way-for-digital-euro-negotiations/a-77895581?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20260709-not-built-for-the-heat-how-do-cities-adapt-to-record-temperatures"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "furore-in-nigeria-over-fake-federal-agency-set-up-in-government-hq-f96eeb1a",
-      "region": "Africa",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "published_at": "2026-07-09T16:20:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/f80796421f1ba8310e6cf11d9923b0d36fda17d6/584_0_3309_2649/master/3309.jpg?width=140&quality=85&auto=format&fit=max&s=2c7e4088119348a28d3bdfa3bae10781",
-      "image_alt": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "greek-f-16-fighter-jet-crash-lands-at-busy-zakynthos-airport-1fa0e3f6",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "published_at": "2026-07-09T16:15:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e453/live/cdf3da80-7bba-11f1-bada-857505afa282.png",
-      "image_alt": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "trump-s-nato-summit-and-everyone-else-s-5b11c1db",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Trump’s NATO Summit, and Everyone Else’s",
-      "published_at": "2026-07-09T13:42:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-nato-assess01-photo-fckl/08int-nato-assess01-photo-fckl-mediumSquareAt3X.jpg",
-      "image_alt": "Trump’s NATO Summit, and Everyone Else’s",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     }
   ]
 }
