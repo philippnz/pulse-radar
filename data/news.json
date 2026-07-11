@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T10:11:46.701Z",
+  "updated_at": "2026-07-11T11:29:01.987Z",
   "languages": [
     {
       "code": "en",
@@ -40,27 +40,50 @@
           "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
-      "id": "israel-struck-an-iranian-steel-facility-was-it-a-valid-military-target-06186b66",
-      "region": "Middle East",
+      "id": "war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-inte-0c8ffef5",
+      "region": "Europe",
       "topic": "Security",
-      "urgency": "Live",
-      "headline": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-      "published_at": "2026-07-11T09:00:17.000Z",
-      "image": "",
-      "image_alt": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "urgency": "Breaking",
+      "headline": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
+      "published_at": "2026-07-11T10:30:04.000Z",
+      "image": "https://img.lemde.fr/2026/07/10/443/0/2953/1476/644/322/60/0/2a89c88_upload-1-y4dq6fquyf20-2026-07-10-heg-ukraine-0091.JPG",
+      "image_alt": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/11/war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-intensifies-attacks_6755371_4.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "spain-into-world-cup-semi-final-with-france-after-late-strike-against--c1c07689",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Spain into World Cup semi-final with France after late strike against Belgium",
+      "published_at": "2026-07-11T09:21:18.000Z",
+      "image": "https://s.france24.com/media/display/27fdb624-7d03-11f1-9ec3-005056a90284/w:1024/p:16x9/EN-20260711-101152-101342-CS.jpg",
+      "image_alt": "Spain into World Cup semi-final with France after late strike against Belgium",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-spain-into-world-cup-semi-final-with-france-after-late-strike-against-belgium"
         }
       ],
       "impact": 82
@@ -86,7 +109,30 @@
           "url": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 82
+      "impact": 81
+    },
+    {
+      "id": "israel-struck-an-iranian-steel-facility-was-it-a-valid-military-target-06186b66",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "published_at": "2026-07-11T09:00:17.000Z",
+      "image": "",
+      "image_alt": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "russian-missile-attacks-wound-11-in-kyiv-e7a0a88c",
@@ -109,7 +155,30 @@
           "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "u-s-citizen-tests-positive-for-ebola-in-democratic-republic-of-congo-2f3bd4ef",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "published_at": "2026-07-11T11:17:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "cuba-suffers-second-nationwide-blackout-in-five-days-b0556192",
@@ -136,53 +205,53 @@
           "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv-61371a22",
+      "id": "spain-wildfires-that-killed-12-begin-to-ease-officials-6efaab12",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "11 injured in overnight Russian missile and drone strikes on Kyiv",
-      "published_at": "2026-07-11T09:08:02.000Z",
-      "image": "https://s.france24.com/media/display/128f88a0-7d01-11f1-8eb6-005056bf30b7/w:1024/p:16x9/EN-20260711-100322-100531-CS.jpg",
-      "image_alt": "11 injured in overnight Russian missile and drone strikes on Kyiv",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Spain: Wildfires that killed 12 begin to ease (officials)",
+      "published_at": "2026-07-11T10:13:43.000Z",
+      "image": "https://s.france24.com/media/display/2e0df55c-7d0c-11f1-b4df-005056a90284/w:1024/p:16x9/EN-20260711-110328-110545-CS.jpg",
+      "image_alt": "Spain: Wildfires that killed 12 begin to ease (officials)",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260711-11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv"
+          "url": "https://www.france24.com/en/video/20260711-spain-wildfires-that-killed-12-begin-to-ease-officials"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "new-dinosaur-species-as-long-as-cricket-pitch-discovered-in-thailand-12b82a67",
+      "id": "land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds-fad8d31a",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "published_at": "2026-07-11T08:23:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
-      "image_alt": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "headline": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+      "published_at": "2026-07-11T10:14:39.000Z",
+      "image": "",
+      "image_alt": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
       "id": "typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-eae014d4",
@@ -205,7 +274,7 @@
           "url": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china-8d9dc43a",
@@ -228,30 +297,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "indonesia-s-anti-graft-prosecutor-quits-after-police-seize-gold-and-ca-19409144",
-      "region": "Asia-Pacific",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
-      "published_at": "2026-07-11T08:43:10.000Z",
-      "image": "",
-      "image_alt": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "man-arrested-in-killing-of-u-k-ex-lawmaker-is-released-f027c736",
@@ -274,76 +320,30 @@
           "url": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "russian-overnight-strikes-on-kyiv-injure-ten-c017a212",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian overnight strikes on Kyiv injure ten",
-      "published_at": "2026-07-11T08:25:11.000Z",
-      "image": "",
-      "image_alt": "Russian overnight strikes on Kyiv injure ten",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today-38d690ab",
+      "id": "indonesia-s-anti-graft-prosecutor-quits-after-police-seize-gold-and-ca-19409144",
       "region": "Asia-Pacific",
-      "topic": "World",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
-      "published_at": "2026-07-11T08:21:20.000Z",
+      "headline": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+      "published_at": "2026-07-11T08:43:10.000Z",
       "image": "",
-      "image_alt": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+      "image_alt": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-fu-3e9bddd9",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-      "published_at": "2026-07-11T08:04:57.000Z",
-      "image": "",
-      "image_alt": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "houston-killing-of-mexican-man-by-ice-reignites-debate-over-us-immigra-99bf0548",
@@ -366,40 +366,17 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/11/houston-killing-of-mexican-man-by-ice-reignites-debate-over-us-immigration-agency_6755370_4.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "spanish-royals-mark-minute-of-silence-for-wildfire-victims-854c3a3a",
+      "id": "france-roar-back-with-30-straight-points-to-beat-australia-in-nations--186bb9de",
       "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Spanish royals mark minute of silence for wildfire victims",
-      "published_at": "2026-07-11T09:11:28.000Z",
-      "image": "https://s.france24.com/media/display/93495912-7d01-11f1-98e8-005056a97e36/w:1024/p:16x9/EN-20260711-100615-100745-CS.jpg",
-      "image_alt": "Spanish royals mark minute of silence for wildfire victims",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260711-spanish-royals-mark-minute-of-silence-for-wildfire-victims"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "trump-agrees-to-more-iran-talks-but-insists-truce-is-over-cca64875",
-      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump agrees to more Iran talks but insists truce is over",
-      "published_at": "2026-07-11T09:06:07.000Z",
-      "image": "https://s.france24.com/media/display/612ededa-7d00-11f1-adfd-005056bfb2b6/w:1024/p:16x9/EN-20260711-100153-100318-CS.jpg",
-      "image_alt": "Trump agrees to more Iran talks but insists truce is over",
+      "headline": "France roar back with 30 straight points to beat Australia in Nations Championship",
+      "published_at": "2026-07-11T09:51:10.000Z",
+      "image": "https://s.france24.com/media/display/0aa68f0a-7d0e-11f1-8772-005056bf30b7/w:1024/p:16x9/3f1f715d98cf7d53b83675d3f9d081751deabaa0.jpg",
+      "image_alt": "France roar back with 30 straight points to beat Australia in Nations Championship",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -409,56 +386,148 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "death-toll-in-venezuela-quakes-surpasses-4-000-c372d3b4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Death toll in Venezuela quakes surpasses 4,000",
-      "published_at": "2026-07-11T08:11:31.000Z",
-      "image": "https://s.france24.com/media/display/f294ae4c-7cf9-11f1-8d13-005056bf30b7/w:1024/p:16x9/000-B9WB3H6.jpg",
-      "image_alt": "Death toll in Venezuela quakes surpasses 4,000",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000"
+          "url": "https://www.france24.com/en/sport/20260711-france-roar-back-with-30-straight-points-to-beat-australia-in-nations-championship"
         }
       ],
       "impact": 72
     },
     {
-      "id": "germany-news-third-summer-heat-wave-looms-a423145f",
-      "region": "Europe",
-      "topic": "Climate",
+      "id": "kenya-s-birdman-goes-viral-with-rescued-birds-and-sparks-health-concer-09c20eb9",
+      "region": "Africa",
+      "topic": "Health",
       "urgency": "Live",
-      "headline": "Germany news: Third summer heat wave looms",
-      "published_at": "2026-07-11T07:26:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Third summer heat wave looms",
+      "headline": "Kenya’s \"Birdman\" goes viral with rescued birds — and sparks health concerns",
+      "published_at": "2026-07-11T09:32:21.000Z",
+      "image": "https://s.france24.com/media/display/aa63d5c2-7d07-11f1-942f-005056a90284/w:1024/p:16x9/EN-20260710-215533-215705-CS.jpg",
+      "image_alt": "Kenya’s \"Birdman\" goes viral with rescued birds — and sparks health concerns",
       "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-kenya-s-birdman-goes-viral-with-rescued-birds-and-sparks-health-concerns"
         }
       ],
-      "impact": 71
+      "impact": 72
+    },
+    {
+      "id": "kenya-court-to-rule-on-rastafarians-cannabis-petition-619318ae",
+      "region": "Africa",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Kenya court to rule on Rastafarians' cannabis petition",
+      "published_at": "2026-07-11T09:28:06.000Z",
+      "image": "https://s.france24.com/media/display/c826fb76-7d06-11f1-8999-005056a97e36/w:1024/p:16x9/EN-20260710-215028-215237-CS.jpg",
+      "image_alt": "Kenya court to rule on Rastafarians' cannabis petition",
+      "translations": {
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-kenya-court-to-rule-on-rastafarians-cannabis-petition"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "eacop-ugandan-farmers-sue-uk-company-in-london-679f9a9f",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "EACOP: Ugandan farmers sue UK company in London",
+      "published_at": "2026-07-11T09:26:11.000Z",
+      "image": "https://s.france24.com/media/display/c65ee070-7d05-11f1-aefe-005056a90284/w:1024/p:16x9/EN-20260710-214648-214914-CS.jpg",
+      "image_alt": "EACOP: Ugandan farmers sue UK company in London",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-eacop-ugandan-farmers-sue-uk-company-in-london"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "sudan-eu-calls-for-terrorist-listing-of-rsf-54fd2b9f",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sudan: EU calls for terrorist listing of RSF",
+      "published_at": "2026-07-11T09:23:49.000Z",
+      "image": "https://s.france24.com/media/display/39dc9526-7d04-11f1-8e63-005056bfb2b6/w:1024/p:16x9/EN-20260710-214323-214538-CS.jpg",
+      "image_alt": "Sudan: EU calls for terrorist listing of RSF",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-sudan-eu-calls-for-terrorist-listing-of-rsf"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "new-dinosaur-species-as-long-as-cricket-pitch-discovered-in-thailand-12b82a67",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "published_at": "2026-07-11T08:23:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
+      "image_alt": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "russian-overnight-strikes-on-kyiv-injure-ten-c017a212",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Russian overnight strikes on Kyiv injure ten",
+      "published_at": "2026-07-11T08:25:11.000Z",
+      "image": "",
+      "image_alt": "Russian overnight strikes on Kyiv injure ten",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "us-wants-iran-to-pledge-to-stop-shooting-at-ships-in-strait-of-hormuz-93ed3588",
@@ -481,30 +550,7 @@
           "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "u-s-citizen-tests-positive-for-ebola-in-democratic-republic-of-congo-2f3bd4ef",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "published_at": "2026-07-11T06:25:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg",
-      "image_alt": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html"
-        }
-      ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "after-being-delayed-by-trump-a-canada-u-s-bridge-is-set-to-open-57f4d0d9",
@@ -527,53 +573,7 @@
           "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it--708598d9",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait?",
-      "published_at": "2026-07-11T05:11:04.000Z",
-      "image": "https://s.france24.com/media/display/5661b6d4-7ad1-11f1-90ad-005056bfb2b6/w:1024/p:16x9/AP23109448111261.jpg",
-      "image_alt": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait?",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "apple-sues-openai-its-employees-claiming-theft-of-trade-secrets-c5c58514",
-      "region": "World",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "published_at": "2026-07-10T22:54:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
-      "image_alt": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "translations": {
-        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
+      "impact": 67
     }
   ]
 }
