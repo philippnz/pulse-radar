@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T08:43:55.756Z",
+  "updated_at": "2026-07-11T10:11:46.701Z",
   "languages": [
     {
       "code": "en",
@@ -25,7 +25,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "published_at": "2026-07-11T07:46:09.000Z",
+      "published_at": "2026-07-11T09:01:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg",
       "image_alt": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "translations": {
@@ -41,6 +41,29 @@
         }
       ],
       "impact": 84
+    },
+    {
+      "id": "israel-struck-an-iranian-steel-facility-was-it-a-valid-military-target-06186b66",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "published_at": "2026-07-11T09:00:17.000Z",
+      "image": "",
+      "image_alt": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "berlin-hostage-crisis-woman-freed-after-hourslong-standoff-07d932f8",
@@ -63,7 +86,80 @@
           "url": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "russian-missile-attacks-wound-11-in-kyiv-e7a0a88c",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Russian missile attacks wound 11 in Kyiv",
+      "published_at": "2026-07-11T08:53:23.000Z",
+      "image": "",
+      "image_alt": "Russian missile attacks wound 11 in Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "cuba-suffers-second-nationwide-blackout-in-five-days-b0556192",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cuba suffers second nationwide blackout in five days",
+      "published_at": "2026-07-11T09:00:23.000Z",
+      "image": "",
+      "image_alt": "Cuba suffers second nationwide blackout in five days",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv-61371a22",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "11 injured in overnight Russian missile and drone strikes on Kyiv",
+      "published_at": "2026-07-11T09:08:02.000Z",
+      "image": "https://s.france24.com/media/display/128f88a0-7d01-11f1-8eb6-005056bf30b7/w:1024/p:16x9/EN-20260711-100322-100531-CS.jpg",
+      "image_alt": "11 injured in overnight Russian missile and drone strikes on Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "new-dinosaur-species-as-long-as-cricket-pitch-discovered-in-thailand-12b82a67",
@@ -86,7 +182,99 @@
           "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 78
+    },
+    {
+      "id": "typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-eae014d4",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
+      "published_at": "2026-07-11T08:21:00.000Z",
+      "image": "",
+      "image_alt": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china-8d9dc43a",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "published_at": "2026-07-11T09:32:57.000Z",
+      "image": "",
+      "image_alt": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "indonesia-s-anti-graft-prosecutor-quits-after-police-seize-gold-and-ca-19409144",
+      "region": "Asia-Pacific",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+      "published_at": "2026-07-11T08:43:10.000Z",
+      "image": "",
+      "image_alt": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "man-arrested-in-killing-of-u-k-ex-lawmaker-is-released-f027c736",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "published_at": "2026-07-11T08:36:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-uk-murder-tlpm/11int-uk-murder-tlpm-mediumSquareAt3X.jpg",
+      "image_alt": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "russian-overnight-strikes-on-kyiv-injure-ten-c017a212",
@@ -109,7 +297,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today-38d690ab",
@@ -132,7 +320,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-fu-3e9bddd9",
@@ -155,53 +343,76 @@
           "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "wembanyama-signs-contract-with-spurs-for-five-years-252m-report-72b67157",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Wembanyama signs contract with Spurs for five years, $252m: Report",
-      "published_at": "2026-07-11T07:51:49.000Z",
-      "image": "",
-      "image_alt": "Wembanyama signs contract with Spurs for five years, $252m: Report",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "after-being-delayed-by-trump-a-canada-u-s-bridge-is-set-to-open-57f4d0d9",
+      "id": "houston-killing-of-mexican-man-by-ice-reignites-debate-over-us-immigra-99bf0548",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "published_at": "2026-07-11T06:07:32.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-canada-bridge01-photo-tkbv/10int-canada-bridge01-photo-tkbv-mediumSquareAt3X.jpg",
-      "image_alt": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "headline": "Houston killing of Mexican man by ICE reignites debate over US immigration agency",
+      "published_at": "2026-07-11T10:00:12.000Z",
+      "image": "https://img.lemde.fr/2026/07/09/778/0/9395/4697/644/322/60/0/812cbdb_ftp-1-sw55afyf1tmi-5580079-01-06.jpg",
+      "image_alt": "Houston killing of Mexican man by ICE reignites debate over US immigration agency",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/11/houston-killing-of-mexican-man-by-ice-reignites-debate-over-us-immigration-agency_6755370_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "spanish-royals-mark-minute-of-silence-for-wildfire-victims-854c3a3a",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Spanish royals mark minute of silence for wildfire victims",
+      "published_at": "2026-07-11T09:11:28.000Z",
+      "image": "https://s.france24.com/media/display/93495912-7d01-11f1-98e8-005056a97e36/w:1024/p:16x9/EN-20260711-100615-100745-CS.jpg",
+      "image_alt": "Spanish royals mark minute of silence for wildfire victims",
+      "translations": {
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-spanish-royals-mark-minute-of-silence-for-wildfire-victims"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "trump-agrees-to-more-iran-talks-but-insists-truce-is-over-cca64875",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump agrees to more Iran talks but insists truce is over",
+      "published_at": "2026-07-11T09:06:07.000Z",
+      "image": "https://s.france24.com/media/display/612ededa-7d00-11f1-adfd-005056bfb2b6/w:1024/p:16x9/EN-20260711-100153-100318-CS.jpg",
+      "image_alt": "Trump agrees to more Iran talks but insists truce is over",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "death-toll-in-venezuela-quakes-surpasses-4-000-c372d3b4",
@@ -224,7 +435,7 @@
           "url": "https://www.france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "germany-news-third-summer-heat-wave-looms-a423145f",
@@ -245,52 +456,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "wemby-signs-multi-year-contract-with-spurs-tells-fans-i-m-here-to-stay-fd8111d5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Wemby signs multi-year contract with Spurs, tells fans 'I'm here to stay'",
-      "published_at": "2026-07-11T06:00:55.000Z",
-      "image": "https://s.france24.com/media/display/715b2ee0-7cc3-11f1-bf6c-005056bfb2b6/w:1024/p:16x9/Part-GTY-2275895993-1-1-1.jpg",
-      "image_alt": "Wemby signs multi-year contract with Spurs, tells fans 'I'm here to stay'",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260711-wemby-signs-multi-year-contract-with-spurs-tells-fans-i-m-here-to-stay"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "could-ai-help-al-qaida-and-other-groups-plan-terror-attacks-3f0ca282",
-      "region": "Europe",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Could AI help al-Qaida and other groups plan terror attacks?",
-      "published_at": "2026-07-11T05:48:00.000Z",
-      "image": "",
-      "image_alt": "Could AI help al-Qaida and other groups plan terror attacks?",
-      "translations": {
-        "en": "PULSE is tracking this technology update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 71
@@ -316,7 +481,53 @@
           "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "u-s-citizen-tests-positive-for-ebola-in-democratic-republic-of-congo-2f3bd4ef",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "published_at": "2026-07-11T06:25:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "after-being-delayed-by-trump-a-canada-u-s-bridge-is-set-to-open-57f4d0d9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "published_at": "2026-07-11T06:07:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-canada-bridge01-photo-tkbv/10int-canada-bridge01-photo-tkbv-mediumSquareAt3X.jpg",
+      "image_alt": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it--708598d9",
@@ -339,7 +550,7 @@
           "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "apple-sues-openai-its-employees-claiming-theft-of-trade-secrets-c5c58514",
@@ -362,214 +573,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "venezuelan-doctors-convert-restaurant-into-a-clinic-after-earthquake-d7cbb56f",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "Venezuelan doctors convert restaurant into a clinic after earthquake",
-      "published_at": "2026-07-11T05:38:39.000Z",
-      "image": "",
-      "image_alt": "Venezuelan doctors convert restaurant into a clinic after earthquake",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/venezuelan-doctors-convert-restaurant-into-a-clinic-after-earthquake?traffic_source=rss"
-        }
-      ],
       "impact": 69
-    },
-    {
-      "id": "meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backl-331e2a9d",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Update",
-      "headline": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
-      "published_at": "2026-07-11T05:34:53.000Z",
-      "image": "",
-      "image_alt": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
-      "translations": {
-        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "us-trump-looked-to-bypass-federal-election-agency-before-firings-says--b6c02f1d",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "US: Trump looked to bypass federal election agency before firings, says report",
-      "published_at": "2026-07-11T03:57:00.000Z",
-      "image": "",
-      "image_alt": "US: Trump looked to bypass federal election agency before firings, says report",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "they-don-t-need-people-the-workers-left-behind-by-china-s-robot-drive-720b9aa8",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "published_at": "2026-07-11T04:01:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-mediumSquareAt3X.jpg",
-      "image_alt": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "apple-sues-openai-for-stealing-trade-secrets-5336557e",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Apple sues OpenAI for stealing trade secrets",
-      "published_at": "2026-07-11T03:30:27.000Z",
-      "image": "https://img.lemde.fr/2026/07/10/294/0/3535/1767/644/322/60/0/1165671_ftp-1-xappuyccmtdy-2026-07-10t211010z-2026948577-rc2p3eaeif7r-rtrmadp-3-apple-openai-lawsuit.JPG",
-      "image_alt": "Apple sues OpenAI for stealing trade secrets",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/pixels/article/2026/07/11/apple-sues-openai-for-stealing-trade-secrets_6755367_13.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "meta-pulls-new-ai-image-feature-after-days-of-backlash-dc6825a6",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Update",
-      "headline": "Meta pulls new AI image feature after days of backlash",
-      "published_at": "2026-07-11T01:45:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
-      "image_alt": "Meta pulls new AI image feature after days of backlash",
-      "translations": {
-        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues-341b155a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Poland could cut arms aid to Ukraine as WWII spat continues",
-      "published_at": "2026-07-11T05:19:00.000Z",
-      "image": "",
-      "image_alt": "Poland could cut arms aid to Ukraine as WWII spat continues",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "royal-rapprochement-harry-and-meghan-pay-a-rare-visit-to-the-king-and--58b3e4e5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
-      "published_at": "2026-07-11T01:37:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-prince-harry-visit-photo-tbwq/10int-prince-harry-visit-photo-tbwq-mediumSquareAt3X.jpg",
-      "image_alt": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "live-trump-says-us-will-completely-decimate-iran-if-it-attempts-to-ass-fdedc7b2",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Live: Trump says US will 'completely decimate' Iran if it attempts to assassinate him",
-      "published_at": "2026-07-11T05:10:36.000Z",
-      "image": "https://s.france24.com/media/display/cd9102c8-7ce3-11f1-abf4-005056a97e36/w:1024/p:16x9/AP26190188472439.jpg",
-      "image_alt": "Live: Trump says US will 'completely decimate' Iran if it attempts to assassinate him",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260711-live-trump-threatens-iran-after-khamenei-s-funeral-saw-open-calls-for-his-killing"
-        }
-      ],
-      "impact": 65
     }
   ]
 }
