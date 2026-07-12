@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:51:03.857Z",
+  "updated_at": "2026-07-12T02:22:15.734Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,60 @@
   ],
   "stories": [
     {
-      "id": "iran-says-strait-of-hormuz-closed-until-further-notice-f1a44498",
+      "id": "at-least-two-killed-in-toronto-street-festival-shooting-2e08f536",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least two killed in Toronto street festival shooting",
+      "published_at": "2026-07-12T02:18:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a2/live/bfc51ee0-7d92-11f1-b0c0-b9b367ec5905.jpg",
+      "image_alt": "At least two killed in Toronto street festival shooting",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "iran-war-live-us-bombs-iranian-port-cities-as-irgc-closes-strait-of-ho-dfdd8267",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "published_at": "2026-07-12T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "us-launches-fresh-strikes-as-iran-closes-strait-of-hormuz-f1a44498",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran says Strait of Hormuz closed 'until further notice'",
-      "published_at": "2026-07-11T23:14:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Iran says Strait of Hormuz closed 'until further notice'",
+      "headline": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "published_at": "2026-07-12T01:55:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6961/live/7bbcded0-7d7f-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,17 +86,132 @@
           "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
         }
       ],
+      "impact": 80
+    },
+    {
+      "id": "toronto-shooting-two-dead-and-four-injured-as-police-search-for-active-5748c503",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Breaking",
+      "headline": "Toronto shooting: two dead and four injured as police search for active shooter",
+      "published_at": "2026-07-12T01:30:57.000Z",
+      "image": "https://i.guim.co.uk/img/media/fdf3085ff755fb915e17cab381a319c4754a5f34/12_0_1953_1563/master/1953.jpg?width=140&quality=85&auto=format&fit=max&s=38e55726f129b62ed81b9a8d8ec2e47c",
+      "image_alt": "Toronto shooting: two dead and four injured as police search for active shooter",
+      "translations": {
+        "en": "PULSE is tracking this society update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "china-s-second-typhoon-in-a-week-makes-landfall-3cc6c88e",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "China's second typhoon in a week makes landfall",
+      "published_at": "2026-07-12T01:22:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "China's second typhoon in a week makes landfall",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
       "impact": 79
     },
     {
-      "id": "mojtaba-khamenei-vows-revenge-as-iran-s-top-diplomat-is-in-oman-for-ta-13024475",
+      "id": "indian-tourists-killed-after-speedboat-capsizes-in-vietnam-9f025be7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Indian tourists killed after speedboat capsizes in Vietnam",
+      "published_at": "2026-07-11T23:35:23.000Z",
+      "image": "",
+      "image_alt": "Indian tourists killed after speedboat capsizes in Vietnam",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "t-rex-could-become-most-expensive-fossil-ever-38938050",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "T. rex could become most expensive fossil ever",
+      "published_at": "2026-07-11T23:58:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
+      "image_alt": "T. rex could become most expensive fossil ever",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state-edf4318b",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Nigeria rescues dozens of abducted school children in Oyo state",
+      "published_at": "2026-07-12T01:56:01.000Z",
+      "image": "",
+      "image_alt": "Nigeria rescues dozens of abducted school children in Oyo state",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "u-s-strikes-iran-after-iran-fires-on-ship-in-strait-of-hormuz-13024475",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman for Talks",
-      "published_at": "2026-07-11T23:46:12.000Z",
+      "headline": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
+      "published_at": "2026-07-12T01:08:40.000Z",
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11iran-strait-whmp/11iran-strait-whmp-mediumSquareAt3X.jpg",
-      "image_alt": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman for Talks",
+      "image_alt": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -63,30 +224,53 @@
           "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "polish-pm-pledges-memorial-to-victims-of-ww2-genocide-by-ukrainian-nat-983923e1",
-      "region": "World",
+      "id": "mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation-4ba66956",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "published_at": "2026-07-11T21:56:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "headline": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "published_at": "2026-07-12T00:22:21.000Z",
+      "image": "",
+      "image_alt": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 75
+    },
+    {
+      "id": "whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump-6b8e4034",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+      "published_at": "2026-07-11T23:31:23.000Z",
+      "image": "",
+      "image_alt": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "spain-battles-to-contain-one-of-its-deadliest-wildfires-as-at-least-12-b4d09fb7",
@@ -109,30 +293,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order-6aa0adf3",
-      "region": "Americas",
+      "id": "argentina-switzerland-live-defending-champions-take-lead-through-mac-a-c11cf758",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US judge dismisses January 6 case against Proud Boys after Trump order",
-      "published_at": "2026-07-11T21:53:40.000Z",
-      "image": "",
-      "image_alt": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "headline": "Argentina-Switzerland live: Defending champions take lead through Mac Allister's early opener",
+      "published_at": "2026-07-12T00:35:11.000Z",
+      "image": "https://s.france24.com/media/display/cdaeab42-7c58-11f1-9c58-005056bf30b7/w:1024/p:16x9/ARG-SUI-H.png",
+      "image_alt": "Argentina-Switzerland live: Defending champions take lead through Mac Allister's early opener",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20260712-argentina-switzerland-live-defending-champions-face-swiss-underdogs-for-semi-finals-spot"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
       "id": "us-democrat-ro-khanna-says-he-was-detained-by-armed-israeli-settlers-ab996cac",
@@ -155,7 +339,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 74
+      "impact": 72
+    },
+    {
+      "id": "us-launches-new-strikes-on-iran-after-container-ship-hit-in-hormuz-90a46637",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US launches new strikes on Iran after container ship hit in Hormuz",
+      "published_at": "2026-07-11T23:48:18.000Z",
+      "image": "https://img.lemde.fr/2026/07/10/172/0/5500/2750/644/322/60/0/afc85c9_ftp-1-yt2bpau69j8e-2026-07-10t130543z-1345548046-rc25amatsfkg-rtrmadp-3-iran-crisis-shipping-un.JPG",
+      "image_alt": "US launches new strikes on Iran after container ship hit in Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/12/iran-announces-closure-of-the-strait-of-hormuz-until-further-notice_6755387_4.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "polish-pm-pledges-memorial-to-victims-of-ww2-genocide-by-ukrainian-nat-983923e1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "published_at": "2026-07-11T21:56:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "a-wildfire-killed-12-people-in-southern-spain-here-s-the-latest-73a9962d",
@@ -178,76 +408,53 @@
           "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html"
         }
       ],
-      "impact": 74
+      "impact": 71
     },
     {
-      "id": "iran-announces-closure-of-the-strait-of-hormuz-until-further-notice-90a46637",
-      "region": "Middle East",
+      "id": "estados-unidos-e-ir-n-se-enzarzan-en-una-nueva-espiral-de-ataques-28ab0377",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran announces closure of the Strait of Hormuz 'until further notice'",
-      "published_at": "2026-07-11T23:48:19.000Z",
-      "image": "https://img.lemde.fr/2026/07/10/172/0/5500/2750/644/322/60/0/afc85c9_ftp-1-yt2bpau69j8e-2026-07-10t130543z-1345548046-rc25amatsfkg-rtrmadp-3-iran-crisis-shipping-un.JPG",
-      "image_alt": "Iran announces closure of the Strait of Hormuz 'until further notice'",
+      "headline": "Estados Unidos e Irán se enzarzan en una nueva espiral de ataques",
+      "published_at": "2026-07-12T00:48:52.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/UNS5MA2SMVOQLJJVV6U5DNSJIE.jpg?auth=220acdb30bfa303018f58af97d6504bf0d06217a7ef51c93e68a77bbc3127e33",
+      "image_alt": "Estados Unidos e Irán se enzarzan en una nueva espiral de ataques",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/12/iran-announces-closure-of-the-strait-of-hormuz-until-further-notice_6755387_4.html"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-12/estados-unidos-e-iran-se-enzarzan-en-una-nueva-espiral-de-ataques.html"
         }
       ],
-      "impact": 73
+      "impact": 70
     },
     {
-      "id": "spain-wildfire-firefighters-begin-to-contain-deadly-blaze-6faaa7ef",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Spain wildfire: Firefighters begin to contain deadly blaze",
-      "published_at": "2026-07-11T22:10:00.000Z",
+      "id": "us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order-6aa0adf3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "published_at": "2026-07-11T21:53:40.000Z",
       "image": "",
-      "image_alt": "Spain wildfire: Firefighters begin to contain deadly blaze",
+      "image_alt": "US judge dismisses January 6 case against Proud Boys after Trump order",
       "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/spain-wildfire-firefighters-begin-to-contain-deadly-blaze/a-77919977?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "global-population-at-8-3-billion-what-does-that-mean-for-anyone-under--d6fe9a2e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Global population at 8.3 billion: What does that mean for anyone under 30?",
-      "published_at": "2026-07-11T21:48:57.000Z",
-      "image": "https://s.france24.com/media/display/2d9b1276-7d70-11f1-aea5-005056a90284/w:1024/p:16x9/capture-17239815246a52b6b1960a17-04512153.jpg",
-      "image_alt": "Global population at 8.3 billion: What does that mean for anyone under 30?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260711-global-population-at-8-3-billion-what-does-that-mean-for-anyone-under-30"
-        }
-      ],
-      "impact": 72
+      "impact": 68
     },
     {
       "id": "trump-administration-subpoenas-new-york-times-journalists-over-air-for-915483fb",
@@ -274,76 +481,7 @@
           "url": "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-inte-0c8ffef5",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
-      "published_at": "2026-07-11T10:30:04.000Z",
-      "image": "https://img.lemde.fr/2026/07/10/443/0/2953/1476/644/322/60/0/2a89c88_upload-1-y4dq6fquyf20-2026-07-10-heg-ukraine-0091.JPG",
-      "image_alt": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/11/war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-intensifies-attacks_6755371_4.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "uk-police-investigate-murder-of-politician-ann-widdecombe-36c17bf2",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Update",
-      "headline": "UK police investigate murder of politician Ann Widdecombe",
-      "published_at": "2026-07-11T20:29:40.000Z",
-      "image": "",
-      "image_alt": "UK police investigate murder of politician Ann Widdecombe",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "china-s-second-typhoon-in-a-week-makes-landfall-3cc6c88e",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "China's second typhoon in a week makes landfall",
-      "published_at": "2026-07-11T17:41:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "China's second typhoon in a week makes landfall",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "vietnam-indian-tourists-killed-in-boat-capsize-79750799",
@@ -366,76 +504,53 @@
           "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 69
+      "impact": 67
     },
     {
-      "id": "nigeria-says-army-has-killed-300-bandits-in-north-western-state-of-zam-8de1a055",
-      "region": "Africa",
-      "topic": "World",
+      "id": "war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-inte-0c8ffef5",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "published_at": "2026-07-11T11:59:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
-      "image_alt": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "headline": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
+      "published_at": "2026-07-11T10:30:04.000Z",
+      "image": "https://img.lemde.fr/2026/07/10/443/0/2953/1476/644/322/60/0/2a89c88_upload-1-y4dq6fquyf20-2026-07-10-heg-ukraine-0091.JPG",
+      "image_alt": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
       "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/11/war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-intensifies-attacks_6755371_4.html"
         }
       ],
-      "impact": 69
+      "impact": 67
     },
     {
-      "id": "what-s-behind-pakistan-s-mass-deportation-of-afghans-532d6abb",
-      "region": "Asia-Pacific",
+      "id": "iran-closes-strait-of-hormuz-us-launches-fresh-strikes-3e733ebd",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Update",
-      "headline": "What’s behind Pakistan’s mass deportation of Afghans?",
-      "published_at": "2026-07-11T20:11:55.000Z",
+      "headline": "Iran closes Strait of Hormuz, US launches fresh strikes",
+      "published_at": "2026-07-11T22:48:00.000Z",
       "image": "",
-      "image_alt": "What’s behind Pakistan’s mass deportation of Afghans?",
+      "image_alt": "Iran closes Strait of Hormuz, US launches fresh strikes",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "thousands-gather-in-srebrenica-to-mark-31-years-since-genocide-e962766e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Thousands gather in Srebrenica to mark 31 years since genocide",
-      "published_at": "2026-07-11T19:25:59.000Z",
-      "image": "",
-      "image_alt": "Thousands gather in Srebrenica to mark 31 years since genocide",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss"
-        }
-      ],
-      "impact": 68
+      "impact": 66
     },
     {
       "id": "u-s-citizen-tests-positive-for-ebola-in-democratic-republic-of-congo-2f3bd4ef",
@@ -458,122 +573,7 @@
           "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "all-we-see-is-decay-covering-the-human-toll-of-venezuela-s-earthquakes-da0a64b1",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-      "published_at": "2026-07-11T19:15:10.000Z",
-      "image": "",
-      "image_alt": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers-497fefa5",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-      "published_at": "2026-07-11T18:59:01.000Z",
-      "image": "",
-      "image_alt": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "more-than-40-kidnapped-children-and-teachers-freed-after-nigerian-army-b7cc0824",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "published_at": "2026-07-11T14:19:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94a/live/062ee420-7d2e-11f1-9bb6-f90d2cb001e2.jpg",
-      "image_alt": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 66
-    },
-    {
-      "id": "norway-england-live-three-lions-take-the-lead-through-bellingham-s-ext-848a354d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Norway-England live: Three Lions take the lead through Bellingham's extra-time goal",
-      "published_at": "2026-07-11T20:16:38.000Z",
-      "image": "https://s.france24.com/media/display/a583c036-7cb6-11f1-852e-005056a97e36/w:1024/p:16x9/NOR-ENG-H.png",
-      "image_alt": "Norway-England live: Three Lions take the lead through Bellingham's extra-time goal",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china-542ea0b8",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
-      "published_at": "2026-07-11T19:44:32.000Z",
-      "image": "https://s.france24.com/media/display/5b811592-7d60-11f1-b339-005056bfb2b6/w:1024/p:16x9/AP26192453063980.jpg",
-      "image_alt": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china"
-        }
-      ],
-      "impact": 65
     }
   ]
 }
