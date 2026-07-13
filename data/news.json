@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:37:00.083Z",
+  "updated_at": "2026-07-13T14:24:07.640Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,83 @@
   ],
   "stories": [
     {
-      "id": "at-least-27-killed-25-critically-injured-after-fire-engulfs-bangkok-ba-87ad06d2",
+      "id": "live-updates-u-s-and-iran-edge-toward-war-again-478c05dd",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Live Updates: U.S. and Iran Edge Toward War Again",
+      "published_at": "2026-07-13T14:22:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13mideast-promo-aK-01/13mideast-header-01-cflt-mediumSquareAt3X.jpg",
+      "image_alt": "Live Updates: U.S. and Iran Edge Toward War Again",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz"
+        }
+      ],
+      "impact": 88
+    },
+    {
+      "id": "yemeni-government-forces-strike-sanaa-airport-4d5a58be",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Yemeni government forces strike Sanaa airport",
+      "published_at": "2026-07-13T14:03:44.000Z",
+      "image": "",
+      "image_alt": "Yemeni government forces strike Sanaa airport",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/yemeni-government-forces-strike-sanaa-airport?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "japan-builds-intelligence-agency-it-hasn-t-had-since-world-war-ii-8401ba7c",
+      "region": "Asia-Pacific",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+      "published_at": "2026-07-13T12:57:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/00int-japan-intelligence-phqg/00int-japan-intelligence-phqg-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "at-least-28-killed-25-critically-injured-after-fire-engulfs-bangkok-ba-87ad06d2",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "published_at": "2026-07-13T11:10:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "headline": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "published_at": "2026-07-13T12:32:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32aa/live/d7f9b550-7eb6-11f1-8439-ebc9c5f19300.jpg",
+      "image_alt": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,7 +109,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 83
+    },
+    {
+      "id": "middle-east-war-iran-claims-strikes-on-us-bases-in-multiple-countries-03679082",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Middle East War: Iran claims strikes on US bases in multiple countries",
+      "published_at": "2026-07-13T12:58:45.000Z",
+      "image": "https://s.france24.com/media/display/6f1038ee-7eba-11f1-b59a-005056a90284/w:1024/p:16x9/minia-en.jpg",
+      "image_alt": "Middle East War: Iran claims strikes on US bases in multiple countries",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260713-middle-east-war-iran-claims-strikes-on-us-bases-in-multiple-countries"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "the-next-phase-in-ukraine-s-war-with-russia-the-battle-for-minds-9d79a515",
@@ -63,99 +155,30 @@
           "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html"
         }
       ],
-      "impact": 85
+      "impact": 82
     },
     {
-      "id": "us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain-ff348b81",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US and Iran trade strikes as ceasefire comes under growing strain",
-      "published_at": "2026-07-13T09:01:48.000Z",
-      "image": "",
-      "image_alt": "US and Iran trade strikes as ceasefire comes under growing strain",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
-      "id": "wildfire-raging-south-of-paris-could-have-been-set-deliberately-says-m-8433441f",
+      "id": "hero-legend-sweetheart-tributes-to-jurassic-park-actor-sam-neill-who-h-d309d2fa",
       "region": "World",
-      "topic": "Politics",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "published_at": "2026-07-13T10:29:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "published_at": "2026-07-13T11:52:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b5/live/99882570-7e86-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukra-9f429a0a",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "'Coalition of the willing' meets in Paris to bolster war support to Ukraine",
-      "published_at": "2026-07-13T09:32:49.000Z",
-      "image": "https://s.france24.com/media/display/8b847822-7e9d-11f1-8823-005056a97e36/w:1024/p:16x9/AP26006720743424.jpg",
-      "image_alt": "'Coalition of the willing' meets in Paris to bolster war support to Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260713-coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukraine"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settleme-6d514b34",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "EU countries consider sanctions on trade from illegal Israeli settlements",
-      "published_at": "2026-07-13T10:32:25.000Z",
-      "image": "",
-      "image_alt": "EU countries consider sanctions on trade from illegal Israeli settlements",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss"
-        }
-      ],
-      "impact": 81
+      "impact": 78
     },
     {
       "id": "renewed-us-iran-war-is-hitting-gulf-countries-hard-1a7b8523",
@@ -178,155 +201,63 @@
           "url": "https://www.dw.com/en/renewed-us-iran-war-is-hitting-gulf-countries-hard/a-77876781?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "heavy-rains-and-flash-floods-in-bangladesh-leave-51-dead-62aa495d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Heavy rains and flash floods in Bangladesh leave 51 dead",
-      "published_at": "2026-07-13T06:19:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg",
-      "image_alt": "Heavy rains and flash floods in Bangladesh leave 51 dead",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "men-disguised-as-police-kill-ecuadorean-drug-lord-s-brother-74e16f2a",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Men disguised as police kill Ecuadorean drug lord's brother",
-      "published_at": "2026-07-13T10:30:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ca/live/0e6492f0-7ea2-11f1-b62f-ff1d7cedfbfe.jpg",
-      "image_alt": "Men disguised as police kill Ecuadorean drug lord's brother",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "senator-lindsey-graham-died-of-aortic-tear-examiner-says-4f4f07ef",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "published_at": "2026-07-13T10:14:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/c3779220-7e9b-11f1-bff3-4914dc3e2c6b.jpg",
-      "image_alt": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "live-updates-iran-ramps-up-threats-as-it-retaliates-against-u-s-strike-478c05dd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Live Updates: Iran Ramps Up Threats as It Retaliates Against U.S. Strikes",
-      "published_at": "2026-07-13T11:29:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13mideast-promo-aK-01/13mideast-header-01-cflt-mediumSquareAt3X.jpg",
-      "image_alt": "Live Updates: Iran Ramps Up Threats as It Retaliates Against U.S. Strikes",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "ukraine-to-get-new-prime-minister-amid-major-government-reshuffle-44fe3a49",
+      "id": "eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign-04c86081",
       "region": "Europe",
-      "topic": "Politics",
+      "topic": "Technology",
       "urgency": "Live",
-      "headline": "Ukraine to get new prime minister amid major government reshuffle",
-      "published_at": "2026-07-13T10:33:50.000Z",
-      "image": "https://s.france24.com/media/display/1216fe1c-6ac3-11f1-a8d0-005056bfb2b6/w:1024/p:16x9/AP26167581691994.jpg",
-      "image_alt": "Ukraine to get new prime minister amid major government reshuffle",
+      "headline": "EU sanctions nine people over alleged Russian cyber-spying campaign",
+      "published_at": "2026-07-13T13:59:54.000Z",
+      "image": "",
+      "image_alt": "EU sanctions nine people over alleged Russian cyber-spying campaign",
       "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/ukraine-to-get-new-prime-minister-amid-major-government-reshuffle"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "macron-and-the-military-10-years-made-of-mistrust-hope-and-budget-hike-72b671eb",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Macron and the military: 10 years made of mistrust, hope, and budget hikes",
-      "published_at": "2026-07-13T10:08:31.000Z",
-      "image": "https://img.lemde.fr/2026/07/12/504/0/6048/3024/644/322/60/0/41eb1da_upload-1-ugm1luniiij7-000-92td8nv-1.jpg",
-      "image_alt": "Macron and the military: 10 years made of mistrust, hope, and budget hikes",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/politics/article/2026/07/13/macron-and-the-military-10-years-made-of-mistrust-hope-and-budget-hikes_6755429_5.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "macron-says-france-has-fulfilled-commitment-to-rearm-in-annual-speech--bcb980c2",
-      "region": "Europe",
+      "id": "hamas-denies-un-accusations-over-gaza-aid-distribution-interference-613b3a22",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hamas denies UN accusations over Gaza aid distribution interference",
+      "published_at": "2026-07-13T13:59:43.000Z",
+      "image": "",
+      "image_alt": "Hamas denies UN accusations over Gaza aid distribution interference",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "iran-launches-drone-missile-attacks-on-dissident-bases-in-iraqi-kurdis-101b39a7",
+      "region": "Middle East",
       "topic": "Security",
       "urgency": "Live",
-      "headline": "Macron says France has fulfilled 'commitment to rearm' in annual speech to military",
-      "published_at": "2026-07-13T09:56:45.000Z",
-      "image": "https://s.france24.com/media/display/8012dee4-7ea6-11f1-9c48-005056bfb2b6/w:1024/p:16x9/Anglais-2026-07-13T10-31-50-486Z.jpg",
-      "image_alt": "Macron says France has fulfilled 'commitment to rearm' in annual speech to military",
+      "headline": "Iran launches drone, missile attacks on dissident bases in Iraqi Kurdistan",
+      "published_at": "2026-07-13T12:56:17.000Z",
+      "image": "https://s.france24.com/media/display/ace1a7fa-7c6e-11f1-a887-005056a90284/w:1024/p:16x9/photo-2026-07-10-16-41-51.jpg",
+      "image_alt": "Iran launches drone, missile attacks on dissident bases in Iraqi Kurdistan",
       "translations": {
         "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -336,20 +267,43 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260713-watch-live-macron-addresses-french-military-on-eve-of-bastille-day"
+          "url": "https://www.france24.com/en/middle-east/20260713-iran-launches-drone-missile-attacks-kurdish-dissident-bases-iraq"
         }
       ],
       "impact": 77
     },
     {
-      "id": "wildfires-near-paris-force-evacuations-disrupt-train-lines-and-motorwa-31ce3d8f",
+      "id": "german-court-convicts-iraqi-couple-of-enslaving-yazidi-girls-a92eba00",
       "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "published_at": "2026-07-13T11:36:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ef/live/5cd629d0-7eac-11f1-a302-011524d23ac9.jpg",
+      "image_alt": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "what-is-japan-s-new-intelligence-agency-and-why-is-tokyo-building-it-e1146d42",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Wildfires near Paris force evacuations, disrupt train lines and motorway",
-      "published_at": "2026-07-13T09:46:08.000Z",
+      "headline": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
+      "published_at": "2026-07-13T13:07:15.000Z",
       "image": "",
-      "image_alt": "Wildfires near Paris force evacuations, disrupt train lines and motorway",
+      "image_alt": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -359,112 +313,89 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/13/wildfires-near-paris-force-evacuations-disrupt-train-lines-and-motorway?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 76
     },
     {
-      "id": "it-s-expensive-syria-s-electricity-has-improved-but-challenges-remain-4858a64c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
-      "published_at": "2026-07-13T09:34:50.000Z",
-      "image": "",
-      "image_alt": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "explosions-and-large-fires-following-ukrainian-attacks-on-russia-71186c59",
+      "id": "macron-says-europe-will-defend-itself-at-all-costs-ahead-of-ukraine-al-32348b56",
       "region": "Europe",
-      "topic": "World",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "Explosions and large fires following Ukrainian attacks on Russia",
-      "published_at": "2026-07-13T09:32:05.000Z",
-      "image": "",
-      "image_alt": "Explosions and large fires following Ukrainian attacks on Russia",
+      "headline": "Macron says Europe will defend itself at all costs ahead of Ukraine allies summit",
+      "published_at": "2026-07-13T12:44:18.000Z",
+      "image": "https://img.lemde.fr/2026/07/13/0/0/8192/4096/644/322/60/0/caac92b_ftp-1-sgsdelh7fopf-5610096-01-06.jpg",
+      "image_alt": "Macron says Europe will defend itself at all costs ahead of Ukraine allies summit",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/13/macron-says-europe-will-defend-itself-at-all-costs-ahead-of-ukraine-allies-summit_6755434_4.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "wildfire-raging-south-of-paris-could-have-been-set-deliberately-says-m-8433441f",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "published_at": "2026-07-13T10:29:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "killings-continue-on-del-monte-farm-in-kenya-families-say-after-g4s-hi-c36e277c",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+      "published_at": "2026-07-13T14:00:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/47ef4bc525153f24a51b0a766a45d2e43394da0e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d12d700c3d52be73980da7797e7807fa",
+      "image_alt": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s"
         }
       ],
       "impact": 75
     },
     {
-      "id": "new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know-1b1ed03d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "New Iran strikes on Gulf as US attacks escalate: What we know",
-      "published_at": "2026-07-13T09:16:08.000Z",
-      "image": "",
-      "image_alt": "New Iran strikes on Gulf as US attacks escalate: What we know",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "lebanese-hold-fast-to-their-land-despite-threat-of-long-israeli-occupa-9ea086c3",
+      "id": "what-will-happen-to-trump-s-agenda-after-lindsey-graham-s-death-62961989",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
-      "published_at": "2026-07-13T09:06:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/00int-south-lebanon-life-08-gvtf/00int-south-lebanon-life-08-gvtf-mediumSquareAt3X.jpg",
-      "image_alt": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "in-wales-an-artist-sews-names-of-gaza-s-infant-victims-on-christening--06e6d0d8",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
-      "published_at": "2026-07-13T09:05:54.000Z",
+      "headline": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+      "published_at": "2026-07-13T12:41:22.000Z",
       "image": "",
-      "image_alt": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
+      "image_alt": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,7 +405,53 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "the-late-sheikh-hamad-bin-khalifa-al-thani-s-legacy-on-women-s-reform-9bb2eda7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
+      "published_at": "2026-07-13T12:36:41.000Z",
+      "image": "",
+      "image_alt": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "street-in-illinois-named-after-murdered-palestinian-boy-edbcbeda",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Street in Illinois named after murdered Palestinian boy",
+      "published_at": "2026-07-13T12:31:36.000Z",
+      "image": "",
+      "image_alt": "Street in Illinois named after murdered Palestinian boy",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss"
         }
       ],
       "impact": 75
@@ -485,7 +462,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "A Robot Army Remakes Ground Warfare in Ukraine",
-      "published_at": "2026-07-13T09:00:23.000Z",
+      "published_at": "2026-07-13T12:04:25.000Z",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12-ukraine-ground-robots-kgbw/12-ukraine-ground-robots-kgbw-mediumSquareAt3X.jpg",
       "image_alt": "A Robot Army Remakes Ground Warfare in Ukraine",
       "translations": {
@@ -503,14 +480,14 @@
       "impact": 75
     },
     {
-      "id": "replay-emmanuel-macron-addresses-armed-forces-for-the-last-time-bbed35fc",
+      "id": "despite-power-returning-to-cuba-blackouts-are-still-a-regular-occurren-e20ee736",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Replay: Emmanuel Macron addresses armed forces for the last time",
-      "published_at": "2026-07-13T11:00:03.000Z",
-      "image": "https://s.france24.com/media/display/f5363f6e-7ea5-11f1-8c11-005056bf30b7/w:1024/p:16x9/Francais-2026-07-13T10-25-16-108Z.jpg",
-      "image_alt": "Replay: Emmanuel Macron addresses armed forces for the last time",
+      "headline": "Despite power returning to Cuba, blackouts are still a regular occurrence",
+      "published_at": "2026-07-13T13:42:22.000Z",
+      "image": "https://s.france24.com/media/display/4e77fa3c-7d47-11f1-8a1b-005056bf30b7/w:1024/p:16x9/AP26192094846136.jpg",
+      "image_alt": "Despite power returning to Cuba, blackouts are still a regular occurrence",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -520,20 +497,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/replay-emmanuel-macron-addresses-armed-forces-for-the-last-time"
+          "url": "https://www.france24.com/en/despite-power-returning-to-cuba-blackouts-are-still-a-regular-occurrence"
         }
       ],
       "impact": 73
     },
     {
-      "id": "iran-rising-regional-power-or-too-weak-to-make-peace-ca2de54b",
-      "region": "Middle East",
+      "id": "preventive-measures-needed-to-avoid-increasingly-common-wildfires-says-00a6bbbe",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran: Rising regional power or too weak to make peace?",
-      "published_at": "2026-07-13T10:56:19.000Z",
-      "image": "https://s.france24.com/media/display/d4615fb0-7e7f-11f1-93b2-005056bfb2b6/w:1024/p:16x9/Anglais-2026-07-13T05-20-23-278Z.jpg",
-      "image_alt": "Iran: Rising regional power or too weak to make peace?",
+      "headline": "'Preventive measures' needed to avoid 'increasingly common' wildfires, says Spanish PM",
+      "published_at": "2026-07-13T13:36:07.000Z",
+      "image": "https://s.france24.com/media/display/86ffdd38-7ebf-11f1-8bda-005056bfb2b6/w:1024/p:16x9/2026-07-13T111354Z-2084974270-RC2ZCMABWGZ4-RTRMADP-3-EUROPE-WEATHER-SPAIN-WILDFIRE.jpg",
+      "image_alt": "'Preventive measures' needed to avoid 'increasingly common' wildfires, says Spanish PM",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,33 +520,56 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/press-review/20260713-iran-rising-regional-power-or-too-weak-to-make-peace"
+          "url": "https://www.france24.com/en/preventive-measures-needed-to-avoid-increasingly-common-wildfires-says-spanish-pm"
         }
       ],
       "impact": 73
     },
     {
-      "id": "germany-news-tobacco-tax-to-rise-more-than-planned-by-2030-572b00dd",
+      "id": "whenever-biodiversity-decays-you-decay-french-biologist-marc-andr-selo-e16bc38a",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Germany news: Tobacco tax to rise more than planned by 2030",
-      "published_at": "2026-07-13T10:26:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Tobacco tax to rise more than planned by 2030",
+      "headline": "'Whenever biodiversity decays, you decay': French biologist Marc-André Selosse",
+      "published_at": "2026-07-13T13:30:57.000Z",
+      "image": "https://s.france24.com/media/display/ebed80a2-7ebe-11f1-bbc8-005056bfb2b6/w:1024/p:16x9/AP24303696424863.jpg",
+      "image_alt": "'Whenever biodiversity decays, you decay': French biologist Marc-André Selosse",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-tobacco-tax-to-rise-more-than-planned-by-2030/live-77932396?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/perspective/20260713-whenever-biodiversity-decays-you-decay-french-biologist-marc-andr%C3%A9-selosse"
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "la-ue-culpa-a-los-servicios-de-inteligencia-rusos-de-la-oleada-de-cibe-3b5a0d19",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "La UE culpa a los servicios de inteligencia rusos de la oleada de ciberataques en Europa",
+      "published_at": "2026-07-13T14:04:40.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/NNU4ZQROBFOYNN56LPQIBOSOGQ.jpg?auth=17f9c7f8f7da44e4bd0c393f04d62a963a83b680bbbb5ce9d10862ddec365cca",
+      "image_alt": "La UE culpa a los servicios de inteligencia rusos de la oleada de ciberataques en Europa",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-13/la-ue-situa-a-los-servicios-de-inteligencia-del-kremlin-detras-de-multiples-ciberataques-en-europa.html"
+        }
+      ],
+      "impact": 72
     }
   ]
 }
