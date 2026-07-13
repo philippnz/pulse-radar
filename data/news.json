@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T01:02:02.562Z",
+  "updated_at": "2026-07-13T04:56:51.234Z",
   "languages": [
     {
       "code": "en",
@@ -20,37 +20,60 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensi-220f5ca7",
+      "id": "us-and-iran-trade-fire-as-tensions-rise-over-strait-of-hormuz-1f37a491",
       "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
-      "published_at": "2026-07-13T00:00:00.000Z",
-      "image": "",
-      "image_alt": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "published_at": "2026-07-13T04:30:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03f/live/5cc84d20-7e6a-11f1-bee8-53ce494e1abc.jpg",
+      "image_alt": "US and Iran trade fire as tensions rise over Strait of Hormuz",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-ma-fc46a7be",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Breaking",
+      "headline": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+      "published_at": "2026-07-13T01:27:30.000Z",
+      "image": "",
+      "image_alt": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
-      "id": "at-least-27-killed-in-bangkok-bar-fire-87ad06d2",
+      "id": "at-least-27-killed-eight-critically-injured-in-bangkok-bar-fire-87ad06d2",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "At least 27 killed in Bangkok bar fire",
-      "published_at": "2026-07-12T23:40:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b80/live/97127080-7e44-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "At least 27 killed in Bangkok bar fire",
+      "headline": "At least 27 killed, eight critically injured in Bangkok bar fire",
+      "published_at": "2026-07-13T02:28:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "At least 27 killed, eight critically injured in Bangkok bar fire",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -63,7 +86,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
       "id": "live-updates-cease-fire-unraveling-as-u-s-and-iran-trade-strikes-again-ee78c57a",
@@ -71,8 +94,8 @@
       "topic": "Markets",
       "urgency": "Live",
       "headline": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
-      "published_at": "2026-07-12T23:42:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-400-lfqj/12mideast-400-lfqj-mediumSquareAt3X.jpg",
+      "published_at": "2026-07-13T04:38:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-2130ET/12mideast-2130ET-mediumSquareAt3X.jpg",
       "image_alt": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
       "translations": {
         "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
@@ -86,7 +109,99 @@
           "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz"
         }
       ],
+      "impact": 82
+    },
+    {
+      "id": "iran-war-live-tehran-attacks-bahrain-kuwait-jordan-after-us-bombings-220f5ca7",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
+      "published_at": "2026-07-13T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "israel-sets-october-27-election-as-netanyahu-faces-crucial-post-gaza-w-26e9bc90",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israel sets October 27 election as Netanyahu faces crucial post-Gaza war test",
+      "published_at": "2026-07-13T02:19:14.000Z",
+      "image": "https://s.france24.com/media/display/1de28e3c-7e14-11f1-93fc-005056a90284/w:1024/p:16x9/4f2aaa9378844bf340bfa3f2bf45a124d1099c11.jpg",
+      "image_alt": "Israel sets October 27 election as Netanyahu faces crucial post-Gaza war test",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260713-israel-october-27-election-netanyahu-gaza-war"
+        }
+      ],
       "impact": 81
+    },
+    {
+      "id": "oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz-cf282431",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+      "published_at": "2026-07-13T02:58:05.000Z",
+      "image": "",
+      "image_alt": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "planes-sent-to-tackle-wildfires-of-exceptional-scale-near-paris-8433441f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "published_at": "2026-07-13T03:36:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df6a/live/a52c1460-7e57-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "iran-war-us-carries-out-fresh-strikes-near-strait-of-hormuz-38f62af0",
@@ -109,53 +224,76 @@
           "url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-near-strait-of-hormuz/live-77926628?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 77
     },
     {
-      "id": "us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-milita-036432d8",
+      "id": "nueve-meses-de-falsa-tregua-en-gaza-1-100-palestinos-muertos-y-una-cri-8aadd242",
       "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
-      "published_at": "2026-07-12T23:03:32.000Z",
-      "image": "",
-      "image_alt": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Nueve meses de falsa tregua en Gaza: 1.100 palestinos muertos y una crisis humanitaria sin fin",
+      "published_at": "2026-07-13T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/NNQYURS5GNBTFI5KVS7N7LDWPA.jpg?auth=a1d58cd93d5935ede4eb1b2e8b05da9857b10ff7c7a86b1893ce3421ad429d44",
+      "image_alt": "Nueve meses de falsa tregua en Gaza: 1.100 palestinos muertos y una crisis humanitaria sin fin",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-13/nueve-meses-de-falsa-tregua-en-gaza-1100-palestinos-muertos-y-una-crisis-humanitaria-sin-fin.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses-0366051c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Deadly Bangkok pub blaze revives concerns over fire safety lapses",
+      "published_at": "2026-07-13T03:24:24.000Z",
+      "image": "",
+      "image_alt": "Deadly Bangkok pub blaze revives concerns over fire safety lapses",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses?traffic_source=rss"
         }
       ],
-      "impact": 80
+      "impact": 76
     },
     {
-      "id": "us-senator-mitch-mcconnell-says-absence-due-to-fall-and-pneumonia-13513965",
-      "region": "Americas",
+      "id": "israel-releases-video-of-hidden-tunnels-below-lebanon-s-beaufort-castl-dec7046b",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-      "published_at": "2026-07-12T23:41:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8b/live/f2b1e0f0-7e3b-11f1-bc25-ef36095a5e54.jpg",
-      "image_alt": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "headline": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
+      "published_at": "2026-07-13T02:10:10.000Z",
+      "image": "",
+      "image_alt": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 74
     },
     {
       "id": "zelensky-announces-leadership-shuffle-as-war-turns-in-ukraine-s-favor-df8181f6",
@@ -178,40 +316,86 @@
           "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html"
         }
       ],
-      "impact": 78
+      "impact": 74
     },
     {
-      "id": "us-insists-strait-of-hormuz-is-open-as-it-exchanges-strikes-with-iran-f1a44498",
+      "id": "can-nigeria-s-drone-industry-deliver-africa-s-defence-sovereignty-6321497d",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+      "published_at": "2026-07-13T00:54:53.000Z",
+      "image": "",
+      "image_alt": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "europa-vuelve-a-arrastrar-los-pies-en-las-sanciones-a-israel-por-la-ma-5a749775",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "published_at": "2026-07-12T22:17:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
-      "image_alt": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "headline": "Europa vuelve a arrastrar los pies en las sanciones a Israel por la masacre en Gaza y Cisjordania",
+      "published_at": "2026-07-13T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y4LJ2M2BRJH6FANMLCG6QK5KRM.JPG?auth=b361faaec1b7446cbcaf32c94955d4974505f045418d78ecdb88f52934ce605d",
+      "image_alt": "Europa vuelve a arrastrar los pies en las sanciones a Israel por la masacre en Gaza y Cisjordania",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-13/europa-vuelve-a-arrastrar-los-pies-en-las-sanciones-a-israel-por-la-masacre-en-gaza-y-cisjordania.html"
         }
       ],
-      "impact": 77
+      "impact": 71
     },
     {
-      "id": "us-senator-and-close-trump-ally-lindsey-graham-dies-after-brief-and-su-8ae6e20b",
-      "region": "Americas",
+      "id": "dentro-de-la-casa-blanca-as-ejerce-trump-un-poder-desenfrenado-para-de-2a1a3a7b",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "published_at": "2026-07-12T22:08:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
-      "image_alt": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "headline": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+      "published_at": "2026-07-13T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/6KXJKXCKN5CFPMZPS42PBCTVNE.jpg?auth=68ea0a1e4980508ed3a0a9db6b1a1d005c949d8e247ab7b92b3ca94dfd43da3c",
+      "image_alt": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "us-senator-mitch-mcconnell-says-absence-due-to-fall-and-pneumonia-13513965",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "published_at": "2026-07-12T23:41:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8b/live/f2b1e0f0-7e3b-11f1-bc25-ef36095a5e54.jpg",
+      "image_alt": "US Senator Mitch McConnell says absence due to fall and pneumonia",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -221,16 +405,39 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 77
+      "impact": 70
+    },
+    {
+      "id": "japan-s-pet-care-industry-booms-as-fur-babies-outnumber-infants-7c8b1036",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+      "published_at": "2026-07-13T01:20:33.000Z",
+      "image": "",
+      "image_alt": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "us-launches-more-strikes-on-iran-as-strait-of-hormuz-standoff-deepens-df87fdb3",
       "region": "Middle East",
       "topic": "World",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
       "published_at": "2026-07-13T00:22:10.000Z",
       "image": "",
@@ -247,191 +454,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 68
     },
     {
-      "id": "mitch-mcconnell-releases-health-update-says-he-is-regaining-strength-24dda29b",
-      "region": "World",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
-      "published_at": "2026-07-12T23:29:33.000Z",
-      "image": "",
-      "image_alt": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attack-0a6303d0",
-      "region": "Middle East",
-      "topic": "Politics",
+      "id": "us-senator-and-close-trump-ally-lindsey-graham-dies-after-brief-and-su-8ae6e20b",
+      "region": "Americas",
+      "topic": "World",
       "urgency": "Update",
-      "headline": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-      "published_at": "2026-07-12T21:59:36.000Z",
-      "image": "",
-      "image_alt": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+      "headline": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "published_at": "2026-07-12T22:08:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
+      "image_alt": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "israel-to-hold-national-elections-on-october-27-parliament-says-379ac1e9",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Israel to hold national elections on October 27, parliament says",
-      "published_at": "2026-07-12T21:26:28.000Z",
-      "image": "",
-      "image_alt": "Israel to hold national elections on October 27, parliament says",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "fontainebleau-forest-near-paris-hit-by-very-virulent-wildfire-ce500f32",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Fontainebleau forest near Paris hit by 'very virulent' wildfire",
-      "published_at": "2026-07-13T00:21:02.000Z",
-      "image": "https://s.france24.com/media/display/b0ad9940-7e38-11f1-aeb1-005056bf30b7/w:1024/p:16x9/2026-07-12T210636Z-912344806-RC2KCMAI7KHH-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
-      "image_alt": "Fontainebleau forest near Paris hit by 'very virulent' wildfire",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260713-fontainebleau-forest-near-paris-very-virulent-wildfire"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "middle-east-live-us-strikes-iran-as-gulf-states-targeted-in-flareup-ov-38afecf4",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Middle East live: US strikes Iran as Gulf states targeted in flareup over Hormuz",
-      "published_at": "2026-07-12T22:52:24.000Z",
-      "image": "https://s.france24.com/media/display/9ea6765c-7e3f-11f1-a9d8-005056bfb2b6/w:1024/p:16x9/2026-07-12T065638Z-1526201117-RC24CMAL4XTS-RTRMADP-3-IRAN-CRISIS.jpg",
-      "image_alt": "Middle East live: US strikes Iran as Gulf states targeted in flareup over Hormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "massive-bangkok-pub-fire-kills-at-least-27-people-thai-officials-say-1163776b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Massive Bangkok pub fire kills at least 27 people, Thai officials say",
-      "published_at": "2026-07-12T22:41:01.000Z",
-      "image": "https://s.france24.com/media/display/8bcdb986-7e40-11f1-ac11-005056bf30b7/w:1024/p:16x9/ddbf93a6c5761dc8a436415d189a9a414c3e6448.jpg",
-      "image_alt": "Massive Bangkok pub fire kills at least 27 people, Thai officials say",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260712-bangkok-pub-fire-kills-27-thailand"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "detenido-el-periodista-disidente-marroqu-al-lmrabet-tras-haber-viajado-a28213a1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Detenido el periodista disidente marroquí Alí Lmrabet tras haber viajado desde España",
-      "published_at": "2026-07-12T22:58:49.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/INOWH2YIPKVCVPYKVC72P26OLQ.jpg?auth=d349d28622891143a2eb074ec526bcc645d5bdaca993fcbec0aa90d90ebfc35c",
-      "image_alt": "Detenido el periodista disidente marroquí Alí Lmrabet tras haber viajado desde España",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-12/detenido-el-periodista-disidente-marroqui-ali-lmrabet-tras-haber-viajado-desde-espana.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "estados-unidos-afirma-que-sus-fuerzas-est-n-preparadas-y-posicionadas--e1b29f94",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Estados Unidos afirma que sus fuerzas están “preparadas y posicionadas” para defender el estrecho de Ormuz",
-      "published_at": "2026-07-12T22:55:33.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/FOETIFBXDRORHPNGGLVPNJMR3U.jpg?auth=da82dfa8f7703d28275e865e4f9a8248da3328c293e7ac5b69a8c6f5b154489c",
-      "image_alt": "Estados Unidos afirma que sus fuerzas están “preparadas y posicionadas” para defender el estrecho de Ormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-12/estados-unidos-afirma-que-sus-fuerzas-estan-preparadas-y-posicionadas-para-defender-el-estrecho-de-ormuz.html"
-        }
-      ],
-      "impact": 70
+      "impact": 68
     },
     {
       "id": "anthony-zurcher-from-trump-critic-to-ally-lindsey-graham-was-a-politic-e1f2c6e0",
@@ -454,86 +500,63 @@
           "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 66
     },
     {
-      "id": "israel-releases-video-of-huge-detonations-in-lebanon-4f09fef7",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Israel releases video of huge detonations in Lebanon",
-      "published_at": "2026-07-12T21:50:28.000Z",
-      "image": "",
-      "image_alt": "Israel releases video of huge detonations in Lebanon",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "deadly-israeli-strikes-pound-gaza-7c2f71c5",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Deadly Israeli strikes pound Gaza",
-      "published_at": "2026-07-12T21:33:10.000Z",
-      "image": "",
-      "image_alt": "Deadly Israeli strikes pound Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "lindsey-graham-championed-israel-even-as-wars-eroded-american-support-8db5123d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
-      "published_at": "2026-07-12T19:42:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-mediumSquareAt3X.jpg",
-      "image_alt": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "world-no-1-defends-wimbledon-title-a9a65d69",
+      "id": "massive-fire-in-bangkok-bar-kills-at-least-27-91b93f33",
       "region": "Europe",
       "topic": "World",
       "urgency": "Update",
-      "headline": "World No. 1 defends Wimbledon title",
-      "published_at": "2026-07-12T21:57:06.000Z",
-      "image": "https://s.france24.com/media/display/41c7e0b2-7e38-11f1-bdb6-005056bf30b7/w:1024/p:16x9/capture-8531483496a54065e999fb4-97898225.jpg",
-      "image_alt": "World No. 1 defends Wimbledon title",
+      "headline": "Massive fire in Bangkok bar kills at least 27",
+      "published_at": "2026-07-13T01:25:53.000Z",
+      "image": "https://img.lemde.fr/2026/07/12/603/0/7237/3618/644/322/60/0/ceff6af_ftp-1-1gkj3lr58fdi-5606732-01-06.jpg",
+      "image_alt": "Massive fire in Bangkok bar kills at least 27",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/13/massive-fire-in-bangkok-bar-kills-at-least-27_6755420_4.html"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "fontainebleau-forest-near-paris-hit-by-virulent-wildfire-ce500f32",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Update",
+      "headline": "Fontainebleau forest near Paris hit by 'virulent' wildfire",
+      "published_at": "2026-07-13T00:21:02.000Z",
+      "image": "https://s.france24.com/media/display/b0ad9940-7e38-11f1-aeb1-005056bf30b7/w:1024/p:16x9/2026-07-12T210636Z-912344806-RC2KCMAI7KHH-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+      "image_alt": "Fontainebleau forest near Paris hit by 'virulent' wildfire",
+      "translations": {
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20260713-fontainebleau-forest-near-paris-very-virulent-wildfire"
+        }
+      ],
+      "impact": 64
+    },
+    {
+      "id": "middle-east-live-us-strikes-iran-as-gulf-states-targeted-in-flareup-ov-38afecf4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Middle East live: US strikes Iran as Gulf states targeted in flareup over Hormuz",
+      "published_at": "2026-07-12T22:52:24.000Z",
+      "image": "https://s.france24.com/media/display/9ea6765c-7e3f-11f1-a9d8-005056bfb2b6/w:1024/p:16x9/2026-07-12T065638Z-1526201117-RC24CMAL4XTS-RTRMADP-3-IRAN-CRISIS.jpg",
+      "image_alt": "Middle East live: US strikes Iran as Gulf states targeted in flareup over Hormuz",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,33 +566,10 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/sinner-wins-second-straight-wimbledon-title"
+          "url": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz"
         }
       ],
-      "impact": 66
-    },
-    {
-      "id": "venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-50-93138a36",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
-      "published_at": "2026-07-12T21:18:00.000Z",
-      "image": "",
-      "image_alt": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
+      "impact": 63
     }
   ]
 }
