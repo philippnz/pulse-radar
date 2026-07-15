@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T07:27:40.520Z",
+  "updated_at": "2026-07-15T09:29:14.317Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-blac-55214ffc",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+      "published_at": "2026-07-15T08:55:40.000Z",
+      "image": "",
+      "image_alt": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "ann-widdecombe-was-killed-in-targeted-attack-uk-police-say-65a3bde0",
       "region": "Europe",
@@ -40,7 +63,99 @@
           "url": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html"
         }
       ],
-      "impact": 85
+      "impact": 83
+    },
+    {
+      "id": "middle-east-live-more-than-30-killed-in-recent-us-strikes-on-iran-tehr-2c62cee4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "🔴 Middle East live: More than 30 killed in recent US strikes on Iran, Tehran says",
+      "published_at": "2026-07-15T08:39:04.000Z",
+      "image": "https://s.france24.com/media/display/94d3ef56-800b-11f1-aa7b-005056a90284/w:1024/p:16x9/2026-07-15T033652Z-714453238-RC23EMAU5QS7-RTRMADP-3-IRAN-CRISIS-USA.jpg",
+      "image_alt": "Middle East live: More than 30 killed in recent US strikes, Tehran says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf-69977361",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+      "published_at": "2026-07-15T07:58:36.000Z",
+      "image": "",
+      "image_alt": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "kenyan-court-dismisses-rastafarians-bid-to-legalise-cannabis-37ef21d3",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "published_at": "2026-07-15T09:15:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9d/live/a4f76250-8024-11f1-bee8-53ce494e1abc.jpg",
+      "image_alt": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "trump-threatens-to-bomb-bridges-and-power-plants-unless-iran-resumes-t-4c491c6c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "published_at": "2026-07-15T09:06:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ee/live/987ef710-802c-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "six-dead-in-an-elevator-after-fire-in-central-brussels-4a977e9c",
@@ -63,7 +178,7 @@
           "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
       "id": "deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-f-92d44b4e",
@@ -86,7 +201,7 @@
           "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
       "id": "trump-retreat-over-hormuz-tolls-suggests-he-is-struggling-to-end-iran--1d9065a8",
@@ -109,53 +224,53 @@
           "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
-      "id": "how-the-failed-2016-coup-reshaped-turkiye-s-civil-military-relations-c02d4d6c",
-      "region": "World",
-      "topic": "Security",
+      "id": "india-news-landmark-trade-deal-with-uk-takes-effect-ee29fdf1",
+      "region": "Europe",
+      "topic": "Markets",
       "urgency": "Live",
-      "headline": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
-      "published_at": "2026-07-15T06:29:20.000Z",
+      "headline": "India news: Landmark trade deal with UK takes effect",
+      "published_at": "2026-07-15T07:53:00.000Z",
       "image": "",
-      "image_alt": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+      "image_alt": "India news: Landmark trade deal with UK takes effect",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "iran-launches-attacks-across-region-as-us-strikes-continue-9b64ce5a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran launches attacks across region as US strikes continue",
+      "published_at": "2026-07-15T09:15:56.000Z",
+      "image": "",
+      "image_alt": "Iran launches attacks across region as US strikes continue",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "trump-threatens-to-bomb-bridges-and-power-plants-unless-iran-resumes-t-4c491c6c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "published_at": "2026-07-15T06:47:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
+      "impact": 77
     },
     {
       "id": "seven-britons-among-those-killed-in-spain-wildfires-ac2466c7",
@@ -178,7 +293,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
+    },
+    {
+      "id": "us-resumes-iran-ports-blockade-as-gulf-attacks-continue-what-s-the-lat-3b1ce471",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
+      "published_at": "2026-07-15T08:44:38.000Z",
+      "image": "",
+      "image_alt": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "in-bangkok-bar-blaze-signs-of-fatal-lapses-repeated-across-the-world-af0c29f3",
@@ -201,40 +339,40 @@
           "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "china-economic-growth-falls-sharply-missing-target-d2a65d4f",
-      "region": "Asia-Pacific",
-      "topic": "World",
+      "id": "volodymyr-zelenskyy-pushes-for-new-government-in-ukraine-b8e0b31b",
+      "region": "Europe",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "China economic growth falls sharply, missing target",
-      "published_at": "2026-07-15T05:12:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
-      "image_alt": "China economic growth falls sharply, missing target",
+      "headline": "Volodymyr Zelenskyy pushes for new government in Ukraine",
+      "published_at": "2026-07-15T06:34:00.000Z",
+      "image": "",
+      "image_alt": "Volodymyr Zelenskyy pushes for new government in Ukraine",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge-f1ca8be2",
-      "region": "Middle East",
+      "id": "lindsey-graham-s-sister-sworn-in-to-fill-his-us-senate-seat-4a8c69c8",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
-      "published_at": "2026-07-15T06:55:33.000Z",
+      "headline": "Lindsey Graham’s sister sworn in to fill his US Senate seat",
+      "published_at": "2026-07-15T07:50:17.000Z",
       "image": "",
-      "image_alt": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+      "image_alt": "Lindsey Graham’s sister sworn in to fill his US Senate seat",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,33 +382,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/lindsey-grahams-sister-sworn-in-to-fill-his-us-senate-seat?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "middle-east-live-more-than-30-killed-in-recent-us-strikes-iranian-gove-2c62cee4",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Breaking",
-      "headline": "Middle East live: More than 30 killed in recent US strikes, Iranian government says",
-      "published_at": "2026-07-15T01:08:15.000Z",
-      "image": "https://s.france24.com/media/display/94d3ef56-800b-11f1-aa7b-005056a90284/w:1024/p:16x9/2026-07-15T033652Z-714453238-RC23EMAU5QS7-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-      "image_alt": "Middle East live: More than 30 killed in recent US strikes, Iranian government says",
+      "id": "india-s-ethanol-rush-prompts-anger-among-vehicle-owners-questions-for--5737229b",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t",
+      "published_at": "2026-07-15T07:05:24.000Z",
+      "image": "",
+      "image_alt": "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t",
       "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/15/indias-ethanol-rush-prompts-anger-among-vehicle-owners-questions-for-govt?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "u-s-and-iran-reignite-war-over-strait-of-hormuz-91112941",
@@ -293,7 +431,53 @@
           "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz"
         }
       ],
-      "impact": 77
+      "impact": 75
+    },
+    {
+      "id": "running-dry-how-to-store-more-groundwater-for-dry-seasons-e92d8161",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Running dry: How to store more groundwater for dry seasons",
+      "published_at": "2026-07-15T09:24:00.000Z",
+      "image": "",
+      "image_alt": "Running dry: How to store more groundwater for dry seasons",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "shipwrecks-of-shackleton-and-scott-recreated-in-3d-digital-form-after--ca6902a9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+      "published_at": "2026-07-15T08:00:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c776c283a3b0134608d3618ef375f038",
+      "image_alt": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "israeli-strike-on-police-post-in-north-gaza-kills-seven-officials-say-a1a443dd",
@@ -316,224 +500,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "how-iran-s-southern-coast-is-bearing-the-brunt-of-us-attacks-87b10c0b",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How Iran’s southern coast is bearing the brunt of US attacks",
-      "published_at": "2026-07-15T05:34:12.000Z",
-      "image": "",
-      "image_alt": "How Iran’s southern coast is bearing the brunt of US attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "t-rex-skeleton-sells-for-50-1-million-at-new-york-auction-9f1a8275",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "T.Rex skeleton sells for $50.1 million at New York auction",
-      "published_at": "2026-07-15T04:59:39.000Z",
-      "image": "",
-      "image_alt": "T.Rex skeleton sells for $50.1 million at New York auction",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "150-years-of-the-bayreuth-festival-confronting-a-troubled-legacy-32f315fb",
+      "id": "ahmed-el-attar-brings-rage-resistance-and-humanity-to-the-stage-in-avi-c1d8daf2",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "150 years of the Bayreuth Festival: Confronting a troubled legacy",
-      "published_at": "2026-07-15T06:16:00.000Z",
-      "image": "",
-      "image_alt": "150 years of the Bayreuth Festival: Confronting a troubled legacy",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/150-years-of-the-bayreuth-festival-confronting-a-troubled-legacy/a-77848272?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "screenwriters-union-joins-fight-to-stop-paramount-warner-merger-f5188fa8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Screenwriters union joins fight to stop Paramount-Warner merger",
-      "published_at": "2026-07-15T06:44:00.000Z",
-      "image": "https://img.lemde.fr/2026/07/13/361/0/7767/3883/644/322/60/0/6b56597_ftp-1-cmfjvno8gowx-5613123-01-06.jpg",
-      "image_alt": "Screenwriters union joins fight to stop Paramount-Warner merger",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/culture/article/2026/07/15/screenwriters-union-joins-fight-to-stop-paramount-warner-merger_6755483_30.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "ice-suspends-traffic-stop-arrests-after-two-fatal-shootings-fa31b143",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "ICE suspends traffic-stop arrests after two fatal shootings",
-      "published_at": "2026-07-15T06:33:49.000Z",
-      "image": "https://img.lemde.fr/2026/07/14/774/0/5568/2784/644/322/60/0/7a694cc_ftp-1-hi7u9a6vnbgr-5623441-01-06.jpg",
-      "image_alt": "ICE suspends traffic-stop arrests after two fatal shootings",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/15/ice-suspends-traffic-stop-arrests-after-two-fatal-shootings_6755482_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "china-detains-us-scientist-who-studied-north-korea-nuclear-tests-5cf349f5",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "China detains US scientist who studied North Korea nuclear tests",
-      "published_at": "2026-07-15T02:14:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg",
-      "image_alt": "China detains US scientist who studied North Korea nuclear tests",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "china-s-foreign-trade-surges-driven-by-ai-and-electric-vehicles-8c28ede5",
-      "region": "Asia-Pacific",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "China's foreign trade surges, driven by AI and electric vehicles",
-      "published_at": "2026-07-15T00:58:17.000Z",
-      "image": "https://img.lemde.fr/2026/07/14/336/0/4000/2000/644/322/60/0/3fa9fe3_ftp-1-lbjbojdxzk4y-5615398-01-06.jpg",
-      "image_alt": "China's foreign trade surges, driven by AI and electric vehicles",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/07/15/china-s-foreign-trade-surges-driven-by-ai-and-electric-vehicles_6755476_19.html"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "border-controls-scrapped-between-spain-and-gibraltar-6c831980",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Border controls scrapped between Spain and Gibraltar",
-      "published_at": "2026-07-15T04:00:00.000Z",
-      "image": "",
-      "image_alt": "Border controls scrapped between Spain and Gibraltar",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "spain-recapture-2010-spirit-after-reaching-world-cup-final-de-la-fuent-92bbbf02",
-      "region": "Europe",
-      "topic": "Sports",
-      "urgency": "Live",
-      "headline": "Spain recapture 2010 spirit after reaching World Cup final: De la Fuente",
-      "published_at": "2026-07-15T07:01:10.000Z",
-      "image": "",
-      "image_alt": "Spain recapture 2010 spirit after reaching World Cup final: De la Fuente",
-      "translations": {
-        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/15/spain-france-world-cup-semifinal-luis-de-la-fuente-2010-title?traffic_source=rss"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "china-s-economic-growth-slows-to-weakest-pace-in-over-three-years-e1f6ca81",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "China's economic growth slows to weakest pace in over three years",
-      "published_at": "2026-07-15T03:31:21.000Z",
-      "image": "https://s.france24.com/media/display/a4d7379a-7ffd-11f1-b8ba-005056bfb2b6/w:1024/p:16x9/2863ab2e49063e5b4fba9f53c3305ab23d550602.jpg",
-      "image_alt": "China's economic growth slows to weakest pace in over three years",
+      "headline": "Ahmed El Attar brings rage, resistance and humanity to the stage in Avignon",
+      "published_at": "2026-07-15T08:24:46.000Z",
+      "image": "https://s.france24.com/media/display/bf5159d6-7f97-11f1-a76e-005056a90284/w:1024/p:16x9/capture-6382465726a565412c1fe67-89199951.jpg",
+      "image_alt": "Ahmed El Attar brings rage, resistance and humanity to the stage in Avignon",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,20 +520,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260715-china-s-economic-growth-slows-to-weakest-pace-in-over-three-years"
+          "url": "https://www.france24.com/en/tv-shows/arts24/20260715-ahmed-el-attar-brings-rage-resistance-and-humanity-to-the-stage-in-avignon"
         }
       ],
-      "impact": 65
+      "impact": 73
     },
     {
-      "id": "t-rex-apos-gus-apos-sells-for-record-breaking-50-1-million-ed144c8c",
-      "region": "Europe",
+      "id": "why-investors-are-fleeing-one-of-asia-apos-s-biggest-economies-e7ecdd1d",
+      "region": "Asia-Pacific",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "T. rex &apos;Gus&apos; sells for record-breaking $50.1 million",
-      "published_at": "2026-07-14T17:24:00.000Z",
+      "urgency": "Live",
+      "headline": "Why investors are fleeing one of Asia&apos;s biggest economies",
+      "published_at": "2026-07-15T08:13:00.000Z",
       "image": "",
-      "image_alt": "T. rex &apos;Gus&apos; sells for record-breaking $50.1 million",
+      "image_alt": "Why investors are fleeing one of Asia&apos;s biggest economies",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,10 +543,33 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/why-investors-are-fleeing-one-of-asia-s-biggest-economies/a-77847180?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 65
+      "impact": 73
+    },
+    {
+      "id": "palestinians-in-gaza-stuck-between-hamas-and-israel-88f6891a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Palestinians in Gaza: Stuck between Hamas and Israel",
+      "published_at": "2026-07-15T08:08:00.000Z",
+      "image": "",
+      "image_alt": "Palestinians in Gaza: Stuck between Hamas and Israel",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     }
   ]
 }
