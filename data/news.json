@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T21:11:29.632Z",
+  "updated_at": "2026-07-16T22:28:00.771Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "jd-vance-accuses-israel-of-manipulating-us-public-opinion-to-prolong-i-938c6a35",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "published_at": "2026-07-16T21:22:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg",
+      "image_alt": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
       "id": "iran-war-live-updates-u-s-and-iran-trade-strikes-escalating-tensions-o-8f5cad09",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Iran War Live Updates: U.S. and Iran Trade Strikes, Escalating Tensions Over Strait of Hormuz",
-      "published_at": "2026-07-16T20:55:57.000Z",
+      "published_at": "2026-07-16T22:24:27.000Z",
       "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16mideast-promo-5EST-vfkq/16mideast-promo-5EST-vfkq-mediumSquareAt3X.jpg",
       "image_alt": "Iran War Live Updates: U.S. and Iran Trade Strikes, Escalating Tensions Over Strait of Hormuz",
       "translations": {
@@ -40,17 +63,40 @@
           "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz"
         }
       ],
-      "impact": 87
+      "impact": 88
     },
     {
-      "id": "nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case-7b7096a0",
-      "region": "Europe",
+      "id": "us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war-90595a71",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "US mounts sixth straight night of attacks as Iran warns of wider war",
+      "published_at": "2026-07-16T21:02:11.000Z",
+      "image": "",
+      "image_alt": "US mounts sixth straight night of attacks as Iran warns of wider war",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "donald-trump-live-us-president-to-deliver-primetime-address-on-electio-3d3a0100",
+      "region": "Americas",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Nicaragua severs diplomatic ties with Italy over 1978 murder case",
-      "published_at": "2026-07-16T19:57:46.000Z",
+      "headline": "Donald Trump live: US president to deliver primetime address on elections",
+      "published_at": "2026-07-16T20:59:18.000Z",
       "image": "",
-      "image_alt": "Nicaragua severs diplomatic ties with Italy over 1978 murder case",
+      "image_alt": "Donald Trump live: US president to deliver primetime address on elections",
       "translations": {
         "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,7 +106,7 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss"
         }
       ],
       "impact": 81
@@ -86,7 +132,7 @@
           "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "italian-officials-handed-jail-terms-for-genoa-bridge-disaster-that-kil-f0d6ee3d",
@@ -109,30 +155,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "israeli-government-pushes-through-divisive-laws-before-election-60823696",
-      "region": "World",
-      "topic": "Politics",
+      "id": "blasts-reported-in-iran-as-us-launches-new-wave-of-strikes-d9c7ae52",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli Government Pushes Through Divisive Laws Before Election",
-      "published_at": "2026-07-16T18:20:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16int-israel-laws01-photo-hqfl/16int-israel-laws01-photo-hqfl-mediumSquareAt3X.jpg",
-      "image_alt": "Israeli Government Pushes Through Divisive Laws Before Election",
+      "headline": "Blasts reported in Iran as US launches new wave of strikes",
+      "published_at": "2026-07-16T21:44:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Blasts reported in Iran as US launches new wave of strikes",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "in-iran-war-trump-risks-another-american-forever-war-a9a939bf",
@@ -153,29 +199,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "kris-jenner-s-mother-mary-jo-dies-aged-91-b9d2dac9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kris Jenner's mother Mary Jo dies aged 91",
-      "published_at": "2026-07-16T20:24:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21a2/live/384fe450-8151-11f1-badc-afcab3cff8b6.png",
-      "image_alt": "Kris Jenner's mother Mary Jo dies aged 91",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
@@ -201,63 +224,17 @@
           "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "white-house-teleprompter-operator-accused-of-making-100k-off-trump-spe-265812b1",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "White House teleprompter operator accused of making $100k off Trump speech bets",
-      "published_at": "2026-07-16T18:52:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/499c/live/7e558130-8147-11f1-badc-afcab3cff8b6.jpg",
-      "image_alt": "White House teleprompter operator accused of making $100k off Trump speech bets",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "fifa-assessing-match-reports-over-falklands-banner-416a93b8",
-      "region": "World",
+      "id": "ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure-fe20ffb4",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Fifa 'assessing match reports' over Falklands banner",
-      "published_at": "2026-07-16T18:44:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c9e/live/4ef72380-8142-11f1-badc-afcab3cff8b6.jpg",
-      "image_alt": "Fifa 'assessing match reports' over Falklands banner",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "the-hardest-party-to-manage-in-the-iran-talks-isn-t-iran-e3f72c47",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "The hardest party to manage in the Iran talks isn’t Iran",
-      "published_at": "2026-07-16T20:40:53.000Z",
+      "headline": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
+      "published_at": "2026-07-16T21:57:21.000Z",
       "image": "",
-      "image_alt": "The hardest party to manage in the Iran talks isn’t Iran",
+      "image_alt": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -267,20 +244,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "palestinians-injured-in-israeli-settler-attacks-across-west-bank-d3707d0f",
+      "id": "grand-mosque-of-paris-celebrates-100-year-anniversary-7c2c2ddf",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Palestinians injured in Israeli settler attacks across West Bank",
-      "published_at": "2026-07-16T20:37:23.000Z",
+      "headline": "Grand Mosque of Paris celebrates 100-year anniversary",
+      "published_at": "2026-07-16T21:28:03.000Z",
       "image": "",
-      "image_alt": "Palestinians injured in Israeli settler attacks across West Bank",
+      "image_alt": "Grand Mosque of Paris celebrates 100-year anniversary",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -290,10 +267,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-9ecfb203",
@@ -316,7 +293,76 @@
           "url": "https://www.france24.com/en/bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-ousted"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "air-quality-plummets-in-20-us-states-as-smoke-from-canadian-wildfires--44f33c05",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "published_at": "2026-07-16T22:21:08.000Z",
+      "image": "https://i.guim.co.uk/img/media/f304fb57392fb35b57cb2e530bae745d5305f0bc/739_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=6a67904da001259eddd8e437a31c67e8",
+      "image_alt": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "the-hardest-party-to-manage-in-the-iran-talks-isn-t-iran-e3f72c47",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The hardest party to manage in the Iran talks isn’t Iran",
+      "published_at": "2026-07-16T20:40:53.000Z",
+      "image": "",
+      "image_alt": "The hardest party to manage in the Iran talks isn’t Iran",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "palestinians-injured-in-israeli-settler-attacks-across-west-bank-d3707d0f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Palestinians injured in Israeli settler attacks across West Bank",
+      "published_at": "2026-07-16T20:37:23.000Z",
+      "image": "",
+      "image_alt": "Palestinians injured in Israeli settler attacks across West Bank",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "syria-says-it-foiled-hezbollah-weapons-shipment-03449e60",
@@ -339,122 +385,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff-3d680839",
+      "id": "israeli-government-pushes-through-divisive-laws-before-election-60823696",
       "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Wildfire smoke blankets World Cup final stadium before kickoff",
-      "published_at": "2026-07-16T20:25:39.000Z",
-      "image": "",
-      "image_alt": "Wildfire smoke blankets World Cup final stadium before kickoff",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Israeli Government Pushes Through Divisive Laws Before Election",
+      "published_at": "2026-07-16T18:20:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16int-israel-laws01-photo-hqfl/16int-israel-laws01-photo-hqfl-mediumSquareAt3X.jpg",
+      "image_alt": "Israeli Government Pushes Through Divisive Laws Before Election",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "how-syria-is-redefining-ties-with-russia-c6cff67a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How Syria is redefining ties with Russia",
-      "published_at": "2026-07-16T20:21:22.000Z",
-      "image": "",
-      "image_alt": "How Syria is redefining ties with Russia",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/how-syria-is-redefining-ties-with-russia?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "syria-seizes-advanced-weapons-it-says-were-bound-for-lebanon-s-hezboll-3788e08e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-      "published_at": "2026-07-16T20:03:58.000Z",
-      "image": "",
-      "image_alt": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-serious-is-iran-s-threat-to-disrupt-shipping-in-the-red-sea-f0d92022",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
-      "published_at": "2026-07-16T19:44:16.000Z",
-      "image": "",
-      "image_alt": "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/16/how-serious-is-irans-threat-to-disrupt-shipping-in-the-red-sea?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-rivalry-with-a-top-general-brought-down-ukraine-s-popular-defence--b1aedfe3",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "How rivalry with a top general brought down Ukraine’s popular defence minister Fedorov",
-      "published_at": "2026-07-16T18:12:37.000Z",
-      "image": "https://s.france24.com/media/display/572e73f2-8131-11f1-901b-005056bf30b7/w:1024/p:16x9/000-C2CD4KE.jpg",
-      "image_alt": "How rivalry with a top general brought down Ukraine’s popular defence minister Fedorov",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260716-how-rivalry-with-top-general-syrsky-brought-down-ukraine-popular-defence-minister-fedorov"
-        }
-      ],
-      "impact": 76
+      "impact": 74
     },
     {
       "id": "zelensky-s-removal-of-popular-defence-minister-sparks-protests-in-ukra-a4ec2626",
@@ -477,7 +431,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "ukraine-s-ousted-defense-minister-attacks-the-military-s-old-guard-a037d988",
@@ -500,7 +454,7 @@
           "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "trump-suspends-teleprompter-operator-over-betting-allegations-6fa15db5",
@@ -523,53 +477,99 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/16/trump-suspends-teleprompter-operator-over-betting-allegations_6755554_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "german-tenants-need-better-heat-protection-5f0e22ba",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "German tenants need better heat protection",
-      "published_at": "2026-07-16T19:14:00.000Z",
-      "image": "",
-      "image_alt": "German tenants need better heat protection",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/german-tenants-need-better-heat-protection/a-77979682?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "why-gulf-states-are-investing-billions-in-africa-33f7a529",
-      "region": "Africa",
+      "id": "white-house-teleprompter-operator-accused-of-making-100k-off-trump-spe-265812b1",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Why Gulf states are investing billions in Africa",
-      "published_at": "2026-07-16T19:09:00.000Z",
-      "image": "",
-      "image_alt": "Why Gulf states are investing billions in Africa",
+      "urgency": "Update",
+      "headline": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "published_at": "2026-07-16T18:52:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4840/live/ba1cb390-8161-11f1-bee8-53ce494e1abc.jpg",
+      "image_alt": "White House teleprompter operator accused of making $100k off Trump speech bets",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/why-gulf-states-are-investing-billions-in-africa/a-77971459?maca=en-rss-en-top-1022-rdf"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "fifa-assessing-match-reports-over-falklands-banner-416a93b8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Fifa 'assessing match reports' over Falklands banner",
+      "published_at": "2026-07-16T18:44:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c9e/live/4ef72380-8142-11f1-badc-afcab3cff8b6.jpg",
+      "image_alt": "Fifa 'assessing match reports' over Falklands banner",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "how-rivalry-with-a-top-general-brought-down-ukraine-s-popular-defence--b1aedfe3",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "How rivalry with a top general brought down Ukraine’s popular defence minister Fedorov",
+      "published_at": "2026-07-16T18:12:37.000Z",
+      "image": "https://s.france24.com/media/display/572e73f2-8131-11f1-901b-005056bf30b7/w:1024/p:16x9/000-C2CD4KE.jpg",
+      "image_alt": "How rivalry with a top general brought down Ukraine’s popular defence minister Fedorov",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260716-how-rivalry-with-top-general-syrsky-brought-down-ukraine-popular-defence-minister-fedorov"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "ukraine-s-minister-of-defense-a-proponent-of-drone-warfare-is-forced-o-8c0adc78",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "published_at": "2026-07-16T11:41:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/15int-ukraine-defense01-photo-mgwb/15int-ukraine-defense01-photo-mgwb-mediumSquareAt3X.jpg",
+      "image_alt": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html"
+        }
+      ],
+      "impact": 67
     }
   ]
 }
