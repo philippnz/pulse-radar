@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T08:05:31.015Z",
+  "updated_at": "2026-07-16T10:25:04.835Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-updates-u-s-and-iran-exchange-strikes-for-5th-straight-d-420d9133",
+      "id": "iran-war-updates-u-s-and-iran-exchange-strikes-for-5th-straight-day-420d9133",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran War Live Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
-      "published_at": "2026-07-16T07:26:14.000Z",
+      "headline": "Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
+      "published_at": "2026-07-16T08:50:14.000Z",
       "image": "https://static01.nyt.com/images/2026/07/15/multimedia/15mideast-live-promo-8pm/15mideast-live-promo-8pm-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Live Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
+      "image_alt": "Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,7 +40,30 @@
           "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz"
         }
       ],
-      "impact": 87
+      "impact": 86
+    },
+    {
+      "id": "protests-in-ukraine-s-cities-against-zelensky-s-removal-of-defence-min-a4ec2626",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "published_at": "2026-07-16T09:29:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3c/live/879986f0-80f3-11f1-8edb-6f86e45a0f45.jpg",
+      "image_alt": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 84
     },
     {
       "id": "iran-targets-military-bases-as-us-launches-wave-of-strikes-099328e9",
@@ -48,7 +71,7 @@
       "topic": "Security",
       "urgency": "Live",
       "headline": "Iran targets military bases as US launches wave of strikes",
-      "published_at": "2026-07-16T07:44:08.000Z",
+      "published_at": "2026-07-16T08:50:02.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
       "image_alt": "Iran targets military bases as US launches wave of strikes",
       "translations": {
@@ -63,40 +86,155 @@
           "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 83
     },
     {
-      "id": "protests-against-removal-of-popular-defence-minister-erupt-across-ukra-3fc3eb49",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Protests against removal of popular defence minister erupt across Ukraine",
-      "published_at": "2026-07-16T07:34:49.000Z",
-      "image": "https://s.france24.com/media/display/4d317a06-80e7-11f1-9699-005056bfb2b6/w:1024/p:16x9/000-B2GN79E.jpg",
-      "image_alt": "Protests against removal of popular defence minister erupt across Ukraine",
+      "id": "more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar-902cb2dd",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "More than 500 feared dead after reports of boats capsizing off Myanmar",
+      "published_at": "2026-07-16T09:51:13.000Z",
+      "image": "",
+      "image_alt": "More than 500 feared dead after reports of boats capsizing off Myanmar",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "moment-us-navy-jet-stuns-packed-florida-beach-with-low-flypast-de33ac22",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Moment US Navy jet stuns packed Florida beach with low flypast",
+      "published_at": "2026-07-16T10:13:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c363/live/c1f27df0-80fa-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Moment US Navy jet stuns packed Florida beach with low flypast",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "us-slaps-25-tariffs-on-brazil-with-election-looming-bd9e957b",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "US slaps 25% tariffs on Brazil with election looming",
+      "published_at": "2026-07-16T09:47:00.000Z",
+      "image": "",
+      "image_alt": "US slaps 25% tariffs on Brazil with election looming",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "eleven-people-die-in-fire-at-algerian-foster-care-home-7c146014",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Eleven people die in fire at Algerian foster care home",
+      "published_at": "2026-07-16T09:20:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac8/live/b562b090-80f6-11f1-bee8-53ce494e1abc.jpg",
+      "image_alt": "Eleven people die in fire at Algerian foster care home",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "ukraine-lawmakers-to-elect-new-government-amid-defence-chief-row-2ba20b4e",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Ukraine lawmakers to elect new government amid defence chief row",
+      "published_at": "2026-07-16T09:36:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine lawmakers to elect new government amid defence chief row",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-lawmakers-to-elect-new-government-amid-defence-chief-row/live-77980338?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 78
     },
     {
-      "id": "myanmar-more-than-500-feared-dead-in-capsized-refugee-boats-un-says-a318b1c1",
-      "region": "Asia-Pacific",
+      "id": "departure-of-ukraine-s-popular-defense-minister-sparks-protests-4a62b0a9",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Departure of Ukraine's popular defense minister sparks protests",
+      "published_at": "2026-07-16T09:49:05.000Z",
+      "image": "https://img.lemde.fr/2026/07/16/220/0/2953/1476/644/322/60/0/5264676_upload-1-nkpzbviwcyqq-2026-07-16-heg-ukraine-0074.JPG",
+      "image_alt": "Departure of Ukraine's popular defense minister sparks protests",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/16/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "will-gold-prices-extend-their-record-breaking-run-2432d744",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Myanmar: More than 500 feared dead in capsized refugee boats, UN says",
-      "published_at": "2026-07-16T06:30:00.000Z",
+      "headline": "Will gold prices extend their record-breaking run?",
+      "published_at": "2026-07-16T08:12:00.000Z",
       "image": "",
-      "image_alt": "Myanmar: More than 500 feared dead in capsized refugee boats, UN says",
+      "image_alt": "Will gold prices extend their record-breaking run?",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -106,10 +244,148 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/myanmar-more-than-500-feared-dead-in-capsized-refugee-boats-un-says/a-77977875?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/will-gold-prices-extend-their-record-breaking-run/a-77971997?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wo-d0c11dbc",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
+      "published_at": "2026-07-16T09:39:42.000Z",
+      "image": "",
+      "image_alt": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "yemen-is-edging-closer-to-renewed-confrontation-4ce8cba6",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Yemen is edging closer to renewed confrontation",
+      "published_at": "2026-07-16T09:36:38.000Z",
+      "image": "",
+      "image_alt": "Yemen is edging closer to renewed confrontation",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "why-italy-s-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-t-abacd745",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
+      "published_at": "2026-07-16T08:57:42.000Z",
+      "image": "",
+      "image_alt": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "vance-says-epstein-had-connections-to-us-israeli-intelligence-795ae8a3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Vance says Epstein had connections to US, Israeli intelligence",
+      "published_at": "2026-07-16T08:37:54.000Z",
+      "image": "",
+      "image_alt": "Vance says Epstein had connections to US, Israeli intelligence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-releases-video-of-strikes-on-iran-40144ed0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US releases video of strikes on Iran",
+      "published_at": "2026-07-16T08:26:24.000Z",
+      "image": "",
+      "image_alt": "US releases video of strikes on Iran",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "australia-to-put-environmental-brakes-on-a-i-data-centers-1733fbfb",
+      "region": "Asia-Pacific",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Australia to Put Environmental Brakes on A.I. Data Centers",
+      "published_at": "2026-07-16T08:08:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/15int-oz-ai-plan-01-mkpb/15int-oz-ai-plan-01-mkpb-mediumSquareAt3X.jpg",
+      "image_alt": "Australia to Put Environmental Brakes on A.I. Data Centers",
+      "translations": {
+        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "over-500-feared-dead-in-two-suspected-shipwrecks-off-myanmar-un-warns-7bbf2410",
@@ -132,109 +408,17 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/16/over-500-feared-dead-in-two-suspected-shipwrecks-off-myanmar-un-warns_6755526_4.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "alcatraz-boat-capsizing-near-san-francisco-leaves-4-dead-047e07e4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Alcatraz boat capsizing near San Francisco leaves 4 dead",
-      "published_at": "2026-07-16T06:12:00.000Z",
-      "image": "",
-      "image_alt": "Alcatraz boat capsizing near San Francisco leaves 4 dead",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/alcatraz-boat-capsizing-near-san-francisco-leaves-4-dead/a-77962333?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "middle-east-live-iran-says-it-targeted-us-military-sites-in-jordan-kuw-e5959a53",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "🔴 Middle East live: Iran says it targeted US military sites in Jordan, Kuwait and Bahrain",
-      "published_at": "2026-07-16T05:55:27.000Z",
-      "image": "",
-      "image_alt": "🔴 Middle East live: Iran says it targeted US military sites in Jordan, Kuwait and Bahrain",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-military-to-start-screening-for-testosterone-deficiency-hegseth-say-694fae92",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "US military to start screening for testosterone deficiency, Hegseth says",
-      "published_at": "2026-07-16T02:33:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
-      "image_alt": "US military to start screening for testosterone deficiency, Hegseth says",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-s-intelligence-chief-nominee-won-t-say-biden-won-2020-election-787b96a2",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
-      "published_at": "2026-07-16T05:01:36.000Z",
-      "image": "",
-      "image_alt": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss"
-        }
-      ],
       "impact": 74
     },
     {
-      "id": "fire-at-orphanage-in-algeria-kills-11-and-wounds-19-6bee59c3",
+      "id": "ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris-1c2c6139",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Fire at orphanage in Algeria kills 11 and wounds 19",
-      "published_at": "2026-07-16T07:48:11.000Z",
-      "image": "https://s.france24.com/media/display/a48ae1ce-80e8-11f1-b274-005056a90284/w:1024/p:16x9/000-Nic6308246.jpg",
-      "image_alt": "Fire at orphanage in Algeria kills 11 and wounds 19",
+      "headline": "Ahead of French PM's visit, Rabat faces allegations of spying on Paris",
+      "published_at": "2026-07-16T10:04:48.000Z",
+      "image": "https://s.france24.com/media/display/77e10ce6-801d-11f1-bfa3-005056bf30b7/w:1024/p:16x9/000-C24D83Y.jpg",
+      "image_alt": "Ahead of French PM's visit, Rabat faces allegations of spying on Paris",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,332 +428,148 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20260716-fire-at-orphanage-in-algeria-kills-11-and-wounds-19"
+          "url": "https://www.france24.com/en/ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris"
         }
       ],
       "impact": 73
     },
     {
-      "id": "could-russia-be-about-to-lose-its-grip-on-chess-leadership-23aeb04f",
-      "region": "Europe",
+      "id": "a-week-of-strikes-shatters-hope-of-a-lasting-us-iran-peace-deal-006c4a6b",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Could Russia be about to lose its grip on chess leadership?",
-      "published_at": "2026-07-16T07:10:00.000Z",
-      "image": "",
-      "image_alt": "Could Russia be about to lose its grip on chess leadership?",
+      "headline": "A week of strikes shatters hope of a lasting US-Iran peace deal",
+      "published_at": "2026-07-16T09:58:45.000Z",
+      "image": "https://s.france24.com/media/display/fcee9c08-80bf-11f1-94ae-005056bfb2b6/w:1024/p:16x9/De-la-fum%C3%A9e-s-%C3%A9l%C3%A8ve-apr%C3%A8s-des-frappes-sur-Chabahar-en-Iran-mercredi-15-juillet-2026.jpg",
+      "image_alt": "A week of strikes shatters hope of a lasting US-Iran peace deal",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/could-russia-be-about-to-lose-its-grip-on-chess-leadership/a-77971495?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "canadian-wildfire-smoke-pushes-toronto-air-quality-to-world-s-worst-re-6229ca83",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Canadian wildfire smoke pushes Toronto air quality to world's worst, reaches US",
-      "published_at": "2026-07-16T06:19:43.000Z",
-      "image": "https://s.france24.com/media/display/c254ae6c-8069-11f1-94f1-005056bf30b7/w:1024/p:16x9/1e15bfa5a8a2b0915afed024767c23eb6ab070c9.jpg",
-      "image_alt": "Canadian wildfire smoke pushes Toronto air quality to world's worst, reaches US",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/environment/20260716-canadian-wildfire-smoke-pushes-toronto-air-quality-to-world-s-worst-reaches-us"
+          "url": "https://www.france24.com/en/a-week-of-strikes-shatters-hope-of-a-lasting-us-iran-peace-deal"
         }
       ],
-      "impact": 72
+      "impact": 73
     },
     {
-      "id": "actor-sam-neill-died-from-pneumonia-agent-confirms-9dd9d8ac",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Actor Sam Neill died from pneumonia, agent confirms",
-      "published_at": "2026-07-16T04:28:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd5e/live/532967b0-80e3-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "Actor Sam Neill died from pneumonia, agent confirms",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "uk-proposes-voluntary-overnight-social-media-curfew-for-older-teens-38217918",
+      "id": "as-the-smoke-clears-the-fontainebleau-forest-takes-stock-of-its-destru-d955cc27",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "UK proposes voluntary overnight social media curfew for older teens",
-      "published_at": "2026-07-16T04:57:34.000Z",
-      "image": "",
-      "image_alt": "UK proposes voluntary overnight social media curfew for older teens",
+      "urgency": "Live",
+      "headline": "As the smoke clears, the Fontainebleau forest takes stock of its destruction",
+      "published_at": "2026-07-16T09:54:13.000Z",
+      "image": "https://s.france24.com/media/display/6933f1c0-80fb-11f1-b733-005056a97e36/w:1024/p:16x9/AP26195348843452.jpg",
+      "image_alt": "As the smoke clears, the Fontainebleau forest takes stock of its destruction",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/16/uk-proposes-voluntary-overnight-social-media-curfew-for-older-teens?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/as-the-smoke-clears-the-fontainebleau-forest-takes-stock-of-its-destruction"
         }
       ],
-      "impact": 69
+      "impact": 73
     },
     {
-      "id": "former-us-ambassador-says-iran-miscalculated-trump-s-resolve-1d063b74",
-      "region": "Middle East",
+      "id": "senegal-s-plastic-man-helps-raise-awareness-about-plastic-pollution-f9a6b364",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "Former US Ambassador says Iran miscalculated Trump’s resolve",
-      "published_at": "2026-07-16T04:18:22.000Z",
-      "image": "",
-      "image_alt": "Former US Ambassador says Iran miscalculated Trump’s resolve",
+      "urgency": "Live",
+      "headline": "Senegal's 'plastic man' helps raise awareness about plastic pollution",
+      "published_at": "2026-07-16T09:50:42.000Z",
+      "image": "https://s.france24.com/media/display/ba81cb60-80fb-11f1-b3da-005056bf30b7/w:1024/p:16x9/AP22314449481064.jpg",
+      "image_alt": "Senegal's 'plastic man' helps raise awareness about plastic pollution",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/senegal-s-plastic-man-helps-raise-awareness-about-plastic-pollution"
         }
       ],
-      "impact": 68
+      "impact": 73
     },
     {
-      "id": "senior-chinese-delegation-visits-north-korea-for-talks-a55730d0",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Senior Chinese delegation visits North Korea for talks",
-      "published_at": "2026-07-16T03:45:33.000Z",
-      "image": "",
-      "image_alt": "Senior Chinese delegation visits North Korea for talks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "south-korea-s-international-adoptees-seek-justice-not-homecoming-cebed434",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "South Korea’s international adoptees seek justice, not homecoming",
-      "published_at": "2026-07-16T03:41:50.000Z",
-      "image": "",
-      "image_alt": "South Korea’s international adoptees seek justice, not homecoming",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "australia-to-toughen-modern-slavery-penalty-after-us-threatens-trade-t-2b65bc7e",
-      "region": "Asia-Pacific",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Australia to toughen modern slavery penalty after US threatens trade tariffs",
-      "published_at": "2026-07-16T03:25:16.000Z",
-      "image": "https://img.lemde.fr/2025/08/31/0/0/5500/2750/644/322/60/0/2b41deb_ftp-import-images-1-2birh9vuolvs-2025-08-31t034943z-1979313476-rc22iga23ur7-rtrmadp-3-australia-protest.JPG",
-      "image_alt": "Australia to toughen modern slavery penalty after US threatens trade tariffs",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/16/australia-to-toughen-modern-slavery-penalty-after-us-threatens-trade-tariffs_6755520_4.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "brazil-condemns-us-move-to-impose-25-tariffs-next-week-4c8005fb",
+      "id": "if-you-don-t-suffer-it-s-not-argentina-fans-react-to-dramatic-semifina-bd00dc28",
       "region": "Americas",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "Brazil condemns US move to impose 25% tariffs next week",
-      "published_at": "2026-07-16T05:01:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/c730a9c68ab6892fba2ac0c510711772789d3bda/0_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=bd5aa870c6060b19ecab8b705789438e",
-      "image_alt": "Brazil condemns US move to impose 25% tariffs next week",
+      "urgency": "Live",
+      "headline": "'If you don't suffer, it's not Argentina': fans react to dramatic semifinal",
+      "published_at": "2026-07-16T09:48:12.000Z",
+      "image": "https://s.france24.com/media/display/54ea8cf6-80fb-11f1-a066-005056a97e36/w:1024/p:16x9/AP26196778582545.jpg",
+      "image_alt": "'If you don't suffer, it's not Argentina': fans react to dramatic semifinal",
       "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/if-you-don-t-suffer-it-s-not-argentina-fans-react-to-dramatic-semifinal"
         }
       ],
-      "impact": 67
+      "impact": 73
     },
     {
-      "id": "moroccan-intelligence-insider-reveals-widespread-use-of-pegasus-hackin-ccb0f3ce",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Update",
-      "headline": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "published_at": "2026-07-16T04:30:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/b622daf890a7625d7d426073102027c5db3ac491/378_21_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=61883f9dd2fbb42805ac7c9af6801a6d",
-      "image_alt": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "translations": {
-        "en": "PULSE is tracking this technology update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened-1c857162",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "Toronto engulfed by wildfire smoke as US cities threatened",
-      "published_at": "2026-07-16T02:31:26.000Z",
-      "image": "",
-      "image_alt": "Toronto engulfed by wildfire smoke as US cities threatened",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "iran-launches-strikes-on-gulf-even-as-fm-visits-qatar-cfc4a5ad",
-      "region": "Middle East",
+      "id": "occupied-west-bank-school-protests-planned-demolition-by-israeli-force-e22cb866",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "Iran launches strikes on Gulf, even as FM visits Qatar",
-      "published_at": "2026-07-16T02:10:58.000Z",
-      "image": "",
-      "image_alt": "Iran launches strikes on Gulf, even as FM visits Qatar",
+      "urgency": "Live",
+      "headline": "Occupied West Bank school protests planned demolition by Israeli forces",
+      "published_at": "2026-07-16T09:44:24.000Z",
+      "image": "https://s.france24.com/media/display/e10e592a-80fa-11f1-9589-005056a90284/w:1024/p:16x9/capture-13732815436a58a7e27970e2-66178130.jpg",
+      "image_alt": "Occupied West Bank school protests planned demolition by Israeli forces",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/occupied-west-bank-school-protests-planned-demolition-by-israeli-forces"
         }
       ],
-      "impact": 66
+      "impact": 73
     },
     {
-      "id": "us-strikes-iranian-missile-sites-as-tensions-escalate-2f53b97c",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "US strikes Iranian missile sites as tensions escalate",
-      "published_at": "2026-07-15T23:41:00.000Z",
-      "image": "",
-      "image_alt": "US strikes Iranian missile sites as tensions escalate",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-strikes-iranian-missile-sites-as-tensions-escalate/live-77976690?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "new-monkey-species-with-orange-lips-found-hiding-in-dr-congo-forest-21c8effb",
-      "region": "Africa",
+      "id": "ukraine-approves-sergiy-koretsky-as-new-pm-amid-protests-over-cabinet--3fc3eb49",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-      "published_at": "2026-07-15T23:02:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/6b309920-80e1-11f1-bee8-53ce494e1abc.jpg",
-      "image_alt": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "urgency": "Live",
+      "headline": "🔴 Ukraine approves Sergiy Koretsky as new PM amid protests over cabinet reshuffle",
+      "published_at": "2026-07-16T09:42:23.000Z",
+      "image": "",
+      "image_alt": "🔴 Ukraine approves Sergiy Koretsky as new PM amid protests over cabinet reshuffle",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine"
         }
       ],
-      "impact": 66
+      "impact": 73
     }
   ]
 }
