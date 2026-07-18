@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T03:51:41.662Z",
+  "updated_at": "2026-07-18T06:01:23.017Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "indian-activist-on-hunger-strike-for-20-days-forcibly-taken-to-hospita-1ed149e7",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "published_at": "2026-07-18T05:58:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/ad78f910-825a-11f1-9346-85db1a1d6a02.jpg",
+      "image_alt": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
     {
       "id": "iran-war-updates-bridges-and-water-plants-hit-as-strikes-stretch-to-7t-ccf6e541",
       "region": "Middle East",
@@ -40,17 +63,40 @@
           "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
-      "id": "iranian-official-says-the-policy-of-negotiating-during-war-is-over-a93706fb",
-      "region": "Middle East",
+      "id": "russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics--e6982b5d",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iranian official says the policy of negotiating during war is over",
-      "published_at": "2026-07-18T02:09:00.000Z",
+      "headline": "Russia says Ukrainian drone attack killed several in Moscow logistics centre",
+      "published_at": "2026-07-18T05:32:46.000Z",
+      "image": "https://s.france24.com/media/display/e287ac42-8268-11f1-83b1-005056bf30b7/w:1024/p:16x9/2026-06-18T092613Z-897162086-RC27WLA5GF7L-RTRMADP-3-UKRAINE-CRISIS-ATTACKS.jpg",
+      "image_alt": "Russia says Ukrainian drone attack killed several in Moscow logistics centre",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "israel-s-crimson-thread-military-barrier-is-strangling-the-west-bank-feffea4d",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+      "published_at": "2026-07-18T05:15:11.000Z",
       "image": "",
-      "image_alt": "Iranian official says the policy of negotiating during war is over",
+      "image_alt": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,10 +106,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss"
+          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 81
     },
     {
       "id": "one-anti-war-critic-fined-another-held-as-russia-clamps-down-on-dissen-92090e60",
@@ -86,7 +132,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 80
+    },
+    {
+      "id": "us-strikes-hit-iran-for-seventh-consecutive-night-bcb2b119",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US strikes hit Iran for seventh consecutive night",
+      "published_at": "2026-07-18T04:40:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "US strikes hit Iran for seventh consecutive night",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "the-20-somethings-running-ukraine-s-war-machine-eadbe6ae",
@@ -109,30 +178,7 @@
           "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "israeli-army-destroys-three-schools-in-southern-lebanon-minister-says-ecf7351e",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Israeli army destroys three schools in southern Lebanon, minister says",
-      "published_at": "2026-07-18T02:06:07.000Z",
-      "image": "",
-      "image_alt": "Israeli army destroys three schools in southern Lebanon, minister says",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "israeli-strike-in-gaza-kills-seven-people-health-officials-say-9f23a6e9",
@@ -155,53 +201,76 @@
           "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "us-strikes-hit-iran-for-seventh-consecutive-night-bcb2b119",
+      "id": "canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final-1211ef46",
+      "region": "Americas",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
+      "published_at": "2026-07-18T05:07:42.000Z",
+      "image": "",
+      "image_alt": "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "a-seventh-night-of-us-strikes-cuts-water-to-villages-in-iran-s-south-2b99f1d8",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US strikes hit Iran for seventh consecutive night",
-      "published_at": "2026-07-18T03:02:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
-      "image_alt": "US strikes hit Iran for seventh consecutive night",
+      "headline": "A seventh night of US strikes cuts water to villages in Iran’s south",
+      "published_at": "2026-07-18T04:47:44.000Z",
+      "image": "",
+      "image_alt": "A seventh night of US strikes cuts water to villages in Iran’s south",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 76
     },
     {
-      "id": "trump-threatens-new-canada-tariffs-over-fires-sending-filthy-air-into--fa63b205",
-      "region": "Americas",
+      "id": "trump-jokes-that-england-turned-harry-kane-into-a-defensive-player-7eaf0cae",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "published_at": "2026-07-18T01:29:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
-      "image_alt": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "headline": "Trump jokes that England turned Harry Kane into a ‘defensive player’",
+      "published_at": "2026-07-18T04:44:50.000Z",
+      "image": "",
+      "image_alt": "Trump jokes that England turned Harry Kane into a ‘defensive player’",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/trump-jokes-that-england-turned-harry-kane-into-a-defensive?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
       "id": "gaza-officials-say-several-killed-in-israeli-strike-ca712486",
@@ -224,17 +293,17 @@
           "url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "targets-of-latest-us-strikes-on-iran-signal-strategic-shift-a86f1714",
-      "region": "Middle East",
+      "id": "mandela-day-what-his-legacy-means-in-today-s-south-africa-a934fa7b",
+      "region": "Africa",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Targets of latest US strikes on Iran signal strategic shift",
-      "published_at": "2026-07-18T01:54:45.000Z",
+      "headline": "Mandela Day: What his legacy means in today’s South Africa",
+      "published_at": "2026-07-18T04:05:32.000Z",
       "image": "",
-      "image_alt": "Targets of latest US strikes on Iran signal strategic shift",
+      "image_alt": "Mandela Day: What his legacy means in today’s South Africa",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,33 +313,125 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/18/mandela-day-what-his-legacy-means-in-todays-south-africa?traffic_source=rss"
         }
       ],
       "impact": 75
     },
     {
-      "id": "analyst-questions-trump-s-renewed-focus-on-us-election-integrity-cdf3dab9",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Analyst questions Trump’s renewed focus on US election integrity",
-      "published_at": "2026-07-18T00:49:51.000Z",
+      "id": "manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos-730f8538",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
+      "published_at": "2026-07-18T03:54:23.000Z",
       "image": "",
-      "image_alt": "Analyst questions Trump’s renewed focus on US election integrity",
+      "image_alt": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss"
         }
       ],
-      "impact": 74
+      "impact": 75
+    },
+    {
+      "id": "middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches--890fca3e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Middle East live: Tehran threatens 'full-scale' offensive as US launches seventh night of attacks",
+      "published_at": "2026-07-18T05:02:22.000Z",
+      "image": "https://s.france24.com/media/display/f9573524-8262-11f1-b8ea-005056a97e36/w:1024/p:16x9/000-C2GD6WG.jpg",
+      "image_alt": "Middle East live: Tehran threatens 'full-scale' offensive as US launches seventh night of attacks",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "we-are-preserving-a-tradition-how-ghana-s-sensationalist-film-posters--8b5f6e9e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "published_at": "2026-07-18T04:00:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9b8b17d43122819bfd242af212e8756f",
+      "image_alt": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "iran-threatens-apos-full-scale-apos-offensive-if-us-keeps-bombing-5c76af42",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran threatens &apos;full-scale&apos; offensive if US keeps bombing",
+      "published_at": "2026-07-18T03:18:00.000Z",
+      "image": "",
+      "image_alt": "Iran threatens &apos;full-scale&apos; offensive if US keeps bombing",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-threatens-full-scale-offensive-if-us-keeps-bombing/live-78015388?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "frontex-continuing-mission-in-greece-despite-serious-violations-of-mig-4824fa6e",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Frontex continuing mission in Greece despite serious violations of migrants' rights",
+      "published_at": "2026-07-18T03:55:07.000Z",
+      "image": "https://img.lemde.fr/2026/07/17/295/0/3543/1771/644/322/60/0/de7c267_upload-1-bkn4sl0ezsba-2026-02-21t135719z-1741947265-rc2bqjabvhzw-rtrmadp-3-migration-europe-greece-shipwreck.JPG",
+      "image_alt": "Frontex continuing mission in Greece despite serious violations of migrants' rights",
+      "translations": {
+        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/07/18/frontex-continuing-mission-in-greece-despite-serious-violations-of-migrants-rights_6755593_8.html"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "india-police-move-activist-sonam-wangchuk-to-hospital-on-court-orders-05a41f42",
@@ -293,7 +454,30 @@
           "url": "https://www.dw.com/en/india-police-move-activist-sonam-wangchuk-to-hospital-on-court-orders/a-78015393?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 71
+    },
+    {
+      "id": "trump-threatens-new-canada-tariffs-over-fires-sending-filthy-air-into--fa63b205",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "published_at": "2026-07-18T01:29:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
+      "image_alt": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "la-guerra-de-ucrania-castiga-a-las-minor-as-y-a-los-pobres-de-rusia-4b77f29b",
@@ -316,7 +500,7 @@
           "url": "https://elpais.com/internacional/2026-07-18/la-guerra-de-ucrania-castiga-a-las-minorias-y-a-los-pobres-de-rusia.html"
         }
       ],
-      "impact": 72
+      "impact": 70
     },
     {
       "id": "lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-de9ca1fe",
@@ -339,76 +523,7 @@
           "url": "https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "bombing-intensifies-as-us-strikes-iran-for-the-seventh-night-e86da168",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bombing intensifies as US strikes Iran for the seventh night",
-      "published_at": "2026-07-18T02:54:05.000Z",
-      "image": "https://img.lemde.fr/2026/07/17/0/0/6000/3000/644/322/60/0/ace3914_ftp-1-dxamxoe27koe-7f30bba1cca948d5a68bb7a4df5acd08-0-225f33499f6a4656a17abd29ab8ed127.jpg",
-      "image_alt": "Bombing intensifies as US strikes Iran for the seventh night",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/18/bombing-intensifies-as-us-strikes-iran-for-the-seventh-night_6755591_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "elie-barnavi-marwan-barghouti-is-the-only-one-capable-of-uniting-the-p-2e6e8dc9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Elie Barnavi: 'Marwan Barghouti is the only one capable of uniting the Palestinian people around a national project and the two-state solution'",
-      "published_at": "2026-07-18T01:26:56.000Z",
-      "image": "https://img.lemde.fr/2025/10/27/0/0/7506/3753/644/322/60/0/1c2e61d_ftp-import-images-1-l2njb1djjntk-5280564-01-06.jpg",
-      "image_alt": "Elie Barnavi: 'Marwan Barghouti is the only one capable of uniting the Palestinian people around a national project and the two-state solution'",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/07/18/elie-barnavi-marwan-barghouti-is-the-only-one-capable-of-uniting-the-palestinian-people-around-a-national-project-and-the-two-state-solution_6755590_23.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "in-argentina-a-thriving-theater-scene-1329e3aa",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "In Argentina, a thriving theater scene",
-      "published_at": "2026-07-18T01:25:55.000Z",
-      "image": "https://img.lemde.fr/2026/07/09/496/0/5955/2977/644/322/60/0/09a86b7_upload-1-gm0rom72rlmk-bor-8951.jpg",
-      "image_alt": "In Argentina, a thriving theater scene",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/18/in-argentina-a-thriving-theater-scene_6755589_4.html"
-        }
-      ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "many-ukrainian-soldiers-outraged-over-removal-of-defence-minister-troo-592aab07",
@@ -429,52 +544,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "landslide-in-southwest-china-kills-eight-and-leaves-34-missing-c70d2e64",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Landslide in southwest China kills eight and leaves 34 missing",
-      "published_at": "2026-07-18T00:33:59.000Z",
-      "image": "",
-      "image_alt": "Landslide in southwest China kills eight and leaves 34 missing",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "trump-media-reportedly-mulling-fee-for-first-access-to-social-media-po-476d5b15",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump Media reportedly mulling fee for first access to social media posts",
-      "published_at": "2026-07-18T00:32:34.000Z",
-      "image": "",
-      "image_alt": "Trump Media reportedly mulling fee for first access to social media posts",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss"
         }
       ],
       "impact": 69
@@ -500,76 +569,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "burnham-becomes-labour-leader-and-britain-s-incoming-prime-minister-17552e98",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
-      "published_at": "2026-07-17T18:53:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/17/world/17uk-burnham-PA-header/17uk-burnham-PA-header-mediumSquareAt3X.jpg",
-      "image_alt": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "taco-bell-lettuce-tied-to-diarrhea-causing-parasite-outbreak-bbd966f6",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Update",
-      "headline": "Taco Bell lettuce tied to diarrhea-causing parasite outbreak",
-      "published_at": "2026-07-18T00:15:00.000Z",
-      "image": "",
-      "image_alt": "Taco Bell lettuce tied to diarrhea-causing parasite outbreak",
-      "translations": {
-        "en": "PULSE is tracking this health update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/taco-bell-lettuce-tied-to-diarrhea-causing-parasite-outbreak/a-78015079?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "eu-proposes-slowing-down-cuts-to-carbon-emissions-for-businesses-244386ea",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "published_at": "2026-07-17T18:34:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bda/live/48708610-8204-11f1-a09e-7710dfe15161.jpg",
-      "image_alt": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 66
+      "impact": 67
     }
   ]
 }
