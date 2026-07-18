@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T08:16:52.924Z",
+  "updated_at": "2026-07-18T09:54:09.950Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "iran-war-updates-bridges-and-water-plants-hit-as-strikes-stretch-to-7t-ccf6e541",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+      "published_at": "2026-07-18T09:26:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17mideast-promo-placeholder-tjdy/17mideast-header-placeholder-tjcb-mediumSquareAt3X.jpg",
+      "image_alt": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "indian-activist-on-hunger-strike-for-20-days-forcibly-taken-to-hospita-1ed149e7",
       "region": "World",
@@ -40,53 +63,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
-    },
-    {
-      "id": "iran-war-updates-bridges-and-water-plants-hit-as-strikes-stretch-to-7t-ccf6e541",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
-      "published_at": "2026-07-18T06:44:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17mideast-promo-placeholder-tjdy/17mideast-header-placeholder-tjcb-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz"
-        }
-      ],
       "impact": 86
     },
     {
-      "id": "russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics--e6982b5d",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russia says Ukrainian drone attack killed several in Moscow logistics centre",
-      "published_at": "2026-07-18T05:32:46.000Z",
-      "image": "https://s.france24.com/media/display/e287ac42-8268-11f1-83b1-005056bf30b7/w:1024/p:16x9/2026-06-18T092613Z-897162086-RC27WLA5GF7L-RTRMADP-3-UKRAINE-CRISIS-ATTACKS.jpg",
-      "image_alt": "Russia says Ukrainian drone attack killed several in Moscow logistics centre",
+      "id": "laos-says-it-can-t-determine-cause-of-tourist-deaths-linked-to-methano-d5511899",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "published_at": "2026-07-18T09:30:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/32672200-a8c8-11ef-a4fe-a3e9a6c5d640.jpg",
+      "image_alt": "Laos says it can't determine cause of tourist deaths linked to methanol",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "us-strikes-hit-iran-for-seventh-consecutive-night-bcb2b119",
@@ -95,7 +95,7 @@
       "urgency": "Live",
       "headline": "US strikes hit Iran for seventh consecutive night",
       "published_at": "2026-07-18T07:33:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg",
       "image_alt": "US strikes hit Iran for seventh consecutive night",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
@@ -109,7 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "space-start-up-launches-india-s-first-commercial-rocket-designed-for-o-c4e41a96",
@@ -132,30 +132,7 @@
           "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "germany-news-minister-warns-of-high-terror-threat-547eab3d",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Germany news: Minister warns of high terror threat",
-      "published_at": "2026-07-18T06:46:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Minister warns of high terror threat",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-minister-warns-of-high-terror-threat/live-78016025?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "one-anti-war-critic-fined-another-held-as-russia-clamps-down-on-dissen-92090e60",
@@ -178,7 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
       "id": "the-20-somethings-running-ukraine-s-war-machine-eadbe6ae",
@@ -201,7 +178,7 @@
           "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "israeli-strike-in-gaza-kills-seven-people-health-officials-say-9f23a6e9",
@@ -224,7 +201,191 @@
           "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html"
         }
       ],
-      "impact": 75
+      "impact": 74
+    },
+    {
+      "id": "us-democrats-divided-over-support-for-israel-ahead-of-midterm-election-55a6ea37",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US Democrats divided over support for Israel ahead of midterm elections",
+      "published_at": "2026-07-18T09:05:45.000Z",
+      "image": "https://s.france24.com/media/display/399ee18a-8287-11f1-beb6-005056a90284/w:1024/p:16x9/063-2265621554.jpg",
+      "image_alt": "US Democrats divided over support for Israel ahead of midterm elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "venezuela-quake-death-toll-exceeds-5-000-as-imf-releases-funds-db148ced",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Venezuela quake death toll exceeds 5,000 as IMF releases funds",
+      "published_at": "2026-07-18T09:09:10.000Z",
+      "image": "https://img.lemde.fr/2026/07/18/516/0/6192/3096/644/322/60/0/e35d47c_ftp-1-xbtymxkiahki-5649845-01-06.jpg",
+      "image_alt": "Venezuela quake death toll exceeds 5,000 as IMF releases funds",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/18/venezuela-quake-death-toll-exceeds-5-000-as-imf-releases-funds_6755595_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-polluti-3f230095",
+      "region": "Americas",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
+      "published_at": "2026-07-18T09:00:52.000Z",
+      "image": "https://img.lemde.fr/2026/07/17/500/0/6000/3000/644/322/60/0/54a4e58_ftp-1-bubzbnaj58vx-5647681-01-06.jpg",
+      "image_alt": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/18/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution_6755594_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "donald-trump-blames-canada-for-smoke-pollution-33e3749a",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Donald Trump blames Canada for smoke pollution",
+      "published_at": "2026-07-18T08:40:49.000Z",
+      "image": "https://s.france24.com/media/display/678a32f6-8283-11f1-9312-005056bfb2b6/w:1024/p:16x9/EN-20260718-100946-101132-CS.jpg",
+      "image_alt": "Donald Trump blames Canada for smoke pollution",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/donald-trump-blames-canada-for-smoke-pollution"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "france-2-000-hectares-lost-in-forest-fires-d5ed466a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France: 2,000 hectares lost in forest fires",
+      "published_at": "2026-07-18T08:39:04.000Z",
+      "image": "https://s.france24.com/media/display/216e1b84-8283-11f1-9a03-005056a90284/w:1024/p:16x9/EN-20260718-100712-100916-CS.jpg",
+      "image_alt": "France: 2,000 hectares lost in forest fires",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france-2-000-hectares-lost-in-forest-fires"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "ukraine-protests-over-fedorov-s-removal-continue-for-a-second-day-a3ed9f83",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine: Protests over Fedorov's removal continue for a second day",
+      "published_at": "2026-07-18T08:37:58.000Z",
+      "image": "https://s.france24.com/media/display/ce6dc164-8282-11f1-9de4-005056a97e36/w:1024/p:16x9/EN-20260718-100450-100647-CS.jpg",
+      "image_alt": "Ukraine: Protests over Fedorov's removal continue for a second day",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260718-ukraine-protests-over-fedorov-s-removal-continue-for-a-second-day"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "us-strikes-hit-iran-for-seventh-night-5343c7d6",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US strikes hit Iran for seventh night",
+      "published_at": "2026-07-18T08:35:59.000Z",
+      "image": "https://s.france24.com/media/display/1eb6e390-8282-11f1-a328-005056bfb2b6/w:1024/p:16x9/EN-20260718-100136-100344-CS.jpg",
+      "image_alt": "US strikes hit Iran for seventh night",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "venezuela-quake-death-toll-tops-5-000-as-imf-releases-recovery-funds-34726ecc",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Venezuela quake death toll tops 5,000 as IMF releases recovery funds",
+      "published_at": "2026-07-18T08:25:28.000Z",
+      "image": "https://s.france24.com/media/display/0f4166a2-824f-11f1-9de0-005056bfb2b6/w:1024/p:16x9/1da6ac9042c22f0465c2198197827690452c2bad.jpg",
+      "image_alt": "Venezuela quake death toll tops 5,000 as IMF releases recovery funds",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260718-venezuela-quake-death-toll-tops-5-000-as-imf-releases-recovery-funds"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "israel-s-crimson-thread-military-barrier-is-strangling-the-west-bank-feffea4d",
@@ -247,7 +408,7 @@
           "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
         }
       ],
-      "impact": 74
+      "impact": 72
     },
     {
       "id": "gaza-officials-say-several-killed-in-israeli-strike-ca712486",
@@ -270,76 +431,30 @@
           "url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "india-news-cjp-to-call-for-modi-apos-s-resignation-after-sonam-wangchu-bc097444",
-      "region": "Asia-Pacific",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "India news: CJP to call for Modi&apos;s resignation after Sonam Wangchuk &apos;forcefully&apos; shifted to hospital",
-      "published_at": "2026-07-18T06:28:00.000Z",
-      "image": "",
-      "image_alt": "India news: CJP to call for Modi&apos;s resignation after Sonam Wangchuk &apos;forcefully&apos; shifted to hospital",
-      "translations": {
-        "en": "PULSE is tracking this health update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
       "impact": 72
     },
     {
-      "id": "amid-elections-sao-tome-and-principe-balances-global-powers-8e79bad2",
+      "id": "germany-news-minister-warns-of-high-terror-threat-547eab3d",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Amid elections, Sao Tome and Principe balances global powers",
-      "published_at": "2026-07-18T06:02:00.000Z",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Germany news: Minister warns of high terror threat",
+      "published_at": "2026-07-18T06:46:00.000Z",
       "image": "",
-      "image_alt": "Amid elections, Sao Tome and Principe balances global powers",
+      "image_alt": "Germany news: Minister warns of high terror threat",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/germany-news-minister-warns-of-high-terror-threat/live-78016025?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final-1211ef46",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
-      "published_at": "2026-07-18T05:07:42.000Z",
-      "image": "",
-      "image_alt": "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final?traffic_source=rss"
-        }
-      ],
-      "impact": 69
+      "impact": 71
     },
     {
       "id": "as-trump-scraps-with-meloni-his-envoy-to-italy-is-at-sea-26ad4adc",
@@ -362,7 +477,7 @@
           "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html"
         }
       ],
-      "impact": 68
+      "impact": 67
     },
     {
       "id": "they-called-sam-neill-skux-it-was-a-compliment-3759ab4a",
@@ -385,7 +500,7 @@
           "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html"
         }
       ],
-      "impact": 68
+      "impact": 67
     },
     {
       "id": "trump-threatens-new-canada-tariffs-over-fires-sending-filthy-air-into--fa63b205",
@@ -408,63 +523,40 @@
           "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "many-ukrainian-soldiers-outraged-over-removal-of-defence-minister-troo-592aab07",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "published_at": "2026-07-17T19:04:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
-      "image_alt": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 67
     },
     {
-      "id": "we-are-preserving-a-tradition-how-ghana-s-sensationalist-film-posters--8b5f6e9e",
-      "region": "World",
-      "topic": "World",
+      "id": "india-news-cjp-to-call-for-modi-apos-s-resignation-after-sonam-wangchu-bc097444",
+      "region": "Asia-Pacific",
+      "topic": "Health",
       "urgency": "Update",
-      "headline": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "published_at": "2026-07-18T04:00:47.000Z",
-      "image": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9b8b17d43122819bfd242af212e8756f",
-      "image_alt": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "headline": "India news: CJP to call for Modi&apos;s resignation after Sonam Wangchuk &apos;forcefully&apos; shifted to hospital",
+      "published_at": "2026-07-18T06:28:00.000Z",
+      "image": "",
+      "image_alt": "India news: CJP to call for Modi&apos;s resignation after Sonam Wangchuk &apos;forcefully&apos; shifted to hospital",
       "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 66
     },
     {
-      "id": "palestine-football-fans-honour-egyptian-coach-hossam-hassan-41a623c5",
-      "region": "World",
+      "id": "argentina-s-new-york-fans-share-hopes-before-2026-world-cup-final-59def8b9",
+      "region": "Americas",
       "topic": "Sports",
       "urgency": "Live",
-      "headline": "Palestine football fans honour Egyptian coach Hossam Hassan",
-      "published_at": "2026-07-18T07:45:46.000Z",
+      "headline": "Argentina’s New York fans share hopes before 2026 World Cup final",
+      "published_at": "2026-07-18T09:29:20.000Z",
       "image": "",
-      "image_alt": "Palestine football fans honour Egyptian coach Hossam Hassan",
+      "image_alt": "Argentina’s New York fans share hopes before 2026 World Cup final",
       "translations": {
         "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,102 +566,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/palestine-football-fans-honour-egyptian-coach-hossam-hassan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final?traffic_source=rss"
         }
       ],
       "impact": 65
-    },
-    {
-      "id": "middle-east-live-kuwait-says-iran-hit-second-water-and-electricity-pla-890fca3e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Middle East live: Kuwait says Iran hit second water and electricity plant",
-      "published_at": "2026-07-18T05:02:22.000Z",
-      "image": "https://s.france24.com/media/display/a717986a-8278-11f1-aee4-005056bf30b7/w:1024/p:16x9/000-C2G42T4.jpg",
-      "image_alt": "Middle East live: Kuwait says Iran hit second water and electricity plant",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "billionaire-us-envoy-faces-venice-protests-amid-yacht-tour-6ad3aca4",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Billionaire US envoy faces Venice protests amid yacht tour",
-      "published_at": "2026-07-18T03:51:00.000Z",
-      "image": "",
-      "image_alt": "Billionaire US envoy faces Venice protests amid yacht tour",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/billionaire-us-envoy-faces-venice-protests-amid-yacht-tour/a-78015401?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "white-house-defends-argentina-team-over-falklands-banner-07e55aed",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "White House defends Argentina team over Falklands banner",
-      "published_at": "2026-07-17T22:12:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg",
-      "image_alt": "White House defends Argentina team over Falklands banner",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 65
-    },
-    {
-      "id": "world-cup-final-weekend-france-vs-england-prediction-schedule-news-7703466d",
-      "region": "Europe",
-      "topic": "Sports",
-      "urgency": "Live",
-      "headline": "World Cup final weekend: France vs England prediction, schedule, news",
-      "published_at": "2026-07-18T07:23:04.000Z",
-      "image": "",
-      "image_alt": "World Cup final weekend: France vs England prediction, schedule, news",
-      "translations": {
-        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-weekend-france-vs-england-prediction-schedule-news?traffic_source=rss"
-        }
-      ],
-      "impact": 64
     }
   ]
 }
