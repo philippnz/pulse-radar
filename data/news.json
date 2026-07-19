@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T10:51:56.991Z",
+  "updated_at": "2026-07-19T11:53:22.744Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "russia-launches-major-ballistic-missile-attack-on-kyiv-f4bd263a",
+      "id": "russia-launches-major-ballistic-missile-attack-on-ukrainian-cities-f4bd263a",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Russia launches major ballistic missile attack on Kyiv",
-      "published_at": "2026-07-19T09:54:50.000Z",
+      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "published_at": "2026-07-19T11:28:24.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
-      "image_alt": "Russia launches major ballistic missile attack on Kyiv",
+      "image_alt": "Russia launches major ballistic missile attack on Ukrainian cities",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,7 +40,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 90
+    },
+    {
+      "id": "iranians-suffer-from-power-blackouts-during-war-and-heatwave-ddacf3fb",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iranians suffer from power blackouts during war and heatwave",
+      "published_at": "2026-07-19T11:16:20.000Z",
+      "image": "",
+      "image_alt": "Iranians suffer from power blackouts during war and heatwave",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss"
+        }
+      ],
+      "impact": 87
     },
     {
       "id": "u-s-launches-strikes-after-iranian-attack-kills-2-american-soldiers-e1f679bd",
@@ -48,7 +71,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
-      "published_at": "2026-07-19T09:40:45.000Z",
+      "published_at": "2026-07-19T11:00:27.000Z",
       "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18mideast-live-header-3pm-mfqj-alert/18mideast-live-header-3pm-mfqj-mediumSquareAt3X.jpg",
       "image_alt": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
       "translations": {
@@ -71,7 +94,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "published_at": "2026-07-19T10:44:11.000Z",
+      "published_at": "2026-07-19T11:10:40.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e354/live/adca3400-8323-11f1-926f-c90d1bcfbc84.jpg",
       "image_alt": "US and Iran exchange strikes after two US soldiers killed in Jordan",
       "translations": {
@@ -86,7 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack-c46aa15e",
@@ -109,7 +132,7 @@
           "url": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "tate-brothers-arrested-in-us-as-further-uk-charges-take-total-to-59-8b7fdb3f",
@@ -117,7 +140,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Tate brothers arrested in US as further UK charges take total to 59",
-      "published_at": "2026-07-19T10:22:35.000Z",
+      "published_at": "2026-07-19T11:04:50.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
       "image_alt": "Tate brothers arrested in US as further UK charges take total to 59",
       "translations": {
@@ -132,30 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "us-launches-new-iran-strikes-after-two-soldiers-killed-what-s-the-late-e03ff33c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-      "published_at": "2026-07-19T08:49:56.000Z",
-      "image": "",
-      "image_alt": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "ferry-carrying-116-passengers-sinks-off-guyana-coast-authorities-say-fbd02ff0",
@@ -178,7 +178,53 @@
           "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "guyana-ferry-with-116-people-on-board-capsizes-more-than-50-rescued-404cf348",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
+      "published_at": "2026-07-19T11:18:17.000Z",
+      "image": "",
+      "image_alt": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-conte-89a587e5",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
+      "published_at": "2026-07-19T10:43:27.000Z",
+      "image": "",
+      "image_alt": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "russia-apos-s-largest-ballistic-assault-of-war-rocks-kyiv-0a365ab8",
@@ -201,7 +247,7 @@
           "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "du-plessis-makes-winning-return-to-ufc-with-dominant-decision-over-usm-a4e7b2ca",
@@ -224,7 +270,7 @@
           "url": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missi-8538775d",
@@ -247,30 +293,30 @@
           "url": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in--48402841",
-      "region": "Middle East",
+      "id": "netanyahu-still-regards-the-1946-king-david-hotel-bombers-in-jerusalem-e8e39fcf",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-      "published_at": "2026-07-19T08:46:42.000Z",
-      "image": "",
-      "image_alt": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "headline": "'Netanyahu still regards the 1946 King David Hotel bombers in Jerusalem as heroes'",
+      "published_at": "2026-07-19T11:20:13.000Z",
+      "image": "https://img.lemde.fr/2026/07/16/110/0/5282/2641/644/322/60/0/a468206_ftp-1-0pxyd8nlo9w4-5638282-01-06.jpg",
+      "image_alt": "'Netanyahu still regards the 1946 King David Hotel bombers in Jerusalem as heroes'",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/19/netanyahu-still-regards-the-1946-king-david-hotel-bombers-in-jerusalem-as-heroes_6755625_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "the-bayeux-tapestry-arrives-in-london-for-display-at-british-museum-060d7354",
@@ -293,7 +339,7 @@
           "url": "https://www.france24.com/en/the-bayeux-tapestry-arrives-in-london-for-display-at-british-museum"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-remov-493f3c76",
@@ -316,7 +362,7 @@
           "url": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "middle-east-live-iran-s-guards-say-two-ships-involved-in-accident-afte-80140ebe",
@@ -339,7 +385,7 @@
           "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "russian-army-deserters-in-germany-apos-no-choice-but-to-run-apos-7da827ad",
@@ -362,7 +408,7 @@
           "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "trump-faces-pressure-to-escalate-in-iran-after-deaths-of-two-us-soldie-c7bddf70",
@@ -385,7 +431,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/19/trump-faces-pressure-to-escalate-in-iran-after-deaths-of-two-us-soldiers_6755621_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-provi-1329f1d4",
@@ -408,7 +454,7 @@
           "url": "https://www.france24.com/en/europe/20260719-wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-province"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "england-beat-france-6-4-to-finish-third-87d24094",
@@ -431,7 +477,7 @@
           "url": "https://www.france24.com/en/england-beat-france-6-4-to-finish-third"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "french-coach-didier-deschamps-retires-after-14-years-bb571faa",
@@ -454,7 +500,7 @@
           "url": "https://www.france24.com/en/french-coach-didier-deschamps-retires-after-14-years"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "cuban-dissident-luis-manuel-otero-alc-ntara-goes-into-exile-in-us-01637d9d",
@@ -477,7 +523,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "war-is-undermining-social-contract-between-putin-and-russians-3199b424",
@@ -500,7 +546,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/19/war-is-undermining-social-contract-between-putin-and-russians_6755611_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "why-tokyo-s-new-shorts-policy-is-sparking-debate-in-japan-804343b8",
@@ -523,53 +569,7 @@
           "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "flash-flood-warnings-strike-north-east-us-amid-wildfire-smoke-from-can-2fecd4ba",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-      "published_at": "2026-07-18T19:11:13.000Z",
-      "image": "https://i.guim.co.uk/img/media/ae0f77f98b146bb5c9fd62de529f6cc494c91b5f/811_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6793c445b57f04c224a84f7b0402e6d0",
-      "image_alt": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-      "translations": {
-        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us"
-        }
-      ],
       "impact": 70
-    },
-    {
-      "id": "ukraine-s-top-general-becomes-a-target-of-protesters-anger-4a4c0be5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "published_at": "2026-07-19T07:13:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18int-ukraine-protests-blzg/18int-ukraine-protests-blzg-mediumSquareAt3X.jpg",
-      "image_alt": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html"
-        }
-      ],
-      "impact": 69
     }
   ]
 }
