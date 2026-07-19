@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T07:03:45.437Z",
+  "updated_at": "2026-07-19T09:25:44.064Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-updates-u-s-launches-strikes-after-iranian-attack-kills--e1f679bd",
+      "id": "russia-launches-major-ballistic-missile-attack-on-kyiv-f4bd263a",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia launches major ballistic missile attack on Kyiv",
+      "published_at": "2026-07-19T08:37:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "image_alt": "Russia launches major ballistic missile attack on Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
+      "id": "u-s-launches-strikes-after-iranian-attack-kills-2-american-soldiers-e1f679bd",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
-      "published_at": "2026-07-19T06:48:03.000Z",
+      "headline": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
+      "published_at": "2026-07-19T09:07:10.000Z",
       "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18mideast-live-header-3pm-mfqj-alert/18mideast-live-header-3pm-mfqj-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
+      "image_alt": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -41,6 +64,52 @@
         }
       ],
       "impact": 87
+    },
+    {
+      "id": "us-launches-new-iran-strikes-after-two-soldiers-killed-what-s-the-late-e03ff33c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "published_at": "2026-07-19T08:49:56.000Z",
+      "image": "",
+      "image_alt": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-att-0068bba4",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
+      "published_at": "2026-07-19T07:12:16.000Z",
+      "image": "https://s.france24.com/media/display/cbd5cd9e-833f-11f1-a013-005056a97e36/w:1024/p:16x9/EN-20260719-080120-080516-CS.jpg",
+      "image_alt": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "us-and-iran-exchange-strikes-after-two-us-soldiers-killed-in-jordan-fdf722c9",
@@ -63,63 +132,40 @@
           "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 81
     },
     {
-      "id": "at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv-b7352c2c",
+      "id": "ferry-carrying-116-passengers-sinks-off-guyana-coast-authorities-say-fbd02ff0",
       "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
-      "published_at": "2026-07-19T04:32:28.000Z",
-      "image": "",
-      "image_alt": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "urgency": "Live",
+      "headline": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "published_at": "2026-07-19T09:20:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c6/live/e5bedff0-8350-11f1-8d99-f1f0cec0b1ae.jpg",
+      "image_alt": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
     },
     {
-      "id": "russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehous-49100e6e",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
-      "published_at": "2026-07-19T01:51:16.000Z",
-      "image": "https://s.france24.com/media/display/b323a8bc-832f-11f1-9dd7-005056bfb2b6/w:1024/p:16x9/56efabf9b3c5baaafd42435bde1924573f03cb21.jpg",
-      "image_alt": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260719-russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "middle-east-live-us-strikes-target-revolutionary-guard-to-punish-iran--80140ebe",
-      "region": "Middle East",
+      "id": "first-us-soldiers-killed-in-jordan-trump-vows-to-shift-action-dc5dded7",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Middle East live: US strikes target Revolutionary Guard to 'punish' Iran for killed troops",
-      "published_at": "2026-07-19T05:09:41.000Z",
-      "image": "https://s.france24.com/media/display/f0353018-832f-11f1-b53e-005056a97e36/w:1024/p:16x9/2026-07-19T044713Z-452431391-RC2SGMA154OH-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-      "image_alt": "Middle East live: US strikes target Revolutionary Guard to 'punish' Iran for killed troops",
+      "headline": "First US soldiers killed in Jordan, Trump vows to shift action",
+      "published_at": "2026-07-19T08:52:59.000Z",
+      "image": "https://s.france24.com/media/display/fe2302b6-834a-11f1-9d7d-005056bf30b7/w:1024/p:16x9/EN-20260719-100142-100326-CS.jpg",
+      "image_alt": "First US soldiers killed in Jordan, Trump vows to shift action",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,10 +175,148 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops"
+          "url": "https://www.france24.com/en/first-us-soldiers-killed-in-jordan-trump-vows-to-shift-action"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "cuban-dissident-luis-manuel-otero-alc-ntara-goes-into-exile-in-us-01637d9d",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "published_at": "2026-07-19T07:47:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffba/live/61f9f5c0-8336-11f1-ab22-e5791e60f909.jpg",
+      "image_alt": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "russia-apos-s-largest-ballistic-assault-of-war-rocks-kyiv-0a365ab8",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia&apos;s largest ballistic assault of war rocks Kyiv",
+      "published_at": "2026-07-19T03:40:00.000Z",
+      "image": "",
+      "image_alt": "Russia&apos;s largest ballistic assault of war rocks Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missi-8538775d",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+      "published_at": "2026-07-19T09:08:55.000Z",
+      "image": "",
+      "image_alt": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in--48402841",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "published_at": "2026-07-19T08:46:42.000Z",
+      "image": "",
+      "image_alt": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "ukraine-s-top-general-becomes-a-target-of-protesters-anger-4a4c0be5",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+      "published_at": "2026-07-19T07:13:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18int-ukraine-protests-blzg/18int-ukraine-protests-blzg-mediumSquareAt3X.jpg",
+      "image_alt": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-demolishes-palestinian-home-in-masafer-yatta-bfdfcda4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel demolishes Palestinian home in Masafer Yatta",
+      "published_at": "2026-07-19T07:30:54.000Z",
+      "image": "",
+      "image_alt": "Israel demolishes Palestinian home in Masafer Yatta",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "war-is-undermining-social-contract-between-putin-and-russians-3199b424",
@@ -155,53 +339,76 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/19/war-is-undermining-social-contract-between-putin-and-russians_6755611_4.html"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "us-bombs-iran-for-eighth-straight-night-b79bddbd",
-      "region": "Middle East",
+      "id": "england-beat-france-6-4-to-finish-third-87d24094",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US bombs Iran for eighth-straight night",
-      "published_at": "2026-07-19T05:08:20.000Z",
-      "image": "",
-      "image_alt": "US bombs Iran for eighth-straight night",
+      "headline": "England beat France 6-4 to finish third",
+      "published_at": "2026-07-19T09:00:01.000Z",
+      "image": "https://s.france24.com/media/display/58086798-834c-11f1-bf7f-005056a90284/w:1024/p:16x9/EN-20260719-100849-101050-CS.jpg",
+      "image_alt": "England beat France 6-4 to finish third",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/england-beat-france-6-4-to-finish-third"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers-3a5266d0",
-      "region": "Middle East",
+      "id": "french-coach-didier-deschamps-retires-after-14-years-bb571faa",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-      "published_at": "2026-07-19T04:36:47.000Z",
-      "image": "",
-      "image_alt": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+      "headline": "French coach Didier Deschamps retires after 14 years",
+      "published_at": "2026-07-19T08:58:13.000Z",
+      "image": "https://s.france24.com/media/display/23d716bc-834d-11f1-94c5-005056bf30b7/w:1024/p:16x9/EN-20260719-101102-101323-CS.jpg",
+      "image_alt": "French coach Didier Deschamps retires after 14 years",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/french-coach-didier-deschamps-retires-after-14-years"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "us-taco-bell-removes-lettuce-after-parasite-outbreak-4a560639",
+      "region": "Americas",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "US: Taco Bell removes lettuce after parasite outbreak",
+      "published_at": "2026-07-19T08:55:21.000Z",
+      "image": "https://s.france24.com/media/display/fccd0578-834b-11f1-aaa6-005056a97e36/w:1024/p:16x9/EN-20260719-100647-100820-CS.jpg",
+      "image_alt": "US: Taco Bell removes lettuce after parasite outbreak",
+      "translations": {
+        "en": "PULSE is tracking this health update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/us-taco-bell-removes-lettuce-after-parasite-outbreak"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "why-tokyo-s-new-shorts-policy-is-sparking-debate-in-japan-804343b8",
@@ -224,30 +431,30 @@
           "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
-      "id": "us-hits-iran-for-eighth-consecutive-night-iran-returns-fire-on-gulf-ba-d1c046b4",
+      "id": "us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-a9c830fd",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
-      "published_at": "2026-07-19T04:16:08.000Z",
-      "image": "",
-      "image_alt": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "headline": "US launches new airstrikes on Iran after confirming troop deaths",
+      "published_at": "2026-07-19T07:15:46.000Z",
+      "image": "https://s.france24.com/media/display/2a9c29d0-8341-11f1-ba0d-005056bf30b7/w:1024/p:16x9/EN-20260719-060730-061016-CS.jpg",
+      "image_alt": "US launches new airstrikes on Iran after confirming troop deaths",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1"
         }
       ],
-      "impact": 74
+      "impact": 71
     },
     {
       "id": "flash-flood-warnings-strike-north-east-us-amid-wildfire-smoke-from-can-2fecd4ba",
@@ -270,7 +477,7 @@
           "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us"
         }
       ],
-      "impact": 74
+      "impact": 71
     },
     {
       "id": "s-o-tom-and-pr-ncipe-heads-to-polls-in-tense-presidential-election-566a6739",
@@ -291,29 +498,6 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "ny-mayor-in-talks-over-whether-to-arrest-netanyahu-at-upcoming-un-summ-9b1f2f04",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "NY mayor in talks over whether to arrest Netanyahu at upcoming UN summit",
-      "published_at": "2026-07-19T03:39:24.000Z",
-      "image": "https://img.lemde.fr/2026/07/07/47/0/4000/2000/644/322/60/0/e51fc10_ftp-1-yaltd3jvqzak-ea46c542a89e4ed6bdd5089b106907f9-0-ce6242ad14a8413992c675b260d0dfe5.jpg",
-      "image_alt": "NY mayor in talks over whether to arrest Netanyahu at upcoming UN summit",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/19/ny-mayor-in-talks-over-whether-to-arrest-netanyahu-at-upcoming-un-summit_6755616_4.html"
         }
       ],
       "impact": 70
@@ -339,7 +523,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 68
+    },
+    {
+      "id": "ny-mayor-in-talks-over-whether-to-arrest-netanyahu-at-upcoming-un-summ-9b1f2f04",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "NY mayor in talks over whether to arrest Netanyahu at upcoming UN summit",
+      "published_at": "2026-07-19T03:39:24.000Z",
+      "image": "https://img.lemde.fr/2026/07/07/47/0/4000/2000/644/322/60/0/e51fc10_ftp-1-yaltd3jvqzak-ea46c542a89e4ed6bdd5089b106907f9-0-ce6242ad14a8413992c675b260d0dfe5.jpg",
+      "image_alt": "NY mayor in talks over whether to arrest Netanyahu at upcoming UN summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/19/ny-mayor-in-talks-over-whether-to-arrest-netanyahu-at-upcoming-un-summit_6755616_4.html"
+        }
+      ],
+      "impact": 67
     },
     {
       "id": "new-eu-border-system-tripling-time-at-passport-control-airport-boss-sa-4910473a",
@@ -362,214 +569,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "somalia-races-to-save-radio-mogadishu-s-fading-archive-4bd5ea29",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Somalia races to save Radio Mogadishu’s fading archive",
-      "published_at": "2026-07-19T03:38:03.000Z",
-      "image": "",
-      "image_alt": "Somalia races to save Radio Mogadishu’s fading archive",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-719ac56c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-      "published_at": "2026-07-19T03:36:44.000Z",
-      "image": "",
-      "image_alt": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "hungary-s-president-agrees-to-stand-down-after-parliament-backs-remova-a6a3a349",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Hungary's president agrees to stand down after parliament backs removal",
-      "published_at": "2026-07-18T19:34:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3323/live/67c3a600-82db-11f1-9a15-3bb955e2f294.jpg",
-      "image_alt": "Hungary's president agrees to stand down after parliament backs removal",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "russians-turn-to-cash-putting-more-strain-on-slowing-wartime-economy-e492fd47",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "published_at": "2026-07-18T23:59:26.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
-      "image_alt": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "us-launches-new-airstrikes-to-punish-iran-after-two-troops-killed-8c94458c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "US launches new airstrikes to 'punish' Iran after two troops killed",
-      "published_at": "2026-07-18T20:49:31.000Z",
-      "image": "https://img.lemde.fr/2026/07/18/500/0/6000/3000/644/322/60/0/8f49b08_ftp-1-rdmvgdkedltq-5653389-01-06.jpg",
-      "image_alt": "US launches new airstrikes to 'punish' Iran after two troops killed",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/18/iran-threatens-unforgettable-lessons-as-two-us-troops-killed_6755608_4.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "russian-ballistic-missiles-rock-kyiv-ee7b9ed5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Russian ballistic missiles rock Kyiv",
-      "published_at": "2026-07-19T03:40:00.000Z",
-      "image": "",
-      "image_alt": "Russian ballistic missiles rock Kyiv",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/russian-ballistic-missiles-rock-kyiv/a-78022851?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "hungary-apos-s-president-signs-amendment-ending-his-own-term-f8bfcc8c",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Hungary&apos;s president signs amendment ending his own term",
-      "published_at": "2026-07-18T20:29:00.000Z",
-      "image": "",
-      "image_alt": "Hungary&apos;s president signs amendment ending his own term",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 64
-    },
-    {
-      "id": "nadie-protesta-en-la-rusia-de-putin-pero-la-guerra-empieza-a-pasar-fac-ff2a850a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Nadie protesta en la Rusia de Putin, pero la guerra empieza a pasar factura a su popularidad",
-      "published_at": "2026-07-19T03:30:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/HZGK5BIESFENDIQVRBTRGKDHMA.JPG?auth=ac32539531f4653cf85ca57ac8d28ed8737712ff3ce49a91438135b9994ec445",
-      "image_alt": "Nadie protesta en la Rusia de Putin, pero la guerra empieza a pasar factura a su popularidad",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-19/nadie-protesta-en-la-rusia-de-putin-pero-la-guerra-empieza-a-pasar-factura-a-su-popularidad.html"
-        }
-      ],
-      "impact": 63
-    },
-    {
-      "id": "andy-burnham-un-pol-tico-fuera-de-la-burbuja-38af1660",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Andy Burnham, un político fuera de la burbuja",
-      "published_at": "2026-07-19T03:30:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/4AIJYKVPMFOABA75MQ3TUXY3LQ.jpg?auth=6040813a8931b38c55bb2eb24c7f72f728a579c5560ba4a916f1ec076ed48bbc",
-      "image_alt": "Andy Burnham, un político fuera de la burbuja",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-19/andy-burnham-un-politico-fuera-de-la-burbuja.html"
-        }
-      ],
-      "impact": 63
+      "impact": 67
     }
   ]
 }
