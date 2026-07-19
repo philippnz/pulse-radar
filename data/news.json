@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T16:53:34.403Z",
+  "updated_at": "2026-07-19T17:54:58.668Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "russia-launches-major-ballistic-missile-attack-on-ukrainian-cities-f4bd263a",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "published_at": "2026-07-19T17:43:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "image_alt": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
+    {
       "id": "us-and-iran-trade-fire-after-two-us-soldiers-killed-in-jordan-fdf722c9",
       "region": "Middle East",
       "topic": "Markets",
       "urgency": "Breaking",
       "headline": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "published_at": "2026-07-19T15:35:18.000Z",
+      "published_at": "2026-07-19T17:22:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
       "image_alt": "US and Iran trade fire after two US soldiers killed in Jordan",
       "translations": {
@@ -48,7 +71,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
-      "published_at": "2026-07-19T16:35:53.000Z",
+      "published_at": "2026-07-19T17:46:41.000Z",
       "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-promo-1240-kwcm/19mideast-live-promo-1240-kwcm-mediumSquareAt3X.jpg",
       "image_alt": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
       "translations": {
@@ -63,7 +86,7 @@
           "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
         }
       ],
-      "impact": 87
+      "impact": 88
     },
     {
       "id": "russia-batters-kyiv-in-one-of-the-largest-missile-assaults-of-the-war-70a02ddd",
@@ -86,30 +109,7 @@
           "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html"
         }
       ],
-      "impact": 87
-    },
-    {
-      "id": "russia-launches-major-ballistic-missile-attack-on-ukrainian-cities-f4bd263a",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "published_at": "2026-07-19T11:28:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
-      "image_alt": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 85
+      "impact": 86
     },
     {
       "id": "ferry-carrying-133-passengers-and-crew-sinks-off-guyana-coast-fbd02ff0",
@@ -132,7 +132,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "gaza-s-children-traumatized-and-mutilated-by-war-his-prosthesis-hurts--7fe5d137",
@@ -155,7 +155,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/19/gaza-s-children-traumatized-and-mutilated-by-war-his-prosthesis-hurts-but-he-endures-it-to-show-that-he-isn-t-different_6755626_4.html"
         }
       ],
-      "impact": 80
+      "impact": 79
+    },
+    {
+      "id": "rubio-hails-lebanon-for-peace-efforts-after-meeting-president-eee98a86",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Rubio hails Lebanon for peace efforts after meeting president",
+      "published_at": "2026-07-19T17:27:30.000Z",
+      "image": "https://img.lemde.fr/2026/07/16/499/0/6000/3000/644/322/60/0/3c481ef_ftp-1-ho3leooxyw6x-5638302-01-06.jpg",
+      "image_alt": "Rubio hails Lebanon for peace efforts after meeting president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/19/rubio-hails-lebanon-for-peace-efforts-after-meeting-president_6755631_4.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "spain-emergency-crews-battle-wildfire-north-of-madrid-4bab33a6",
@@ -178,7 +201,7 @@
           "url": "https://www.dw.com/en/spain-emergency-crews-battle-wildfire-north-of-madrid/a-78026297?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "health-officials-identify-source-of-us-explosive-diarrhoea-outbreak-49ff843d",
@@ -201,30 +224,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "the-1975-s-matty-healy-marries-model-gabbriette-bechtel-in-los-angeles-68349f10",
-      "region": "World",
+      "id": "syria-s-al-sharaa-reshuffles-security-and-intelligence-leadership-19c5e543",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "published_at": "2026-07-19T14:50:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
-      "image_alt": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "headline": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+      "published_at": "2026-07-19T16:43:55.000Z",
+      "image": "",
+      "image_alt": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "5-5-magnitude-earthquake-hits-peru-s-andes-region-and-kills-at-least-5-2ff86097",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "5.5-magnitude earthquake hits Peru's Andes region and kills at least 5 people",
+      "published_at": "2026-07-19T17:12:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/2136e3551472994e2d01567efb99da947cb0c02d/0_0_1333_1067/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=ed750c5377e25d9da12b73c213637fb7",
+      "image_alt": "5.5-magnitude earthquake hits Peru's Andes region and kills at least 5 people",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "israeli-settlers-torch-homes-and-mosque-in-masafer-yatta-5134b83a",
@@ -247,7 +293,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "5-6-magnitude-earthquake-hits-peru-37ce6401",
@@ -270,7 +316,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem-2a80c01f",
@@ -293,7 +339,7 @@
           "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "kimi-antonelli-wins-belgian-grand-prix-to-extend-f1-championship-lead-3e9c6db6",
@@ -316,7 +362,7 @@
           "url": "https://www.aljazeera.com/sports/2026/7/19/kimi-antonelli-wins-belgian-grand-prix-to-extend-f1-championship-lead?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "designing-cities-for-a-hotter-future-47000830",
@@ -339,7 +385,7 @@
           "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/19/designing-cities-for-a-hotter-future?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "tate-brothers-arrested-in-the-us-fe08cf86",
@@ -362,7 +408,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-the-us?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "denmark-s-jonas-vingegaard-in-second-place-in-tour-de-france-withdraws-634618af",
@@ -385,7 +431,7 @@
           "url": "https://www.france24.com/en/sport/20260719-denmark-s-jonas-vingegaard-withdraws-from-tour-de-france-after-fall"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit-f513d4fd",
@@ -408,50 +454,50 @@
           "url": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "russia-hits-kyiv-with-ballistic-missiles-e0b2dfdc",
-      "region": "Europe",
+      "id": "the-1975-s-matty-healy-marries-model-gabbriette-bechtel-in-los-angeles-68349f10",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia hits Kyiv with ballistic missiles",
-      "published_at": "2026-07-19T14:41:56.000Z",
-      "image": "https://s.france24.com/media/display/4ddd7ed8-837f-11f1-9e13-005056a97e36/w:1024/p:16x9/EN-20260719-160412-160746-CS.jpg",
-      "image_alt": "Russia hits Kyiv with ballistic missiles",
+      "urgency": "Update",
+      "headline": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "published_at": "2026-07-19T14:50:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
+      "image_alt": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/russia-hits-kyiv-with-ballistic-missiles"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 72
     },
     {
-      "id": "fact-check-spotting-ai-generated-apos-historical-apos-images-bcfe73a0",
-      "region": "Europe",
-      "topic": "Technology",
+      "id": "grupos-de-colonos-israel-es-marchan-hacia-gaza-para-reclamar-el-restab-d30700e3",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Fact check: Spotting AI-generated &apos;historical&apos; images",
-      "published_at": "2026-07-19T13:59:00.000Z",
-      "image": "",
-      "image_alt": "Fact check: Spotting AI-generated &apos;historical&apos; images",
+      "headline": "Grupos de colonos israelíes marchan hacia Gaza para reclamar el restablecimiento de asentamientos en la Franja",
+      "published_at": "2026-07-19T17:14:51.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YUACTD7ANEMPPLZZUKLUXKUDA.jpg?auth=ff6846e2bc098044e84c925755e1b63874c0f4c5c739e4767cec21144179cbea",
+      "image_alt": "Grupos de colonos israelíes marchan hacia Gaza para reclamar el restablecimiento de asentamientos en la Franja",
       "translations": {
-        "en": "PULSE is tracking this technology update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/fact-check-spotting-ai-generated-historical-images/a-77969109?maca=en-rss-en-top-1022-rdf"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-19/grupos-de-colonos-israelies-marchan-hacia-gaza-para-reclamar-el-restablecimiento-de-asentamientos-en-la-franja.html"
         }
       ],
       "impact": 71
@@ -477,7 +523,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "russia-apos-s-largest-ballistic-assault-of-war-rocks-kyiv-0a365ab8",
@@ -500,76 +546,30 @@
           "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
-      "id": "cuban-dissident-artist-arrives-in-us-after-5-years-in-prison-74ae49f7",
+      "id": "the-u-s-braced-for-the-world-cup-it-fell-in-love-instead-6634c6fa",
       "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Cuban dissident artist arrives in US after 5-years in prison",
-      "published_at": "2026-07-19T13:45:45.000Z",
-      "image": "https://s.france24.com/media/display/5370815a-8376-11f1-a439-005056a97e36/w:1024/p:16x9/EN-20260719-150711-151213-CS.jpg",
-      "image_alt": "Cuban dissident artist arrives in US after 5-years in prison",
+      "topic": "Sports",
+      "urgency": "Live",
+      "headline": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "published_at": "2026-07-19T17:37:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-worldcup-assess-bcfh/19int-worldcup-assess-bcfh-mediumSquareAt3X.jpg",
+      "image_alt": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this sports update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sport-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de deportes de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sport de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html"
         }
       ],
-      "impact": 66
-    },
-    {
-      "id": "neighbours-actor-terence-donovan-dies-aged-90-c6e9b997",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Neighbours actor Terence Donovan dies aged 90",
-      "published_at": "2026-07-19T08:18:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ec/live/05bd7aa0-8342-11f1-852f-8fe9ff880eee.jpg",
-      "image_alt": "Neighbours actor Terence Donovan dies aged 90",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "war-is-undermining-social-contract-between-putin-and-russians-3199b424",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "War is undermining social contract between Putin and Russians",
-      "published_at": "2026-07-19T00:15:10.000Z",
-      "image": "https://img.lemde.fr/2026/07/10/649/0/7788/3894/644/322/60/0/cfc86c6_ftp-1-i27ny47kipey-5585549-01-06.jpg",
-      "image_alt": "War is undermining social contract between Putin and Russians",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/19/war-is-undermining-social-contract-between-putin-and-russians_6755611_4.html"
-        }
-      ],
-      "impact": 66
+      "impact": 65
     }
   ]
 }
