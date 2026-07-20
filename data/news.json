@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T15:27:11.740Z",
+  "updated_at": "2026-07-20T16:56:13.660Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,52 @@
     }
   ],
   "stories": [
+    {
+      "id": "israeli-air-strike-injures-14-in-gaza-city-d578a0f7",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israeli air strike injures 14 in Gaza City",
+      "published_at": "2026-07-20T16:45:23.000Z",
+      "image": "",
+      "image_alt": "Israeli air strike injures 14 in Gaza City",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "police-block-thousands-of-cockroach-protesters-marching-on-india-s-par-9e0bf94c",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "published_at": "2026-07-20T16:26:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8d/live/e2c0bd70-8448-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "another-u-s-service-member-is-killed-as-iran-war-expands-0e4f5c08",
       "region": "Middle East",
@@ -40,30 +86,30 @@
           "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
         }
       ],
-      "impact": 87
+      "impact": 85
     },
     {
-      "id": "what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualti-f687b27a",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "ten-killed-as-russian-attacks-on-merchant-ships-in-black-sea-intensify-dd160ecd",
+      "region": "World",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-      "published_at": "2026-07-20T14:34:42.000Z",
-      "image": "",
-      "image_alt": "What we know about US soldiers killed in Iran war, and Iranian casualties",
+      "headline": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "published_at": "2026-07-20T16:10:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/6adb1450-843d-11f1-9cf5-33cd4d5fa4a6.jpg",
+      "image_alt": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
       "id": "ukraine-war-momentum-helps-spur-interest-in-postwar-investment-4cd7b891",
@@ -86,53 +132,7 @@
           "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html"
         }
       ],
-      "impact": 86
-    },
-    {
-      "id": "ten-killed-as-russian-attacks-on-merchant-ships-in-black-sea-intensify-dd160ecd",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "published_at": "2026-07-20T14:14:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/6adb1450-843d-11f1-9cf5-33cd4d5fa4a6.jpg",
-      "image_alt": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 84
-    },
-    {
-      "id": "police-block-thousands-of-cockroach-protesters-marching-on-india-s-par-9e0bf94c",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "published_at": "2026-07-20T12:31:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8d/live/e2c0bd70-8448-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 82
     },
     {
       "id": "india-s-cjp-party-leads-protest-march-to-parliament-after-exam-leaks-2b5e203b",
@@ -140,7 +140,7 @@
       "topic": "Politics",
       "urgency": "Live",
       "headline": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
-      "published_at": "2026-07-20T13:39:35.000Z",
+      "published_at": "2026-07-20T15:56:43.000Z",
       "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20int-india-protest-mpgb/20int-india-protest-mpgb-mediumSquareAt3X.jpg",
       "image_alt": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
       "translations": {
@@ -153,6 +153,121 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "russia-says-bus-strike-kills-5-in-border-region-with-ukraine-34a37ded",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia says bus strike kills 5 in border region with Ukraine",
+      "published_at": "2026-07-20T15:09:00.000Z",
+      "image": "",
+      "image_alt": "Russia says bus strike kills 5 in border region with Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "at-least-25-killed-as-floods-and-landslides-hit-northern-india-c1639aee",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 25 killed as floods and landslides hit northern India",
+      "published_at": "2026-07-20T16:17:12.000Z",
+      "image": "",
+      "image_alt": "At least 25 killed as floods and landslides hit northern India",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "lebanon-s-military-starts-pilot-zone-takeover-in-south-7edd3d59",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Lebanon’s military starts ‘pilot zone’ takeover in south",
+      "published_at": "2026-07-20T16:13:42.000Z",
+      "image": "",
+      "image_alt": "Lebanon’s military starts ‘pilot zone’ takeover in south",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with--013d7129",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
+      "published_at": "2026-07-20T16:12:07.000Z",
+      "image": "",
+      "image_alt": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "china-immigration-drugs-behind-us-policy-in-latin-america-48658361",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "China, immigration, drugs: Behind US policy in Latin America",
+      "published_at": "2026-07-20T16:03:50.000Z",
+      "image": "",
+      "image_alt": "China, immigration, drugs: Behind US policy in Latin America",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss"
         }
       ],
       "impact": 81
@@ -178,7 +293,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "trump-says-us-strikes-hit-iran-in-honour-of-american-soldiers-killed-9a7f8b75",
@@ -201,7 +316,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "tehran-and-washington-face-a-wake-up-moment-over-the-war-a3205859",
@@ -224,7 +339,7 @@
           "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "newcastle-liverpool-and-england-legend-keegan-dies-a0505019",
@@ -233,7 +348,7 @@
       "urgency": "Live",
       "headline": "Newcastle, Liverpool and England legend Keegan dies",
       "published_at": "2026-07-20T14:38:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd4/live/f1b400d0-844d-11f1-b5be-7f357768d4ba.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ac0/live/1e731800-8452-11f1-8cf4-43aed99842b4.jpg",
       "image_alt": "Newcastle, Liverpool and England legend Keegan dies",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
@@ -247,7 +362,30 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "philippine-sailor-injured-during-clash-with-chinese-coast-guard-1c59dd74",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Philippine sailor injured during clash with Chinese coast guard",
+      "published_at": "2026-07-20T16:31:23.000Z",
+      "image": "",
+      "image_alt": "Philippine sailor injured during clash with Chinese coast guard",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "hamas-names-khalil-al-hayya-as-new-overall-leader-31d72344",
@@ -270,63 +408,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
-      "id": "burnham-advocates-closer-eu-relationship-big-gains-will-only-come-from-2c333d3a",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Burnham Advocates Closer EU Relationship: Big Gains Will Only Come from Rejoining the Single Market",
-      "published_at": "2026-07-20T14:31:42.000Z",
-      "image": "https://s.france24.com/media/display/20f967a0-843e-11f1-94d3-005056bfb2b6/w:1024/p:16x9/EN-20260720-130102-131614-CS.jpg",
-      "image_alt": "Burnham Advocates Closer EU Relationship: Big Gains Will Only Come from Rejoining the Single Market",
-      "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/burnham-advocates-closer-eu-relationship-big-gains-will-only-come-from-rejoining-the-single-market"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "rare-identical-quadruplets-born-in-australia-47459ea9",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Rare identical quadruplets born in Australia",
-      "published_at": "2026-07-20T12:57:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ad/live/ba2bc6c0-842a-11f1-96d8-4b9d5565f166.png",
-      "image_alt": "Rare identical quadruplets born in Australia",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm-046384de",
+      "id": "spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-record-high-6da8c49a",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Andy Burnham pledges end to political instability as he becomes UK PM",
-      "published_at": "2026-07-20T14:53:02.000Z",
+      "headline": "Spain go back to the top of FIFA rankings, Morocco reach record high",
+      "published_at": "2026-07-20T16:11:22.000Z",
       "image": "",
-      "image_alt": "Andy Burnham pledges end to political instability as he becomes UK PM",
+      "image_alt": "Spain go back to the top of FIFA rankings, Morocco reach record high",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -336,89 +428,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-polic-4feb3682",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "After getting a new PM, the UK waits for his government and first policies",
-      "published_at": "2026-07-20T13:55:20.000Z",
-      "image": "https://s.france24.com/media/display/b86dcf44-8435-11f1-a1af-005056a97e36/w:1024/p:16x9/2026-07-20T121407Z-1053087389-RC2NHMAATTJ4-RTRMADP-3-BRITAIN-POLITICS.jpg",
-      "image_alt": "After getting a new PM, the UK waits for his government and first policies",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "what-to-know-about-andy-burnham-s-first-speech-as-prime-minister-6f4cc130",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "What to know about Andy Burnham's first speech as prime minister",
-      "published_at": "2026-07-20T13:20:33.000Z",
-      "image": "https://s.france24.com/media/display/0cc3533c-8438-11f1-98fd-005056a97e36/w:1024/p:16x9/2026-07-20T120731Z-1505653970-RC2NHMAGF2Z5-RTRMADP-3-BRITAIN-POLITICS.jpg",
-      "image_alt": "What to know about Andy Burnham's first speech as prime minister",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/what-to-know-about-andy-burnham-s-first-speech-as-prime-minister"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "what-are-civilian-sites-in-international-law-and-where-have-us-iran-hi-9119a6fd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-      "published_at": "2026-07-20T14:37:16.000Z",
-      "image": "",
-      "image_alt": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions-5acba727",
+      "id": "former-england-manager-and-two-time-ballon-d-or-winner-keegan-dies-age-591aeea0",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Petro to give farewell speech amid Colombia transfer-of-power tensions",
-      "published_at": "2026-07-20T13:56:58.000Z",
+      "headline": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
+      "published_at": "2026-07-20T16:09:32.000Z",
       "image": "",
-      "image_alt": "Petro to give farewell speech amid Colombia transfer-of-power tensions",
+      "image_alt": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,102 +451,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "israeli-ministers-and-settlers-call-for-return-to-gaza-settlements-93983386",
-      "region": "Middle East",
-      "topic": "World",
+      "id": "canada-issues-air-quality-warnings-over-us-wildfire-smoke-after-trump--60e51806",
+      "region": "Americas",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Israeli ministers and settlers call for return to Gaza settlements",
-      "published_at": "2026-07-20T13:29:39.000Z",
-      "image": "",
-      "image_alt": "Israeli ministers and settlers call for return to Gaza settlements",
+      "headline": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
+      "published_at": "2026-07-20T15:52:58.000Z",
+      "image": "https://i.guim.co.uk/img/media/164cd7fe7703c54a814109816c716d1951c67d9f/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ce3386d25025897b57b9707fb9fff30a",
+      "image_alt": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "burnham-s-move-to-scrap-uk-s-digital-id-plans-earns-cheers-and-critici-15ff3277",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism",
-      "published_at": "2026-07-20T13:24:18.000Z",
-      "image": "",
-      "image_alt": "Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/burnhams-move-to-scrap-uks-digital-id-plans-earns-cheers-and-criticism?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "who-is-khalil-al-hayya-hamas-s-newly-elected-political-chief-7e318147",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-      "published_at": "2026-07-20T13:18:47.000Z",
-      "image": "",
-      "image_alt": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "aiming-for-my-fastest-marathon-i-turned-to-distance-running-s-mecca-b5cccf0a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
-      "published_at": "2026-07-20T12:30:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/00int-kenya-iten-marathon01a-photo-tfhw/00int-kenya-iten-marathon01a-photo-tfhw-mediumSquareAt3X.jpg",
-      "image_alt": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "it-s-total-devastation-inside-the-amazonian-war-against-illegal-gold-m-b6f4665c",
@@ -546,30 +500,76 @@
           "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "ukraine-fires-400-missiles-at-moscow-after-deadly-russian-attacks-384c6b93",
+      "id": "guterres-to-visit-cyprus-as-un-seeks-to-revive-peace-talks-a068b2f9",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Ukraine fires 400 missiles at Moscow after deadly Russian attacks",
-      "published_at": "2026-07-20T14:31:50.000Z",
-      "image": "https://s.france24.com/media/display/fe6ee974-8412-11f1-b6f3-005056a90284/w:1024/p:16x9/2026-07-20T062204Z-1400823776-RC2DHMA4O44B-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-DRONES.jpg",
-      "image_alt": "Ukraine fires 400 missiles at Moscow after deadly Russian attacks",
+      "headline": "Guterres to visit Cyprus as UN seeks to revive peace talks",
+      "published_at": "2026-07-20T14:16:00.000Z",
+      "image": "",
+      "image_alt": "Guterres to visit Cyprus as UN seeks to revive peace talks",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/ukraine-fires-400-missiles-on-moscow-after-deadly-russian-attacks"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/guterres-to-visit-cyprus-as-un-seeks-to-revive-peace-talks/a-78037819?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 72
+    },
+    {
+      "id": "burnham-set-to-become-britain-s-first-openly-roman-catholic-prime-mini-64a92589",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister",
+      "published_at": "2026-07-20T10:44:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20uk-burnham-catholic-photo-wqml/20uk-burnham-catholic-photo-wqml-mediumSquareAt3X.jpg",
+      "image_alt": "Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "why-a-90-year-old-treaty-limits-nato-in-the-black-sea-20e456e0",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why a 90-year-old treaty limits NATO in the Black Sea",
+      "published_at": "2026-07-20T14:10:00.000Z",
+      "image": "",
+      "image_alt": "Why a 90-year-old treaty limits NATO in the Black Sea",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
