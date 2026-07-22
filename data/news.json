@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T19:51:54.163Z",
+  "updated_at": "2026-07-22T21:01:21.013Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-updates-trump-threatens-retaliation-against-civilian-tar-d52b2f17",
+      "id": "iran-war-live-updates-iran-digs-in-after-latest-trump-threat-on-civili-d52b2f17",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
-      "published_at": "2026-07-22T19:41:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo-215-vgqj/22mideast-live-promo-215-vgqj-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
+      "headline": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
+      "published_at": "2026-07-22T20:55:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo-whkq/22mideast-live-promo-whkq-mediumSquareAt3X.jpg",
+      "image_alt": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -43,14 +43,14 @@
       "impact": 88
     },
     {
-      "id": "hamas-s-new-leader-calls-for-permanent-gaza-ceasefire-58955478",
-      "region": "Middle East",
+      "id": "ukraine-s-new-military-chief-pledges-to-escalate-retaliation-against-r-d5813db1",
+      "region": "Europe",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Hamas’s new leader calls for permanent Gaza ceasefire",
-      "published_at": "2026-07-22T17:02:50.000Z",
+      "urgency": "Live",
+      "headline": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+      "published_at": "2026-07-22T20:34:56.000Z",
       "image": "",
-      "image_alt": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "image_alt": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,10 +60,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 82
+    },
+    {
+      "id": "gaza-man-returns-home-after-family-believed-he-was-dead-a89d1ad2",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Gaza man returns home after family believed he was dead",
+      "published_at": "2026-07-22T19:59:42.000Z",
+      "image": "",
+      "image_alt": "Gaza man returns home after family believed he was dead",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "daniel-siad-model-scout-who-connected-women-to-epstein-is-found-dead-i-c5ff8d9b",
@@ -86,7 +109,53 @@
           "url": "https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "us-to-announce-deal-allowing-saudi-arabia-a-nuclear-programme-b9a681b5",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "published_at": "2026-07-22T20:05:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+      "image_alt": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "dubai-firm-cuts-deal-for-new-port-to-bypass-strait-of-hormuz-0d51958b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz",
+      "published_at": "2026-07-22T20:50:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-uae-port-2-qpwh/22int-uae-port-2-qpwh-mediumSquareAt3X.jpg",
+      "image_alt": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/world/dubai-cuts-deal-for-new-port-to-bypass-strait-of-hormuz.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "trump-threatens-to-target-iran-s-bridges-and-power-plants-if-hormuz-at-d27a33d9",
@@ -109,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "trump-administration-seeks-additional-funding-for-its-war-against-iran-32ec3da2",
@@ -132,30 +201,168 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/22/trump-administration-seeks-additional-funding-for-its-war-against-iran_6755731_4.html"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "mamdani-backs-off-pledge-to-arrest-netanyahu-citing-lack-of-authority-bdf72acd",
-      "region": "World",
-      "topic": "World",
+      "id": "canadian-wildfire-evacuees-outraged-over-lacking-support-and-communica-45b66047",
+      "region": "Americas",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-      "published_at": "2026-07-22T17:54:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f8/live/f3ffae50-85e9-11f1-8ade-a7a676c613b9.jpg",
-      "image_alt": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "headline": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
+      "published_at": "2026-07-22T20:46:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-canada-fires-promo/22int-canada-fires-blfc-mediumSquareAt3X.jpg",
+      "image_alt": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/world/canada/ontario-wildfires-canada-smoke.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "how-the-trump-administration-s-nuclear-deal-with-saudi-arabia-may-work-f1c94a88",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
+      "published_at": "2026-07-22T20:43:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-123-agreement-wtk-qvhc/22int-123-agreement-wtk-qvhc-mediumSquareAt3X.jpg",
+      "image_alt": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "louvre-gallery-reopens-after-brazen-jewel-heist-7b4ba80a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Louvre Gallery Reopens After Brazen Jewel Heist",
+      "published_at": "2026-07-22T20:30:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-France-Louvre-01-clbh/22int-France-Louvre-01-clbh-mediumSquareAt3X.jpg",
+      "image_alt": "Louvre Gallery Reopens After Brazen Jewel Heist",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/france-louvre-reopening-jewels.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "griffiths-diplomacy-requires-us-and-iran-to-accept-they-have-lost-da21d675",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "published_at": "2026-07-22T20:20:57.000Z",
+      "image": "",
+      "image_alt": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "un-rights-chief-condemns-nicaragua-s-decision-to-abolish-elections-11411b97",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "UN rights chief condemns Nicaragua’s decision to abolish elections",
+      "published_at": "2026-07-22T20:07:35.000Z",
+      "image": "",
+      "image_alt": "UN rights chief condemns Nicaragua’s decision to abolish elections",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-iran-will-pay-a-big-price-for-us-troop-deaths-96dbb8d5",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+      "published_at": "2026-07-22T20:06:31.000Z",
+      "image": "",
+      "image_alt": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israeli-banks-threaten-to-cut-off-palestinian-economy-e77d5096",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli Banks Threaten to Cut Off Palestinian Economy",
+      "published_at": "2026-07-22T19:05:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-israel-palestine-banks-02-pchf/22int-israel-palestine-banks-02-pchf-mediumSquareAt3X.jpg",
+      "image_alt": "Israeli Banks Threaten to Cut Off Palestinian Economy",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "water-cannon-deployed-at-india-education-system-protests-05796f20",
@@ -178,7 +385,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "key-takeaways-from-khalil-al-hayya-s-first-speech-as-hamas-leader-ab8dbf81",
@@ -201,7 +408,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-peop-870e1689",
@@ -224,30 +431,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "why-the-us-may-stop-collecting-workplace-race-and-gender-data-250fc01e",
-      "region": "Americas",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Why the US may stop collecting workplace race and gender data",
-      "published_at": "2026-07-22T18:36:39.000Z",
-      "image": "",
-      "image_alt": "Why the US may stop collecting workplace race and gender data",
-      "translations": {
-        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/22/why-the-us-may-stop-collecting-workplace-race-and-gender-data?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "why-are-young-people-in-india-protesting-f2c61261",
@@ -270,145 +454,30 @@
           "url": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "french-modelling-scout-linked-to-epstein-found-dead-da49ef0c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "French modelling scout linked to Epstein found dead",
-      "published_at": "2026-07-22T17:13:30.000Z",
-      "image": "https://s.france24.com/media/display/cd2d1bb8-85ef-11f1-a20a-005056bfb2b6/w:1024/p:16x9/EN-20260722-190123-190329-CS.jpg",
-      "image_alt": "French modelling scout linked to Epstein found dead",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/french-modelling-scout-linked-to-epstein-found-dead"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-judge-sets-2027-trial-date-for-venezuela-s-maduro-and-wife-d7b13ec3",
+      "id": "us-judge-sets-maduro-trial-date-for-june-2027-6126670c",
       "region": "Americas",
       "topic": "Society",
       "urgency": "Live",
-      "headline": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
-      "published_at": "2026-07-22T18:00:52.000Z",
+      "headline": "US judge sets Maduro trial date for June 2027",
+      "published_at": "2026-07-22T19:53:00.000Z",
       "image": "",
-      "image_alt": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
+      "image_alt": "US judge sets Maduro trial date for June 2027",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-judge-sets-maduro-trial-date-for-june-2027/a-78077318?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "anonymous-food-donations-reach-indian-student-protesters-25e32f02",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Anonymous food donations reach Indian student protesters",
-      "published_at": "2026-07-22T17:35:37.000Z",
-      "image": "",
-      "image_alt": "Anonymous food donations reach Indian student protesters",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/anonymous-food-donations-reach-indian-student-protesters?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-push-for-syrian-intervention-against-hezbollah-short-sighted-292b456e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
-      "published_at": "2026-07-22T17:18:14.000Z",
-      "image": "",
-      "image_alt": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "u-s-saudi-nuclear-deal-stokes-israeli-concerns-of-mideast-arms-race-cd2efbfd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
-      "published_at": "2026-07-22T17:17:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg",
-      "image_alt": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "how-the-trump-administration-s-nuclear-deal-with-saudi-arabia-may-work-f1c94a88",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-      "published_at": "2026-07-22T17:11:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-123-agreement-wtk-qvhc/22int-123-agreement-wtk-qvhc-mediumSquareAt3X.jpg",
-      "image_alt": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "zelenski-trata-de-cerrar-la-crisis-con-un-giro-en-la-forma-de-conducir-312c222c",
@@ -431,7 +500,7 @@
           "url": "https://elpais.com/internacional/2026-07-22/zelenski-trata-de-cerrar-la-crisis-con-un-giro-en-la-forma-de-gestionar-la-guerra.html"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "us-trial-of-venezuela-s-maduro-set-for-june-2027-9ccc5ba4",
@@ -454,86 +523,17 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/22/us-trial-of-venezuela-s-maduro-set-for-june-2027_6755740_4.html"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "sex-trafficking-in-fashion-outrageous-that-french-legal-system-hasn-t--4a56d855",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Sex trafficking in fashion: 'Outrageous that French legal system hasn't done anything by now'",
-      "published_at": "2026-07-22T19:33:44.000Z",
-      "image": "https://s.france24.com/media/display/034bddb4-8600-11f1-b875-005056a97e36/w:1024/p:16x9/EN-20260722-190049-190946-CS.jpg",
-      "image_alt": "Sex trafficking in fashion: 'Outrageous that French legal system hasn't done anything by now'",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260722-sex-trafficking-in-fashion-outrageous-that-french-legal-system-hasn-t-done-anything-by-now-1"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "exclusive-in-syria-s-kurdish-majority-city-kobane-postwar-integration--cfb04e4e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Exclusive: In Syria's Kurdish-majority city Kobane, postwar integration efforts get under way",
-      "published_at": "2026-07-22T19:07:23.000Z",
-      "image": "https://s.france24.com/media/display/6afc0cac-85ee-11f1-adf7-005056bfb2b6/w:1024/p:16x9/EN-20260722-181549-182537-CS.jpg",
-      "image_alt": "Exclusive: In Syria's Kurdish-majority city Kobane, postwar integration efforts get under way",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260722-exclusive-syria-kurdish-majority-city-kobane-postwar-integration-efforts-get-under-way"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "trump-autoriza-un-pacto-nuclear-que-permitir-a-arabia-saud-enriquecer--d1942afe",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
-      "published_at": "2026-07-22T19:34:04.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZPYUDI67SBBQ5GMQEZ7G5JHJXA.jpg?auth=2d5f6eb567e483239d00dae926a6cfc4454e7ccbd797f643238e75c0e4f6f39c",
-      "image_alt": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html"
-        }
-      ],
       "impact": 72
     },
     {
-      "id": "louvre-apos-s-apollo-gallery-reopens-9-months-after-heist-f915c295",
+      "id": "hungary-ex-pm-orban-pledges-resistance-to-magyar-apos-tyranny-apos-7394c91e",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Louvre&apos;s Apollo Gallery reopens, 9 months after heist",
-      "published_at": "2026-07-22T17:58:00.000Z",
+      "headline": "Hungary: Ex-PM Orban pledges resistance to Magyar &apos;tyranny&apos;",
+      "published_at": "2026-07-22T18:33:00.000Z",
       "image": "",
-      "image_alt": "Louvre&apos;s Apollo Gallery reopens, 9 months after heist",
+      "image_alt": "Hungary: Ex-PM Orban pledges resistance to Magyar &apos;tyranny&apos;",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,30 +543,30 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/louvre-s-apollo-gallery-reopens-9-months-after-heist/a-78076701?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/hungary-ex-pm-orban-pledges-resistance-to-magyar-tyranny/a-78076217?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 72
     },
     {
-      "id": "who-could-be-the-next-un-secretary-general-c6d1c7ed",
-      "region": "Europe",
+      "id": "mamdani-backs-off-pledge-to-arrest-netanyahu-citing-lack-of-authority-bdf72acd",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Who could be the next UN Secretary-General?",
-      "published_at": "2026-07-22T17:52:00.000Z",
-      "image": "",
-      "image_alt": "Who could be the next UN Secretary-General?",
+      "urgency": "Update",
+      "headline": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "published_at": "2026-07-22T17:54:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f8/live/f3ffae50-85e9-11f1-8ade-a7a676c613b9.jpg",
+      "image_alt": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-top-1022-rdf"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 72
