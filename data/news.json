@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T00:56:08.646Z",
+  "updated_at": "2026-07-22T04:15:33.345Z",
   "languages": [
     {
       "code": "en",
@@ -20,37 +20,83 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn-6cbdabc1",
+      "id": "us-renews-strikes-on-iran-as-trump-threatens-to-attack-underground-nuc-d27a33d9",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-      "published_at": "2026-07-22T00:00:15.000Z",
-      "image": "",
-      "image_alt": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+      "headline": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "published_at": "2026-07-22T03:05:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg",
+      "image_alt": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 89
     },
     {
-      "id": "us-defence-chief-hegseth-puts-iran-war-cost-at-37-5bn-so-far-a286b164",
+      "id": "iran-war-has-cost-us-37-5bn-so-far-hegseth-says-as-pentagon-seeks-bill-9075f89e",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "published_at": "2026-07-21T21:17:06.000Z",
+      "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "published_at": "2026-07-22T02:15:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
+      "image_alt": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 88
+    },
+    {
+      "id": "more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania-6095729d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "More than 140 dead, missing on refugee boat stranded off Mauritania",
+      "published_at": "2026-07-22T03:45:36.000Z",
       "image": "",
-      "image_alt": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+      "image_alt": "More than 140 dead, missing on refugee boat stranded off Mauritania",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "how-armed-group-alliances-are-reshaping-mali-s-conflict-and-the-wider--b1e12612",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
+      "published_at": "2026-07-22T02:39:13.000Z",
+      "image": "",
+      "image_alt": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,10 +106,102 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss"
         }
       ],
-      "impact": 83
+      "impact": 81
+    },
+    {
+      "id": "france-passes-law-banning-under-15s-from-social-media-85229a18",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France passes law banning under-15s from social media",
+      "published_at": "2026-07-22T03:50:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4c4/live/46825250-8580-11f1-a2a8-afc39501b832.jpg",
+      "image_alt": "France passes law banning under-15s from social media",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "us-targets-china-in-move-to-ban-military-grade-drone-imports-6333b726",
+      "region": "Asia-Pacific",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "US targets China in move to ban military-grade drone imports",
+      "published_at": "2026-07-22T02:21:57.000Z",
+      "image": "",
+      "image_alt": "US targets China in move to ban military-grade drone imports",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "michelin-starred-restaurateur-faces-jail-for-using-ants-as-dessert-gar-5aa0ecfc",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "published_at": "2026-07-22T03:32:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2a/live/c37aad90-8579-11f1-8811-6b329a8b70ce.jpg",
+      "image_alt": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "gruesome-images-in-d4vd-hearing-are-worst-nightmare-for-teen-girl-s-fa-4da40ed7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+      "published_at": "2026-07-22T02:33:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9840/live/f8135f10-856b-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "houthis-in-yemen-edge-closer-to-entering-u-s-iran-war-839b33de",
@@ -86,36 +224,312 @@
           "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
-      "id": "moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership-b3d260ff",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks-434d6ead",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Moldova chooses new prime minister as it pushes for EU membership",
-      "published_at": "2026-07-21T22:53:42.000Z",
+      "headline": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+      "published_at": "2026-07-22T03:46:11.000Z",
       "image": "",
-      "image_alt": "Moldova chooses new prime minister as it pushes for EU membership",
+      "image_alt": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
         }
       ],
-      "impact": 80
+      "impact": 77
+    },
+    {
+      "id": "at-least-53-dead-in-guyana-capsized-ferry-disaster-44394ed4",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 53 dead in Guyana capsized ferry disaster",
+      "published_at": "2026-07-22T02:59:07.000Z",
+      "image": "https://img.lemde.fr/2026/07/20/200/0/1600/800/644/322/60/0/1a0f9b7_ftp-1-f6gztieuzvbf-2026-07-20t034721z-1376617190-rc2fhmayz747-rtrmadp-3-guyana-ferry.JPG",
+      "image_alt": "At least 53 dead in Guyana capsized ferry disaster",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/22/at-least-53-dead-in-guyana-capsized-ferry-disaster_6755708_4.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "france-becomes-first-eu-country-to-officially-ban-social-media-for-chi-9389d167",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France becomes first EU country to officially ban social media for children",
+      "published_at": "2026-07-22T03:34:11.000Z",
+      "image": "",
+      "image_alt": "France becomes first EU country to officially ban social media for children",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "india-s-young-protesters-are-bloodied-but-unbowed-b43af59b",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "India’s Young Protesters Are Bloodied but Unbowed",
+      "published_at": "2026-07-22T02:33:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-india-protesters-04-cplf/21int-india-protesters-04-cplf-mediumSquareAt3X.jpg",
+      "image_alt": "India’s Young Protesters Are Bloodied but Unbowed",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "unprecedented-openai-says-ai-models-autonomously-hacked-another-compan-0684cba2",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
+      "published_at": "2026-07-22T02:36:55.000Z",
+      "image": "",
+      "image_alt": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
+      "translations": {
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-says-more-than-1-400-infected-by-parasitic-cyclospora-illness-outbr-f8a94c97",
+      "region": "Americas",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+      "published_at": "2026-07-22T02:01:28.000Z",
+      "image": "",
+      "image_alt": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "desperate-families-search-rubble-weeks-after-venezuela-earthquakes-50608063",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Desperate families search rubble weeks after Venezuela earthquakes",
+      "published_at": "2026-07-22T01:45:35.000Z",
+      "image": "",
+      "image_alt": "Desperate families search rubble weeks after Venezuela earthquakes",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "trump-announces-new-tariffs-on-generic-drugs-to-take-effect-in-2028-as-60e74a97",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened",
+      "published_at": "2026-07-22T01:57:35.000Z",
+      "image": "https://i.guim.co.uk/img/media/711e9e024befa91d305f5db5ff6746677317db4d/360_0_4451_3561/master/4451.jpg?width=140&quality=85&auto=format&fit=max&s=5ce29318617bb3d74cbf8a00f8f44c20",
+      "image_alt": "Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "new-monkey-species-identified-in-lomami-national-park-democratic-repub-7916bfcc",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "New monkey species identified in Lomami National Park, Democratic Republic of Congo",
+      "published_at": "2026-07-22T03:29:37.000Z",
+      "image": "https://img.lemde.fr/2026/07/21/428/0/4000/2000/644/322/60/0/7f22d4f_upload-1-z6ynajiubly7-c-congoensis-frankfurt-zoological-society.jpg",
+      "image_alt": "New monkey species identified in Lomami National Park, Democratic Republic of Congo",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/07/22/new-monkey-species-identified-in-lomami-national-park-democratic-republic-of-congo_6755710_114.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-france-c286301b",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Fast-moving wildfire forces hundreds of evacuations in southern France",
+      "published_at": "2026-07-22T02:25:35.000Z",
+      "image": "https://s.france24.com/media/display/eca34ba8-8571-11f1-8d25-005056bf30b7/w:1024/p:16x9/000-C2N23P7.jpg",
+      "image_alt": "Fast-moving wildfire forces hundreds of evacuations in southern France",
+      "translations": {
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260722-fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-france"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "canada-cancels-joint-bridge-opening-celebration-with-us-amid-trade-ten-adefcc00",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "published_at": "2026-07-22T00:58:40.000Z",
+      "image": "https://i.guim.co.uk/img/media/92ffbd90e5660e09c01f460683a4bb9290475948/458_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=f6e9f6dcef18003ed65e011dc4b5f235",
+      "image_alt": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "the-country-is-underrated-tourists-flock-to-ethiopia-despite-ongoing-s-9fb7d869",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'The country is underrated': Tourists flock to Ethiopia despite ongoing security concerns",
+      "published_at": "2026-07-22T01:48:15.000Z",
+      "image": "https://img.lemde.fr/2026/07/20/668/0/4000/2000/644/322/60/0/7800db9_upload-1-mjdtqghjevef-000-34mn9jh.jpg",
+      "image_alt": "'The country is underrated': Tourists flock to Ethiopia despite ongoing security concerns",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/07/22/the-country-is-underrated-tourists-flock-to-ethiopia-despite-ongoing-security-concerns_6755707_124.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "trump-announces-100-tariffs-on-imported-generic-pharmaceutical-drugs-3f8df23e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump announces 100% tariffs on imported generic pharmaceutical drugs",
+      "published_at": "2026-07-22T01:38:31.000Z",
+      "image": "https://s.france24.com/media/display/161914ec-8561-11f1-8c19-005056a97e36/w:1024/p:16x9/AP26202587608286.jpg",
+      "image_alt": "Trump announces 100% tariffs on imported generic pharmaceutical drugs",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260722-trump-announces-100-tariffs-on-imported-generic-pharmaceutical-drugs"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "zelensky-sacks-ukraine-s-top-army-commander-after-days-of-protests-4ce2c9e1",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
       "published_at": "2026-07-21T23:59:34.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
@@ -132,444 +546,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 71
     },
     {
-      "id": "zelenskyy-replaces-ukraine-military-chief-after-protests-48ddfa46",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Zelenskyy replaces Ukraine military chief after protests",
-      "published_at": "2026-07-21T21:58:32.000Z",
-      "image": "",
-      "image_alt": "Zelenskyy replaces Ukraine military chief after protests",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "us-strikes-iran-for-11th-consecutive-night-a312b459",
+      "id": "trump-says-us-not-finished-attacking-iran-as-conflict-widens-87503163",
       "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US strikes Iran for ’11th consecutive night’",
-      "published_at": "2026-07-21T23:46:00.000Z",
-      "image": "",
-      "image_alt": "US strikes Iran for ’11th consecutive night’",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-announces-new-tariffs-on-generic-drugs-to-take-effect-in-2028-us-60e74a97",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
-      "published_at": "2026-07-22T00:42:03.000Z",
-      "image": "https://i.guim.co.uk/img/media/711e9e024befa91d305f5db5ff6746677317db4d/360_0_4451_3561/master/4451.jpg?width=140&quality=85&auto=format&fit=max&s=5ce29318617bb3d74cbf8a00f8f44c20",
-      "image_alt": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "lebanese-army-deploys-in-pilot-zones-under-us-backed-plan-1ef59f0a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-      "published_at": "2026-07-21T22:56:12.000Z",
-      "image": "",
-      "image_alt": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways-bc856b08",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-      "published_at": "2026-07-21T22:55:43.000Z",
-      "image": "",
-      "image_alt": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "israel-is-considering-new-operation-against-iran-as-war-escalates-with-e592eac5",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Israel is considering new operation against Iran, as war escalates with the US",
-      "published_at": "2026-07-21T15:42:56.000Z",
-      "image": "https://img.lemde.fr/2026/07/15/924/0/6160/3080/644/322/60/0/7d71468_upload-1-5o9psc98mxci-ll-tel-aviv-universite-02.jpg",
-      "image_alt": "Israel is considering new operation against Iran, as war escalates with the US",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/21/israel-is-backing-us-against-iran-as-war-escalates_6755693_4.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "health-worker-monitored-for-ebola-in-london-hospital-after-working-in--fff831fa",
-      "region": "World",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "published_at": "2026-07-21T22:39:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/f82b08d31127854cb9dff7de7c18ede5377fc00d/504_95_4607_3685/master/4607.jpg?width=140&quality=85&auto=format&fit=max&s=657449af45b15efa81429366bfbcaa9e",
-      "image_alt": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "translations": {
-        "en": "PULSE is tracking this health update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "trump-allows-direct-us-flights-to-lebanon-in-historic-move-7d514fdd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump allows direct US flights to Lebanon in historic move",
-      "published_at": "2026-07-21T22:22:00.000Z",
-      "image": "",
-      "image_alt": "Trump allows direct US flights to Lebanon in historic move",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-allows-direct-us-flights-to-lebanon-in-historic-move/a-78059787?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "ukraine-apos-s-zelenskyy-fires-military-chief-after-days-of-protests-14b7df0d",
-      "region": "Europe",
       "topic": "Security",
       "urgency": "Update",
-      "headline": "Ukraine&apos;s Zelenskyy fires military chief after days of protests",
-      "published_at": "2026-07-21T21:03:00.000Z",
-      "image": "",
-      "image_alt": "Ukraine&apos;s Zelenskyy fires military chief after days of protests",
+      "headline": "Trump says US 'not finished' attacking Iran as conflict widens",
+      "published_at": "2026-07-21T23:22:36.000Z",
+      "image": "https://s.france24.com/media/display/6ebed7f2-8418-11f1-b989-005056bf30b7/w:1024/p:16x9/2da680326d14f22757d47e0161a7b318cdf390cb.jpg",
+      "image_alt": "Trump says US 'not finished' attacking Iran as conflict widens",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "zelensky-dismisses-ukraine-s-top-general-after-protests-aa20486e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Zelensky Dismisses Ukraine’s Top General After Protests",
-      "published_at": "2026-07-21T21:39:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/00int-ukraine-syrskyi-HFO-wmpf/00int-ukraine-syrskyi-HFO-wmpf-mediumSquareAt3X.jpg",
-      "image_alt": "Zelensky Dismisses Ukraine’s Top General After Protests",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260721-trump-says-us-not-finished-attacking-iran-as-conflict-widens"
         }
       ],
       "impact": 69
-    },
-    {
-      "id": "drone-shows-scorched-landscape-after-spain-wildfire-da0728b9",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "Drone shows scorched landscape after Spain wildfire",
-      "published_at": "2026-07-21T21:21:12.000Z",
-      "image": "",
-      "image_alt": "Drone shows scorched landscape after Spain wildfire",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-ira-1cd0afb8",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
-      "published_at": "2026-07-21T18:39:00.000Z",
-      "image": "",
-      "image_alt": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "lebanese-army-says-troops-deploying-in-pilot-zone-after-israeli-withdr-31d16025",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "published_at": "2026-07-21T18:07:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/ae6301f0-852e-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "carney-looking-at-all-options-as-trump-announces-50-tariffs-on-canada-eadcf942",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "published_at": "2026-07-21T17:33:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a06b/live/1dd117f0-84dc-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "netanyahu-ad-uses-a-questionable-tactic-against-bereaved-rival-08401a8d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Netanyahu Ad Uses a Questionable Tactic Against Bereaved Rival",
-      "published_at": "2026-07-21T19:12:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-israel-netanyahu-video-pkqc/21int-israel-netanyahu-video-pkqc-mediumSquareAt3X.jpg",
-      "image_alt": "Netanyahu Ad Uses a Questionable Tactic Against Bereaved Rival",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/21/world/middleeast/netanyahu-ad-gadi-eisenkot.html"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "two-french-firefighters-die-tackling-blaze-near-bordeaux-airport-403f1f71",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Two French firefighters die tackling blaze near Bordeaux airport",
-      "published_at": "2026-07-21T16:44:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/1560a4f0-8527-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_alt": "Two French firefighters die tackling blaze near Bordeaux airport",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "spain-firefighters-battle-major-wildfire-north-of-madrid-0baaa269",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "Spain: Firefighters battle major wildfire north of Madrid",
-      "published_at": "2026-07-21T21:40:00.000Z",
-      "image": "",
-      "image_alt": "Spain: Firefighters battle major wildfire north of Madrid",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "inside-the-fight-to-rid-south-africa-of-black-immigrants-5ee14396",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Inside the Fight to Rid South Africa of Black Immigrants",
-      "published_at": "2026-07-21T18:00:20.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/00int-safrica-xenophobia-promo/00int-safrica-xenophobia-pzbg-mediumSquareAt3X.jpg",
-      "image_alt": "Inside the Fight to Rid South Africa of Black Immigrants",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html"
-        }
-      ],
-      "impact": 66
-    },
-    {
-      "id": "3-myths-fueling-anti-immigrant-sentiment-in-south-africa-45978fab",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "3 Myths Fueling Anti-Immigrant Sentiment in South Africa",
-      "published_at": "2026-07-21T18:00:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-safrica-xenophobia-explainer-top-wqhf/22int-safrica-xenophobia-explainer-top-wqhf-mediumSquareAt3X.jpg",
-      "image_alt": "3 Myths Fueling Anti-Immigrant Sentiment in South Africa",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html"
-        }
-      ],
-      "impact": 66
     }
   ]
 }
