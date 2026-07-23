@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:23:04.318Z",
+  "updated_at": "2026-07-23T12:56:32.541Z",
   "languages": [
     {
       "code": "en",
@@ -20,35 +20,12 @@
   ],
   "stories": [
     {
-      "id": "iran-houthis-strike-tankers-as-us-bombing-continues-what-s-the-latest-6bf80262",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-      "published_at": "2026-07-23T09:20:46.000Z",
-      "image": "",
-      "image_alt": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
       "id": "i-am-still-alive-indian-activist-on-hunger-strike-for-26-days-loses-11-cd3cfa1c",
       "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-      "published_at": "2026-07-23T06:37:23.000Z",
+      "published_at": "2026-07-23T12:51:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/86281e60-865e-11f1-93cb-95d7eb12ec49.png",
       "image_alt": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
       "translations": {
@@ -63,30 +40,53 @@
           "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 90
     },
     {
-      "id": "indian-activist-wangchuk-sets-conditions-to-end-hunger-strike-1c9e8f5e",
-      "region": "World",
-      "topic": "Security",
+      "id": "several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-l-bf76b457",
+      "region": "Europe",
+      "topic": "Markets",
       "urgency": "Breaking",
-      "headline": "Indian activist Wangchuk sets conditions to end hunger strike",
-      "published_at": "2026-07-23T08:19:22.000Z",
+      "headline": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+      "published_at": "2026-07-23T11:36:31.000Z",
       "image": "",
-      "image_alt": "Indian activist Wangchuk sets conditions to end hunger strike",
+      "image_alt": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 86
+    },
+    {
+      "id": "u-s-military-presence-in-jordan-makes-it-iranian-target-e7b6f0d4",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "U.S. Military Presence in Jordan Makes It Iranian Target",
+      "published_at": "2026-07-23T12:24:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-jordan-us-afpm/22int-jordan-us-afpm-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Military Presence in Jordan Makes It Iranian Target",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "thailand-5-soldiers-killed-in-attack-on-security-checkpoint-cb53dfb5",
@@ -109,7 +109,7 @@
           "url": "https://www.dw.com/en/thailand-5-soldiers-killed-in-attack-on-security-checkpoint/a-78082955?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "could-iran-become-america-apos-s-next-apos-forever-war-apos-9f16a652",
@@ -132,7 +132,7 @@
           "url": "https://www.dw.com/en/could-iran-become-america-s-next-forever-war/a-78081276?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "houthis-claim-attack-on-oil-tankers-as-us-launches-more-strikes-on-ira-341e3e41",
@@ -155,7 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "oil-rich-saudi-arabia-isn-t-short-on-energy-here-s-why-it-s-going-nucl-2c11c2a9",
@@ -178,17 +178,17 @@
           "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "thousands-evacuated-in-france-fires-85bd07a0",
+      "id": "france-evacuates-20-000-as-wildfires-spread-in-south-west-85bd07a0",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Thousands evacuated in France fires",
-      "published_at": "2026-07-23T10:53:43.000Z",
+      "headline": "France evacuates 20,000 as wildfires spread in south-west",
+      "published_at": "2026-07-23T12:17:13.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df8/live/48d08300-867b-11f1-8c77-df97511a6b05.jpg",
-      "image_alt": "Thousands evacuated in France fires",
+      "image_alt": "France evacuates 20,000 as wildfires spread in south-west",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -201,76 +201,237 @@
           "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "back-from-the-dead-the-continuing-agony-over-gaza-s-9-500-missing-peop-e8c37c8e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-      "published_at": "2026-07-23T08:57:18.000Z",
-      "image": "",
-      "image_alt": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "photos-gaza-s-shelter-crisis-58a65960",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Photos: Gaza’s shelter crisis",
-      "published_at": "2026-07-23T08:12:46.000Z",
-      "image": "",
-      "image_alt": "Photos: Gaza’s shelter crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss"
-        }
-      ],
       "impact": 79
     },
     {
-      "id": "us-signs-landmark-nuclear-deal-with-saudi-arabia-b9a681b5",
+      "id": "u-s-saudi-deal-prompts-fears-of-a-global-nuclear-arms-race-e983df1a",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US signs landmark nuclear deal with Saudi Arabia",
-      "published_at": "2026-07-23T09:17:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d92/live/fdf9b860-866b-11f1-bee8-53ce494e1abc.jpg",
-      "image_alt": "US signs landmark nuclear deal with Saudi Arabia",
+      "headline": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+      "published_at": "2026-07-23T12:09:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-nuclear-world-01-bghq/23int-nuclear-world-01-bghq-mediumSquareAt3X-v2.jpg",
+      "image_alt": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "south-korea-woman-acquitted-of-murdering-newborn-after-hospital-delive-3d27273a",
+      "region": "Asia-Pacific",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "published_at": "2026-07-23T10:04:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/655d/live/6a923830-8671-11f1-acd4-cf282223e0b4.jpg",
+      "image_alt": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "translations": {
+        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "cricket-no-ashes-2027-tests-to-take-place-in-the-north-of-england-eb91e104",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cricket: No Ashes 2027 Tests to take place in the north of England",
+      "published_at": "2026-07-23T12:14:27.000Z",
+      "image": "",
+      "image_alt": "Cricket: No Ashes 2027 Tests to take place in the north of England",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/23/cricket-no-ashes-2027-tests-to-take-place-in-the-north-of-england?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rul-59ad7e81",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
+      "published_at": "2026-07-23T12:11:24.000Z",
+      "image": "",
+      "image_alt": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "can-iran-withstand-new-pressure-from-the-us-40f13cf0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Can Iran withstand new pressure from the US?",
+      "published_at": "2026-07-23T11:55:23.000Z",
+      "image": "",
+      "image_alt": "Can Iran withstand new pressure from the US?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehra-70de901e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "published_at": "2026-07-23T11:53:11.000Z",
+      "image": "",
+      "image_alt": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "a-new-target-for-ukraine-s-long-range-attacks-russia-s-version-of-amaz-8109fbc1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+      "published_at": "2026-07-23T11:41:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-russia-business-attacks-01-kmwc/23int-russia-business-attacks-01-kmwc-mediumSquareAt3X-v2.jpg",
+      "image_alt": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-releases-35-detainees-from-gaza-5bfb75b1",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel releases 35 detainees from Gaza",
+      "published_at": "2026-07-23T11:36:28.000Z",
+      "image": "",
+      "image_alt": "Israel releases 35 detainees from Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "why-a-north-sea-oilfield-is-emerging-as-british-pm-burnham-s-big-test-1c30bb58",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
+      "published_at": "2026-07-23T11:33:24.000Z",
+      "image": "",
+      "image_alt": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "women-s-africa-cup-of-nations-2026-what-to-know-about-the-tournament-fc8e8417",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Women’s Africa Cup of Nations 2026: What to know about the tournament",
+      "published_at": "2026-07-23T11:30:43.000Z",
+      "image": "",
+      "image_alt": "Women’s Africa Cup of Nations 2026: What to know about the tournament",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/23/womens-africa-cup-of-nations-2026-wafcon-what-to-know-about-the-tournament?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "a-russian-spy-suddenly-cast-into-the-spotlight-flees-japan-f459fc69",
@@ -293,283 +454,122 @@
           "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "a-new-target-for-ukraine-s-long-range-attacks-russia-s-version-of-amaz-8109fbc1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "published_at": "2026-07-23T10:21:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-russia-business-attacks-01-kmwc/23int-russia-business-attacks-01-kmwc-mediumSquareAt3X-v2.jpg",
-      "image_alt": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "crucial-salt-trade-revives-as-pink-lake-slowly-recovers-from-floods-7bf4aafb",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Crucial salt trade revives as Pink Lake slowly recovers from floods",
-      "published_at": "2026-07-23T10:08:12.000Z",
-      "image": "https://s.france24.com/media/display/f1d9fe84-867d-11f1-9ed4-005056a97e36/w:1024/p:16x9/capture-1822377736a61e742ca7687-08679729.jpg",
-      "image_alt": "Crucial salt trade revives as Pink Lake slowly recovers from floods",
-      "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/crucial-salt-trade-revives-as-pink-lake-slowly-recovers-from-floods"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one-acbfb67a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-      "published_at": "2026-07-23T10:19:58.000Z",
-      "image": "",
-      "image_alt": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss"
-        }
-      ],
       "impact": 76
     },
     {
-      "id": "thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz-c741b884",
+      "id": "two-russian-men-jailed-in-angola-for-terrorism-and-spying-3510c6cc",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Thai sailors sue owners of cargo ship hit in Hormuz",
-      "published_at": "2026-07-23T09:45:59.000Z",
-      "image": "",
-      "image_alt": "Thai sailors sue owners of cargo ship hit in Hormuz",
+      "headline": "Two Russian men jailed in Angola for terrorism and spying",
+      "published_at": "2026-07-23T12:08:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/6e8c4be35d2193e043fb29654fa7d10274ccaed5/217_0_4140_3312/master/4140.jpg?width=140&quality=85&auto=format&fit=max&s=b0367c35e8cfc45b804c2081cfb36ed7",
+      "image_alt": "Two Russian men jailed in Angola for terrorism and spying",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "u-s-saudi-deal-prompts-fears-of-a-nuclear-arms-race-e983df1a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
-      "published_at": "2026-07-23T09:44:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-nuclear-world-01-bghq/23int-nuclear-world-01-bghq-mediumSquareAt3X-v2.jpg",
-      "image_alt": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "televising-our-revolution-india-s-gen-z-flips-modi-s-social-media-game-5262eb4d",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
-      "published_at": "2026-07-23T09:20:04.000Z",
-      "image": "",
-      "image_alt": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying"
         }
       ],
       "impact": 75
     },
     {
-      "id": "more-than-2-300-israelis-storm-al-aqsa-mosque-in-jerusalem-350447e8",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-      "published_at": "2026-07-23T09:18:37.000Z",
-      "image": "",
-      "image_alt": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "we-will-all-die-from-ebola-here-virus-stalks-crowded-camps-in-congo-7e52c9d0",
-      "region": "Africa",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
-      "published_at": "2026-07-23T09:00:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-ebola-congo-camps-promo-lqgh/23int-ebola-congo-camps-promo-lqgh-mediumSquareAt3X.jpg",
-      "image_alt": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
-      "translations": {
-        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "why-i-sought-out-a-taliban-commander-i-had-fought-de54f2bf",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why I Sought Out a Taliban Commander I Had Fought",
-      "published_at": "2026-07-23T09:00:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-taliban-return-top-gzlc/23int-taliban-return-top-gzlc-mediumSquareAt3X.jpg",
-      "image_alt": "Why I Sought Out a Taliban Commander I Had Fought",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "u-s-military-presence-in-jordan-makes-it-iranian-target-e7b6f0d4",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "U.S. Military Presence in Jordan Makes It Iranian Target",
-      "published_at": "2026-07-23T07:24:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-jordan-us-afpm/22int-jordan-us-afpm-mediumSquareAt3X.jpg",
-      "image_alt": "U.S. Military Presence in Jordan Makes It Iranian Target",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "spain-battles-spreading-wildfires-fuelled-by-climate-change-driven-hea-3f4e833c",
+      "id": "germany-seeks-energy-and-trading-partners-in-africa-e36390ff",
       "region": "Europe",
-      "topic": "Climate",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Spain battles spreading wildfires fuelled by climate-change driven heat",
-      "published_at": "2026-07-23T10:59:33.000Z",
-      "image": "https://s.france24.com/media/display/2f4e13f2-8685-11f1-ad19-005056a97e36/w:1024/p:16x9/AP26203607489003.jpg",
-      "image_alt": "Spain battles spreading wildfires fuelled by climate-change driven heat",
+      "headline": "Germany seeks energy and trading partners in Africa",
+      "published_at": "2026-07-23T12:10:00.000Z",
+      "image": "",
+      "image_alt": "Germany seeks energy and trading partners in Africa",
       "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/spain-battles-spreading-wildfires-fuelled-by-climate-change-driven-heat"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-seeks-energy-and-trading-partners-in-africa/a-78084153?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 73
     },
     {
-      "id": "open-ai-models-go-rogue-ecape-and-and-hack-online-ai-sharing-hub-cc85c0ee",
+      "id": "czechia-army-helicopter-crashes-killing-at-least-one-440e92c4",
       "region": "Europe",
-      "topic": "Technology",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Open AI models go rogue, ecape and and hack online AI sharing hub",
-      "published_at": "2026-07-23T10:52:42.000Z",
-      "image": "https://s.france24.com/media/display/2bcdda4a-5e27-11f1-8226-005056a90284/w:1024/p:16x9/AP26055723640362.jpg",
-      "image_alt": "Open AI models go rogue, ecape and and hack online AI sharing hub",
+      "headline": "Czechia: Army helicopter crashes, killing at least one",
+      "published_at": "2026-07-23T11:30:00.000Z",
+      "image": "",
+      "image_alt": "Czechia: Army helicopter crashes, killing at least one",
       "translations": {
-        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/open-ai-models-go-rogue-ecape-and-and-hack-online-ai-sharing-hub"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/czechia-army-helicopter-crashes-killing-at-least-one/a-78083870?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "lenacapavir-will-slow-hiv-infections-if-there-apos-s-enough-of-it-and--d2fe0174",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Lenacapavir will slow HIV infections if there&apos;s enough of it and it reaches at-risk groups",
+      "published_at": "2026-07-23T11:23:00.000Z",
+      "image": "",
+      "image_alt": "Lenacapavir will slow HIV infections if there&apos;s enough of it and it reaches at-risk groups",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "sweden-plans-to-ban-forever-chemicals-in-clothing-63479f68",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sweden plans to ban 'forever chemicals' in clothing",
+      "published_at": "2026-07-23T12:00:29.000Z",
+      "image": "https://img.lemde.fr/2026/06/29/988/0/5921/2960/644/322/60/0/6fcd898_upload-1-c4f2vg0osdzb-2025-11-05t123042z-15183565-rc2cqhakjt37-rtrmadp-3-shein-france.JPG",
+      "image_alt": "Sweden plans to ban 'forever chemicals' in clothing",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/07/23/sweden-plans-to-ban-forever-chemicals-in-clothing_6755758_114.html"
+        }
+      ],
+      "impact": 72
     }
   ]
 }
