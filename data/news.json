@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T15:13:25.104Z",
+  "updated_at": "2026-07-24T17:02:43.571Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-updates-strikes-persist-after-iran-is-said-to-reject-u-s-006e0f2d",
+      "id": "world-chess-chief-faces-endgame-after-eu-announces-russia-war-sanction-7ab1c997",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "published_at": "2026-07-24T16:08:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61e/live/c260d230-8773-11f1-b430-afa19a42b819.jpg",
+      "image_alt": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
+      "id": "iran-war-live-updates-netanyahu-says-he-will-meet-with-trump-as-u-s-ir-006e0f2d",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran War Live Updates: Strikes Persist After Iran Is Said to Reject U.S. Proposal",
-      "published_at": "2026-07-24T15:04:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24mideast-blog-promo-mzcl/24mideast-blog-promo-mzcl-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Live Updates: Strikes Persist After Iran Is Said to Reject U.S. Proposal",
+      "headline": "Iran War Live Updates: Netanyahu Says He Will Meet With Trump, as U.S.-Iran Strikes Continue",
+      "published_at": "2026-07-24T16:42:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24mideast-live-promo1245p-ztmh/24mideast-live-promo1245p-ztmh-mediumSquareAt3X.jpg",
+      "image_alt": "Iran War Live Updates: Netanyahu Says He Will Meet With Trump, as U.S.-Iran Strikes Continue",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,7 +63,53 @@
           "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil"
         }
       ],
-      "impact": 88
+      "impact": 87
+    },
+    {
+      "id": "live-israeli-settlers-attack-west-bank-s-nablus-shooting-leaves-six-de-f43acdae",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+      "published_at": "2026-07-24T16:04:17.000Z",
+      "image": "",
+      "image_alt": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalat-80d315e6",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+      "published_at": "2026-07-24T16:01:18.000Z",
+      "image": "",
+      "image_alt": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss"
+        }
+      ],
+      "impact": 86
     },
     {
       "id": "four-palestinians-and-two-israelis-killed-in-west-bank-shooting-22c51bb3",
@@ -48,7 +117,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T14:41:32.000Z",
+      "published_at": "2026-07-24T16:37:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
       "image_alt": "Four Palestinians and two Israelis killed in West Bank shooting",
       "translations": {
@@ -66,73 +135,73 @@
       "impact": 85
     },
     {
-      "id": "five-killed-in-occupied-west-bank-after-israeli-settlers-attack-c4be7fd5",
-      "region": "World",
+      "id": "nigeria-s-president-approves-largest-military-expansion-in-recent-time-9bc2bded",
+      "region": "Africa",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Five killed in occupied West Bank after Israeli settlers attack",
-      "published_at": "2026-07-24T13:19:17.000Z",
-      "image": "",
-      "image_alt": "Five killed in occupied West Bank after Israeli settlers attack",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
-      "id": "ukraine-targets-russian-ecommerce-giant-s-warehouses-in-fourth-attack-0180a683",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "#Ukraine targets Russian #ecommerce giant's warehouses in fourth #attack",
-      "published_at": "2026-07-24T14:52:05.000Z",
-      "image": "https://s.france24.com/media/display/16152c6a-876e-11f1-bf5c-005056a90284/w:1024/p:16x9/Wildberries-2.png",
-      "image_alt": "#Ukraine targets Russian #ecommerce giant's warehouses in fourth #attack",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260724-ukraine-targets-russian-ecommerce-giant-s-warehouses-in-fourth-attack"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "tanzanian-lecturer-arrested-over-anti-government-protests-charged-with-fd0e761f",
-      "region": "World",
-      "topic": "Politics",
       "urgency": "Live",
-      "headline": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-      "published_at": "2026-07-24T12:55:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab3c/live/0297d810-875d-11f1-b8ee-9b3c26ad07bb.jpg",
-      "image_alt": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
+      "headline": "Nigeria's president approves largest military expansion in recent times",
+      "published_at": "2026-07-24T15:22:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf4/live/f2b56070-875c-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Nigeria's president approves largest military expansion in recent times",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 83
+    },
+    {
+      "id": "us-and-iran-trade-more-strikes-in-gulf-as-fears-of-escalation-mount-29bf8be0",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "published_at": "2026-07-24T15:22:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg",
+      "image_alt": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "6-killed-in-west-bank-shooting-officials-say-among-the-deadliest-in-mo-12ef9f01",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
+      "published_at": "2026-07-24T16:25:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-westbank-shooting-jmtv/24int-westbank-shooting-jmtv-mediumSquareAt3X.jpg",
+      "image_alt": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "we-re-trapped-in-hell-iranians-say-life-is-put-on-hold-by-months-of-wa-d4b13207",
@@ -153,98 +222,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "russia-and-ukraine-trade-deadly-blows-with-missiles-and-drones-8d5d1525",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "published_at": "2026-07-24T13:41:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/24-vid-wilberries-top-art-1-25978-cover/24-vid-wilberries-top-art-1-25978-cover-mediumSquareAt3X.jpg",
-      "image_alt": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "translations": {
-        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "tens-of-thousands-evacuated-from-french-tourist-spot-and-near-madrid-a-02a2adc9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "published_at": "2026-07-24T14:59:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg",
-      "image_alt": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "us-summons-malaysia-envoy-over-israel-policy-706cec47",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "US summons Malaysia envoy over Israel policy",
-      "published_at": "2026-07-24T12:49:27.000Z",
-      "image": "",
-      "image_alt": "US summons Malaysia envoy over Israel policy",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "bangladesh-president-mohammed-shahabuddin-resigns-4d7d0b42",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Bangladesh President Mohammed Shahabuddin resigns",
-      "published_at": "2026-07-24T12:35:38.000Z",
-      "image": "",
-      "image_alt": "Bangladesh President Mohammed Shahabuddin resigns",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/24/bangladesh-president-mohammed-shahabuddin-resigns?traffic_source=rss"
         }
       ],
       "impact": 80
@@ -270,40 +247,17 @@
           "url": "https://www.dw.com/en/three-years-under-military-rule-niger-still-seeks-stability/a-78100030?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
-      "id": "canadian-government-urged-to-block-data-sharing-deal-between-thomson-r-f80d3224",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Canadian government urged to block data-sharing deal between Thomson Reuters and US ICE",
-      "published_at": "2026-07-24T13:53:34.000Z",
-      "image": "https://i.guim.co.uk/img/media/b07c52ec4792a36b49f5c062e6598cb5bbf60f5e/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=6b6e6ce8c24355cba683d6a4f4f7e5ee",
-      "image_alt": "Canadian government urged to block data-sharing deal between Thomson Reuters and US ICE",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "spain-declares-national-emergency-over-wildfires-9d5d6358",
-      "region": "Europe",
+      "id": "yemen-s-valleys-and-farms-are-full-of-dangerous-plastic-waste-52d1a5e7",
+      "region": "Middle East",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Spain declares national emergency over wildfires",
-      "published_at": "2026-07-24T12:15:34.000Z",
+      "urgency": "Live",
+      "headline": "Yemen’s valleys and farms are full of dangerous plastic waste",
+      "published_at": "2026-07-24T16:10:27.000Z",
       "image": "",
-      "image_alt": "Spain declares national emergency over wildfires",
+      "image_alt": "Yemen’s valleys and farms are full of dangerous plastic waste",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -313,102 +267,102 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/spain-declares-national-emergency-over-wildfires?traffic_source=rss"
+          "url": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 76
     },
     {
-      "id": "5-killed-in-west-bank-shooting-officials-say-among-the-deadliest-in-mo-12ef9f01",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "5 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-      "published_at": "2026-07-24T11:02:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-westbank-shooting-jmtv/24int-westbank-shooting-jmtv-mediumSquareAt3X.jpg",
-      "image_alt": "5 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "incredibly-dire-nine-months-into-gaza-ceasefire-conditions-should-have-f3f17e90",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "'Incredibly dire': Nine months into Gaza ceasefire, conditions 'should have improved by now'",
-      "published_at": "2026-07-24T10:44:16.000Z",
-      "image": "https://s.france24.com/media/display/92623534-874a-11f1-b08a-005056bfb2b6/w:1024/p:16x9/EN-20260724-091006-091821-CS.jpg",
-      "image_alt": "'Incredibly dire': Nine months into Gaza ceasefire, conditions 'should have improved by now'",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/incredibly-dire-nine-months-into-gaza-ceasefire-conditions-should-have-improved-by-now"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "live-southwestern-france-wildfire-forces-44-000-to-evacuate-destroys-1-1b4e0ea8",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "🔴 Live: Southwestern France wildfire forces 44,000 to evacuate, destroys 12,500 hectares of forest",
-      "published_at": "2026-07-24T14:26:28.000Z",
-      "image": "",
-      "image_alt": "🔴 Live: Southwestern France wildfire forces 44,000 to evacuate, destroys 12,500 hectares of forest",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "indonesian-babies-were-trafficked-to-singapore-what-happens-to-them-no-6418e7c7",
+      "id": "lebron-james-is-heading-to-the-philadelphia-76ers-from-los-angeles-lak-4e9c4a61",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "published_at": "2026-07-24T13:33:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a4/live/b3961660-8666-11f1-93cb-95d7eb12ec49.jpg",
-      "image_alt": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "headline": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
+      "published_at": "2026-07-24T16:07:17.000Z",
+      "image": "",
+      "image_alt": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "congress-party-holds-funeral-for-india-pm-modi-and-cabinet-ministers-a985856c",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers",
+      "published_at": "2026-07-24T16:04:38.000Z",
+      "image": "",
+      "image_alt": "Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/congress-party-holds-funeral-for-india-pm-modi-and-cabinet-ministers?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-builds-gaza-barrier-as-politicians-push-for-settlements-c4e32816",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel builds Gaza barrier as politicians push for settlements",
+      "published_at": "2026-07-24T15:27:35.000Z",
+      "image": "",
+      "image_alt": "Israel builds Gaza barrier as politicians push for settlements",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "i-lost-my-home-twice-sudanese-mothers-caught-between-two-wars-1578eddd",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘I lost my home twice’: Sudanese mothers caught between two wars",
+      "published_at": "2026-07-24T15:16:33.000Z",
+      "image": "",
+      "image_alt": "‘I lost my home twice’: Sudanese mothers caught between two wars",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/7/24/i-lost-my-home-twice-sudanese-mothers-caught-between-two-wars?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "phones-in-hand-india-s-young-protesters-blast-through-modi-s-media-con-b3561726",
@@ -431,30 +385,7 @@
           "url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "us-hits-dozens-of-countries-with-new-wave-of-tariffs-52a7ef75",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US hits dozens of countries with new wave of tariffs",
-      "published_at": "2026-07-24T12:40:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a1/live/d9a08500-875d-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "US hits dozens of countries with new wave of tariffs",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "south-africa-s-president-wins-bid-to-temporarily-halt-impeachment-inqu-c8350d1a",
@@ -477,7 +408,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "tariffs-trump-pursues-his-trade-war-through-every-method-available-024b83b0",
@@ -500,7 +431,7 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/07/24/tariffs-trump-pursues-his-trade-war-through-every-method-available_6755786_19.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "bab-al-mandab-strait-threatens-to-be-new-front-in-war-with-iran-2755a91e",
@@ -523,7 +454,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/24/bab-al-mandab-strait-threatens-to-be-new-front-in-war-with-iran_6755785_4.html"
         }
       ],
-      "impact": 77
+      "impact": 75
+    },
+    {
+      "id": "guyanese-authorities-confirm-death-of-72-people-in-sinking-of-coastal--eb56d505",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "published_at": "2026-07-24T15:28:37.000Z",
+      "image": "https://i.guim.co.uk/img/media/131bcac7d75675b6976a87471c6f8d7e9c0298d2/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=cb587ae9593aabcccb54f31ebbdbff52",
+      "image_alt": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "senegal-gets-cas-date-for-appeal-to-regain-afcon-from-morocco-a20930ac",
@@ -546,30 +500,76 @@
           "url": "https://www.aljazeera.com/sports/2026/7/24/senegal-gets-cas-date-for-appeal-to-regain-afcon-from-morocco?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "what-to-know-about-the-white-house-correspondents-dinner-take-two-165c7470",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What to know about the White House Correspondents’ Dinner, take two",
-      "published_at": "2026-07-24T13:48:54.000Z",
-      "image": "",
-      "image_alt": "What to know about the White House Correspondents’ Dinner, take two",
+      "id": "russia-and-ukraine-trade-deadly-blows-with-missiles-and-drones-8d5d1525",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
+      "published_at": "2026-07-24T13:41:46.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/24/24-vid-wilberries-top-art-1-25978-cover/24-vid-wilberries-top-art-1-25978-cover-mediumSquareAt3X.jpg",
+      "image_alt": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/24/what-to-know-about-the-white-house-correspondents-dinner-take-two?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html"
         }
       ],
-      "impact": 76
+      "impact": 74
+    },
+    {
+      "id": "india-s-cockroach-protesters-hold-talks-with-government-as-stalemate-c-ff9b51ec",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "India's 'cockroach' protesters hold talks with government as stalemate continues",
+      "published_at": "2026-07-24T10:31:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4614/live/a3ae37c0-873b-11f1-a10e-a5d4f08bc20c.jpg",
+      "image_alt": "India's 'cockroach' protesters hold talks with government as stalemate continues",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "us-floats-ai-apos-kill-switch-apos-to-stop-rogue-ai-models-af653bb1",
+      "region": "Americas",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "US floats AI &apos;kill switch&apos; to stop rogue AI models",
+      "published_at": "2026-07-24T15:28:00.000Z",
+      "image": "",
+      "image_alt": "US floats AI &apos;kill switch&apos; to stop rogue AI models",
+      "translations": {
+        "en": "PULSE is tracking this technology update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-floats-ai-kill-switch-to-stop-rogue-ai-models/a-78100594?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     }
   ]
 }
