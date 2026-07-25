@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T08:28:48.982Z",
+  "updated_at": "2026-07-25T10:09:45.295Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "iran-war-live-updates-u-s-strikes-abate-even-as-trump-considers-escala-ccd677c1",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
+      "published_at": "2026-07-25T09:37:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25mideast-live-promo-lmvc/25mideast-live-header-lmvc-mediumSquareAt3X.jpg",
+      "image_alt": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "iran-backed-houthis-claim-missile-attack-on-saudi-arabia-4cd3f310",
       "region": "Middle East",
@@ -40,7 +63,99 @@
           "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 86
+    },
+    {
+      "id": "india-s-education-minister-steps-down-handing-win-to-protesters-dc51f339",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "India’s Education Minister Steps Down, Handing Win to Protesters",
+      "published_at": "2026-07-25T09:27:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-minister-HFO-pjmq/24int-india-minister-HFO-pjmq-mediumSquareAt3X.jpg",
+      "image_alt": "India’s Education Minister Steps Down, Handing Win to Protesters",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "colombia-s-trump-endorsed-president-elect-was-once-investigated-by-u-s-c305e8ce",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+      "published_at": "2026-07-25T09:00:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg",
+      "image_alt": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "india-s-education-minister-resigns-after-weeks-of-cockroach-protests-1e5a7460",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+      "published_at": "2026-07-25T08:54:20.000Z",
+      "image": "",
+      "image_alt": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "canadian-intern-at-nato-military-hq-is-arrested-on-suspicion-of-spying-c19cc9af",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying",
+      "published_at": "2026-07-25T07:59:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25xp-nato-shape/25xp-nato-shape-mediumSquareAt3X.jpg",
+      "image_alt": "Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line-eae9380d",
@@ -63,7 +178,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
       "id": "ten-killed-in-russian-attack-on-drone-exhibition-near-kyiv-8518093b",
@@ -86,30 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "iran-war-updates-trump-meets-with-cabinet-over-whether-to-intensify-ir-006e0f2d",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-      "published_at": "2026-07-25T01:58:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24mideast-live-promo8p-klzg/24mideast-live-promo8p-klzg-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil"
-        }
-      ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "zelensky-tries-to-fix-crisis-over-removal-of-defence-minister-and-coun-24be7360",
@@ -132,30 +224,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
-      "id": "trump-i-m-running-for-a-fourth-term-as-president-of-the-united-states-12624f91",
-      "region": "Americas",
+      "id": "india-s-education-minister-resigns-amid-countrywide-cockroach-protests-57a912a1",
+      "region": "Asia-Pacific",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Trump: ‘I’m running for a fourth term as President of the United States’",
-      "published_at": "2026-07-25T06:40:26.000Z",
-      "image": "",
-      "image_alt": "Trump: ‘I’m running for a fourth term as President of the United States’",
+      "headline": "India's education minister resigns amid countrywide 'cockroach' protests",
+      "published_at": "2026-07-25T09:50:53.000Z",
+      "image": "https://img.lemde.fr/2026/07/25/461/0/5539/2769/644/322/60/0/d93b07d_ftp-1-xgmvgdtwgrhl-5702029-01-06.jpg",
+      "image_alt": "India's education minister resigns amid countrywide 'cockroach' protests",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/25/india-education-minister-announces-resignation-after-countrywide-protests_6755822_4.html"
         }
       ],
-      "impact": 80
+      "impact": 78
+    },
+    {
+      "id": "indian-education-minister-resigns-after-mass-protests-over-exam-paper--e9d0430f",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Indian education minister resigns after mass protests over exam paper leaks",
+      "published_at": "2026-07-25T09:38:35.000Z",
+      "image": "https://s.france24.com/media/display/a60cced0-880a-11f1-88b9-005056bf30b7/w:1024/p:16x9/000-C36Q7G4.jpg",
+      "image_alt": "Indian education minister resigns after mass protests over exam paper leaks",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "iran-war-houthis-vow-response-to-apos-dangerous-escalation-apos-by-sau-daa0c0a5",
@@ -178,7 +293,122 @@
           "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 78
+    },
+    {
+      "id": "how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-oppos-45a65b50",
+      "region": "Middle East",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+      "published_at": "2026-07-25T09:54:44.000Z",
+      "image": "",
+      "image_alt": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "wildfire-smoke-chokes-skies-in-spain-and-france-57b2c97f",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Wildfire Smoke Chokes Skies in Spain and France",
+      "published_at": "2026-07-25T09:49:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-mediumSquareAt3X.jpg",
+      "image_alt": "Wildfire Smoke Chokes Skies in Spain and France",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "iran-journey-reveals-society-s-wartime-defiance-and-hope-dc31cfb0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+      "published_at": "2026-07-25T09:01:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with--3bf1816f",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
+      "published_at": "2026-07-25T08:42:58.000Z",
+      "image": "https://s.france24.com/media/display/5544ce72-87ff-11f1-bd29-005056a90284/w:1024/p:16x9/2026-07-24T224242Z-1147157310-RC2MKMAJ90B6-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-FUNERAL.jpg",
+      "image_alt": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attack-e52dc847",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+      "published_at": "2026-07-25T09:10:01.000Z",
+      "image": "",
+      "image_alt": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "at-france-s-space-command-center-in-toulouse-the-space-war-is-already--c78dace3",
@@ -201,53 +431,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/25/at-france-s-space-command-center-in-toulouse-the-space-war-is-already-underway_6755814_4.html"
         }
       ],
-      "impact": 78
-    },
-    {
-      "id": "india-cjp-government-to-return-to-talks-as-protests-grow-09ef5ccf",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "India: CJP-Government to return to talks as protests grow",
-      "published_at": "2026-07-25T06:21:00.000Z",
-      "image": "",
-      "image_alt": "India: CJP-Government to return to talks as protests grow",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-cjp-government-to-return-to-talks-as-protests-grow/live-78108089?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "iran-war-saudi-led-coalition-attacks-yemen-apos-s-hodeida-port-city-12bc9cb6",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war: Saudi-led coalition attacks Yemen&apos;s Hodeida port city",
-      "published_at": "2026-07-25T00:50:00.000Z",
-      "image": "",
-      "image_alt": "Iran war: Saudi-led coalition attacks Yemen&apos;s Hodeida port city",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "wildfires-in-spain-and-france-force-evacuation-of-200-000-people-744d41da",
@@ -270,7 +454,76 @@
           "url": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "who-are-the-people-out-protesting-in-india-7490b0cf",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Who Are the People Out Protesting in India?",
+      "published_at": "2026-07-25T07:26:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24INDIA-PROTEST-PROFILES-flcw/24INDIA-PROTEST-PROFILES-flcw-mediumSquareAt3X.jpg",
+      "image_alt": "Who Are the People Out Protesting in India?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "taiwan-tests-how-it-would-resist-a-chinese-siege-at-sea-a70623cc",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+      "published_at": "2026-07-25T07:10:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-china-taiwan-coastguard-wtzp/00int-china-taiwan-coastguard-wtzp-mediumSquareAt3X.jpg",
+      "image_alt": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "iran-war-saudi-led-coalition-attacks-yemen-apos-s-hodeida-port-city-12bc9cb6",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war: Saudi-led coalition attacks Yemen&apos;s Hodeida port city",
+      "published_at": "2026-07-25T00:50:00.000Z",
+      "image": "",
+      "image_alt": "Iran war: Saudi-led coalition attacks Yemen&apos;s Hodeida port city",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "born-too-soon-premature-babies-fight-for-survival-in-gaza-e0bb7aa1",
@@ -293,7 +546,7 @@
           "url": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
       "id": "guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17--d1d90429",
@@ -316,260 +569,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "commonwealth-games-gymnast-langton-s-headfirst-crash-leads-to-concussi-ca82a363",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
-      "published_at": "2026-07-25T06:36:22.000Z",
-      "image": "",
-      "image_alt": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "four-palestinians-and-two-israelis-killed-in-west-bank-shooting-22c51bb3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T22:49:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
-      "image_alt": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "venezuelans-hold-vigil-one-month-after-devastating-earthquakes-8e99ec06",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Venezuelans hold vigil one month after devastating earthquakes",
-      "published_at": "2026-07-25T05:50:04.000Z",
-      "image": "",
-      "image_alt": "Venezuelans hold vigil one month after devastating earthquakes",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss"
-        }
-      ],
       "impact": 74
-    },
-    {
-      "id": "south-africa-s-le-clos-breaks-commonwealth-games-record-with-19th-meda-ec3dfc56",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
-      "published_at": "2026-07-25T05:48:52.000Z",
-      "image": "",
-      "image_alt": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "eco-wins-cities-creatures-and-tech-are-saving-the-day-8fc9ae7e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Eco wins: Cities, creatures, and tech are saving the day",
-      "published_at": "2026-07-25T07:25:00.000Z",
-      "image": "",
-      "image_alt": "Eco wins: Cities, creatures, and tech are saving the day",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "india-s-student-protesters-win-some-concessions-from-government-ae8b36a7",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "India’s Student Protesters Win Some Concessions From Government",
-      "published_at": "2026-07-25T00:27:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-protests-mcbq/24int-india-protests-mcbq-mediumSquareAt3X.jpg",
-      "image_alt": "India’s Student Protesters Win Some Concessions From Government",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "more-than-220-000-evacuated-in-france-and-spain-due-to-wildfires-00084521",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "published_at": "2026-07-25T02:29:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
-      "image_alt": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "texts-reveal-14-year-old-allegedly-murdered-by-singer-d4vd-had-pregnan-f76de721",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "published_at": "2026-07-25T02:14:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f8b/live/a675bbc0-87b5-11f1-88ae-859397b768ed.jpg",
-      "image_alt": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "6-killed-in-west-bank-shooting-officials-say-among-the-deadliest-in-mo-12ef9f01",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-      "published_at": "2026-07-24T18:28:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-westbank-shooting-jmtv/24int-westbank-shooting-jmtv-mediumSquareAt3X.jpg",
-      "image_alt": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "we-re-trapped-in-hell-iranians-say-life-is-put-on-hold-by-months-of-wa-d4b13207",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "published_at": "2026-07-24T09:04:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00int-iran-voices-02-cgvz/00int-iran-voices-02-cgvz-mediumSquareAt3X.jpg",
-      "image_alt": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "trump-addresses-rescheduled-white-house-correspondents-apos-dinner-9a16a2a1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump addresses rescheduled White House Correspondents&apos; Dinner",
-      "published_at": "2026-07-25T03:29:00.000Z",
-      "image": "",
-      "image_alt": "Trump addresses rescheduled White House Correspondents&apos; Dinner",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 64
     }
   ]
 }
