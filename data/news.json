@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T08:24:42.942Z",
+  "updated_at": "2026-07-26T10:17:39.627Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "watch-at-the-scene-of-berlin-pride-attack-as-manhunt-continues-d51e5b23",
+      "id": "what-we-know-so-far-about-the-berlin-pride-ramming-attack-9289efc8",
       "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-      "published_at": "2026-07-26T08:14:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81f/live/5ba2aae0-88c8-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "headline": "What we know so far about the Berlin Pride ramming attack",
+      "published_at": "2026-07-26T09:18:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg",
+      "image_alt": "What we know so far about the Berlin Pride ramming attack",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,56 +37,148 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 90
+      "impact": 89
     },
     {
-      "id": "new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facili-99c44438",
-      "region": "Middle East",
+      "id": "berlin-police-search-for-suspect-in-fatal-attack-on-pride-parade-aab4f997",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "published_at": "2026-07-26T04:40:17.000Z",
-      "image": "",
-      "image_alt": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "headline": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+      "published_at": "2026-07-26T09:59:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-qgjt/26int-berlin-attack-qgjt-mediumSquareAt3X.jpg",
+      "image_alt": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "u-s-iran-war-pauses-for-2nd-straight-day-ea9cb3bb",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "U.S.-Iran War Pauses for 2nd Straight Day",
+      "published_at": "2026-07-26T09:53:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-Iran-War-gpvc/26int-Iran-War-gpvc-mediumSquareAt3X.jpg",
+      "image_alt": "U.S.-Iran War Pauses for 2nd Straight Day",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "sudan-civil-war-civilians-used-as-apos-human-shields-apos-d3a33be0",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Sudan civil war: Civilians used as &apos;human shields&apos;",
+      "published_at": "2026-07-26T09:54:00.000Z",
+      "image": "",
+      "image_alt": "Sudan civil war: Civilians used as &apos;human shields&apos;",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 84
+    },
+    {
+      "id": "german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injure-aaa6f478",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
+      "published_at": "2026-07-26T09:53:33.000Z",
+      "image": "https://s.france24.com/media/display/d31571a0-88d4-11f1-a6c3-005056bfb2b6/w:1024/p:16x9/EN-20260726-110136-110301-CS.jpg",
+      "image_alt": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injured"
         }
       ],
       "impact": 83
     },
     {
-      "id": "us-military-disables-tanker-accused-of-breaking-the-iran-blockade-29caef80",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US military disables tanker accused of breaking the Iran blockade",
-      "published_at": "2026-07-26T04:33:16.000Z",
+      "id": "thousands-rally-against-tunisia-s-president-five-years-after-power-gra-c96c45fd",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Thousands rally against Tunisia’s president five years after power grab",
+      "published_at": "2026-07-26T08:55:46.000Z",
       "image": "",
-      "image_alt": "US military disables tanker accused of breaking the Iran blockade",
+      "image_alt": "Thousands rally against Tunisia’s president five years after power grab",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss"
         }
       ],
-      "impact": 83
+      "impact": 81
+    },
+    {
+      "id": "tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfir-76d2f798",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Tour de France final stage shortened as emergency teams tackle wildfires",
+      "published_at": "2026-07-26T07:55:22.000Z",
+      "image": "",
+      "image_alt": "Tour de France final stage shortened as emergency teams tackle wildfires",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "france-battles-fire-whirlwinds-as-another-55-000-evacuated-2bec49ca",
@@ -94,7 +186,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-      "published_at": "2026-07-26T07:21:11.000Z",
+      "published_at": "2026-07-26T09:16:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d055/live/c69c5bb0-88b5-11f1-b7ca-b5f2b9ce39f1.png",
       "image_alt": "France battles fire 'whirlwinds' as another 55,000 evacuated",
       "translations": {
@@ -112,37 +204,60 @@
       "impact": 79
     },
     {
-      "id": "india-news-home-minister-backs-pradhan-after-resignation-7d02113a",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
+      "id": "live-updates-firefighters-battle-raging-wildfires-in-france-and-spain-04ef3141",
+      "region": "Europe",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "India news: Home minister backs Pradhan after resignation",
-      "published_at": "2026-07-26T06:48:00.000Z",
-      "image": "",
-      "image_alt": "India news: Home minister backs Pradhan after resignation",
+      "headline": "Live Updates: Firefighters Battle Raging Wildfires in France and Spain",
+      "published_at": "2026-07-26T10:15:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26europe-fires-france-carousel-kqjm/26europe-fires-france-carousel-kqjm-mediumSquareAt3X.jpg",
+      "image_alt": "Live Updates: Firefighters Battle Raging Wildfires in France and Spain",
       "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-top-1022-rdf"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions"
         }
       ],
       "impact": 78
     },
     {
-      "id": "israeli-settlers-set-fire-to-mosque-in-occupied-west-bank-de6bb853",
-      "region": "World",
+      "id": "france-fire-situation-remains-very-unfavourable-says-interior-minister-304bacc5",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "France fire situation 'remains very unfavourable' says interior minister",
+      "published_at": "2026-07-26T09:57:22.000Z",
+      "image": "https://s.france24.com/media/display/5c70ce1a-88d3-11f1-b37f-005056a90284/w:1024/p:16x9/EN-20260726-100639-100815-CS.jpg",
+      "image_alt": "France fire situation 'remains very unfavourable' says interior minister",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france-fire-situation-remains-very-unfavourable-says-interior-minister"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "the-cockroach-effect-modi-vs-india-s-gen-z-283f5790",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli settlers set fire to mosque in occupied West Bank",
-      "published_at": "2026-07-26T07:12:26.000Z",
+      "headline": "The Cockroach Effect: Modi vs India’s Gen Z",
+      "published_at": "2026-07-26T09:08:52.000Z",
       "image": "",
-      "image_alt": "Israeli settlers set fire to mosque in occupied West Bank",
+      "image_alt": "The Cockroach Effect: Modi vs India’s Gen Z",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -152,20 +267,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown-4c3dbdb0",
+      "id": "e-u-divided-over-barring-imports-from-israeli-settlements-ca8eed62",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
-      "published_at": "2026-07-26T06:37:00.000Z",
+      "headline": "E.U. Divided Over Barring Imports From Israeli Settlements",
+      "published_at": "2026-07-26T09:00:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/00int-EU-settlements-exports01-photo-pkqw/00int-EU-settlements-exports01-photo-pkqw-mediumSquareAt3X.jpg",
+      "image_alt": "E.U. Divided Over Barring Imports From Israeli Settlements",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatm-523a29d9",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+      "published_at": "2026-07-26T08:55:10.000Z",
       "image": "",
-      "image_alt": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+      "image_alt": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,10 +313,240 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss"
+          "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-debate-boils-over-in-the-united-states-c299cfdc",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel debate boils over in the United States",
+      "published_at": "2026-07-26T08:53:39.000Z",
+      "image": "",
+      "image_alt": "Israel debate boils over in the United States",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-raids-west-bank-live-dozens-of-palestinians-detained-during-ass-0ea17e9a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+      "published_at": "2026-07-26T07:55:30.000Z",
+      "image": "",
+      "image_alt": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
         }
       ],
       "impact": 75
+    },
+    {
+      "id": "romanian-jet-shoots-down-drone-entering-country-s-airspace-for-third-d-878b91d5",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Romanian jet shoots down drone entering country's airspace for third day in a row",
+      "published_at": "2026-07-26T10:11:29.000Z",
+      "image": "https://s.france24.com/media/display/7266f326-88d7-11f1-b096-005056bfb2b6/w:1024/p:16x9/AP25309629984027.jpg",
+      "image_alt": "Romanian jet shoots down drone entering country's airspace for third day in a row",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260726-romanian-jet-shoots-down-drone-entering-country-airspace-for-third-day-in-a-row"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "d-day-beaches-now-part-of-unesco-world-heritage-list-d1472dbf",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "D-Day beaches now part of UNESCO World Heritage List",
+      "published_at": "2026-07-26T10:15:04.000Z",
+      "image": "https://img.lemde.fr/2026/07/26/456/0/5472/2736/644/322/60/0/dd26142_ftp-1-ja0xv5qbj730-5709322-01-06.jpg",
+      "image_alt": "D-Day beaches now part of UNESCO World Heritage List",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/history/article/2026/07/26/d-day-beaches-now-part-of-unesco-world-heritage-list_6755848_157.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "israel-detains-over-70-suspects-following-deadly-violence-in-the-west--19da44f7",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel detains over 70 suspects following deadly violence in the West Bank",
+      "published_at": "2026-07-26T09:49:38.000Z",
+      "image": "https://s.france24.com/media/display/6db49f66-88d4-11f1-8dc3-005056bfb2b6/w:1024/p:16x9/EN-20260726-101117-101248-CS.jpg",
+      "image_alt": "Israel detains over 70 suspects following deadly violence in the West Bank",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "women-s-afcon-2026-tournament-gets-underway-after-months-of-delay-eb2834de",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Women's AFCON 2026: Tournament gets underway after months of delay",
+      "published_at": "2026-07-26T09:27:36.000Z",
+      "image": "https://s.france24.com/media/display/c74c095c-889c-11f1-9de0-005056bfb2b6/w:1024/p:16x9/000-67XP3BX.jpg",
+      "image_alt": "Women's AFCON 2026: Tournament gets underway after months of delay",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260726-women-afcon-2026-tournament-gets-underway-after-months-of-delay"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "alemania-busca-al-sospechoso-del-atropello-masivo-en-berl-n-que-caus-a-31db37b1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Alemania busca al sospechoso del atropello masivo en Berlín que causó al menos un muerto y 16 heridos",
+      "published_at": "2026-07-26T09:59:16.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/QA3HNDGECVIQFIGQ3MPXKOTVSU.jpg?auth=05c5fd4c8b19f9c0a77d75354f814f7690ed4a32e647c1f5dcc6c5d981360a83",
+      "image_alt": "Alemania busca al sospechoso del atropello masivo en Berlín que causó al menos un muerto y 16 heridos",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "wildfires-keep-southwest-france-on-edge-evacuations-top-200-000-c2e4aecf",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Wildfires keep southwest France on edge: Evacuations top 200,000",
+      "published_at": "2026-07-26T09:01:00.000Z",
+      "image": "https://s.france24.com/media/display/18401acc-88cc-11f1-b75a-005056a90284/w:1024/p:16x9/EN-20260726-090114-090331-CS.jpg",
+      "image_alt": "Wildfires keep southwest France on edge: Evacuations top 200,000",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/wildfires-keep-southwest-france-on-edge-evacuations-top-200-000"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "spain-struggles-to-contain-wildfires-60-000-evacuated-around-madrid-a09e915e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Spain struggles to contain wildfires: 60,000 evacuated around Madrid",
+      "published_at": "2026-07-26T08:49:21.000Z",
+      "image": "https://s.france24.com/media/display/832eb486-88ce-11f1-9573-005056a90284/w:1024/p:16x9/capture-11656799786a65c96cb08094-23625553.jpg",
+      "image_alt": "Spain struggles to contain wildfires: 60,000 evacuated around Madrid",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260726-spain-struggles-to-contain-wildfires-60-000-evacuated-around-madrid"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "middle-east-no-fresh-us-strikes-on-iran-for-a-second-day-d11c874e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Middle East: No fresh US strikes on Iran for a second day",
+      "published_at": "2026-07-26T08:02:00.000Z",
+      "image": "",
+      "image_alt": "Middle East: No fresh US strikes on Iran for a second day",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "vietnamese-vessel-sinks-in-south-china-sea-23-missing-8d8856a0",
@@ -201,375 +569,7 @@
           "url": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-23-missing/a-78118211?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-b-c271fba7",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
-      "published_at": "2026-07-26T05:29:49.000Z",
-      "image": "",
-      "image_alt": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacua-ac5ed5b5",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
-      "published_at": "2026-07-26T05:29:14.000Z",
-      "image": "",
-      "image_alt": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "car-attack-at-berlin-pride-event-kills-1-and-injures-at-least-15-33a3e8a4",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Car attack at Berlin Pride event kills 1 and injures at least 15",
-      "published_at": "2026-07-25T23:40:18.000Z",
-      "image": "https://img.lemde.fr/2026/07/25/358/0/8112/4056/644/322/60/0/188cb59_ftp-1-e7s5zimfdwst-5707164-01-06.jpg",
-      "image_alt": "Car attack at Berlin Pride event kills 1 and injures at least 15",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/26/car-attack-at-berlin-pride-event-kills-1-and-injures-at-least-15_6755837_4.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "morocco-faces-repeated-heatwaves-and-fears-water-shortages-76644d18",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Morocco faces repeated heatwaves and fears water shortages",
-      "published_at": "2026-07-26T08:00:08.000Z",
-      "image": "https://img.lemde.fr/2026/07/09/669/0/8024/4012/644/322/60/0/d029a33_upload-1-wknnfpqoot1t-ap25206747304149.jpg",
-      "image_alt": "Morocco faces repeated heatwaves and fears water shortages",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "berlin-csd-latest-in-string-of-deadly-vehicle-attacks-fef04ce8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Berlin CSD: Latest in string of deadly vehicle attacks",
-      "published_at": "2026-07-26T07:05:00.000Z",
-      "image": "",
-      "image_alt": "Berlin CSD: Latest in string of deadly vehicle attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "alemania-busca-al-autor-del-atropello-masivo-en-berl-n-que-caus-al-men-31db37b1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Alemania busca al autor del atropello masivo en Berlín que causó al menos un muerto y 16 heridos",
-      "published_at": "2026-07-26T08:00:49.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/QA3HNDGECVIQFIGQ3MPXKOTVSU.jpg?auth=05c5fd4c8b19f9c0a77d75354f814f7690ed4a32e647c1f5dcc6c5d981360a83",
-      "image_alt": "Alemania busca al autor del atropello masivo en Berlín que causó al menos un muerto y 16 heridos",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html"
-        }
-      ],
       "impact": 72
-    },
-    {
-      "id": "germany-launches-manhunt-after-berlin-pride-van-ramming-9cc3b8ea",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany launches manhunt after Berlin Pride van ramming",
-      "published_at": "2026-07-26T05:51:00.000Z",
-      "image": "",
-      "image_alt": "Germany launches manhunt after Berlin Pride van ramming",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "brazil-denies-entry-to-senior-trump-officials-ahead-of-elections-f0adc884",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Brazil denies entry to senior Trump officials ahead of elections",
-      "published_at": "2026-07-26T05:45:00.000Z",
-      "image": "",
-      "image_alt": "Brazil denies entry to senior Trump officials ahead of elections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "kazakh-leader-to-putin-the-ukraine-war-should-end-a6acf5e9",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Kazakh leader to Putin: The Ukraine war should end",
-      "published_at": "2026-07-25T21:37:26.000Z",
-      "image": "https://img.lemde.fr/2026/07/25/86/0/4500/2250/644/322/60/0/071cdc8_ftp-1-4gv5o3xw3pfd-2026-07-25t160111z-1813626322-rc22lmakzx8l-rtrmadp-3-russia-kazakhstan-forum.JPG",
-      "image_alt": "Kazakh leader to Putin: The Ukraine war should end",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/25/kazakh-leader-to-putin-the-ukraine-war-should-end_6755836_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event-4a2d5b70",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
-      "published_at": "2026-07-26T00:19:00.000Z",
-      "image": "",
-      "image_alt": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "iran-backed-houthis-claim-missile-attack-on-saudi-arabia-4cd3f310",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "published_at": "2026-07-25T06:34:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
-      "image_alt": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "ten-killed-in-russian-attack-on-drone-exhibition-near-kyiv-8518093b",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "published_at": "2026-07-25T00:06:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
-      "image_alt": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "zelensky-tries-to-fix-crisis-over-removal-of-defence-minister-and-coun-24be7360",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "published_at": "2026-07-24T23:01:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
-      "image_alt": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "https-drive-google-com-drive-folders-17kzlaaj-h-rmiqjsrup6wfcerg75cajr-de4ccc2c",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
-      "published_at": "2026-07-26T05:14:32.000Z",
-      "image": "",
-      "image_alt": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "venezuela-men-sue-aviation-firms-who-flew-them-to-notorious-salvadoria-46b52f34",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
-      "published_at": "2026-07-26T05:00:03.000Z",
-      "image": "https://i.guim.co.uk/img/media/3e9e1459fc9e2f91af28faefff090d2f3466847f/493_0_4906_3927/master/4906.jpg?width=140&quality=85&auto=format&fit=max&s=aa3ec0fb863f4cb4b3781e3b07f18697",
-      "image_alt": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "hundreds-of-thousands-flee-as-fires-rage-in-spain-and-france-016a9f8d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
-      "published_at": "2026-07-26T01:19:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-promo-4pm-khjz/25europe-wildfires-promo-4pm-khjz-mediumSquareAt3X.jpg",
-      "image_alt": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations"
-        }
-      ],
-      "impact": 66
     }
   ]
 }
