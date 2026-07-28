@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T15:16:44.578Z",
+  "updated_at": "2026-07-28T16:57:17.215Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "german-investigators-find-apparent-motive-after-berlin-pride-attack-2802cbf2",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "German investigators find apparent motive after Berlin Pride attack",
+      "published_at": "2026-07-28T15:20:43.000Z",
+      "image": "",
+      "image_alt": "German investigators find apparent motive after Berlin Pride attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "ukraine-s-strike-on-an-iranian-ship-could-bring-two-wars-closer-8c656ee6",
       "region": "Europe",
@@ -40,40 +63,40 @@
           "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
-      "id": "for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-frayin-6331dfce",
-      "region": "Middle East",
+      "id": "fact-check-berlin-pride-attack-claims-debunked-ad42cee5",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
-      "published_at": "2026-07-28T12:51:59.000Z",
-      "image": "https://s.france24.com/media/display/c4764b02-8a4a-11f1-8d0a-005056a97e36/w:1024/p:16x9/000-B4VA2NQ.jpg",
-      "image_alt": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
+      "headline": "Fact check: Berlin Pride attack claims debunked",
+      "published_at": "2026-07-28T15:17:00.000Z",
+      "image": "",
+      "image_alt": "Fact check: Berlin Pride attack claims debunked",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 83
     },
     {
-      "id": "mancini-reappointed-italy-boss-after-pirlo-controversy-b55e0bb7",
-      "region": "Europe",
+      "id": "mysterious-deaths-of-14-elephants-in-kenya-prompts-urgent-inquiry-54c9f613",
+      "region": "Africa",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Mancini reappointed Italy boss after Pirlo controversy",
-      "published_at": "2026-07-28T13:54:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d610/live/883f0070-8a90-11f1-abbc-1d62d6206917.jpg",
-      "image_alt": "Mancini reappointed Italy boss after Pirlo controversy",
+      "headline": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "published_at": "2026-07-28T16:37:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f024/live/62e983e0-8a9f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image_alt": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,7 +106,30 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "wildfires-in-south-west-france-flare-up-as-region-braces-for-new-40c-h-44c682a3",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "published_at": "2026-07-28T16:14:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg",
+      "image_alt": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
@@ -94,7 +140,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "French Navy carries out 'shooting drill' mid interview",
-      "published_at": "2026-07-28T13:53:26.000Z",
+      "published_at": "2026-07-28T16:12:35.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb86/live/0c7ab500-8a6e-11f1-924e-bfa32777c3ff.jpg",
       "image_alt": "French Navy carries out 'shooting drill' mid interview",
       "translations": {
@@ -112,14 +158,129 @@
       "impact": 79
     },
     {
-      "id": "live-updates-many-feared-trapped-in-mall-collapse-after-japan-earthqua-c0738cff",
+      "id": "as-u-s-pauses-strikes-iran-is-no-rush-to-resume-cease-fire-talks-9871f692",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+      "published_at": "2026-07-28T15:46:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-moment-tzvw/28int-iran-moment-tzvw-mediumSquareAt3X-v2.jpg",
+      "image_alt": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "live-french-wildfires-flare-up-again-as-authorities-evacuate-4-000-mor-4e0cd207",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "🔴 Live: French wildfires flare up again as authorities evacuate 4,000 more from tourist sites",
+      "published_at": "2026-07-28T15:01:07.000Z",
+      "image": "",
+      "image_alt": "🔴 Live: French wildfires flare up again as authorities evacuate 4,000 more from tourist sites",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260728-live-massive-wildfires-near-bordeaux-still-under-control-after-calm-night-local-authorities-say"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "is-netanyahu-s-trump-card-losing-its-power-in-israel-f0051324",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Is Netanyahu’s Trump card losing its power in Israel?",
+      "published_at": "2026-07-28T15:39:42.000Z",
+      "image": "",
+      "image_alt": "Is Netanyahu’s Trump card losing its power in Israel?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban-2ee4b838",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+      "published_at": "2026-07-28T15:28:33.000Z",
+      "image": "",
+      "image_alt": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-expresses-frustration-with-netanyahu-before-white-house-meeting-7bd9537a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
+      "published_at": "2026-07-28T15:21:43.000Z",
+      "image": "",
+      "image_alt": "Trump expresses frustration with Netanyahu before White House meeting",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "many-feared-trapped-in-mall-collapse-after-japan-earthquake-officials--c0738cff",
       "region": "Asia-Pacific",
       "topic": "Climate",
       "urgency": "Live",
-      "headline": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
-      "published_at": "2026-07-28T15:09:08.000Z",
+      "headline": "Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+      "published_at": "2026-07-28T15:21:07.000Z",
       "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28japan-earthquake-kumamoto-wkhb/28japan-earthquake-kumamoto-wkhb-mediumSquareAt3X.jpg",
-      "image_alt": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+      "image_alt": "Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
       "translations": {
         "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -132,7 +293,30 @@
           "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "france-and-spain-race-to-contain-fires-before-some-areas-reach-104-deg-97b1f3fe",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+      "published_at": "2026-07-28T15:19:20.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg",
+      "image_alt": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "zelensky-and-trump-meet-at-the-white-house-has-their-relationship-thaw-303d9808",
@@ -153,144 +337,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "gironde-wildfires-pick-up-as-french-region-braces-for-new-40c-heatwave-44c682a3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Gironde wildfires pick up as French region braces for new 40C heatwave",
-      "published_at": "2026-07-28T13:25:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg",
-      "image_alt": "Gironde wildfires pick up as French region braces for new 40C heatwave",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "france-and-spain-race-to-contain-fires-before-some-areas-reach-104-deg-97b1f3fe",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "published_at": "2026-07-28T14:53:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg",
-      "image_alt": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "a-narcissist-victim-s-family-hits-out-at-kohberger-for-challenging-mur-b113d8cf",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
-      "published_at": "2026-07-28T12:27:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe07/live/6e9c3450-8a7a-11f1-82f1-411b076ec7a9.jpg",
-      "image_alt": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges-54aabbb0",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
-      "published_at": "2026-07-28T13:55:52.000Z",
-      "image": "",
-      "image_alt": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires-1affe98e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France and Spain brace for heatwave that could worsen raging wildfires",
-      "published_at": "2026-07-28T13:39:23.000Z",
-      "image": "",
-      "image_alt": "France and Spain brace for heatwave that could worsen raging wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "fire-raging-near-bordeaux-brings-more-bad-news-for-its-vineyards-cfa91b59",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
-      "published_at": "2026-07-28T13:13:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-bordeaux-1-jhlz/27int-france-bordeaux-1-jhlz-mediumSquareAt3X.jpg",
-      "image_alt": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html"
         }
       ],
       "impact": 76
@@ -316,122 +362,122 @@
           "url": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-many-feared-dead/a-78143660?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "roberto-mancini-named-italy-head-coach-for-second-time-fc60bbce",
+      "id": "british-mp-accuses-french-patrol-boat-of-firing-warning-shots-near-him-0b0d5843",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Roberto Mancini named Italy head coach for second time",
-      "published_at": "2026-07-28T13:19:48.000Z",
-      "image": "",
-      "image_alt": "Roberto Mancini named Italy head coach for second time",
+      "headline": "British MP accuses French patrol boat of firing 'warning shots' near him in Channel",
+      "published_at": "2026-07-28T15:58:00.000Z",
+      "image": "https://s.france24.com/media/display/565ec274-8a9b-11f1-a109-005056a97e36/w:1024/p:16x9/000-9BC4CJ.jpg",
+      "image_alt": "British MP accuses French patrol boat of firing 'warning shots' near him in Channel",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/28/mancini-to-become-italy-head-coach-for-second-time-source-says?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260728-british-mp-accuses-french-patrol-boat-of-firing-warning-shots-near-him-in-channel"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "israeli-soldier-runs-marathon-around-gaza-outpost-5a6f5390",
-      "region": "Middle East",
+      "id": "powerful-quake-hits-southern-japan-86797832",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli soldier runs marathon around Gaza outpost",
-      "published_at": "2026-07-28T13:18:48.000Z",
-      "image": "",
-      "image_alt": "Israeli soldier runs marathon around Gaza outpost",
+      "headline": "Powerful quake hits southern Japan",
+      "published_at": "2026-07-28T15:35:29.000Z",
+      "image": "https://s.france24.com/media/display/ed5b07fe-8a97-11f1-a396-005056a97e36/w:1024/p:16x9/japanmini.jpg",
+      "image_alt": "Powerful quake hits southern Japan",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260728-powerful-quake-hits-southern-japan"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
-      "id": "tate-brothers-face-at-least-two-more-weeks-in-us-jail-as-bail-bid-revi-42f62d47",
-      "region": "Americas",
+      "id": "the-only-thing-i-wanted-to-do-zidane-returns-to-coach-les-bleus-a18b8110",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
-      "published_at": "2026-07-28T13:17:24.000Z",
-      "image": "",
-      "image_alt": "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
+      "headline": "'The only thing I wanted to do': Zidane returns to coach 'Les Bleus'",
+      "published_at": "2026-07-28T15:26:33.000Z",
+      "image": "https://s.france24.com/media/display/e783978c-8a6b-11f1-9940-005056a97e36/w:1024/p:16x9/000-C3CU7UN.jpg",
+      "image_alt": "'The only thing I wanted to do': Zidane returns to coach 'Les Bleus'",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/tate-brothers-face-at-least-two-more-weeks-in-us-jail-as-bail-bid-reviewed?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/the-only-thing-i-wanted-to-do-zidane-returns-to-coach-les-bleus"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
-      "id": "trump-says-good-chance-of-progress-in-iran-talks-what-we-know-13069fb9",
-      "region": "Middle East",
+      "id": "how-french-solidarity-grew-in-the-face-of-monster-fires-cee31d8c",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump says ‘good chance’ of progress in Iran talks. What we know",
-      "published_at": "2026-07-28T13:06:02.000Z",
-      "image": "",
-      "image_alt": "Trump says ‘good chance’ of progress in Iran talks. What we know",
+      "headline": "How French solidarity grew in the face of monster fires",
+      "published_at": "2026-07-28T15:23:56.000Z",
+      "image": "https://s.france24.com/media/display/363df666-8a98-11f1-8eca-005056bfb2b6/w:1024/p:16x9/capture-19433884556a68c951096b15-18312333.jpg",
+      "image_alt": "How French solidarity grew in the face of monster fires",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/how-french-solidarity-grew-in-the-face-of-monster-fires"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
-      "id": "pregnant-palestinian-woman-loses-baby-after-israeli-checkpoint-stop-c09e172f",
-      "region": "World",
+      "id": "eu-civil-protection-mechanism-coordinating-europe-apos-s-firefighters-3d2b9e75",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
-      "published_at": "2026-07-28T13:02:50.000Z",
+      "headline": "EU civil protection mechanism: coordinating Europe&apos;s firefighters",
+      "published_at": "2026-07-28T14:55:00.000Z",
       "image": "",
-      "image_alt": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+      "image_alt": "EU civil protection mechanism: coordinating Europe&apos;s firefighters",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/pregnant-palestinian-woman-loses-baby-after-israeli-checkpoint-stop?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/eu-civil-protection-mechanism-coordinating-europe-s-firefighters/a-78145189?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
       "id": "poland-top-court-rejects-recognizing-eu-same-sex-marriages-a0b8d272",
@@ -454,7 +500,30 @@
           "url": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 72
+    },
+    {
+      "id": "could-us-airstrikes-stop-insurgency-in-mali-15b51008",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Could US airstrikes stop insurgency in Mali?",
+      "published_at": "2026-07-28T14:28:00.000Z",
+      "image": "",
+      "image_alt": "Could US airstrikes stop insurgency in Mali?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/could-us-airstrikes-stop-insurgency-in-mali/a-78141641?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-9d9d3eec",
@@ -477,7 +546,7 @@
           "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "heatwave-threatens-firefighting-mission-in-france-s-southwest-0a3b0433",
@@ -500,76 +569,7 @@
           "url": "https://www.france24.com/en/heatwave-threatens-firefighting-mission-in-france-s-southwest"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "can-us-apos-airstrikes-apos-stop-jnim-apos-s-insurgency-in-mali-6f04d818",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can US &apos;airstrikes&apos; stop JNIM&apos;s insurgency in Mali?",
-      "published_at": "2026-07-28T14:28:00.000Z",
-      "image": "",
-      "image_alt": "Can US &apos;airstrikes&apos; stop JNIM&apos;s insurgency in Mali?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/can-us-airstrikes-stop-jnim-s-insurgency-in-mali/a-78141641?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "why-is-germany-building-roads-for-yesterday-apos-s-climate-82eadff5",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Why is Germany building roads for yesterday&apos;s climate?",
-      "published_at": "2026-07-28T13:34:00.000Z",
-      "image": "",
-      "image_alt": "Why is Germany building roads for yesterday&apos;s climate?",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "past-fires-suggest-effects-of-europe-and-north-america-wildfires-may-l-b20260d9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "published_at": "2026-07-28T13:00:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/6adb7135edd65d6b009bdc318353c7ef7283e8b4/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1666aae11aec2b0f85e0586c691c169d",
-      "image_alt": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects"
-        }
-      ],
-      "impact": 73
+      "impact": 71
     }
   ]
 }
