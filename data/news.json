@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T19:59:31.749Z",
+  "updated_at": "2026-07-28T21:15:25.036Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "kyiv-warns-iran-against-escalation-after-ukraine-s-caspian-sea-attack-a5416360",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+      "published_at": "2026-07-28T20:29:42.000Z",
+      "image": "",
+      "image_alt": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "ukraine-s-strike-on-an-iranian-ship-could-bring-two-wars-closer-8c656ee6",
       "region": "Europe",
@@ -40,40 +63,63 @@
           "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html"
         }
       ],
-      "impact": 87
-    },
-    {
-      "id": "the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gaza-s-wa-e92c3b4f",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-      "published_at": "2026-07-28T18:46:57.000Z",
-      "image": "",
-      "image_alt": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss"
-        }
-      ],
       "impact": 86
     },
     {
-      "id": "lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-show-ffdb41c4",
+      "id": "many-feared-dead-from-7-1-magnitude-quake-in-kumamoto-japan-7c85cf42",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+      "published_at": "2026-07-28T20:36:48.000Z",
+      "image": "",
+      "image_alt": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win-89bdbefd",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Keiko Fujimori sworn in as Peru president after narrow election win",
+      "published_at": "2026-07-28T20:14:09.000Z",
+      "image": "",
+      "image_alt": "Keiko Fujimori sworn in as Peru president after narrow election win",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "how-us-defence-aid-shaped-israel-s-military-developments-since-oct-7-2-5ff79c6b",
       "region": "Middle East",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
-      "published_at": "2026-07-28T18:01:03.000Z",
+      "urgency": "Live",
+      "headline": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
+      "published_at": "2026-07-28T20:11:04.000Z",
       "image": "",
-      "image_alt": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
+      "image_alt": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,10 +129,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 81
     },
     {
       "id": "what-will-it-take-to-stop-the-conflict-in-sudan-ed04877d",
@@ -109,30 +155,30 @@
           "url": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
-      "id": "malaysian-foreign-minister-calls-for-review-of-unhcr-s-presence-6809de31",
-      "region": "World",
-      "topic": "Politics",
+      "id": "zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense-8b4b5c0f",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Live",
-      "headline": "Malaysian foreign minister calls for review of UNHCR’s presence",
-      "published_at": "2026-07-28T18:25:13.000Z",
+      "headline": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
+      "published_at": "2026-07-28T20:33:00.000Z",
       "image": "",
-      "image_alt": "Malaysian foreign minister calls for review of UNHCR’s presence",
+      "image_alt": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "war-in-ukraine-europe-fears-more-active-belarusian-involvement-63722cca",
@@ -155,7 +201,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/07/28/war-in-ukraine-europe-fears-more-active-belarusian-involvement_6755929_4.html"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "fact-check-berlin-pride-attack-claims-debunked-ad42cee5",
@@ -178,30 +224,30 @@
           "url": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "iran-hangs-protesters-as-executions-surge-rights-groups-say-b41cedda",
-      "region": "Middle East",
-      "topic": "Society",
+      "id": "rome-s-viral-graffiti-cleaner-is-taking-on-an-ancient-problem-e5ad91f0",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
-      "published_at": "2026-07-28T19:57:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-dissidents-1-jvcf/28int-iran-dissidents-1-jvcf-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+      "headline": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+      "published_at": "2026-07-28T20:41:18.000Z",
+      "image": "",
+      "image_alt": "Rome’s viral graffiti cleaner is taking on an ancient problem",
       "translations": {
-        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "ghana-mourns-its-tallest-man-6431850c",
@@ -224,7 +270,76 @@
           "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "protests-in-dc-against-netanyahu-s-meeting-with-trump-a8b5b0dd",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Protests in DC against Netanyahu’s meeting with Trump",
+      "published_at": "2026-07-28T20:22:07.000Z",
+      "image": "",
+      "image_alt": "Protests in DC against Netanyahu’s meeting with Trump",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iran-hangs-protesters-as-executions-surge-rights-groups-say-b41cedda",
+      "region": "Middle East",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+      "published_at": "2026-07-28T19:59:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-dissidents-1-jvcf/28int-iran-dissidents-1-jvcf-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+      "translations": {
+        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "new-poll-shows-confusion-over-democratic-socialists-of-america-ideals-9f6dd2ac",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "New poll shows confusion over Democratic Socialists of America ideals",
+      "published_at": "2026-07-28T19:56:07.000Z",
+      "image": "",
+      "image_alt": "New poll shows confusion over Democratic Socialists of America ideals",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "many-feared-trapped-in-mall-collapse-after-japan-earthquake-officials--c0738cff",
@@ -247,30 +362,7 @@
           "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "west-bank-quarry-owner-appeals-to-trump-after-settler-raid-e5d5b03b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "West Bank quarry owner appeals to Trump after settler raid",
-      "published_at": "2026-07-28T19:23:29.000Z",
-      "image": "",
-      "image_alt": "West Bank quarry owner appeals to Trump after settler raid",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "zelensky-and-trump-meet-at-the-white-house-has-their-relationship-thaw-303d9808",
@@ -293,122 +385,76 @@
           "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped-cbe5c3ab",
-      "region": "World",
-      "topic": "World",
+      "id": "chad-to-withdraw-from-the-international-criminal-court-aedea106",
+      "region": "Europe",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-      "published_at": "2026-07-28T18:24:26.000Z",
-      "image": "",
-      "image_alt": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+      "headline": "Chad to withdraw from the International Criminal Court",
+      "published_at": "2026-07-28T20:14:58.000Z",
+      "image": "https://s.france24.com/media/display/c8b2a808-8abf-11f1-9988-005056a97e36/w:1024/p:16x9/ANGL260728-2145-Live-01.jpg",
+      "image_alt": "Chad to withdraw from the International Criminal Court",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/chad-to-withdraw-from-the-international-criminal-court"
         }
       ],
-      "impact": 76
+      "impact": 73
     },
     {
-      "id": "as-u-s-pauses-strikes-iran-is-no-rush-to-resume-cease-fire-talks-9871f692",
+      "id": "oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tens-e4ea3407",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
-      "published_at": "2026-07-28T18:10:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-moment-tzvw/28int-iran-moment-tzvw-mediumSquareAt3X-v2.jpg",
-      "image_alt": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+      "headline": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
+      "published_at": "2026-07-28T20:07:33.000Z",
+      "image": "https://s.france24.com/media/display/d8148914-8359-11f1-b302-005056bf30b7/w:1024/p:16x9/2026-07-16T063055Z-845135880-RC2REMA7T02V-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+      "image_alt": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions"
         }
       ],
-      "impact": 76
+      "impact": 73
     },
     {
-      "id": "uganda-declares-end-to-ebola-outbreak-9f3087d4",
-      "region": "World",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Uganda declares end to Ebola outbreak",
-      "published_at": "2026-07-28T18:02:03.000Z",
-      "image": "",
-      "image_alt": "Uganda declares end to Ebola outbreak",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "wildfire-leaves-biscarrosse-commercial-district-in-ruins-6021afce",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Wildfire leaves Biscarrosse commercial district in ruins",
-      "published_at": "2026-07-28T17:59:16.000Z",
-      "image": "",
-      "image_alt": "Wildfire leaves Biscarrosse commercial district in ruins",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/wildfire-leaves-biscarrosse-commercial-district-in-ruins?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "france-and-spain-race-to-contain-fires-before-some-areas-reach-104-deg-97b1f3fe",
+      "id": "un-says-online-scam-center-trafficking-is-skyrocketing-19bb85f7",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "published_at": "2026-07-28T17:14:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg",
-      "image_alt": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+      "headline": "UN says online scam center trafficking is skyrocketing",
+      "published_at": "2026-07-28T19:45:00.000Z",
+      "image": "",
+      "image_alt": "UN says online scam center trafficking is skyrocketing",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "guyana-captain-crew-charged-with-murder-in-ferry-capsizing-27ae72c7",
@@ -431,40 +477,86 @@
           "url": "https://www.dw.com/en/guyana-captain-crew-charged-with-murder-in-ferry-capsizing/a-78151552?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "fujimori-takes-charge-in-peru-amid-china-us-balancing-act-5f3c43b4",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Fujimori takes charge in Peru amid China, US balancing act",
-      "published_at": "2026-07-28T19:22:00.000Z",
-      "image": "",
-      "image_alt": "Fujimori takes charge in Peru amid China, US balancing act",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "netanyahu-says-he-had-best-conversation-i-ve-ever-had-with-our-friend--9b2ed4da",
+      "id": "further-sex-assault-allegations-against-french-star-patrick-bruel-4220734e",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Netanyahu says he had 'best conversation I've ever had' with 'our friend Donald Trump'",
-      "published_at": "2026-07-28T19:51:52.000Z",
+      "headline": "Further sex assault allegations against French star Patrick Bruel",
+      "published_at": "2026-07-28T20:37:34.000Z",
+      "image": "https://img.lemde.fr/2026/06/08/0/0/2679/1339/644/322/60/0/4a009bf_ftp-1-il0gehkzdbz3-2026-06-08t171705z-1604017511-rc26p3axzvh8-rtrmadp-3-france-singer.JPG",
+      "image_alt": "Further sex assault allegations against French star Patrick Bruel",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/28/further-sex-assault-allegations-against-french-star-patrick-bruel_6755934_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "zelensky-hails-good-meeting-in-washington-with-trump-on-patriot-air-de-4777953d",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Zelensky hails 'good meeting' in Washington with Trump on Patriot air defenses",
+      "published_at": "2026-07-28T20:16:43.000Z",
+      "image": "https://img.lemde.fr/2026/07/28/0/0/2048/1024/644/322/60/0/e5757ea_ftp-1-v1yogjjreokl-5725690-01-06.jpg",
+      "image_alt": "Zelensky hails 'good meeting' in Washington with Trump on Patriot air defenses",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/28/zelensky-hails-good-meeting-in-washington-with-trump-on-patriot-air-defenses_6755933_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "bad-news-for-bordeaux-france-s-celebrated-wine-industry-faces-wake-up--4154d78b",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bad news for Bordeaux: France's celebrated wine industry faces wake-up call over wildfires",
+      "published_at": "2026-07-28T20:05:05.000Z",
+      "image": "https://s.france24.com/media/display/f1b0c614-8abe-11f1-8b0e-005056bf30b7/w:1024/p:16x9/AP26208474751211.jpg",
+      "image_alt": "Bad news for Bordeaux: France's celebrated wine industry faces wake-up call over wildfires",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20260728-bad-news-for-bordeaux-france-s-celebrated-wine-industry-faces-wake-up-call-over-wildfires"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "netanyahu-says-he-had-best-conversation-with-friend-donald-trump-discu-9b2ed4da",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Netanyahu says he had 'best conversation' with 'friend Donald Trump,' discussing Iran and nuclear weapons",
+      "published_at": "2026-07-28T19:51:47.000Z",
       "image": "https://img.lemde.fr/2026/07/28/70/0/3200/1600/644/322/60/0/79dd60d_ftp-1-04jdn5nsyhkb-5725900-01-06.jpg",
-      "image_alt": "Netanyahu says he had 'best conversation I've ever had' with 'our friend Donald Trump'",
+      "image_alt": "Netanyahu says he had 'best conversation' with 'friend Donald Trump,' discussing Iran and nuclear weapons",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -475,98 +567,6 @@
         {
           "name": "Le Monde",
           "url": "https://www.lemonde.fr/en/international/article/2026/07/28/netanyahu-says-he-had-best-conversation-i-ve-ever-had-with-our-friend-donald-trump_6755932_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "india-s-cockroach-protesters-explain-how-they-toppled-one-of-modi-s-mi-c7a255bf",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India’s ‘cockroach’ protesters explain how they toppled one of Modi’s ministers",
-      "published_at": "2026-07-28T19:14:04.000Z",
-      "image": "https://s.france24.com/media/display/8f993b78-8a69-11f1-9e69-005056bfb2b6/w:1024/p:16x9/cover-inde.png",
-      "image_alt": "India’s ‘cockroach’ protesters explain how they toppled one of Modi’s ministers",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260728-india-cockroach-protesters-explain-toppled-modi-ministers"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "building-a-different-kind-of-forest-after-devastating-wildfires-ddea1a46",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Building a 'different kind of forest' after devastating wildfires",
-      "published_at": "2026-07-28T19:03:44.000Z",
-      "image": "https://s.france24.com/media/display/91d27526-8ab4-11f1-a28e-005056bfb2b6/w:1024/p:16x9/EN-20260728-200935-201725-CS.jpg",
-      "image_alt": "Building a 'different kind of forest' after devastating wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260728-building-a-different-kind-of-forest-after-devastating-wildfires"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "fifa-plans-to-form-new-commercial-subsidiary-and-sell-stake-7bbda2f9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "FIFA plans to form new commercial subsidiary and sell stake",
-      "published_at": "2026-07-28T17:35:00.000Z",
-      "image": "",
-      "image_alt": "FIFA plans to form new commercial subsidiary and sell stake",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/fifa-plans-to-form-new-commercial-subsidiary-and-sell-stake/a-78149348?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "mysterious-deaths-of-14-elephants-in-kenya-prompts-urgent-inquiry-54c9f613",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "published_at": "2026-07-28T16:37:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f024/live/62e983e0-8a9f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "image_alt": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 72
