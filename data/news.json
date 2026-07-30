@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T00:02:39.429Z",
+  "updated_at": "2026-07-30T03:40:22.861Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-updates-more-countries-pulled-into-conflict-with-spate-o-91da63b4",
+      "id": "us-launches-heavy-strikes-on-iran-after-attempted-attack-on-american-t-10467394",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
-      "published_at": "2026-07-29T23:36:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-live-promo320p-btkg/29mideast-live-promo320p-btkg-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
+      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "published_at": "2026-07-30T03:33:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
+    {
+      "id": "iran-war-live-updates-u-s-strikes-iran-as-fighting-reignites-across-re-91da63b4",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran War Live Updates: U.S. Strikes Iran as Fighting Reignites Across Region",
+      "published_at": "2026-07-30T03:13:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-live-promo830p-zhwm/29mideast-live-promo830p-zhwm-mediumSquareAt3X.jpg",
+      "image_alt": "Iran War Live Updates: U.S. Strikes Iran as Fighting Reignites Across Region",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -41,6 +64,52 @@
         }
       ],
       "impact": 87
+    },
+    {
+      "id": "one-killed-in-russian-missile-strikes-on-kyiv-day-after-zelenskyy-warn-e73f2b29",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "published_at": "2026-07-30T00:23:13.000Z",
+      "image": "",
+      "image_alt": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss"
+        }
+      ],
+      "impact": 84
+    },
+    {
+      "id": "iran-war-live-us-launches-powerful-strikes-after-irgc-attack-on-jordan-3d8c86e1",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+      "published_at": "2026-07-30T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "saudi-arabia-s-dilemma-as-it-tries-to-stay-out-of-us-iran-war-3ea53c3c",
@@ -63,17 +132,63 @@
           "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 81
     },
     {
-      "id": "iran-war-trump-threatens-to-hit-iran-apos-very-hard-apos-8e2721ad",
+      "id": "singapore-fines-french-teen-465-for-viral-straw-licking-stunt-2b30a51e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "published_at": "2026-07-30T02:54:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf7/live/fa355690-8bbf-11f1-842d-097f342ad5c4.jpg",
+      "image_alt": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violen-509df9c6",
+      "region": "Asia-Pacific",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
+      "published_at": "2026-07-29T23:14:43.000Z",
+      "image": "https://s.france24.com/media/display/8503f764-13bf-11f1-b820-005056bfb2b6/w:1024/p:16x9/AP26058270694882.jpg",
+      "image_alt": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20260729-deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violence-surges"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "iran-war-us-launches-strikes-on-iran-as-apos-powerful-response-apos-76816ede",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war: Trump threatens to hit Iran &apos;very hard&apos;",
+      "headline": "Iran war: US launches strikes on Iran as &apos;powerful response&apos;",
       "published_at": "2026-07-29T22:45:00.000Z",
       "image": "",
-      "image_alt": "Iran war: Trump threatens to hit Iran &apos;very hard&apos;",
+      "image_alt": "Iran war: US launches strikes on Iran as &apos;powerful response&apos;",
       "translations": {
         "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,66 +198,20 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-trump-threatens-to-hit-iran-very-hard/live-78166958?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/iran-war-us-launches-strikes-on-iran-as-powerful-response/live-78166958?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 83
+      "impact": 79
     },
     {
-      "id": "myanmar-court-sentences-activists-to-37-years-over-election-protest-466f8952",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Myanmar court sentences activists to 37 years over election protest",
-      "published_at": "2026-07-29T21:29:33.000Z",
-      "image": "",
-      "image_alt": "Myanmar court sentences activists to 37 years over election protest",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "fed-keeps-rates-steady-despite-high-inflation-f5ac8103",
+      "id": "three-greek-firefighters-die-as-wildfires-threaten-parts-of-southern-e-9aea9c45",
       "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Fed keeps rates steady despite high inflation",
-      "published_at": "2026-07-29T23:43:44.000Z",
-      "image": "https://img.lemde.fr/2026/07/28/0/0/3138/1569/644/322/60/0/1a12d41_ftp-1-wdgxw4y5kug5-2026-07-28t100112z-2037426853-rc2uvlas1hyr-rtrmadp-3-usa-fed.JPG",
-      "image_alt": "Fed keeps rates steady despite high inflation",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/07/30/fed-keeps-rates-steady-despite-high-inflation_6755980_19.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "salman-rushdie-attacker-convicted-of-terror-offenses-84fc82ce",
-      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Salman Rushdie attacker convicted of terror offenses",
-      "published_at": "2026-07-29T22:15:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg",
-      "image_alt": "Salman Rushdie attacker convicted of terror offenses",
+      "headline": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+      "published_at": "2026-07-30T01:53:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f48/live/2a7fb530-8bb5-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -152,43 +221,89 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 78
     },
     {
-      "id": "four-women-accuse-jared-leto-of-criminal-sexual-conduct-11c8163e",
+      "id": "zelensky-warns-of-possible-major-russian-strike-overnight-3d1a63f5",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Zelensky warns of possible major Russian strike overnight",
+      "published_at": "2026-07-29T21:49:55.000Z",
+      "image": "https://s.france24.com/media/display/a04dc3d6-8784-11f1-bcd2-005056a90284/w:1024/p:16x9/AP26205465075778.jpg",
+      "image_alt": "Zelensky warns of possible major Russian strike overnight",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260729-zelensky-warns-of-possible-major-russian-strike-overnight"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explai-681e6b7b",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Four women accuse Jared Leto of criminal sexual conduct",
-      "published_at": "2026-07-29T21:36:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0116/live/14261a10-8b72-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Four women accuse Jared Leto of criminal sexual conduct",
+      "headline": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "published_at": "2026-07-30T03:04:18.000Z",
+      "image": "",
+      "image_alt": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "trump-considering-ai-controls-after-openai-hacking-incidents-9293fcbb",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Trump considering AI controls after OpenAI hacking incidents",
+      "published_at": "2026-07-30T00:41:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+      "image_alt": "Trump considering AI controls after OpenAI hacking incidents",
+      "translations": {
+        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea-b36c9e43",
+      "id": "living-with-fear-inside-a-southern-lebanon-village-divided-by-israel-b6599407",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
-      "published_at": "2026-07-29T23:34:26.000Z",
+      "headline": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "published_at": "2026-07-30T02:45:25.000Z",
       "image": "",
-      "image_alt": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "image_alt": "Living with fear: Inside a southern Lebanon village divided by Israel",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,20 +313,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "nicaragua-s-daniel-ortega-aims-to-bar-traitors-from-future-elections-a4794513",
+      "id": "israel-strikes-mosque-in-gaza-city-825a663b",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel Strikes Mosque in Gaza City",
+      "published_at": "2026-07-30T01:54:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28int-gaza-mosque-01-ftmz-promo/28int-gaza-mosque-01-ftmz-mediumSquareAt3X.jpg",
+      "image_alt": "Israel Strikes Mosque in Gaza City",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-se-c7282563",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
-      "published_at": "2026-07-29T23:30:22.000Z",
+      "headline": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "published_at": "2026-07-30T01:56:57.000Z",
       "image": "",
-      "image_alt": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
+      "image_alt": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -221,20 +359,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "israel-slams-canada-for-statement-opposing-west-bank-settlement-expans-0939016a",
-      "region": "Middle East",
+      "id": "japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch-9bb87875",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israel slams Canada for statement opposing West Bank settlement expansion",
-      "published_at": "2026-07-29T23:29:24.000Z",
+      "headline": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "published_at": "2026-07-30T01:42:30.000Z",
       "image": "",
-      "image_alt": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "image_alt": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,33 +382,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court-f0253c80",
-      "region": "Americas",
-      "topic": "Society",
+      "id": "trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition-08cda7c5",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
-      "published_at": "2026-07-29T23:25:37.000Z",
+      "headline": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "published_at": "2026-07-30T01:04:42.000Z",
       "image": "",
-      "image_alt": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "image_alt": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
+    },
+    {
+      "id": "live-fontainebleau-fire-contained-but-southern-europe-on-high-alert-as-52409610",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Live: Fontainebleau fire contained, but southern Europe on high alert as wildfires rage",
+      "published_at": "2026-07-30T02:59:15.000Z",
+      "image": "https://s.france24.com/media/display/b8386ee4-8bbf-11f1-ab7a-005056a90284/w:1024/p:16x9/AP26210805524181.jpg",
+      "image_alt": "Live: Fontainebleau fire contained, but southern Europe on high alert as wildfires rage",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260730-live-fontainebleau-fire-contained-but-southern-europe-on-high-alert-as-wildfires-rage"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "iran-war-egypt-apos-s-difficult-balancing-act-d6d78999",
@@ -293,76 +454,30 @@
           "url": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 73
     },
     {
-      "id": "oscar-winning-songwriter-glen-hansard-killed-in-crash-d396d319",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "published_at": "2026-07-29T15:33:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c34/live/91c02c00-8b49-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "iraq-calls-saudi-us-attacks-a-flagrant-violation-of-sovereignty-40ae3f2f",
+      "id": "us-says-it-struck-dozens-of-iranian-targets-in-latest-wave-of-attacks-699079fc",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
-      "published_at": "2026-07-29T23:10:15.000Z",
-      "image": "",
-      "image_alt": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+      "headline": "US says it struck dozens of Iranian targets in latest wave of attacks",
+      "published_at": "2026-07-30T02:22:48.000Z",
+      "image": "https://s.france24.com/media/display/ed7b4e84-8af0-11f1-b428-005056a97e36/w:1024/p:16x9/2026-07-26T000727Z-244236030-RC2BLMAN50PU-RTRMADP-3-IRAN-CRISIS-CENTCOM.jpg",
+      "image_alt": "US says it struck dozens of Iranian targets in latest wave of attacks",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260730-us-carries-out-powerful-strikes-on-iran-after-attacks-on-bases-and-regional-allies"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies-0fb9a2d5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
-      "published_at": "2026-07-29T22:27:35.000Z",
-      "image": "",
-      "image_alt": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 72
     },
     {
       "id": "german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin-f182bcb6",
@@ -385,40 +500,63 @@
           "url": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 72
     },
     {
-      "id": "explosions-reported-in-kyiv-after-zelenskyy-warns-of-russian-strikes-192c9649",
+      "id": "infantino-defends-fifa-investment-plan-amid-mounting-backlash-59accaa1",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Explosions reported in Kyiv after Zelenskyy warns of Russian strikes",
-      "published_at": "2026-07-29T22:38:00.000Z",
-      "image": "",
-      "image_alt": "Explosions reported in Kyiv after Zelenskyy warns of Russian strikes",
+      "headline": "Infantino defends FIFA investment plan amid mounting backlash",
+      "published_at": "2026-07-30T01:14:23.000Z",
+      "image": "https://s.france24.com/media/display/a9149358-8b96-11f1-a660-005056bf30b7/w:1024/p:16x9/2026-07-28T162945Z-1037867588-RC28KJAED3SY-RTRMADP-3-SOCCER-FIFA-STAKE.jpg",
+      "image_alt": "Infantino defends FIFA investment plan amid mounting backlash",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/explosions-reported-in-kyiv-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20260730-infantino-defends-fifa-investment-plan-amid-mounting-backlash"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
-      "id": "french-couple-arrested-after-babies-remains-found-e726a410",
+      "id": "spain-eases-evacuations-as-france-battles-fresh-wildfires-amid-new-hea-0c938199",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "French couple arrested after babies' remains found",
-      "published_at": "2026-07-29T22:11:35.000Z",
-      "image": "https://img.lemde.fr/2026/07/29/178/0/7256/3628/644/322/60/0/cd739d9_ftp-1-5n1twyuimhx6-5730101-01-06.jpg",
-      "image_alt": "French couple arrested after babies' remains found",
+      "headline": "Spain eases evacuations as France battles fresh wildfires amid new heatwave",
+      "published_at": "2026-07-30T01:09:19.000Z",
+      "image": "https://s.france24.com/media/display/11d84736-8b60-11f1-97f2-005056a97e36/w:1024/p:16x9/2026-07-29T143640Z-584977264-RC2QNMAQY6CM-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+      "image_alt": "Spain eases evacuations as France battles fresh wildfires amid new heatwave",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260730-spain-eases-evacuations-as-france-battles-fresh-wildfires-amid-new-heatwave"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "bolivia-prosecutor-orders-arrest-of-ex-leader-morales-over-protests-cb21e2f5",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bolivia prosecutor orders arrest of ex-leader Morales over protests",
+      "published_at": "2026-07-30T00:44:20.000Z",
+      "image": "https://img.lemde.fr/2026/07/29/704/0/6192/3096/644/322/60/0/4a09f84_ftp-1-gfhyarvbpmmy-5736186-01-06.jpg",
+      "image_alt": "Bolivia prosecutor orders arrest of ex-leader Morales over protests",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,148 +566,10 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/30/french-couple-arrested-after-babies-remains-found_6755978_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/30/bolivia-prosecutor-orders-arrest-of-ex-leader-morales-over-protests_6755982_4.html"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "zendaya-on-working-with-tom-holland-in-spider-man-when-you-re-best-fri-e7ece2d6",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "published_at": "2026-07-29T20:21:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad2/live/e88c90f0-8b8a-11f1-9432-3dcf466331f0.jpg",
-      "image_alt": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "cuba-hit-by-crisis-opens-pharmacies-gas-stations-to-private-firms-a59026be",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Cuba, hit by crisis, opens pharmacies, gas stations to private firms",
-      "published_at": "2026-07-29T16:49:00.000Z",
-      "image": "https://img.lemde.fr/2026/07/29/625/0/7502/3751/644/322/60/0/fc5a132_ftp-1-5gx4qnih3n4j-5732198-01-06.jpg",
-      "image_alt": "Cuba, hit by crisis, opens pharmacies, gas stations to private firms",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/29/cuba-hit-by-crisis-opens-pharmacies-gas-stations-to-private-firms_6755971_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "fifa-opens-disciplinary-proceedings-against-argentina-97753f2e",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Fifa opens disciplinary proceedings against Argentina",
-      "published_at": "2026-07-29T17:21:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa96/live/523cb650-8b6e-11f1-9c48-75e854e5573d.jpg",
-      "image_alt": "Fifa opens disciplinary proceedings against Argentina",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "it-s-our-home-it-s-our-forest-bbc-speaks-to-locals-fighting-france-wil-607e2fd0",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "published_at": "2026-07-29T16:49:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8d/live/017e2260-8b89-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "wildfires-slow-in-france-and-spain-but-worse-may-be-ahead-9282b9f0",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
-      "published_at": "2026-07-29T18:38:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/29/espanol/29int-europe-fires-01-vbfw-ES-copy1/29int-europe-fires-01-vbfw-mediumSquareAt3X.jpg",
-      "image_alt": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "two-firefighters-die-in-crete-as-wildfires-threaten-parts-of-southern--9aea9c45",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-      "published_at": "2026-07-29T16:23:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61b6/live/24160460-8b60-11f1-b4bb-f7524edbe34a.jpg",
-      "image_alt": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 67
+      "impact": 70
     }
   ]
 }
