@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T23:01:09.826Z",
+  "updated_at": "2026-07-31T01:02:48.099Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-updates-saudis-form-military-alliance-to-protect-red-sea-02b1d91f",
+      "id": "iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-graduall-ed331bec",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
-      "published_at": "2026-07-30T22:28:48.000Z",
+      "headline": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+      "published_at": "2026-07-31T00:03:58.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "saudis-form-military-alliance-to-protect-red-sea-shipping-02b1d91f",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Saudis Form Military Alliance to Protect Red Sea Shipping",
+      "published_at": "2026-07-31T00:46:08.000Z",
       "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30mideast-live-header-jhcg/30mideast-live-header-jhcg-mediumSquareAt3X.jpg",
-      "image_alt": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
+      "image_alt": "Saudis Form Military Alliance to Protect Red Sea Shipping",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,30 +63,7 @@
           "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump"
         }
       ],
-      "impact": 87
-    },
-    {
-      "id": "will-saudi-arabia-be-dragged-further-into-the-war-in-iran-e6714c72",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Will Saudi Arabia be dragged further into the war in Iran?",
-      "published_at": "2026-07-30T21:00:28.000Z",
-      "image": "",
-      "image_alt": "Will Saudi Arabia be dragged further into the war in Iran?",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss"
-        }
-      ],
-      "impact": 85
+      "impact": 82
     },
     {
       "id": "why-limited-war-with-the-us-may-suit-iran-better-than-peace-e762bb85",
@@ -86,7 +86,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 82
+    },
+    {
+      "id": "nirmal-purja-among-10-climbers-feared-missing-after-avalanche-45cd353c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "published_at": "2026-07-31T00:52:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "anthropic-says-ai-models-hacked-three-firms-during-tests-a6d12130",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Anthropic says AI models hacked three firms during tests",
+      "published_at": "2026-07-31T00:41:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+      "image_alt": "Anthropic says AI models hacked three firms during tests",
+      "translations": {
+        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "at-least-five-members-of-same-family-killed-in-russian-missile-attack--0e0252d4",
@@ -109,7 +155,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 80
+    },
+    {
+      "id": "hamas-says-it-has-agreed-to-disarm-after-trump-announces-board-of-peac-2c84d1a3",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "published_at": "2026-07-31T00:07:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "us-government-map-of-africa-mislabels-every-country-at-global-conferen-15409417",
@@ -132,7 +201,7 @@
           "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
       "id": "nato-says-russian-missile-hit-poland-during-ukraine-attack-6b13aa6f",
@@ -155,30 +224,122 @@
           "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "hundreds-of-migrants-swim-from-morocco-to-spanish-enclave-of-ceuta-4ad405e8",
-      "region": "World",
+      "id": "us-escalation-with-iran-is-pointless-warns-former-us-diplomat-b19f9d3d",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "published_at": "2026-07-30T21:24:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "image_alt": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "headline": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
+      "published_at": "2026-07-31T00:08:12.000Z",
+      "image": "",
+      "image_alt": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-7817187f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+      "published_at": "2026-07-30T23:51:40.000Z",
+      "image": "",
+      "image_alt": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "why-china-s-a-i-models-could-threaten-the-communist-party-3c36e769",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why China’s A.I. Models Could Threaten the Communist Party",
+      "published_at": "2026-07-30T23:31:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/00int-china-ai-controls-01-pljb/00int-china-ai-controls-01-pljb-mediumSquareAt3X.jpg",
+      "image_alt": "Why China’s A.I. Models Could Threaten the Communist Party",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspensi-a385d4ed",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UK left-wing MP Diane Abbott reinstated by Labour Party after suspension",
+      "published_at": "2026-07-30T23:29:09.000Z",
+      "image": "",
+      "image_alt": "UK left-wing MP Diane Abbott reinstated by Labour Party after suspension",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-fin-b3136c7f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final",
+      "published_at": "2026-07-30T23:25:48.000Z",
+      "image": "",
+      "image_alt": "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "berlin-pride-attack-are-german-juvenile-courts-too-lenient-1a6324ea",
@@ -201,30 +362,53 @@
           "url": "https://www.dw.com/en/berlin-pride-attack-are-german-juvenile-courts-too-lenient/a-78181294?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "us-launches-heavy-strikes-on-iran-after-attempted-attack-on-american-t-10467394",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "published_at": "2026-07-30T10:49:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb2/live/84097750-8bf4-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "id": "us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detentio-5c9cacf0",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "US appeals court rejects Trump expansion of mandatory migrant detention",
+      "published_at": "2026-07-30T23:24:10.000Z",
+      "image": "",
+      "image_alt": "US appeals court rejects Trump expansion of mandatory migrant detention",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 75
+    },
+    {
+      "id": "trump-administration-appeals-to-never-before-used-court-for-deportatio-50ce7b5f",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Trump administration appeals to never-before-used court for deportation",
+      "published_at": "2026-07-30T23:14:28.000Z",
+      "image": "",
+      "image_alt": "Trump administration appeals to never-before-used court for deportation",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/30/trump-administration-appeals-to-never-before-used-court-for-deportation?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-fd7d48a8",
@@ -247,168 +431,30 @@
           "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "amazon-s-zoox-secures-us-federal-approval-for-steering-wheel-free-robo-8f2c73c5",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
-      "published_at": "2026-07-30T22:14:12.000Z",
-      "image": "",
-      "image_alt": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed-e1727136",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why is US GDP growth slowing, and how can it be reversed?",
-      "published_at": "2026-07-30T21:39:37.000Z",
-      "image": "",
-      "image_alt": "Why is US GDP growth slowing, and how can it be reversed?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "french-teen-fined-in-singapore-over-straw-licking-stunt-c7a1216b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "French teen fined in Singapore over ‘straw licking’ stunt",
-      "published_at": "2026-07-30T21:34:39.000Z",
-      "image": "",
-      "image_alt": "French teen fined in Singapore over ‘straw licking’ stunt",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "argentina-s-milei-seeks-to-deport-foreigners-that-spread-hate-of-count-203751ca",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country",
-      "published_at": "2026-07-30T21:34:11.000Z",
-      "image": "",
-      "image_alt": "Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "wildfires-in-greece-kill-3-firefighters-as-blazes-still-burn-in-france-b5755e19",
+      "id": "trump-announces-agreement-for-disarmament-of-hamas-3f7787b2",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "published_at": "2026-07-30T20:56:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-europe-wildfires-01-hvkb/30int-europe-wildfires-01-hvkb-mediumSquareAt3X.jpg",
-      "image_alt": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+      "headline": "Trump announces agreement for disarmament of Hamas",
+      "published_at": "2026-07-31T00:26:14.000Z",
+      "image": "https://img.lemde.fr/2026/07/31/136/0/6000/3000/644/322/60/0/b8029e4_upload-1-rklpdzfaqodm-b8029e4-ftp-import-images-1-kjtipgeb5pxq-e1f2f11faddc4518ad81db0406973b66-1-aed4ae3c7a7e4578b1dcfba889503284-1.jpg",
+      "image_alt": "Trump announces agreement for disarmament of Hamas",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/31/trump-announces-agreement-for-disarmament-of-hamas_6756023_4.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave-f995dd29",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Prague Zoo keeps polar bears cool with ice amid heatwave",
-      "published_at": "2026-07-30T21:00:11.000Z",
-      "image": "",
-      "image_alt": "Prague Zoo keeps polar bears cool with ice amid heatwave",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "un-launches-hunt-for-next-chief-amid-rising-challenges-71ae0b7d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UN launches hunt for next chief amid rising challenges",
-      "published_at": "2026-07-30T20:54:48.000Z",
-      "image": "",
-      "image_alt": "UN launches hunt for next chief amid rising challenges",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 72
     },
     {
       "id": "kenya-15-dead-elephants-likely-poisoned-by-cyanide-e05afbd1",
@@ -431,53 +477,53 @@
           "url": "https://www.dw.com/en/kenya-15-dead-elephants-likely-poisoned-by-cyanide/a-78181878?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 72
     },
     {
-      "id": "pakistan-says-us-iran-talks-still-alive-despite-fresh-wave-of-us-strik-56ab4527",
-      "region": "Middle East",
+      "id": "japan-excludes-women-from-imperial-succession-in-the-name-of-a-partial-f9796bac",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pakistan says US-Iran talks still alive despite fresh wave of US strikes",
-      "published_at": "2026-07-30T22:42:57.000Z",
-      "image": "https://s.france24.com/media/display/245aafc8-8bda-11f1-ab9f-005056bfb2b6/w:1024/p:16x9/2026-07-30T040805Z-242337838-RC23OMADMRFS-RTRMADP-3-IRAN-CRISIS-CENTCOM.jpg",
-      "image_alt": "Pakistan says US-Iran talks still alive despite fresh wave of US strikes",
+      "headline": "Japan excludes women from imperial succession in the name of a partially invented tradition",
+      "published_at": "2026-07-30T23:16:47.000Z",
+      "image": "https://img.lemde.fr/2026/07/27/333/0/5568/2784/644/322/60/0/bc4a48c_ftp-1-8lstiou2rogc-5716541-01-06.jpg",
+      "image_alt": "Japan excludes women from imperial succession in the name of a partially invented tradition",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260730-pakistan-says-us-iran-talks-still-alive-despite-fresh-wave-of-us-strikes"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/31/japan-excludes-women-from-imperial-succession-in-the-name-of-a-partially-invented-tradition_6756021_4.html"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
-      "id": "climate-change-made-france-spain-wildfire-conditions-far-more-likely-s-144f6b50",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Climate change made France, Spain wildfire conditions far more likely, scientists say",
-      "published_at": "2026-07-30T22:32:33.000Z",
-      "image": "https://s.france24.com/media/display/dd21951a-897a-11f1-ab50-005056a90284/w:1024/p:16x9/000-C3987H6.jpg",
-      "image_alt": "Climate change made France, Spain wildfire conditions far more likely, scientists say",
+      "id": "hundreds-of-migrants-swim-from-morocco-to-spanish-enclave-of-ceuta-4ad405e8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "published_at": "2026-07-30T21:24:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image_alt": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
       "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260730-climate-change-made-france-spain-wildfire-conditions-far-more-likely-scientists-say"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "missile-that-left-crater-deep-inside-poland-was-probably-russian-30556073",
@@ -500,7 +546,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "ai-europe-commits-5-billion-to-fund-seven-megafactories-and-catch-up-w-7c22559f",
@@ -523,53 +569,7 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/07/31/ai-europe-commits-5-billion-to-fund-seven-megafactories-and-catch-up-with-the-us-and-china_6756020_19.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "netflix-drama-the-polygamist-ignites-global-debate-on-marriage-betraya-2e70e5eb",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Netflix drama The Polygamist ignites global debate on marriage & betrayal",
-      "published_at": "2026-07-30T20:13:15.000Z",
-      "image": "https://s.france24.com/media/display/43bf1926-8c52-11f1-8248-005056bfb2b6/w:1024/p:16x9/ANGL260730-2145-Live-01.jpg",
-      "image_alt": "Netflix drama The Polygamist ignites global debate on marriage & betrayal",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/netflix-drama-the-polygamist-ignites-global-debate-on-marriage-betrayal"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "france-spain-eye-respite-from-wildfires-as-other-blazes-break-out-in-e-cdd2bd41",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France, Spain eye respite from wildfires as other blazes break out in Europe",
-      "published_at": "2026-07-30T20:07:11.000Z",
-      "image": "https://s.france24.com/media/display/85b60f48-8c51-11f1-b09b-005056bfb2b6/w:1024/p:16x9/2026-07-30T154504Z-1690577853-RC26OMADPJ0C-RTRMADP-3-EUROPE-WEATHER-TURKEY-WILDFIRE.jpg",
-      "image_alt": "France, Spain eye respite from wildfires as other blazes break out in Europe",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260730-france-spain-eye-respite-from-wildfires-as-other-blazes-break-out-in-europe"
-        }
-      ],
-      "impact": 71
+      "impact": 70
     }
   ]
 }
