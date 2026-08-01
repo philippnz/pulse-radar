@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T17:07:35.338Z",
+  "updated_at": "2026-08-01T18:27:55.075Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "at-least-9-people-killed-in-russian-missile-attacks-on-kyiv-686f0dc7",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "At least 9 people killed in Russian missile attacks on Kyiv",
+      "published_at": "2026-08-01T17:45:26.000Z",
+      "image": "",
+      "image_alt": "At least 9 people killed in Russian missile attacks on Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "iran-plotted-wider-war-with-help-of-its-proxies-fea782e8",
       "region": "Middle East",
@@ -40,30 +63,30 @@
           "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
-      "id": "israeli-strike-destroys-gaza-hospital-warehouse-17d57f96",
+      "id": "marathon-shines-light-on-gaza-s-orphaned-children-and-humanitarian-cri-4f43dfcf",
       "region": "Middle East",
-      "topic": "Security",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "Israeli strike destroys Gaza hospital warehouse",
-      "published_at": "2026-08-01T14:07:36.000Z",
+      "headline": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+      "published_at": "2026-08-01T17:57:18.000Z",
       "image": "",
-      "image_alt": "Israeli strike destroys Gaza hospital warehouse",
+      "image_alt": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 82
     },
     {
       "id": "mountaineer-nirmal-purja-killed-in-pakistan-avalanche-his-company-says-2402b417",
@@ -84,29 +107,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift-42827199",
-      "region": "World",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-      "published_at": "2026-08-01T16:43:34.000Z",
-      "image": "",
-      "image_alt": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss"
         }
       ],
       "impact": 82
@@ -132,7 +132,30 @@
           "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports"
         }
       ],
-      "impact": 82
+      "impact": 81
+    },
+    {
+      "id": "turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift-42827199",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+      "published_at": "2026-08-01T16:43:34.000Z",
+      "image": "",
+      "image_alt": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "nine-killed-in-strikes-on-kyiv-as-ukraine-sinks-russian-container-ship-1ff5373d",
@@ -155,30 +178,53 @@
           "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
-      "id": "at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-elec-4aae333c",
-      "region": "World",
-      "topic": "Politics",
+      "id": "italy-putting-nearly-all-major-cities-on-highest-heat-alert-604cac9e",
+      "region": "Europe",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "At least 11 wounded by Colombia car bomb days before presidential election",
-      "published_at": "2026-08-01T15:48:39.000Z",
-      "image": "",
-      "image_alt": "At least 11 wounded by Colombia car bomb days before presidential election",
+      "headline": "Italy putting nearly all major cities on highest heat alert",
+      "published_at": "2026-08-01T17:51:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f990/live/6272fba0-8dd1-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image_alt": "Italy putting nearly all major cities on highest heat alert",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
+    },
+    {
+      "id": "call-for-full-review-as-pressure-grows-on-infantino-ced53031",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Call for 'full review' as pressure grows on Infantino",
+      "published_at": "2026-08-01T17:07:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Call for 'full review' as pressure grows on Infantino",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "eu-to-hold-urgent-meeting-after-spanish-pm-calls-ceuta-crisis-response-11f340b3",
@@ -201,7 +247,7 @@
           "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "nirmal-purja-renowned-mountaineer-is-found-dead-after-pakistan-avalanc-c24159dc",
@@ -222,29 +268,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "call-for-full-review-as-pressure-grows-on-infantino-ced53031",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Call for 'full review' as pressure grows on Infantino",
-      "published_at": "2026-08-01T16:29:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Call for 'full review' as pressure grows on Infantino",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
@@ -270,7 +293,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "spain-attacks-selfish-response-of-some-eu-countries-to-ceuta-migrant-c-e1980fe0",
@@ -293,53 +316,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
-      "id": "india-s-cockroach-protesters-have-wounds-consistent-with-pellet-gun-fi-c3d93481",
-      "region": "Asia-Pacific",
+      "id": "trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff-49ddfb59",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "published_at": "2026-08-01T15:00:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87d/live/23d70e10-8bf9-11f1-b8ee-9b3c26ad07bb.png",
-      "image_alt": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "headline": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
+      "published_at": "2026-08-01T17:48:41.000Z",
+      "image": "",
+      "image_alt": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "famed-climber-nirmal-purja-among-10-killed-in-avalanche-37b6027d",
-      "region": "Europe",
+      "id": "care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession-a22103c9",
+      "region": "Americas",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Famed climber Nirmal Purja among 10 killed in avalanche",
-      "published_at": "2026-08-01T14:39:00.000Z",
+      "urgency": "Live",
+      "headline": "Care for a dirty soda? How this drink trend became a US obsession",
+      "published_at": "2026-08-01T17:37:34.000Z",
       "image": "",
-      "image_alt": "Famed climber Nirmal Purja among 10 killed in avalanche",
+      "image_alt": "Care for a dirty soda? How this drink trend became a US obsession",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "israeli-forces-detain-residents-and-demolish-homes-in-southern-syria-2b85b132",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli forces detain residents and demolish homes in southern Syria",
+      "published_at": "2026-08-01T17:28:52.000Z",
+      "image": "",
+      "image_alt": "Israeli forces detain residents and demolish homes in southern Syria",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "war-in-ukraine-why-crimea-has-become-a-strategic-target-f935e8ef",
@@ -362,7 +408,7 @@
           "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison-00c34508",
@@ -385,7 +431,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse-28c700ae",
@@ -408,7 +454,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "israel-bombards-gaza-days-after-trump-announced-deal-to-advance-cease--e39e4c91",
@@ -431,30 +477,7 @@
           "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombing-c6b6f969",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-      "published_at": "2026-08-01T15:34:15.000Z",
-      "image": "",
-      "image_alt": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "spain-installs-floating-barrier-in-ceuta-after-influx-of-migrants-3d0f2cf7",
@@ -477,53 +500,53 @@
           "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "in-iran-the-u-s-appears-headed-for-a-strategic-defeat-allies-fear-6b3a07bb",
-      "region": "Middle East",
+      "id": "famed-climber-nirmal-purja-among-10-killed-in-avalanche-37b6027d",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-      "published_at": "2026-08-01T14:46:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-iran-defeat-assess-cwph/01int-iran-defeat-assess-cwph-mediumSquareAt3X.jpg",
-      "image_alt": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+      "urgency": "Breaking",
+      "headline": "Famed climber Nirmal Purja among 10 killed in avalanche",
+      "published_at": "2026-08-01T14:39:00.000Z",
+      "image": "",
+      "image_alt": "Famed climber Nirmal Purja among 10 killed in avalanche",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 75
     },
     {
-      "id": "india-cracks-down-on-protesters-accused-of-abusing-modi-20df10af",
-      "region": "Asia-Pacific",
+      "id": "a-giant-of-the-industry-purja-leaves-behind-a-legacy-that-inspired-a-g-d0a913b7",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "India cracks down on protesters accused of ‘abusing’ Modi",
-      "published_at": "2026-08-01T14:28:20.000Z",
-      "image": "",
-      "image_alt": "India cracks down on protesters accused of ‘abusing’ Modi",
+      "headline": "'A giant of the industry, Purja leaves behind a legacy that inspired a generation to climb higher'",
+      "published_at": "2026-08-01T17:49:50.000Z",
+      "image": "https://s.france24.com/media/display/5fcfaaf8-8dcf-11f1-abd1-005056bfb2b6/w:1024/p:16x9/capture-6830026996a6e2e5a8e9ad5-31129929.jpg",
+      "image_alt": "'A giant of the industry, Purja leaves behind a legacy that inspired a generation to climb higher'",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260801-a-giant-of-the-industry-purja-leaves-behind-a-legacy-that-inspired-a-generation-to-climb-higher"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "russian-missiles-kill-9-in-kyiv-after-trump-backs-off-air-defense-pled-70fd5a88",
@@ -544,29 +567,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "wiebes-wins-tour-de-france-femmes-opener-to-win-first-yellow-jersey-822984dd",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Wiebes wins Tour de France Femmes opener to win first yellow jersey",
-      "published_at": "2026-08-01T16:32:02.000Z",
-      "image": "https://s.france24.com/media/display/52e1adbe-8dc5-11f1-a7a9-005056a97e36/w:1024/p:16x9/2026-08-01T161326Z-1218380917-UP1EM81192D1V-RTRMADP-3-CYCLING-FRANCE.jpg",
-      "image_alt": "Wiebes wins Tour de France Femmes opener to win first yellow jersey",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260801-wiebes-wins-tour-de-france-femmes-opener-to-win-first-yellow-jersey"
         }
       ],
       "impact": 73
