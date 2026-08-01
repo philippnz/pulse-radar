@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:45:12.360Z",
+  "updated_at": "2026-08-01T14:56:16.021Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "israeli-strike-destroys-gaza-hospital-warehouse-17d57f96",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israeli strike destroys Gaza hospital warehouse",
+      "published_at": "2026-08-01T14:07:36.000Z",
+      "image": "",
+      "image_alt": "Israeli strike destroys Gaza hospital warehouse",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "iran-warns-against-flames-of-war-amid-us-strike-threats-on-energy-site-c5b3a49c",
       "region": "Middle East",
@@ -40,7 +63,30 @@
           "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
+    },
+    {
+      "id": "mountaineer-nirmal-purja-killed-in-pakistan-avalanche-his-company-says-2402b417",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "published_at": "2026-08-01T14:11:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
+      "image_alt": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 84
     },
     {
       "id": "nine-killed-in-strikes-on-kyiv-as-ukraine-sinks-russian-container-ship-1ff5373d",
@@ -63,76 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
-    },
-    {
-      "id": "who-could-replace-infantino-as-president-after-fifa-world-cup-crisis-ddeaf59b",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Breaking",
-      "headline": "Who could replace Infantino as president after FIFA World Cup crisis?",
-      "published_at": "2026-08-01T11:58:23.000Z",
-      "image": "",
-      "image_alt": "Who could replace Infantino as president after FIFA World Cup crisis?",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
-      "id": "mountaineer-nirmal-purja-killed-in-pakistan-avalanche-his-company-says-2402b417",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "published_at": "2026-08-01T13:02:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
-      "image_alt": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 84
-    },
-    {
-      "id": "russian-missiles-kill-9-in-kyiv-after-trump-backs-off-air-defense-pled-70fd5a88",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-      "published_at": "2026-08-01T13:16:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-ukraine-attack-ljbp/01int-ukraine-attack-ljbp-mediumSquareAt3X.jpg",
-      "image_alt": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
-        }
-      ],
-      "impact": 82
     },
     {
       "id": "nirmal-purja-renowned-mountaineer-is-found-dead-after-pakistan-avalanc-c24159dc",
@@ -140,7 +117,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
-      "published_at": "2026-08-01T13:09:14.000Z",
+      "published_at": "2026-08-01T14:34:53.000Z",
       "image": "https://static01.nyt.com/images/2026/08/01/multimedia/00xp-purja-HFO-1-hkfj/00xp-purja-HFO-1-hkfj-mediumSquareAt3X.jpg",
       "image_alt": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
       "translations": {
@@ -158,73 +135,50 @@
       "impact": 82
     },
     {
-      "id": "sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust-55b0b7d4",
+      "id": "russian-missiles-kill-9-in-kyiv-after-trump-backs-off-air-defense-pled-70fd5a88",
       "region": "World",
       "topic": "Security",
       "urgency": "Live",
-      "headline": "Sde Teiman walkout lays bare an Israeli military running out of trust",
-      "published_at": "2026-08-01T12:40:36.000Z",
-      "image": "",
-      "image_alt": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "headline": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+      "published_at": "2026-08-01T13:49:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-ukraine-attack-ljbp/01int-ukraine-attack-ljbp-mediumSquareAt3X.jpg",
+      "image_alt": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
         }
       ],
-      "impact": 81
+      "impact": 82
     },
     {
-      "id": "kyiv-9-dead-and-22-hurt-in-missile-attack-4101684d",
+      "id": "spanish-pm-calls-for-urgent-eu-meeting-after-selfish-responses-to-ceut-11f340b3",
       "region": "Europe",
-      "topic": "Security",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "Kyiv: 9 dead and 22 hurt in missile attack",
-      "published_at": "2026-08-01T11:19:43.000Z",
-      "image": "https://s.france24.com/media/display/d1329d72-8d89-11f1-bfce-005056bfb2b6/w:1024/p:16x9/EN-20260801-100152-100347-CS.jpg",
-      "image_alt": "Kyiv: 9 dead and 22 hurt in missile attack",
+      "headline": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "published_at": "2026-08-01T14:36:16.000Z",
+      "image": "https://i.guim.co.uk/img/media/208d0701f36eec52f7b70e325b2b39b60397679b/758_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=d06bd317d08230595b0e508c484e9a3e",
+      "image_alt": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "france-cricket-implodes-letters-hidden-in-a-drawer-and-a-board-at-war-0aadde82",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "France Cricket implodes: letters hidden in a drawer and a board at war",
-      "published_at": "2026-08-01T10:55:46.000Z",
-      "image": "https://s.france24.com/media/display/7fe2d212-841e-11f1-9cd9-005056a90284/w:1024/p:16x9/1000144072.jpg",
-      "image_alt": "France Cricket implodes: letters hidden in a drawer and a board at war",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260801-france-cricket-implodes-letters-hidden-in-a-drawer-and-a-board-at-war"
-        }
-      ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "war-in-ukraine-why-crimea-has-become-a-strategic-target-f935e8ef",
@@ -247,30 +201,30 @@
           "url": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
-      "id": "trump-mimics-sound-of-patriot-missile-interceptions-6a14453e",
-      "region": "World",
-      "topic": "Security",
+      "id": "in-iran-the-u-s-appears-headed-for-a-strategic-defeat-allies-fear-6b3a07bb",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Trump mimics sound of Patriot missile interceptions",
-      "published_at": "2026-08-01T11:21:32.000Z",
-      "image": "",
-      "image_alt": "Trump mimics sound of Patriot missile interceptions",
+      "headline": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+      "published_at": "2026-08-01T14:46:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-iran-defeat-assess-cwph/01int-iran-defeat-assess-cwph-mediumSquareAt3X.jpg",
+      "image_alt": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
       "id": "spain-attacks-selfish-response-of-some-eu-countries-to-ceuta-migrant-c-e1980fe0",
@@ -293,40 +247,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "spanish-pm-calls-for-urgent-eu-meeting-after-selfish-responses-to-ceut-11f340b3",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "published_at": "2026-08-01T12:35:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/208d0701f36eec52f7b70e325b2b39b60397679b/758_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=d06bd317d08230595b0e508c484e9a3e",
-      "image_alt": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "most-australian-teens-still-online-three-months-after-under-16-ban-58ec441a",
-      "region": "World",
+      "id": "india-cracks-down-on-protesters-accused-of-abusing-modi-20df10af",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Most Australian teens still online three months after under-16 ban",
-      "published_at": "2026-08-01T13:10:47.000Z",
+      "headline": "India cracks down on protesters accused of ‘abusing’ Modi",
+      "published_at": "2026-08-01T14:28:20.000Z",
       "image": "",
-      "image_alt": "Most Australian teens still online three months after under-16 ban",
+      "image_alt": "India cracks down on protesters accused of ‘abusing’ Modi",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -336,10 +267,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "is-spain-being-punished-a14ee195",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Is Spain being punished?",
+      "published_at": "2026-08-01T13:50:36.000Z",
+      "image": "",
+      "image_alt": "Is Spain being punished?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "children-run-marathon-to-spotlight-gaza-s-growing-orphan-crises-760e4a51",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Children run marathon to spotlight Gaza’s growing orphan crises",
+      "published_at": "2026-08-01T13:46:33.000Z",
+      "image": "",
+      "image_alt": "Children run marathon to spotlight Gaza’s growing orphan crises",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "spain-installs-floating-barrier-in-ceuta-after-influx-of-migrants-3d0f2cf7",
@@ -347,7 +324,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-      "published_at": "2026-08-01T12:48:55.000Z",
+      "published_at": "2026-08-01T12:48:56.000Z",
       "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-spain-ceuta-top-lbzm/01int-spain-ceuta-top-lbzm-mediumSquareAt3X.jpg",
       "image_alt": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
       "translations": {
@@ -362,7 +339,7 @@
           "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "kuwait-says-it-downed-iranian-drones-as-mideast-braces-for-possible-es-b39fb2ca",
@@ -385,7 +362,7 @@
           "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "ceuta-2026-dwarfs-2021-migration-crisis-5da7e06e",
@@ -408,7 +385,30 @@
           "url": "https://www.france24.com/en/ceuta-2026-dwarfs-2021-migration-crisis"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "most-australian-teens-still-online-three-months-after-under-16-ban-58ec441a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Most Australian teens still online three months after under-16 ban",
+      "published_at": "2026-08-01T13:10:47.000Z",
+      "image": "",
+      "image_alt": "Most Australian teens still online three months after under-16 ban",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died-33bafac9",
@@ -431,63 +431,17 @@
           "url": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "vanishing-forests-why-is-the-philippines-failing-at-reforestation-2f65fe13",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Vanishing forests: Why is the Philippines failing at reforestation?",
-      "published_at": "2026-08-01T11:30:00.000Z",
-      "image": "",
-      "image_alt": "Vanishing forests: Why is the Philippines failing at reforestation?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "spain-says-migrants-in-ceuta-have-returned-to-morocco-57fdaccd",
+      "id": "ceuta-spain-slams-selfish-eu-partners-37f2912e",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Spain says migrants in Ceuta have returned to Morocco",
-      "published_at": "2026-08-01T11:29:41.000Z",
-      "image": "",
-      "image_alt": "Spain says migrants in Ceuta have returned to Morocco",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "africa-fighting-erupts-in-ethiopia-s-tigray-cba385fb",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Africa: Fighting erupts in Ethiopia's Tigray",
-      "published_at": "2026-08-01T11:52:01.000Z",
-      "image": "https://s.france24.com/media/display/649d525a-8d9e-11f1-a18b-005056bfb2b6/w:1024/p:16x9/EN-20260801-132255-132718-CS.jpg",
-      "image_alt": "Africa: Fighting erupts in Ethiopia's Tigray",
+      "headline": "Ceuta: Spain slams \"selfish\" EU partners",
+      "published_at": "2026-08-01T14:42:22.000Z",
+      "image": "https://s.france24.com/media/display/4dcc1ddc-8db6-11f1-ade2-005056bf30b7/w:1024/p:16x9/EN-20260801-150400-150725-CS.jpg",
+      "image_alt": "Ceuta: Spain slams \"selfish\" EU partners",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -497,79 +451,125 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/africa-fighting-erupts-in-ethiopia-s-tigray"
+          "url": "https://www.france24.com/en/ceuta-spain-slams-selfish-eu-partners"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "ceuta-enclave-almost-back-to-normal-after-migrant-influx-80cc477c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ceuta enclave \"almost\" back to normal after migrant influx",
+      "published_at": "2026-08-01T14:40:53.000Z",
+      "image": "https://s.france24.com/media/display/aec3d68e-8db6-11f1-8dc6-005056bfb2b6/w:1024/p:16x9/EN-20260801-160428-160621-CS.jpg",
+      "image_alt": "Ceuta enclave \"almost\" back to normal after migrant influx",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "scientists-study-greenland-s-melting-ice-45b3fb22",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Scientists study Greenland's melting ice",
+      "published_at": "2026-08-01T14:39:16.000Z",
+      "image": "https://s.france24.com/media/display/0e40ea42-8da9-11f1-b465-005056a97e36/w:1024/p:16x9/EN-20260801-140736-140933-CS.jpg",
+      "image_alt": "Scientists study Greenland's melting ice",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260801-scientists-study-greenland-s-melting-ice"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "iceland-seizes-paul-watson-foundation-s-anti-whaling-ship-and-detains--4449f440",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iceland seizes Paul Watson Foundation's anti-whaling ship and detains its crew",
+      "published_at": "2026-08-01T14:21:18.000Z",
+      "image": "https://img.lemde.fr/2026/08/01/0/0/2100/1050/644/322/60/0/6b55b7d_ftp-1-flyjmzbkj0dp-23aff39d7348415897f5aeba037f5a75-0-eef2440d2cdb408687e085cc51454ebb.jpg",
+      "image_alt": "Iceland seizes Paul Watson Foundation's anti-whaling ship and detains its crew",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/01/iceland-seizes-paul-watson-foundation-s-anti-whaling-ship-and-detains-its-crew_6756066_4.html"
         }
       ],
       "impact": 72
     },
     {
-      "id": "france-major-gironde-wildfire-contained-3ff879f0",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "France: Major Gironde wildfire contained",
-      "published_at": "2026-08-01T11:49:36.000Z",
-      "image": "https://s.france24.com/media/display/90c2f4a8-8d9d-11f1-b60d-005056bfb2b6/w:1024/p:16x9/EN-20260801-130858-131343-CS.jpg",
-      "image_alt": "France: Major Gironde wildfire contained",
+      "id": "uefa-has-lost-confidence-in-infantino-s-fifa-leadership-ced53031",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "published_at": "2026-08-01T09:51:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france-major-wildfire-contained-but-uncontrolled"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 70
     },
     {
-      "id": "african-union-mission-in-somalia-in-question-after-us-funding-to-end-088beb91",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "African Union mission in Somalia in question after US funding to end",
-      "published_at": "2026-08-01T11:23:00.000Z",
-      "image": "https://s.france24.com/media/display/3efa7726-8d8f-11f1-9356-005056bf30b7/w:1024/p:16x9/EN-20260731-214853-215020-CS.jpg",
-      "image_alt": "African Union mission in Somalia in question after US funding to end",
+      "id": "infantino-s-fifa-crisis-what-is-reaction-to-world-cup-investment-u-tur-13aa8443",
+      "region": "World",
+      "topic": "Sports",
+      "urgency": "Breaking",
+      "headline": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+      "published_at": "2026-08-01T13:59:19.000Z",
+      "image": "",
+      "image_alt": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this sports update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sport-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de deportes de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sport de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/african-union-mission-in-somalia-in-question-after-us-funding-to-end"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "ceuta-60-000-cross-the-border-57-died-76278f8d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ceuta: 60,000 cross the border, 57 died",
-      "published_at": "2026-08-01T11:21:13.000Z",
-      "image": "https://s.france24.com/media/display/4e7b65c0-8d8a-11f1-a07f-005056bfb2b6/w:1024/p:16x9/EN-20260801-100703-100841-CS.jpg",
-      "image_alt": "Ceuta: 60,000 cross the border, 57 died",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/ceuta-60-000-cross-the-border-57-died"
-        }
-      ],
-      "impact": 71
+      "impact": 69
     }
   ]
 }
