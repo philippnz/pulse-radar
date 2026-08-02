@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:43:44.391Z",
+  "updated_at": "2026-08-02T20:49:13.081Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,60 @@
   ],
   "stories": [
     {
-      "id": "two-crew-killed-as-british-pilot-survives-after-firefighting-helicopte-0fa80837",
+      "id": "canada-s-westjet-cancels-trips-amid-strike-by-flight-attendants-190feb6b",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "published_at": "2026-08-02T20:32:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-WestJet-vwlq/02int-WestJet-vwlq-mediumSquareAt3X.jpg",
+      "image_alt": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "israelis-attack-armenian-monastery-in-jerusalem-s-old-city-cde6fc9b",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+      "published_at": "2026-08-02T19:39:32.000Z",
+      "image": "",
+      "image_alt": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "two-crew-killed-after-firefighting-helicopters-collide-in-greece-as-br-0fa80837",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
-      "published_at": "2026-08-02T19:15:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png",
-      "image_alt": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "published_at": "2026-08-02T20:36:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/be742720-8ea4-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -38,52 +84,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
-      "id": "fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza-f764ed19",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-      "published_at": "2026-08-02T17:57:01.000Z",
-      "image": "",
-      "image_alt": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
-      "id": "iran-war-participation-trophy-mocking-trump-appears-in-new-york-89fc4d89",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "‘Iran war participation trophy’ mocking Trump appears in New York",
-      "published_at": "2026-08-02T17:06:30.000Z",
-      "image": "",
-      "image_alt": "‘Iran war participation trophy’ mocking Trump appears in New York",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss"
         }
       ],
       "impact": 85
@@ -109,29 +109,6 @@
           "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/02/in-barcelona-russian-and-ukrainian-exiles-cross-paths-at-the-baths-we-don-t-talk-about-the-war-not-even-at-the-banya_6756093_117.html"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "iron-fist-doesn-t-work-with-iran-former-us-hostage-in-tehran-7d28830c",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-      "published_at": "2026-08-02T18:28:13.000Z",
-      "image": "",
-      "image_alt": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
-        }
-      ],
       "impact": 81
     },
     {
@@ -155,17 +132,17 @@
           "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages-b2cbc259",
-      "region": "Middle East",
+      "id": "venezuela-and-the-dominican-republic-say-they-will-work-to-restore-tie-89d993a3",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "published_at": "2026-08-02T19:08:06.000Z",
+      "headline": "Venezuela and the Dominican Republic say they will work to restore ties",
+      "published_at": "2026-08-02T20:29:32.000Z",
       "image": "",
-      "image_alt": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+      "image_alt": "Venezuela and the Dominican Republic say they will work to restore ties",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,10 +152,102 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "is-washington-dictating-the-agenda-for-talks-in-venezuela-da0302d3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Is Washington dictating the agenda for talks in Venezuela?",
+      "published_at": "2026-08-02T20:01:21.000Z",
+      "image": "",
+      "image_alt": "Is Washington dictating the agenda for talks in Venezuela?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "how-much-has-aipac-spent-against-michigan-s-abdul-el-sayed-and-why-a8d59a92",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
+      "published_at": "2026-08-02T20:00:45.000Z",
+      "image": "",
+      "image_alt": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avala-48cf0ef4",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+      "published_at": "2026-08-02T19:30:25.000Z",
+      "image": "",
+      "image_alt": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "most-americans-say-trump-has-gone-too-far-on-us-immigration-poll-b991cb48",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Most Americans say Trump has gone too far on US immigration: Poll",
+      "published_at": "2026-08-02T19:26:05.000Z",
+      "image": "",
+      "image_alt": "Most Americans say Trump has gone too far on US immigration: Poll",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "five-dead-and-41-missing-after-indonesia-ferry-catches-fire-9cb28f9e",
@@ -201,30 +270,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "canada-s-westjet-cancels-trips-amid-strike-by-flight-attendants-190feb6b",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "published_at": "2026-08-02T08:47:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/00int-canada-westjet-strike-bghv/00int-canada-westjet-strike-bghv-mediumSquareAt3X.jpg",
-      "image_alt": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "id": "iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages-b2cbc259",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+      "published_at": "2026-08-02T19:08:06.000Z",
+      "image": "",
+      "image_alt": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "two-helicopters-collide-mid-air-while-tackling-wildfires-in-greece-6f02b1ed",
@@ -247,53 +316,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles-be5a0f92",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukrainian drone attacks kill eight in response to Russian missiles",
-      "published_at": "2026-08-02T18:37:23.000Z",
-      "image": "",
-      "image_alt": "Ukrainian drone attacks kill eight in response to Russian missiles",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "republican-senator-says-former-son-in-law-should-resign-from-us-congre-4d98d2a5",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Republican senator says former son-in-law should resign from US Congress",
-      "published_at": "2026-08-02T18:27:41.000Z",
-      "image": "",
-      "image_alt": "Republican senator says former son-in-law should resign from US Congress",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "ukraine-says-major-russian-oil-refinery-and-airfield-hit-as-moscow-rep-013842ae",
@@ -316,7 +339,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "moscow-restaurant-blast-a-apos-brutal-terror-attack-apos-mayor-says-62e6f54c",
@@ -339,7 +362,7 @@
           "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "how-spain-s-migrant-crisis-created-a-political-storm-be8ccf65",
@@ -362,76 +385,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco-b4489453",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
-      "published_at": "2026-08-02T17:15:56.000Z",
-      "image": "",
-      "image_alt": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss"
-        }
-      ],
       "impact": 75
-    },
-    {
-      "id": "at-least-14-dead-as-ukraine-and-russia-exchange-strikes-ff77eaf4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "At least 14 dead as Ukraine and Russia exchange strikes",
-      "published_at": "2026-08-02T16:06:04.000Z",
-      "image": "https://s.france24.com/media/display/92b25eb8-8ea4-11f1-aebc-005056bf30b7/w:1024/p:16x9/2026-08-02T172717Z-905839662-RC2GQMA86Y5M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.jpg",
-      "image_alt": "At least 14 dead as Ukraine and Russia exchange strikes",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "ukraine-hits-targets-deep-inside-russia-killing-eight-40d6e772",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine hits targets deep inside Russia, killing eight",
-      "published_at": "2026-08-02T17:15:00.000Z",
-      "image": "",
-      "image_alt": "Ukraine hits targets deep inside Russia, killing eight",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
     },
     {
       "id": "uganda-unveils-statue-of-israel-pm-s-brother-who-died-in-entebbe-rescu-2aa3d654",
@@ -454,7 +408,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "negociaci-n-del-tmec-reajuste-estrat-gico-8f7d1bf8",
@@ -477,7 +431,7 @@
           "url": "https://elpais.com/mexico/opinion/2026-08-02/negociacion-del-tmec-reajuste-estrategico.html"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "cape-verde-offers-fragile-refuge-for-many-persecuted-african-homosexua-1c90af55",
@@ -500,53 +454,7 @@
           "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/02/cape-verde-offers-fragile-refuge-for-many-persecuted-african-homosexuals-it-s-like-i-m-a-prisoner-in-paradise_6756092_124.html"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "brazil-s-lula-80-says-he-is-in-great-shape-as-he-launches-fourth-term--4f4eadfd",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Brazil's Lula, 80, says he is 'in great shape' as he launches fourth term bid",
-      "published_at": "2026-08-02T17:26:01.000Z",
-      "image": "https://s.france24.com/media/display/345cc18c-8e95-11f1-b4f7-005056a97e36/w:1024/p:16x9/000-C3TD7FG.jpg",
-      "image_alt": "Brazil's Lula, 80, says he is 'in great shape' as he launches fourth term bid",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "ceuta-most-who-breached-border-have-left-spain-says-b0267a54",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ceuta: Most who breached border have left, Spain says",
-      "published_at": "2026-08-02T16:47:00.000Z",
-      "image": "",
-      "image_alt": "Ceuta: Most who breached border have left, Spain says",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "indonesia-at-least-5-dead-in-ferry-fire-b5bb0012",
@@ -569,7 +477,99 @@
           "url": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 70
+      "impact": 69
+    },
+    {
+      "id": "europe-s-far-right-once-marginal-now-sets-tone-on-spain-migrant-crisis-9418b81a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "published_at": "2026-08-02T07:30:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-europe-bzpj/02int-spain-europe-bzpj-mediumSquareAt3X.jpg",
+      "image_alt": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "small-insects-big-damage-the-global-ant-trade-is-booming-8d54344b",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Small insects, big damage: The global ant trade is booming",
+      "published_at": "2026-08-02T14:30:00.000Z",
+      "image": "",
+      "image_alt": "Small insects, big damage: The global ant trade is booming",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "trump-says-he-canceled-strikes-on-iran-claiming-progress-on-outlines-o-889b43f6",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "published_at": "2026-08-02T15:27:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02dc-trump-attack-hqgl/02dc-trump-attack-hqgl-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+        }
+      ],
+      "impact": 67
+    },
+    {
+      "id": "ukraine-hits-targets-deep-inside-russia-killing-eight-40d6e772",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Ukraine hits targets deep inside Russia, killing eight",
+      "published_at": "2026-08-02T17:15:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine hits targets deep inside Russia, killing eight",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 66
     }
   ]
 }
