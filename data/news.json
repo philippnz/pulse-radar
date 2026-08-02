@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T10:13:30.033Z",
+  "updated_at": "2026-08-02T11:40:45.274Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "from-sudan-to-spain-between-war-and-home-al-jazeera-originals-6da2a130",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
+      "published_at": "2026-08-02T11:07:13.000Z",
+      "image": "",
+      "image_alt": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "canada-s-westjet-cancels-trips-amid-strike-by-flight-attendants-190feb6b",
       "region": "Americas",
@@ -40,30 +63,7 @@
           "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
         }
       ],
-      "impact": 86
-    },
-    {
-      "id": "trump-cancels-attack-on-iran-saying-deal-is-near-34f946f4",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "published_at": "2026-08-02T08:43:15.000Z",
-      "image": "",
-      "image_alt": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
-        }
-      ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "five-dead-41-missing-after-indonesia-ferry-catches-fire-9cb28f9e",
@@ -71,8 +71,8 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "published_at": "2026-08-02T10:02:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published_at": "2026-08-02T10:46:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c2/live/1f26b850-8e5d-11f1-a7ab-8b30adf0800a.jpg",
       "image_alt": "Five dead, 41 missing, after Indonesia ferry catches fire",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
@@ -86,53 +86,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
-      "id": "tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline-af2be737",
-      "region": "World",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
-      "published_at": "2026-08-02T08:12:54.000Z",
-      "image": "",
-      "image_alt": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "europe-s-far-right-once-marginal-now-sets-tone-on-spain-migrant-crisis-9418b81a",
+      "id": "how-spain-s-migrant-crisis-created-a-political-storm-be8ccf65",
       "region": "Europe",
-      "topic": "World",
+      "topic": "Climate",
       "urgency": "Breaking",
-      "headline": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "published_at": "2026-08-02T07:30:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-europe-bzpj/02int-spain-europe-bzpj-mediumSquareAt3X.jpg",
-      "image_alt": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "headline": "How Spain's migrant crisis created a political storm",
+      "published_at": "2026-08-02T10:32:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
+      "image_alt": "How Spain's migrant crisis created a political storm",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 84
     },
     {
       "id": "trump-cancels-iran-strikes-subject-to-deal-being-made-rapidly-f189c87d",
@@ -140,7 +117,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "published_at": "2026-08-02T09:10:51.000Z",
+      "published_at": "2026-08-02T11:12:00.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
       "image_alt": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "translations": {
@@ -155,17 +132,40 @@
           "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
         }
       ],
+      "impact": 80
+    },
+    {
+      "id": "europe-s-far-right-once-marginal-now-sets-tone-on-spain-migrant-crisis-9418b81a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "published_at": "2026-08-02T07:30:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-europe-bzpj/02int-spain-europe-bzpj-mediumSquareAt3X.jpg",
+      "image_alt": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+        }
+      ],
       "impact": 79
     },
     {
-      "id": "far-right-leaders-step-up-calls-for-expelling-remaining-migrants-in-ce-57d0187e",
-      "region": "World",
+      "id": "australia-s-indie-music-venues-closing-as-costs-rise-and-attendance-dr-3bad31cd",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-      "published_at": "2026-08-02T10:03:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-ceuta-02-gjhm/02int-spain-ceuta-02-gjhm-mediumSquareAt3X.jpg",
-      "image_alt": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+      "headline": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
+      "published_at": "2026-08-02T11:25:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-oz-music-02-cwjm-promo/31int-oz-music-02-cwjm-mediumSquareAt3X.jpg",
+      "image_alt": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,43 +175,43 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "trump-says-he-canceled-strikes-on-iran-claiming-progress-on-outlines-o-889b43f6",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-      "published_at": "2026-08-02T09:56:03.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02dc-trump-attack-hqgl/02dc-trump-attack-hqgl-mediumSquareAt3X.jpg",
-      "image_alt": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+          "url": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html"
         }
       ],
       "impact": 77
     },
     {
-      "id": "a-quiet-day-in-harare-after-zimbabwe-s-shutdown-call-2991b4f6",
+      "id": "indigenous-groups-oppose-milei-plan-to-open-argentina-to-foreign-buyer-c16ac38f",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
+      "published_at": "2026-08-02T11:09:25.000Z",
+      "image": "",
+      "image_alt": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "ben-gvir-mocks-palestinian-detainee-over-prison-conditions-42ce9c6f",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "A quiet day in Harare after Zimbabwe’s shutdown call",
-      "published_at": "2026-08-02T09:50:48.000Z",
+      "headline": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+      "published_at": "2026-08-02T11:09:03.000Z",
       "image": "",
-      "image_alt": "A quiet day in Harare after Zimbabwe’s shutdown call",
+      "image_alt": "Ben-Gvir mocks Palestinian detainee over prison conditions",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -221,30 +221,7 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-a-6bdc1abb",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "published_at": "2026-08-02T09:43:10.000Z",
-      "image": "",
-      "image_alt": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -255,7 +232,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
-      "published_at": "2026-08-02T09:00:58.000Z",
+      "published_at": "2026-08-02T11:05:56.000Z",
       "image": "",
       "image_alt": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
       "translations": {
@@ -271,6 +248,121 @@
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "far-right-leaders-step-up-calls-for-expelling-remaining-migrants-in-ce-57d0187e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+      "published_at": "2026-08-02T10:30:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-ceuta-promo/02int-spain-ceuta-02-gjhm-mediumSquareAt3X.jpg",
+      "image_alt": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "poland-prime-minister-tusk-defies-anti-ukrainian-violence-d46e0f3d",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
+      "published_at": "2026-08-02T09:24:00.000Z",
+      "image": "",
+      "image_alt": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israeli-soldiers-jailed-over-sde-teiman-walkout-b3ed79ea",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli soldiers jailed over Sde Teiman walkout",
+      "published_at": "2026-08-02T10:31:32.000Z",
+      "image": "",
+      "image_alt": "Israeli soldiers jailed over Sde Teiman walkout",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "fifa-boss-infantino-s-position-looks-unacceptable-european-leagues-hea-034f232d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "FIFA boss Infantino’s position looks unacceptable: European Leagues head",
+      "published_at": "2026-08-02T10:31:25.000Z",
+      "image": "",
+      "image_alt": "FIFA boss Infantino’s position looks unacceptable: European Leagues head",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-says-he-canceled-strikes-on-iran-claiming-progress-on-outlines-o-889b43f6",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "published_at": "2026-08-02T09:56:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02dc-trump-attack-hqgl/02dc-trump-attack-hqgl-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "china-dozens-dead-in-gansu-flash-floods-2a2044f7",
@@ -293,17 +385,17 @@
           "url": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "how-davutoglu-helped-shape-erdogan-s-turkiye-but-failed-to-challenge-i-8441eee2",
-      "region": "World",
+      "id": "residents-of-spain-s-ceuta-shut-down-far-right-anti-migrant-rally-07cd074f",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
-      "published_at": "2026-08-02T09:07:20.000Z",
+      "headline": "Residents of Spain’s Ceuta shut down far-right anti-migrant rally",
+      "published_at": "2026-08-02T09:55:06.000Z",
       "image": "",
-      "image_alt": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
+      "image_alt": "Residents of Spain’s Ceuta shut down far-right anti-migrant rally",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -313,10 +405,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "a-quiet-day-in-harare-after-zimbabwe-s-shutdown-call-2991b4f6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "A quiet day in Harare after Zimbabwe’s shutdown call",
+      "published_at": "2026-08-02T09:50:48.000Z",
+      "image": "",
+      "image_alt": "A quiet day in Harare after Zimbabwe’s shutdown call",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-a-6bdc1abb",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "published_at": "2026-08-02T09:43:10.000Z",
+      "image": "",
+      "image_alt": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "cowboys-fringants-bassist-is-named-quebec-s-chief-scientist-b8ecfedc",
@@ -339,76 +477,53 @@
           "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "how-spain-s-migrant-crisis-created-a-political-storm-be8ccf65",
+      "id": "trump-s-first-term-already-foreshadowed-the-current-debacle-in-the-mid-52482a2d",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'Trump's first term already foreshadowed the current debacle in the Middle East'",
+      "published_at": "2026-08-02T10:17:06.000Z",
+      "image": "https://img.lemde.fr/2026/07/31/48/0/3254/1627/644/322/60/0/18e35e7_ftp-1-eerzfjls02gp-28a4c8a1fadc4ce9b80a518011f6e5e7-0-086239de8d3f487ea225d0d0ebaec6bb.jpg",
+      "image_alt": "'Trump's first term already foreshadowed the current debacle in the Middle East'",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/02/trump-s-first-term-already-foreshadowed-the-current-debacle-in-the-middle-east_6756082_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-c415d1ac",
       "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "How Spain's migrant crisis created a political storm",
-      "published_at": "2026-08-02T00:55:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-      "image_alt": "How Spain's migrant crisis created a political storm",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "petro-urges-global-support-to-stop-possible-us-invasion-of-cuba-8643528c",
-      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Petro urges global support to stop possible US invasion of Cuba",
-      "published_at": "2026-08-02T08:23:32.000Z",
-      "image": "",
-      "image_alt": "Petro urges global support to stop possible US invasion of Cuba",
+      "headline": "The week in pictures: European wildfires, a woolly mammoth and a migrant influx at Spain's Ceuta",
+      "published_at": "2026-08-02T10:16:34.000Z",
+      "image": "https://s.france24.com/media/display/52f49d20-8cad-11f1-b071-005056bf30b7/w:1024/p:16x9/000-C3LK3GW.jpg",
+      "image_alt": "The week in pictures: European wildfires, a woolly mammoth and a migrant influx at Spain's Ceuta",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260802-the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-influx-at-spain-s-ceuta"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "arsenal-s-arteta-expects-more-signings-as-tzolis-scores-against-girona-c4da4790",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
-      "published_at": "2026-08-02T08:08:19.000Z",
-      "image": "",
-      "image_alt": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 72
     },
     {
       "id": "capital-one-bank-cites-money-laundering-probe-to-justify-closing-trump-00b4cc09",
@@ -431,7 +546,7 @@
           "url": "https://www.france24.com/en/americas/20260802-capital-one-cites-anti-money-laundering-probe-justify-closure-trump-organization-bank-accounts"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicaliza-e7908cb9",
@@ -452,121 +567,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "germany-as-temperatures-rise-so-does-climate-skepticism-4314c28c",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Germany: As temperatures rise, so does climate skepticism",
-      "published_at": "2026-08-02T08:44:00.000Z",
-      "image": "",
-      "image_alt": "Germany: As temperatures rise, so does climate skepticism",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho-6289013f",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
-      "published_at": "2026-08-02T03:51:00.000Z",
-      "image": "",
-      "image_alt": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-p-19350c54",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
-      "published_at": "2026-08-02T08:55:03.000Z",
-      "image": "https://s.france24.com/media/display/accae74a-8e4d-11f1-b765-005056a90284/w:1024/p:16x9/EN-20260802-101412-101535-CS.jpg",
-      "image_alt": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "colombia-police-station-bombed-wounding-14-people-70f65f68",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Colombia police station bombed wounding 14 people",
-      "published_at": "2026-08-02T08:51:49.000Z",
-      "image": "https://s.france24.com/media/display/0314b118-8e4d-11f1-9bc2-005056a97e36/w:1024/p:16x9/EN-20260802-100828-101000-CS.jpg",
-      "image_alt": "Colombia police station bombed wounding 14 people",
-      "translations": {
-        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/colombia-police-station-bombed-wounding-14-people"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "peru-tourist-plane-crashes-killing-all-13-people-aboard-d68f3821",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Peru: Tourist plane crashes killing all 13 people aboard",
-      "published_at": "2026-08-02T08:50:08.000Z",
-      "image": "https://s.france24.com/media/display/c172e496-8e4c-11f1-8094-005056a97e36/w:1024/p:16x9/EN-20260802-100621-100805-CS.jpg",
-      "image_alt": "Peru: Tourist plane crashes killing all 13 people aboard",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/peru-tourist-plane-crashes-killing-all-13-people-aboard"
         }
       ],
       "impact": 72
