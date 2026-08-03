@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T12:52:42.343Z",
+  "updated_at": "2026-08-03T15:40:24.783Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,52 @@
     }
   ],
   "stories": [
+    {
+      "id": "more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks-f59641cc",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Breaking",
+      "headline": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+      "published_at": "2026-08-03T14:23:07.000Z",
+      "image": "",
+      "image_alt": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "sudan-army-drone-strike-on-court-session-kills-35-rights-group-says-15342dce",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Sudan army drone strike on court session kills 35, rights group says",
+      "published_at": "2026-08-03T10:29:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
+      "image_alt": "Sudan army drone strike on court session kills 35, rights group says",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "singapore-bans-band-massive-attack-for-displaying-palestinian-flag-ebcd9378",
       "region": "World",
@@ -40,76 +86,99 @@
           "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html"
         }
       ],
-      "impact": 87
+      "impact": 84
     },
     {
-      "id": "who-will-shape-post-war-iran-64e75dec",
-      "region": "Middle East",
+      "id": "anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-fo-2084aafa",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Who will shape post-war Iran?",
-      "published_at": "2026-08-03T12:11:03.000Z",
-      "image": "",
-      "image_alt": "Who will shape post-war Iran?",
+      "headline": "Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France",
+      "published_at": "2026-08-03T14:47:54.000Z",
+      "image": "https://s.france24.com/media/display/2a27ca42-8f47-11f1-81fd-005056a90284/w:1024/p:16x9/000-C2BA6T3.jpg",
+      "image_alt": "Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "2-killed-as-firefighting-helicopters-collide-in-greece-e2abc9ca",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "2 Killed as Firefighting Helicopters Collide in Greece",
-      "published_at": "2026-08-03T12:39:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03xp-greece-fires-twgc/03xp-greece-fires-twgc-mediumSquareAt3X-v2.jpg",
-      "image_alt": "2 Killed as Firefighting Helicopters Collide in Greece",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france"
         }
       ],
       "impact": 83
     },
     {
-      "id": "protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election-b0d1834b",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
+      "id": "rhine-falls-to-record-low-levels-as-drought-strains-europe-s-rivers-ffb37785",
+      "region": "Europe",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
-      "published_at": "2026-08-03T12:27:27.000Z",
-      "image": "",
-      "image_alt": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
+      "headline": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "published_at": "2026-08-03T14:38:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg",
+      "image_alt": "Rhine falls to record low levels as drought strains Europe's rivers",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 79
+    },
+    {
+      "id": "aung-san-suu-kyi-appears-healthy-in-first-confirmed-outside-contact-fo-8e661acf",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "published_at": "2026-08-03T14:20:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "iran-says-it-is-in-talks-with-oman-but-not-the-us-after-trump-says-neg-57b1ff7b",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "published_at": "2026-08-03T14:18:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/a2cd4400-8f46-11f1-bea5-516364e5690e.jpg",
+      "image_alt": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "two-workers-killed-in-blast-after-re-entering-quake-hit-japan-mall-on--90da53d4",
@@ -132,53 +201,145 @@
           "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
-      "id": "iran-denies-trump-s-claim-that-new-talks-will-begin-on-monday-57b1ff7b",
-      "region": "Middle East",
+      "id": "australia-s-under-16-social-media-ban-failing-study-shows-what-it-mean-bc906035",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran denies Trump's claim that new talks will begin on Monday",
-      "published_at": "2026-08-03T12:44:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f8/live/c0137640-8f07-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Iran denies Trump's claim that new talks will begin on Monday",
+      "headline": "Australia’s under-16 social media ban failing, study shows: What it means",
+      "published_at": "2026-08-03T15:21:55.000Z",
+      "image": "",
+      "image_alt": "Australia’s under-16 social media ban failing, study shows: What it means",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss"
         }
       ],
-      "impact": 80
+      "impact": 77
     },
     {
-      "id": "moroccan-king-s-letter-confirms-naming-of-major-highway-in-honour-of-t-c201489b",
+      "id": "tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-bord-50f43ae3",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+      "published_at": "2026-08-03T15:19:32.000Z",
+      "image": "",
+      "image_alt": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain-8c230535",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "published_at": "2026-08-03T12:20:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad4/live/431ecf40-8f34-11f1-b8ee-9b3c26ad07bb.jpg",
-      "image_alt": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "headline": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
+      "published_at": "2026-08-03T14:47:20.000Z",
+      "image": "",
+      "image_alt": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 76
+    },
+    {
+      "id": "trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices-2911cd54",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices",
+      "published_at": "2026-08-03T14:33:33.000Z",
+      "image": "",
+      "image_alt": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence-09412aee",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hilltop Youth: A group intent on taking over the West Bank by violence",
+      "published_at": "2026-08-03T14:15:43.000Z",
+      "image": "",
+      "image_alt": "Hilltop Youth: A group intent on taking over the West Bank by violence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iran-says-no-current-talks-with-u-s-after-trump-cites-progress-on-the--f761623b",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "published_at": "2026-08-03T14:15:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-hormuz-zfjk/03int-iran-hormuz-zfjk-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "ceuta-migration-crisis-exposes-despair-among-morocco-s-young-people-72519b73",
@@ -201,178 +362,17 @@
           "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "massive-attack-respond-after-singapore-ban-over-palestine-display-05d148b7",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Massive Attack respond after Singapore ban over Palestine display",
-      "published_at": "2026-08-03T01:31:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d8/live/9a26f660-8f01-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Massive Attack respond after Singapore ban over Palestine display",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "ceuta-migrant-crisis-far-right-govts-ridiculously-using-these-images-t-6f945c69",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Ceuta migrant crisis: Far-right govts 'ridiculously using these images' to stoke fear for votes",
-      "published_at": "2026-08-03T12:20:57.000Z",
-      "image": "https://s.france24.com/media/display/e635b2f0-8f31-11f1-aebc-005056a97e36/w:1024/p:16x9/EN-20260731-180755-181600-CS.jpg",
-      "image_alt": "Ceuta migrant crisis: Far-right govts 'ridiculously using these images' to stoke fear for votes",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/ceuta-migrant-crisis-far-right-govts-ridiculously-using-these-images-to-stoke-fear-for-votes"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "ariana-grande-to-take-a-break-from-public-life-amid-endless-scrutiny-bb5b4dd8",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "published_at": "2026-08-03T10:59:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "aung-san-suu-kyi-appears-healthy-in-first-confirmed-outside-contact-fo-8e661acf",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "published_at": "2026-08-03T10:58:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "spain-s-leader-is-seen-as-soft-on-migrants-but-he-acted-fast-on-ceuta-95d61fe2",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
-      "published_at": "2026-08-03T11:43:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-Spain-Sanchez-01-wjgk/03int-Spain-Sanchez-01-wjgk-mediumSquareAt3X.jpg",
-      "image_alt": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "palestine-s-new-ambassador-to-spain-calls-for-deeper-friendship-6ebdc434",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Palestine’s new ambassador to Spain calls for deeper friendship",
-      "published_at": "2026-08-03T12:09:19.000Z",
-      "image": "",
-      "image_alt": "Palestine’s new ambassador to Spain calls for deeper friendship",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss"
-        }
-      ],
       "impact": 76
     },
     {
-      "id": "pakistan-administered-kashmir-elections-and-protests-all-you-need-to-k-03022ec9",
+      "id": "myanmar-junta-allows-aung-san-suu-kyi-rare-contact-with-an-outsider-d5c47fc7",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Pakistan-administered Kashmir elections and protests – all you need to know",
-      "published_at": "2026-08-03T11:51:30.000Z",
-      "image": "",
-      "image_alt": "Pakistan-administered Kashmir elections and protests – all you need to know",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-says-no-current-talks-with-u-s-after-trump-cites-progress-on-the--f761623b",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "published_at": "2026-08-03T10:41:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-hormuz-zfjk/03int-iran-hormuz-zfjk-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "headline": "Myanmar Junta Allows Aung San Suu Kyi Rare Contact With an Outsider",
+      "published_at": "2026-08-03T13:02:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-myanmar-suu-kyi-kmjf-jkpc/03int-myanmar-suu-kyi-kmjf-jkpc-mediumSquareAt3X.jpg",
+      "image_alt": "Myanmar Junta Allows Aung San Suu Kyi Rare Contact With an Outsider",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -382,181 +382,66 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "ukraine-strikes-russia-s-biggest-retailer-again-2c72394e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine strikes Russia’s biggest retailer again",
-      "published_at": "2026-08-03T11:03:23.000Z",
-      "image": "",
-      "image_alt": "Ukraine strikes Russia’s biggest retailer again",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss"
+          "url": "https://www.nytimes.com/2026/08/03/world/asia/myanmar-aung-san-suu-kyi-photos-icrc.html"
         }
       ],
       "impact": 75
     },
     {
-      "id": "israel-defies-trump-s-peace-plan-as-it-escalates-deadly-attacks-on-gaz-1c839b57",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-      "published_at": "2026-08-03T10:53:47.000Z",
-      "image": "",
-      "image_alt": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing-ce5484d9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US cricket player Reddy receives eight-year ban for match-fixing",
-      "published_at": "2026-08-03T10:52:17.000Z",
-      "image": "",
-      "image_alt": "US cricket player Reddy receives eight-year ban for match-fixing",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "breaking-the-gaza-deadlock-after-the-agreement-on-hamas-disarmament-7180661d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Breaking the Gaza deadlock after the agreement on Hamas disarmament",
-      "published_at": "2026-08-03T09:30:11.000Z",
-      "image": "https://img.lemde.fr/2026/07/21/659/0/5500/2750/644/322/60/0/9f293c5_ftp-1-lmrzyr2rhewd-2026-07-21t060757z-296291872-rc25imasyq0d-rtrmadp-3-israel-palestinians-gaza.JPG",
-      "image_alt": "Breaking the Gaza deadlock after the agreement on Hamas disarmament",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/08/03/breaking-the-gaza-deadlock-after-the-agreement-on-hamas-disarmament_6756108_23.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "north-koreans-flood-new-tourist-zone-beach-amid-heatwave-f969940a",
+      "id": "ceuta-leader-accuses-morocco-over-atrocity-of-mass-border-crossing-ad5c6d1b",
       "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "published_at": "2026-08-03T14:13:01.000Z",
+      "image": "https://i.guim.co.uk/img/media/627df0859f4b87862448d1d2a1071cdb1861ff74/569_0_3388_2710/master/3388.jpg?width=140&quality=85&auto=format&fit=max&s=43ad1f825aacd0f09cd3d38da29a2965",
+      "image_alt": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "the-situation-is-out-of-control-greek-firefighters-battle-wildfire-for-6450c8aa",
+      "region": "Europe",
       "topic": "Climate",
       "urgency": "Live",
-      "headline": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
-      "published_at": "2026-08-03T10:10:50.000Z",
-      "image": "",
-      "image_alt": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
+      "headline": "\"The situation is out of control\": Greek firefighters battle wildfire for fourth day",
+      "published_at": "2026-08-03T15:30:33.000Z",
+      "image": "https://s.france24.com/media/display/c2007f72-8f4b-11f1-84df-005056bf30b7/w:1024/p:16x9/Wildfires-Greece0.png",
+      "image_alt": "\"The situation is out of control\": Greek firefighters battle wildfire for fourth day",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260803-the-situation-is-out-of-control-greek-firefighters-battle-wildfire-for-fourth-day"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "after-trump-pardon-former-honduras-president-hern-ndez-faces-charges-i-751e365d",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
-      "published_at": "2026-08-03T09:00:47.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-honduras-president-bchf/03int-honduras-president-bchf-mediumSquareAt3X.jpg",
-      "image_alt": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "anger-anxiety-and-compassion-in-ceuta-after-border-crisis-13e7f81e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Anger, anxiety, and compassion in Ceuta after border crisis",
-      "published_at": "2026-08-03T08:57:25.000Z",
-      "image": "https://img.lemde.fr/2026/08/02/1071/0/7788/3894/644/322/60/0/993bb48_ftp-1-hnozjulprigh-bd0b5b5a7226494b9a95542b4d0b8892-2-108c6e24acd0475a8159d63546c46628.jpg",
-      "image_alt": "Anger, anxiety, and compassion in Ceuta after border crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/03/anger-anxiety-and-compassion-in-ceuta-after-border-crisis_6756105_124.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-a4092dff",
+      "id": "across-the-eu-immigration-being-used-as-a-political-tool-across-the-po-32523c8f",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Amid a drought and soaring temperatures, Hungary shuts down its nuclear plant",
-      "published_at": "2026-08-03T12:34:47.000Z",
-      "image": "https://s.france24.com/media/display/8a7e45ac-8f37-11f1-a83b-005056a90284/w:1024/p:16x9/2026-07-31T130354Z-1011562013-RC20PMAB9LFU-RTRMADP-3-HUNGARY-NUCLEAR.jpg",
-      "image_alt": "Amid a drought and soaring temperatures, Hungary shuts down its nuclear plant",
+      "headline": "Across the EU, immigration being used as a 'political tool' across the political spectrum",
+      "published_at": "2026-08-03T15:19:49.000Z",
+      "image": "https://s.france24.com/media/display/79cebf40-8f49-11f1-9bbd-005056bfb2b6/w:1024/p:16x9/EN-20260803-130255-131339-CS.jpg",
+      "image_alt": "Across the EU, immigration being used as a 'political tool' across the political spectrum",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,7 +451,122 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-plant"
+          "url": "https://www.france24.com/en/video/20260803-across-the-eu-immigration-being-used-as-a-political-tool-across-the-political-spectrum-1"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "eu-calls-for-united-action-on-border-protection-after-ceuta-mass-cross-2239619b",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "EU calls for 'united action' on border protection after Ceuta mass crossing",
+      "published_at": "2026-08-03T15:18:51.000Z",
+      "image": "https://s.france24.com/media/display/fbd2fcf0-8cc3-11f1-badc-005056bf30b7/w:1024/p:16x9/AP26212313239240.jpg",
+      "image_alt": "EU calls for 'united action' on border protection after Ceuta mass crossing",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/eu-calls-for-united-action-on-border-protection-after-ceuta-mass-crossing"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "england-and-wales-had-driest-july-on-record-according-to-provisional-f-654f75f9",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "England and Wales had driest July on record, according to provisional figures",
+      "published_at": "2026-08-03T15:18:33.000Z",
+      "image": "https://img.lemde.fr/2026/08/03/988/0/6613/3306/644/322/60/0/e29241e_ftp-1-tlce3svzxfh6-5765741-01-06.jpg",
+      "image_alt": "England and Wales had driest July on record, according to provisional figures",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/03/england-wales-had-driest-july-on-record_6756117_4.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-rep-ce562758",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
+      "published_at": "2026-08-03T14:56:22.000Z",
+      "image": "https://s.france24.com/media/display/c0f00c7c-8f48-11f1-887c-005056a90284/w:1024/p:16x9/capture-4732910486a70a77dc6a8f7-29730552.jpg",
+      "image_alt": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us-7106ebe2",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran 'calls Trump's bluff' as it denies negotiating with the US",
+      "published_at": "2026-08-03T14:44:31.000Z",
+      "image": "https://s.france24.com/media/display/ab0807ca-8f1b-11f1-9b58-005056a90284/w:1024/p:16x9/2026-08-01T231308Z-184597698-RC28PMAKCT55-RTRMADP-3-USA-TRUMP-CAPITAL-ONE.jpg",
+      "image_alt": "Iran 'calls Trump's bluff' as it denies negotiating with the US",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "binging-on-cringe-it-apos-s-as-addictive-as-apos-eating-junk-food-apos-3b568cd2",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Binging on cringe: It&apos;s as addictive as &apos;eating junk food&apos;",
+      "published_at": "2026-08-03T14:39:00.000Z",
+      "image": "",
+      "image_alt": "Binging on cringe: It&apos;s as addictive as &apos;eating junk food&apos;",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/binging-on-cringe-it-s-as-addictive-as-eating-junk-food/a-78145287?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 73
