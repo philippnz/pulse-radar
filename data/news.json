@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T15:53:00.829Z",
+  "updated_at": "2026-08-04T17:41:52.504Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "video-shows-russian-drone-chasing-ukrainian-street-vendor-in-human-saf-0dff666c",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "published_at": "2026-08-04T17:26:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
     {
       "id": "mass-funeral-in-gaza-for-112-palestinians-killed-in-2023-israeli-strik-cd168e25",
       "region": "Middle East",
@@ -40,27 +63,73 @@
           "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 87
     },
     {
-      "id": "eu-commends-spain-s-swift-response-to-ceuta-migrant-crisis-d81d557e",
-      "region": "Europe",
-      "topic": "World",
+      "id": "gaza-holds-mass-funeral-for-112-people-killed-in-israel-s-2023-sabra-a-2588a318",
+      "region": "Middle East",
+      "topic": "Security",
       "urgency": "Breaking",
-      "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "published_at": "2026-08-04T15:36:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3444/live/001c9500-9007-11f1-9dfb-fd4408d16f2f.jpg",
-      "image_alt": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "headline": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+      "published_at": "2026-08-04T17:03:24.000Z",
+      "image": "",
+      "image_alt": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "war-on-iran-trump-says-iran-has-one-last-chance-776734e6",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "War on Iran: Trump says Iran has one ‘last chance’",
+      "published_at": "2026-08-04T16:13:49.000Z",
+      "image": "",
+      "image_alt": "War on Iran: Trump says Iran has one ‘last chance’",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism-051e1eca",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+      "published_at": "2026-08-04T16:01:35.000Z",
+      "image": "",
+      "image_alt": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss"
         }
       ],
       "impact": 85
@@ -71,7 +140,7 @@
       "topic": "Markets",
       "urgency": "Live",
       "headline": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "published_at": "2026-08-04T15:33:03.000Z",
+      "published_at": "2026-08-04T17:06:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg",
       "image_alt": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "translations": {
@@ -86,30 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
-    },
-    {
-      "id": "why-are-oil-companies-posting-record-profits-amid-iran-war-disruption-6c124a1b",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Why are oil companies posting record profits amid Iran war disruption?",
-      "published_at": "2026-08-04T14:04:28.000Z",
-      "image": "",
-      "image_alt": "Why are oil companies posting record profits amid Iran war disruption?",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss"
-        }
-      ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "ukraine-hits-more-wildberries-sites-as-strike-kills-five-in-moscow-reg-2b57d959",
@@ -132,13 +178,197 @@
           "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "eu-commends-spain-s-swift-response-to-ceuta-migrant-crisis-d81d557e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "published_at": "2026-08-04T16:07:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde3/live/82720620-9020-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border-feaa9e93",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "EU offers emergency aid to Spain to strengthen Ceuta border",
+      "published_at": "2026-08-04T16:41:30.000Z",
+      "image": "",
+      "image_alt": "EU offers emergency aid to Spain to strengthen Ceuta border",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "more-than-170-migrants-rescued-after-boat-catches-fire-in-channel-b72631da",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "More than 170 migrants rescued after boat catches fire in Channel",
+      "published_at": "2026-08-04T17:25:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d785/live/d18261f0-9012-11f1-aabc-c3c7aa714117.jpg",
+      "image_alt": "More than 170 migrants rescued after boat catches fire in Channel",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-titl-27780f13",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title",
+      "published_at": "2026-08-04T16:40:44.000Z",
+      "image": "",
+      "image_alt": "Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "uefa-s-threatened-legal-action-against-infantino-and-fifa-what-we-know-65dd650d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UEFA’s threatened legal action against Infantino and FIFA: What we know",
+      "published_at": "2026-08-04T16:36:47.000Z",
+      "image": "",
+      "image_alt": "UEFA’s threatened legal action against Infantino and FIFA: What we know",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "india-denies-involvement-in-ex-bangladesh-pm-hasina-s-planned-speech-43b03a88",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "India denies involvement in ex-Bangladesh PM Hasina’s planned speech",
+      "published_at": "2026-08-04T16:34:54.000Z",
+      "image": "",
+      "image_alt": "India denies involvement in ex-Bangladesh PM Hasina’s planned speech",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/4/india-denies-involvement-in-ex-bangladesh-pm-hasinas-planned-speech?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "photos-guatemala-s-fuego-volcano-erupts-forcing-evacuations-b1b9a79f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
+      "published_at": "2026-08-04T16:14:34.000Z",
+      "image": "",
+      "image_alt": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "ceuta-crisis-the-elusive-search-for-the-origins-of-the-border-opening--6be24439",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Ceuta crisis: The elusive search for the origins of the border opening rumor",
+      "published_at": "2026-08-04T15:56:07.000Z",
+      "image": "https://img.lemde.fr/2026/08/04/432/0/5186/2593/644/322/60/0/8bc1f14_ftp-1-recjviq6rqq9-2026-08-04t060208z-1711876709-rc27rmaumi0m-rtrmadp-3-migration-europe-spain-ceuta.JPG",
+      "image_alt": "Ceuta crisis: The elusive search for the origins of the border opening rumor",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/08/04/ceuta-crisis-the-elusive-search-for-the-origins-of-the-border-opening-rumor_6756156_13.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "why-trump-media-s-sale-of-fast-access-to-market-moving-social-posts-is-80b01a96",
       "region": "World",
       "topic": "Markets",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
       "published_at": "2026-08-04T13:53:41.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8b7/live/86169830-8fe0-11f1-bb3b-43bf44dc94d9.jpg",
@@ -155,53 +385,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
-    },
-    {
-      "id": "more-than-150-migrants-rescued-after-boat-catches-fire-in-channel-b72631da",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "More than 150 migrants rescued after boat catches fire in Channel",
-      "published_at": "2026-08-04T14:37:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d785/live/d18261f0-9012-11f1-aabc-c3c7aa714117.jpg",
-      "image_alt": "More than 150 migrants rescued after boat catches fire in Channel",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "qatar-says-indirect-talks-continue-to-reopen-strait-of-hormuz-e3227239",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Qatar says indirect talks continue to reopen Strait of Hormuz",
-      "published_at": "2026-08-04T15:34:40.000Z",
-      "image": "",
-      "image_alt": "Qatar says indirect talks continue to reopen Strait of Hormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "more-than-150-migrants-rescued-from-burning-boat-in-english-channel-c493b19a",
@@ -224,7 +408,7 @@
           "url": "https://www.nytimes.com/2026/08/04/world/europe/english-channel-migrants-rescue.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "with-arson-they-are-forced-to-release-students-kenya-s-boarding-school-bd38f0e8",
@@ -247,168 +431,53 @@
           "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/04/with-arson-they-are-forced-to-release-students-kenya-s-boarding-school-system-nears-breaking-point_6756153_124.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "drone-appears-to-stalk-man-before-exploding-0c5e2c89",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Drone appears to stalk man before exploding",
-      "published_at": "2026-08-04T15:11:51.000Z",
-      "image": "",
-      "image_alt": "Drone appears to stalk man before exploding",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians-c5702648",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-      "published_at": "2026-08-04T14:51:51.000Z",
-      "image": "",
-      "image_alt": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "a-new-lethal-front-in-ukraine-its-beloved-gas-stations-dae96251",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
-      "published_at": "2026-08-04T14:33:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/28/00int-ukraine-gas-stations-01-gkfj-cover/00int-ukraine-gas-stations-01-gkfj-cover-mediumSquareAt3X-v2.jpg",
-      "image_alt": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction-15f6ddbd",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Beirut port blast anniversary overshadowed by new wave of destruction",
-      "published_at": "2026-08-04T14:23:33.000Z",
-      "image": "",
-      "image_alt": "Beirut port blast anniversary overshadowed by new wave of destruction",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "airport-chaos-delays-as-e-u-debuts-biometric-border-system-1c5321dd",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Airport chaos, delays as E.U. debuts biometric border system",
-      "published_at": "2026-08-04T14:06:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-europe-travel-chaos-01-cqvg/22int-europe-travel-chaos-01-cqvg-mediumSquareAt3X.jpg",
-      "image_alt": "Airport chaos, delays as E.U. debuts biometric border system",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings-4e30e394",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
-      "published_at": "2026-08-04T13:52:45.000Z",
-      "image": "",
-      "image_alt": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "ceuta-crisis-exposes-eu-divisions-over-migration-policy-cce430fe",
+      "id": "spain-and-fellow-eu-nations-bury-the-hatchet-after-ceuta-migration-dis-ed77d197",
       "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Breaking",
-      "headline": "Ceuta crisis exposes EU divisions over migration policy",
-      "published_at": "2026-08-04T07:40:14.000Z",
-      "image": "https://img.lemde.fr/2026/08/03/473/0/8640/4320/644/322/60/0/c131a0f_ftp-1-zuzcw0rvqqux-caa368e16c8f442ab1eb62c664f0dabb-0-01284b73dfee46b08262c3db95e3f8f2.jpg",
-      "image_alt": "Ceuta crisis exposes EU divisions over migration policy",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Spain and fellow EU nations bury the hatchet after Ceuta migration discord",
+      "published_at": "2026-08-04T15:00:08.000Z",
+      "image": "https://s.france24.com/media/display/64915856-900f-11f1-8096-005056a97e36/w:1024/p:16x9/000-C3T764T.jpg",
+      "image_alt": "Spain and fellow EU nations bury the hatchet after Ceuta migration discord",
       "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260804-spain-and-fellow-eu-nations-bury-the-hatchet-after-ceuta-migration-discord"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "senate-panel-advances-blanche-nomination-to-be-us-attorney-general-ec093793",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Senate panel advances Blanche nomination to be US attorney general",
+      "published_at": "2026-08-04T17:25:27.000Z",
+      "image": "https://img.lemde.fr/2026/07/31/98/0/3000/1500/644/322/60/0/ea75bbc_ftp-1-vjejaxucpv4b-a96f8ff1991f45bf947d774458ef2b92-0-d8e804a753f34a66ad264714e224385f.jpg",
+      "image_alt": "Senate panel advances Blanche nomination to be US attorney general",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/04/ceuta-crisis-exposes-eu-divisions-over-migration-policy_6756137_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/04/senate-panel-advances-blanche-nomination-to-be-us-attorney-general_6756159_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "andy-burnham-s-first-weeks-as-uk-prime-minister-tiktoks-podcasts-and-p-ce6df666",
@@ -431,7 +500,53 @@
           "url": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html"
         }
       ],
-      "impact": 74
+      "impact": 72
+    },
+    {
+      "id": "todd-blanche-supera-el-gran-escollo-del-congreso-para-convertirse-en-f-60933ebc",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Todd Blanche supera el gran escollo del Congreso para convertirse en fiscal general de Estados Unidos",
+      "published_at": "2026-08-04T16:17:09.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/HYIIW4VOY5KOZOCURFQLQQV7VU.jpg?auth=3174f2a8bdec78c02873d0abb9471d68e6cd7ebdaff1f38dcd62b413cc0e2a0b",
+      "image_alt": "Todd Blanche supera el gran escollo del Congreso para convertirse en fiscal general de Estados Unidos",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-08-04/todd-blanche-supera-el-gran-escollo-del-congreso-para-convertirse-en-fiscal-general-de-estados-unidos.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "france-suspects-russian-meddling-in-run-up-to-presidential-race-0704a77c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France suspects Russian meddling in run-up to presidential race",
+      "published_at": "2026-08-04T15:59:09.000Z",
+      "image": "https://img.lemde.fr/2026/07/14/1376/0/8256/4128/644/322/60/0/ac43263_upload-1-9mqlnlpbqcw8-glubruges-44.jpg",
+      "image_alt": "France suspects Russian meddling in run-up to presidential race",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/08/04/france-suspects-russian-meddling-in-run-up-to-presidential-race_6756157_5.html"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "iceland-says-it-will-rule-on-deporting-anti-whaling-activists-this-wee-38e84c3b",
@@ -454,122 +569,7 @@
           "url": "https://www.lemonde.fr/en/environment/article/2026/08/04/iceland-says-it-will-rule-on-deporting-anti-whaling-activists-this-week_6756154_114.html"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "south-sudan-how-climate-change-can-result-in-toxic-water-fb1c132c",
-      "region": "Africa",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "South Sudan: How climate change can result in toxic water",
-      "published_at": "2026-08-04T14:46:00.000Z",
-      "image": "",
-      "image_alt": "South Sudan: How climate change can result in toxic water",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "what-does-zambia-apos-s-opposition-stand-without-edgar-lungu-f7ee94b3",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What does Zambia&apos;s opposition stand without Edgar Lungu?",
-      "published_at": "2026-08-04T14:12:00.000Z",
-      "image": "",
-      "image_alt": "What does Zambia&apos;s opposition stand without Edgar Lungu?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/what-does-zambia-s-opposition-stand-without-edgar-lungu/a-78231174?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "eu-agrees-to-send-border-aid-to-spain-after-ceuta-talks-57526cdb",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "EU agrees to send border aid to Spain after Ceuta talks",
-      "published_at": "2026-08-04T13:59:00.000Z",
-      "image": "",
-      "image_alt": "EU agrees to send border aid to Spain after Ceuta talks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/eu-agrees-to-send-border-aid-to-spain-after-ceuta-talks/a-78233082?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "what-we-know-about-the-moscow-attack-that-killed-at-least-five-and-inj-9d5409f6",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "What we know about the Moscow attack that killed at least five and injured 19",
-      "published_at": "2026-08-04T04:00:08.000Z",
-      "image": "https://img.lemde.fr/2026/08/02/545/0/8049/4024/644/322/60/0/78e9dbf_ftp-1-ypapr5bea487-2026-08-02t103016z-1463698870-rc29qmaf0nog-rtrmadp-3-russia-explosion.JPG",
-      "image_alt": "What we know about the Moscow attack that killed at least five and injured 19",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/04/what-we-know-about-the-attack-that-killed-five-and-injured-nineteen-in-moscow_6756136_4.html"
-        }
-      ],
       "impact": 71
-    },
-    {
-      "id": "tennis-star-sabalenka-supports-sport-apos-s-new-sex-test-policy-6cc73b2c",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Tennis star Sabalenka supports sport&apos;s new sex test policy",
-      "published_at": "2026-08-04T11:04:00.000Z",
-      "image": "",
-      "image_alt": "Tennis star Sabalenka supports sport&apos;s new sex test policy",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/tennis-star-sabalenka-supports-sport-s-new-sex-test-policy/a-78228069?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 69
     }
   ]
 }
