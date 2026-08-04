@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T02:04:58.722Z",
+  "updated_at": "2026-08-04T05:29:00.916Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,73 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance-33697d42",
-      "region": "Middle East",
+      "id": "russia-says-seven-killed-and-40-injured-by-ukrainian-drone-hitting-bus-e548e5a1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "published_at": "2026-08-04T03:37:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "what-we-know-about-the-attack-that-killed-at-least-five-and-injured-19-9d5409f6",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
-      "published_at": "2026-08-04T00:00:00.000Z",
-      "image": "",
-      "image_alt": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "headline": "What we know about the attack that killed at least five and injured 19 in Moscow",
+      "published_at": "2026-08-04T04:00:08.000Z",
+      "image": "https://img.lemde.fr/2026/08/02/545/0/8049/4024/644/322/60/0/78e9dbf_ftp-1-ypapr5bea487-2026-08-02t103016z-1463698870-rc29qmaf0nog-rtrmadp-3-russia-explosion.JPG",
+      "image_alt": "What we know about the attack that killed at least five and injured 19 in Moscow",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/04/what-we-know-about-the-attack-that-killed-five-and-injured-nineteen-in-moscow_6756136_4.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-under--d951b278",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "published_at": "2026-08-04T02:56:26.000Z",
+      "image": "",
+      "image_alt": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 80
     },
     {
       "id": "uncertainty-is-almost-worse-than-war-in-dubai-s-financial-sector-fear--48aee957",
@@ -63,7 +109,30 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/08/04/uncertainty-is-almost-worse-than-war-in-dubai-s-financial-sector-fear-of-drawn-out-conflict-grows_6756133_19.html"
         }
       ],
-      "impact": 83
+      "impact": 80
+    },
+    {
+      "id": "france-wildfires-reveal-hundreds-of-ww2-shells-in-village-9a614e01",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France wildfires reveal hundreds of WW2 shells in village",
+      "published_at": "2026-08-04T04:22:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/72c59ca0-8fb2-11f1-a9e7-cb00cf477e15.jpg",
+      "image_alt": "France wildfires reveal hundreds of WW2 shells in village",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "singapore-bans-band-massive-attack-for-displaying-palestinian-flag-ebcd9378",
@@ -86,40 +155,17 @@
           "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html"
         }
       ],
-      "impact": 83
+      "impact": 79
     },
     {
-      "id": "threat-to-oil-tankers-in-middle-east-worst-since-start-of-iran-war-ana-d8a8a143",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "published_at": "2026-08-03T15:57:27.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
-      "image_alt": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "does-the-us-blockade-on-cuba-make-america-safer-528d071e",
+      "id": "why-are-the-washington-wildfires-so-severe-spokane-fires-explained-cb1ffa3a",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Does the US blockade on Cuba make America safer?",
-      "published_at": "2026-08-04T01:58:17.000Z",
+      "headline": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "published_at": "2026-08-04T05:03:44.000Z",
       "image": "",
-      "image_alt": "Does the US blockade on Cuba make America safer?",
+      "image_alt": "Why are the Washington wildfires so severe? Spokane fires explained",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,43 +175,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disar-b524bb62",
-      "region": "Middle East",
+      "id": "us-states-sue-to-block-trump-tariffs-impacting-dozens-of-countries-93ac6fc6",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-      "published_at": "2026-08-04T01:43:51.000Z",
-      "image": "",
-      "image_alt": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "russia-says-seven-killed-and-40-injured-by-ukrainian-drone-hitting-bus-e548e5a1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "published_at": "2026-08-03T18:04:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+      "published_at": "2026-08-04T02:53:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "US states sue to block Trump tariffs impacting dozens of countries",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,47 +198,66 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance-0354d0fb",
-      "region": "Middle East",
-      "topic": "World",
+      "id": "watch-wild-police-chase-in-queensland-australia-ends-in-two-arrests-2e8cf0f3",
+      "region": "Asia-Pacific",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
-      "published_at": "2026-08-04T01:18:25.000Z",
-      "image": "https://s.france24.com/media/display/f40e3e8a-8f7f-11f1-8ccc-005056a90284/w:1024/p:16x9/2026-08-03T185319Z-684638-RC22RMA599HN-RTRMADP-3-USA-TRUMP.jpg",
-      "image_alt": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
+      "headline": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "published_at": "2026-08-04T02:47:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e733/live/9b67e420-8fac-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260804-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance"
-        },
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "bodycam-video-shows-firefighters-battling-blaze-in-spokane-us-fb4d7f17",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bodycam video shows firefighters battling blaze in Spokane, US",
+      "published_at": "2026-08-04T04:22:28.000Z",
+      "image": "",
+      "image_alt": "Bodycam video shows firefighters battling blaze in Spokane, US",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "trump-administration-sued-by-25-states-over-new-tariffs-on-trading-par-3108dacd",
+      "id": "colombia-s-petro-repeats-vote-fraud-claims-days-before-handing-over-po-84d58cff",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump administration sued by 25 states over new tariffs on trading partners",
-      "published_at": "2026-08-04T00:29:48.000Z",
+      "headline": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "published_at": "2026-08-04T03:58:09.000Z",
       "image": "",
-      "image_alt": "Trump administration sued by 25 states over new tariffs on trading partners",
+      "image_alt": "Colombia’s Petro repeats vote fraud claims days before handing over power",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -225,20 +267,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash-b23b9afa",
-      "region": "Asia-Pacific",
+      "id": "salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre-05d68e58",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Two workers who died in quake-hit Japan mall were sent in to get cash",
-      "published_at": "2026-08-03T23:52:02.000Z",
+      "headline": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "published_at": "2026-08-04T03:14:29.000Z",
       "image": "",
-      "image_alt": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+      "image_alt": "Salvadoran man dies in ICE custody at New Jersey detention centre",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -248,10 +290,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss"
         }
       ],
       "impact": 75
+    },
+    {
+      "id": "cuba-further-blackouts-disrupt-energy-restoration-attempts-15fc415a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cuba: Further blackouts disrupt energy restoration attempts",
+      "published_at": "2026-08-04T03:23:00.000Z",
+      "image": "",
+      "image_alt": "Cuba: Further blackouts disrupt energy restoration attempts",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/cuba-further-blackouts-disrupt-energy-restoration-attempts/a-78224862?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender-27a63bb7",
@@ -274,99 +339,53 @@
           "url": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
+      "impact": 71
     },
     {
-      "id": "death-toll-from-venezuela-earthquakes-passes-6-000-641fd1d0",
-      "region": "World",
+      "id": "jordania-en-el-foco-indeseado-de-la-guerra-de-oriente-pr-ximo-e68929ff",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Death toll from Venezuela earthquakes passes 6,000",
-      "published_at": "2026-08-03T23:20:37.000Z",
-      "image": "",
-      "image_alt": "Death toll from Venezuela earthquakes passes 6,000",
+      "headline": "Jordania, en el foco indeseado de la guerra de Oriente Próximo",
+      "published_at": "2026-08-04T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/OBY2YEUEWJNXPBLY43TIMPTTGE.jpg?auth=d7a79aaf24e8a93b6149d97faa92d2c830bc2175d1b8c8484ba3f6aaaf5e0f77",
+      "image_alt": "Jordania, en el foco indeseado de la guerra de Oriente Próximo",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-08-04/jordania-en-el-foco-indeseado-de-la-guerra-de-oriente-proximo.html"
         }
       ],
-      "impact": 74
+      "impact": 70
     },
     {
-      "id": "petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-fed2dca7",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "published_at": "2026-08-03T23:02:07.000Z",
-      "image": "",
-      "image_alt": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "african-states-pressured-by-us-to-leave-the-icc-875708ca",
-      "region": "Americas",
+      "id": "el-verano-al-rojo-vivo-de-lu-s-montenegro-al-frente-del-gobierno-de-po-fbdda6e1",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "African states pressured by US to leave the ICC",
-      "published_at": "2026-08-04T01:39:20.000Z",
-      "image": "https://img.lemde.fr/2026/08/02/87/0/7774/3887/644/322/60/0/c00ff5d_upload-1-cdaiayddwrt6-ap26132439304576.jpg",
-      "image_alt": "African states pressured by US to leave the ICC",
+      "headline": "El verano al rojo vivo de Luís Montenegro al frente del Gobierno de Portugal",
+      "published_at": "2026-08-04T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZXQSBWGLFFOX5BSJ4O5YZXZ4DM.jpg?auth=46f9fb8457c4a3ed9f1af7d1993cc2e6146869fe3b12ccfd8b49c036cb99ff42",
+      "image_alt": "El verano al rojo vivo de Luís Montenegro al frente del Gobierno de Portugal",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/04/african-states-pressured-by-us-to-leave-the-icc_6756132_124.html"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-08-04/el-verano-al-rojo-vivo-de-luis-montenegro-al-frente-del-gobierno-de-portugal.html"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "25-us-states-sue-trump-administration-over-sweeping-new-tariffs-d0ddf234",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "25 US states sue Trump administration over sweeping new tariffs",
-      "published_at": "2026-08-04T01:31:40.000Z",
-      "image": "https://s.france24.com/media/display/169c7cb2-8785-11f1-975a-005056bfb2b6/w:1024/p:16x9/2026-07-24T092458Z-815161318-RC2Q0GAAVSGR-RTRMADP-3-USA-TRUMP-TARIFFS.jpg",
-      "image_alt": "25 US states sue Trump administration over sweeping new tariffs",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260804-25-us-states-sue-trump-administration-over-sweeping-new-tariffs"
-        }
-      ],
-      "impact": 73
+      "impact": 70
     },
     {
       "id": "russia-says-civilians-killed-in-strike-on-black-sea-resort-d6ffe207",
@@ -389,76 +408,99 @@
           "url": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 70
     },
     {
-      "id": "amid-negotiations-israel-keeps-southern-lebanon-in-fear-with-massive-d-1d9e164c",
-      "region": "Middle East",
+      "id": "ibrahim-traore-why-burkina-faso-s-popular-leader-faces-a-reality-test-1241bf65",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Amid negotiations, Israel keeps southern Lebanon in fear with massive detonations",
-      "published_at": "2026-08-04T01:04:22.000Z",
-      "image": "https://img.lemde.fr/2026/07/31/679/0/6000/3000/644/322/60/0/ab79830_ftp-1-5zk74ecgytfa-5747466-01-06.jpg",
-      "image_alt": "Amid negotiations, Israel keeps southern Lebanon in fear with massive detonations",
+      "urgency": "Update",
+      "headline": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
+      "published_at": "2026-08-04T02:15:32.000Z",
+      "image": "",
+      "image_alt": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/04/amid-negotiations-israel-keeps-southern-lebanon-in-fear-with-massive-detonations_6756131_4.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss"
         }
       ],
-      "impact": 72
+      "impact": 69
     },
     {
-      "id": "us-northwest-wildfires-force-65-000-to-flee-as-hundreds-of-buildings-b-e5d87f4a",
+      "id": "does-the-us-blockade-on-cuba-make-america-safer-528d071e",
       "region": "Americas",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "US northwest wildfires force 65,000 to flee as hundreds of buildings burn in Spokane",
-      "published_at": "2026-08-04T00:40:29.000Z",
-      "image": "https://s.france24.com/media/display/d29db240-8f9c-11f1-bb04-005056bf30b7/w:1024/p:16x9/AP26215842869284.jpg",
-      "image_alt": "US northwest wildfires force 65,000 to flee as hundreds of buildings burn in Spokane",
+      "urgency": "Update",
+      "headline": "Does the US blockade on Cuba make America safer?",
+      "published_at": "2026-08-04T01:58:17.000Z",
+      "image": "",
+      "image_alt": "Does the US blockade on Cuba make America safer?",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260804-us-northwest-wildfires-force-65-000-to-flee-as-hundreds-of-buildings-burn-in-spokane"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss"
         }
       ],
-      "impact": 72
+      "impact": 69
     },
     {
-      "id": "europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greec-e07c23f9",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK",
-      "published_at": "2026-08-03T19:50:25.000Z",
-      "image": "https://s.france24.com/media/display/45c54522-8f6f-11f1-b57b-005056bfb2b6/w:1024/p:16x9/000-C3TC72X.jpg",
-      "image_alt": "Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK",
+      "id": "ariana-grande-has-had-enough-of-body-comments-but-scrutiny-will-linger-0238657d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "published_at": "2026-08-03T23:25:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca1/live/6fbef520-8f2a-11f1-97e3-3fd20de37928.jpg",
+      "image_alt": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
       "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 69
+    },
+    {
+      "id": "i-left-my-wife-and-twins-behind-4eb4681e",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "I left my wife and twins behind",
+      "published_at": "2026-08-03T23:14:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74a/live/7ef55710-8c31-11f1-a7ab-8b30adf0800a.png",
+      "image_alt": "I left my wife and twins behind",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "stronger-eu-borders-needed-after-ceuta-crisis-von-der-leyen-says-2dea8ed3",
@@ -481,53 +523,7 @@
           "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "us-northwest-battles-wildfires-after-spokane-neighborhoods-scorched-268a9658",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US northwest battles wildfires after Spokane neighborhoods scorched",
-      "published_at": "2026-08-03T23:58:44.000Z",
-      "image": "https://img.lemde.fr/2026/08/03/642/0/6000/3000/644/322/60/0/45a104e_ftp-1-pekxrsmzagsn-2026-08-03t195541z-637133231-rc27rmag3fjo-rtrmadp-3-usa-wildfires-washington.JPG",
-      "image_alt": "US northwest battles wildfires after Spokane neighborhoods scorched",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/environment/article/2026/08/04/us-northwest-battles-wildfires-after-spokane-neighborhoods-scorched_6756130_114.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "eu-calls-for-stronger-borders-after-ceuta-migrant-crossings-d900971b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "EU calls for stronger borders after Ceuta migrant crossings",
-      "published_at": "2026-08-03T21:43:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7271/live/db06f1c0-8f7f-11f1-b08e-77185111f813.jpg",
-      "image_alt": "EU calls for stronger borders after Ceuta migrant crossings",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "after-trump-pardon-former-honduras-president-hern-ndez-faces-charges-i-751e365d",
@@ -550,30 +546,30 @@
           "url": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html"
         }
       ],
-      "impact": 71
+      "impact": 68
     },
     {
-      "id": "how-ceuta-migrant-crisis-exposes-divisions-within-europe-5d24f14c",
+      "id": "eu-calls-for-stronger-borders-after-ceuta-migrant-crossings-d900971b",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "How Ceuta migrant crisis exposes divisions within Europe",
-      "published_at": "2026-08-03T16:05:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/64b7d9cf3b917d2f8753485f587edab1fc229604/210_0_3444_2756/master/3444.jpg?width=140&quality=85&auto=format&fit=max&s=1b1dda6f0e8c14099a57437c074af302",
-      "image_alt": "How Ceuta migrant crisis exposes divisions within Europe",
+      "urgency": "Update",
+      "headline": "EU calls for stronger borders after Ceuta migrant crossings",
+      "published_at": "2026-08-03T21:43:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7271/live/db06f1c0-8f7f-11f1-b08e-77185111f813.jpg",
+      "image_alt": "EU calls for stronger borders after Ceuta migrant crossings",
       "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 67
     }
   ]
 }
