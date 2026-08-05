@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:58:45.783Z",
+  "updated_at": "2026-08-05T12:57:49.055Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "russian-strike-kills-at-least-17-as-zelensky-says-interceptors-could-h-d7cb0db0",
-      "region": "World",
+      "id": "russia-strike-kills-21-as-ukraine-says-it-needs-more-missile-intercept-d7cb0db0",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "published_at": "2026-08-05T10:49:41.000Z",
+      "headline": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "published_at": "2026-08-05T12:26:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "image_alt": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -41,6 +41,52 @@
         }
       ],
       "impact": 90
+    },
+    {
+      "id": "in-bandar-abbas-the-ceasefire-never-came-2c86f4cb",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "In Bandar Abbas, the ceasefire never came",
+      "published_at": "2026-08-05T12:14:16.000Z",
+      "image": "",
+      "image_alt": "In Bandar Abbas, the ceasefire never came",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "turkish-cargo-ship-catches-fire-after-black-sea-drone-attack-248cc603",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "published_at": "2026-08-05T11:49:25.000Z",
+      "image": "",
+      "image_alt": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss"
+        }
+      ],
+      "impact": 86
     },
     {
       "id": "russia-s-deadly-missile-attack-on-kyiv-exploits-ukraine-s-depleted-air-e36fd3d5",
@@ -63,7 +109,7 @@
           "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html"
         }
       ],
-      "impact": 87
+      "impact": 85
     },
     {
       "id": "how-the-ukraine-war-became-a-fight-for-the-skies-6336b832",
@@ -86,7 +132,30 @@
           "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html"
         }
       ],
-      "impact": 86
+      "impact": 84
+    },
+    {
+      "id": "mexican-influencer-shot-dead-during-livestream-c8a1bf70",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Mexican influencer shot dead during livestream",
+      "published_at": "2026-08-05T11:00:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c98/live/57e54d20-90bd-11f1-b8f3-bf6a2c059a9b.jpg",
+      "image_alt": "Mexican influencer shot dead during livestream",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari--330f5e01",
@@ -109,7 +178,7 @@
           "url": "https://www.france24.com/en/russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari-attack"
         }
       ],
-      "impact": 84
+      "impact": 82
     },
     {
       "id": "terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defe-3093cb4b",
@@ -132,7 +201,76 @@
           "url": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence"
         }
       ],
-      "impact": 83
+      "impact": 81
+    },
+    {
+      "id": "drone-carrying-explosives-found-at-german-airport-police-say-71ff3008",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Drone carrying explosives found at German airport, police say",
+      "published_at": "2026-08-05T12:48:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d6/live/57517090-90c8-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image_alt": "Drone carrying explosives found at German airport, police say",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "waste-workers-help-winner-find-binned-1m-lottery-ticket-in-italy-1ad07472",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "published_at": "2026-08-05T12:33:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7515/live/4f103dd0-90b9-11f1-b8f3-bf6a2c059a9b.jpg",
+      "image_alt": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "migrant-crisis-reveals-vast-differences-between-ceuta-and-its-moroccan-9db07b01",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+      "published_at": "2026-08-05T10:09:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05int-spain-morocco-cities-10-vmjw-copy/05int-spain-morocco-cities-10-vmjw-mediumSquareAt3X.jpg",
+      "image_alt": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "germany-news-lightning-strike-cuts-bavarian-town-in-two-ba52a061",
@@ -155,53 +293,191 @@
           "url": "https://www.dw.com/en/germany-news-lightning-strike-cuts-bavarian-town-in-two/live-78241747?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "government-is-for-the-people-says-michigan-primary-candidate-bfbadbe0",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Government is ‘for the people’ says Michigan primary candidate",
-      "published_at": "2026-08-05T09:25:31.000Z",
-      "image": "",
-      "image_alt": "Government is ‘for the people’ says Michigan primary candidate",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/government-is-for-the-people-says-michigan-primary-candidate?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "russian-attacks-kill-17-exploiting-ukraine-s-lack-of-missile-intercept-83e12809",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-      "published_at": "2026-08-05T09:16:39.000Z",
-      "image": "",
-      "image_alt": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss"
-        }
-      ],
       "impact": 80
+    },
+    {
+      "id": "record-heatwave-in-south-korea-as-temperatures-soar-to-42-5c-a9101cec",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "published_at": "2026-08-05T11:30:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c4/live/a542eee0-90ba-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "fact-check-did-misleading-claims-about-spain-apos-s-migration-law-trig-8c8dbff5",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Breaking",
+      "headline": "Fact check: Did misleading claims about Spain&apos;s migration law trigger the Ceuta crisis?",
+      "published_at": "2026-08-05T11:42:00.000Z",
+      "image": "",
+      "image_alt": "Fact check: Did misleading claims about Spain&apos;s migration law trigger the Ceuta crisis?",
+      "translations": {
+        "en": "PULSE is tracking this society update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/fact-check-did-misleading-claims-about-spain-s-migration-law-trigger-the-ceuta-crisis/a-78233161?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "pakistan-restricts-international-media-reporting-e5f340db",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pakistan restricts international media reporting",
+      "published_at": "2026-08-05T11:19:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/a8f42cc0-901a-11f1-b783-f784376ffc11.jpg",
+      "image_alt": "Pakistan restricts international media reporting",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "how-being-cool-is-making-the-hague-a-vacation-hot-spot-bde58e6d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How Being Cool Is Making The Hague a Vacation Hot Spot",
+      "published_at": "2026-08-05T12:37:24.000Z",
+      "image": "",
+      "image_alt": "How Being Cool Is Making The Hague a Vacation Hot Spot",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "spacex-rocket-segment-to-crash-into-the-moon-what-happened-b2a57f9a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "SpaceX rocket segment to crash into the moon: What happened?",
+      "published_at": "2026-08-05T12:36:40.000Z",
+      "image": "",
+      "image_alt": "SpaceX rocket segment to crash into the moon: What happened?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "mohamed-salah-lands-in-turkiye-to-fan-frenzy-ahead-of-trabzonspor-move-93365bfb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move",
+      "published_at": "2026-08-05T12:20:10.000Z",
+      "image": "",
+      "image_alt": "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/mohamed-salah-lands-in-turkiye-to-fan-frenzy-ahead-of-trabzonspor-move?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israeli-strikes-may-undermine-trump-s-peace-plan-for-gaza-31c1d4c4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+      "published_at": "2026-08-05T12:05:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-assess-gaza-deal-hmbt/04int-assess-gaza-deal-hmbt-mediumSquareAt3X.jpg",
+      "image_alt": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "tiktok-influencer-shot-dead-during-livestream-in-mexico-5ad32367",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "TikTok influencer shot dead during livestream in Mexico",
+      "published_at": "2026-08-05T11:06:00.000Z",
+      "image": "",
+      "image_alt": "TikTok influencer shot dead during livestream in Mexico",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/tiktok-influencer-shot-dead-during-livestream-in-mexico/a-78241507?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "more-than-800-000-displaced-lebanese-returning-home-after-war-says-un-4e9f919c",
@@ -224,352 +500,76 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/05/more-than-800-000-displaced-lebanese-returning-home-after-war-says-un_6756173_4.html"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "high-stakes-michigan-democratic-primary-pits-progressive-against-moder-025eea9c",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "High-stakes Michigan Democratic primary pits progressive against moderates",
-      "published_at": "2026-08-05T10:16:43.000Z",
-      "image": "https://s.france24.com/media/display/68b4708e-90b5-11f1-b3be-005056a90284/w:1024/p:16x9/EN-20260805-080315-080606-CS.jpg",
-      "image_alt": "High-stakes Michigan Democratic primary pits progressive against moderates",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/high-stakes-michigan-democratic-primary-pits-progressive-against-moderates"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "afghan-boxer-appears-in-court-in-connection-with-death-of-scottish-wom-33e9fb6a",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "published_at": "2026-08-05T09:22:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4808/live/e6b89d00-90a8-11f1-b35a-3be58eca94a8.jpg",
-      "image_alt": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "perez-hilton-recovering-in-hospital-after-reports-he-self-harmed-durin-af5e5ef4",
-      "region": "World",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "published_at": "2026-08-05T08:29:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9a/live/839f4170-90a2-11f1-b8ee-9b3c26ad07bb.jpg",
-      "image_alt": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "translations": {
-        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "israeli-raid-deepens-fears-across-west-bank-refugee-camps-4e03176c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli raid deepens fears across West Bank refugee camps",
-      "published_at": "2026-08-05T10:30:17.000Z",
-      "image": "",
-      "image_alt": "Israeli raid deepens fears across West Bank refugee camps",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss"
-        }
-      ],
       "impact": 77
     },
     {
-      "id": "two-cities-with-a-tangled-history-9db07b01",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Two Cities With a Tangled History",
-      "published_at": "2026-08-05T10:09:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05int-spain-morocco-cities-10-vmjw-copy/05int-spain-morocco-cities-10-vmjw-mediumSquareAt3X.jpg",
-      "image_alt": "Two Cities With a Tangled History",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "ceuta-crisis-morocco-does-not-just-need-a-new-development-plan-but-a-n-ed0a79b1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Ceuta crisis: 'Morocco does not just need a new development plan, but a new social contract'",
-      "published_at": "2026-08-05T09:30:07.000Z",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/10f5d75_upload-1-vkh5yy2ntv4i-frame-835.jpg",
-      "image_alt": "Ceuta crisis: 'Morocco does not just need a new development plan, but a new social contract'",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/08/05/ceuta-crisis-morocco-does-not-just-need-a-new-development-plan-but-a-new-social-contract_6756177_23.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "india-s-severe-monsoon-season-causes-more-than-100-deaths-since-july-3505d17a",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India’s severe monsoon season causes more than 100 deaths since July",
-      "published_at": "2026-08-05T10:10:07.000Z",
-      "image": "",
-      "image_alt": "India’s severe monsoon season causes more than 100 deaths since July",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-israeli-restrictions-on-palestinians-movement-break-up-the-west-ba-2f682125",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
-      "published_at": "2026-08-05T10:09:22.000Z",
-      "image": "",
-      "image_alt": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practi-4f7fce99",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
-      "published_at": "2026-08-05T10:07:20.000Z",
-      "image": "",
-      "image_alt": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "south-africa-s-le-clos-says-home-destroyed-during-commonwealth-record--83da6a6d",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Africa’s le Clos says home destroyed during Commonwealth record run",
-      "published_at": "2026-08-05T09:53:33.000Z",
-      "image": "",
-      "image_alt": "South Africa’s le Clos says home destroyed during Commonwealth record run",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-being-cool-is-making-the-hague-a-vacation-hot-spot-bde58e6d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How Being Cool Is Making The Hague a Vacation Hot Spot",
-      "published_at": "2026-08-05T09:20:15.000Z",
-      "image": "",
-      "image_alt": "How Being Cool Is Making The Hague a Vacation Hot Spot",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "finland-tries-to-protect-children-against-deepfakes-with-russia-in-min-55968930",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "published_at": "2026-08-05T09:04:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24finland-AI-01-fwqv/24finland-AI-01-fwqv-mediumSquareAt3X.jpg",
-      "image_alt": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "lobga-rangzen-the-tibetan-activist-who-set-himself-on-fire-in-manhatta-6a564fd7",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
-      "published_at": "2026-08-05T09:01:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-rangzen-tibet-qfzl-copy-promo/31int-rangzen-tibet-qfzl-copy-promo-mediumSquareAt3X.jpg",
-      "image_alt": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israeli-strikes-may-undermine-trump-s-peace-plan-for-gaza-31c1d4c4",
+      "id": "iran-oman-us-close-to-hormuz-deal-what-do-they-all-want-32176f96",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-      "published_at": "2026-08-05T08:59:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04int-assess-gaza-deal-01-qgvp/04int-assess-gaza-deal-01-qgvp-mediumSquareAt3X.jpg",
-      "image_alt": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+      "headline": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+      "published_at": "2026-08-05T12:07:56.000Z",
+      "image": "",
+      "image_alt": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots-a8ac9ca9",
-      "region": "Europe",
+      "id": "protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds-9c017899",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The era of the machine: Silicon Valley shows off humanoid robots",
-      "published_at": "2026-08-05T10:48:44.000Z",
-      "image": "https://s.france24.com/media/display/0348634e-90bb-11f1-a33d-005056a97e36/w:1024/p:16x9/capture-18990624906a7314aec6c9b8-17832390.jpg",
-      "image_alt": "The era of the machine: Silicon Valley shows off humanoid robots",
+      "headline": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+      "published_at": "2026-08-05T12:03:34.000Z",
+      "image": "",
+      "image_alt": "Protesters stage sit-in against settler violence-linked Smotrich funds",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss"
         }
       ],
-      "impact": 73
+      "impact": 76
+    },
+    {
+      "id": "how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta-6339f473",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How a social media campaign triggered huge migrant surge on Ceuta",
+      "published_at": "2026-08-05T11:48:55.000Z",
+      "image": "",
+      "image_alt": "How a social media campaign triggered huge migrant surge on Ceuta",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     }
   ]
 }
