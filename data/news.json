@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:56:07.261Z",
+  "updated_at": "2026-08-06T02:23:58.302Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tanke-51355540",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+      "published_at": "2026-08-06T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "after-deadly-kyiv-strike-ukraine-warns-interceptor-shortage-is-costing-987439c2",
       "region": "Europe",
@@ -40,30 +63,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 82
     },
     {
-      "id": "infantino-sorry-for-errors-but-stays-fifa-president-70e19384",
+      "id": "mexican-influencer-shot-dead-during-livestream-a28fde59",
       "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Infantino sorry for errors but stays Fifa president",
-      "published_at": "2026-08-05T21:37:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
-      "image_alt": "Infantino sorry for errors but stays Fifa president",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Mexican influencer shot dead during livestream",
+      "published_at": "2026-08-06T01:28:53.000Z",
+      "image": "",
+      "image_alt": "Mexican influencer shot dead during livestream",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "mexican-influencer-shot-dead-during-tiktok-livestream-b4e16f41",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Mexican influencer shot dead during TikTok livestream",
+      "published_at": "2026-08-05T23:51:31.000Z",
+      "image": "",
+      "image_alt": "Mexican influencer shot dead during TikTok livestream",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/5/mexican-influencer-shot-dead-during-livestream?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "iran-says-deal-with-oman-on-strait-of-hormuz-is-in-final-stages-906ccad4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "published_at": "2026-08-06T01:19:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 79
     },
     {
       "id": "the-war-that-s-happening-above-russia-and-ukraine-6336b832",
@@ -71,7 +140,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "The War That’s Happening Above Russia and Ukraine",
-      "published_at": "2026-08-05T17:28:32.000Z",
+      "published_at": "2026-08-05T17:28:33.000Z",
       "image": "https://static01.nyt.com/images/2026/08/05/multimedia/2026-06-23-ukraine-strikes-russia-index/2026-06-23-ukraine-strikes-russia-index-mediumSquareAt3X-v6.jpg",
       "image_alt": "The War That’s Happening Above Russia and Ukraine",
       "translations": {
@@ -86,7 +155,7 @@
           "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "record-breaking-heat-wave-in-south-korea-leads-to-canceled-baseball-ga-985b6a6a",
@@ -109,63 +178,109 @@
           "url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "el-sayed-wins-michigan-democratic-senate-primary-31c91966",
+      "id": "meta-s-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems-b907a9e8",
       "region": "World",
-      "topic": "Politics",
+      "topic": "Technology",
       "urgency": "Live",
-      "headline": "El-Sayed wins Michigan Democratic Senate primary",
-      "published_at": "2026-08-05T21:15:35.000Z",
+      "headline": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+      "published_at": "2026-08-06T00:40:28.000Z",
       "image": "",
-      "image_alt": "El-Sayed wins Michigan Democratic Senate primary",
+      "image_alt": "Meta’s AI model follows rivals in revealing hacks of outside systems",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 75
     },
     {
-      "id": "iran-says-it-has-agreed-strait-of-hormuz-shipping-route-with-oman-906ccad4",
-      "region": "Middle East",
+      "id": "faa-says-trump-s-marine-one-briefly-flew-too-close-to-passenger-jet-08131af4",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "published_at": "2026-08-05T21:21:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "headline": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
+      "published_at": "2026-08-06T00:31:07.000Z",
+      "image": "",
+      "image_alt": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "mamdani-praises-el-sayed-s-victory-rejects-mini-mamdani-trope-f45d2858",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
+      "published_at": "2026-08-06T00:01:24.000Z",
+      "image": "",
+      "image_alt": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "infantino-sorry-for-errors-but-stays-fifa-president-70e19384",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Infantino sorry for errors but stays Fifa president",
+      "published_at": "2026-08-05T21:37:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+      "image_alt": "Infantino sorry for errors but stays Fifa president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil-9ff920e0",
-      "region": "Americas",
+      "id": "nigeria-announces-rescue-of-308-kidnapped-citizens-bc8cd21c",
+      "region": "Africa",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
-      "published_at": "2026-08-05T22:46:03.000Z",
+      "headline": "Nigeria announces rescue of 308 kidnapped citizens",
+      "published_at": "2026-08-05T23:34:47.000Z",
       "image": "",
-      "image_alt": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+      "image_alt": "Nigeria announces rescue of 308 kidnapped citizens",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,171 +290,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israeli-occupation-destroys-farmland-and-lives-in-southern-syria-3f182197",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli occupation destroys farmland and lives in southern Syria",
-      "published_at": "2026-08-05T22:01:33.000Z",
-      "image": "",
-      "image_alt": "Israeli occupation destroys farmland and lives in southern Syria",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-officials-push-back-on-reports-of-dangerously-low-munitions-supplie-627a7aca",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US officials push back on reports of dangerously low munitions supplies",
-      "published_at": "2026-08-05T22:00:00.000Z",
-      "image": "",
-      "image_alt": "US officials push back on reports of dangerously low munitions supplies",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-man-arrested-at-trump-s-golf-course-charged-with-multiple-felonies-a14351f9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US man arrested at Trump’s golf course charged with multiple felonies",
-      "published_at": "2026-08-05T21:35:13.000Z",
-      "image": "",
-      "image_alt": "US man arrested at Trump’s golf course charged with multiple felonies",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "israeli-forces-raid-camp-in-occupied-west-bank-25f21421",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli forces raid camp in occupied West Bank",
-      "published_at": "2026-08-05T21:31:55.000Z",
-      "image": "",
-      "image_alt": "Israeli forces raid camp in occupied West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "clashes-on-anniversary-of-imran-khan-imprisonment-481127ea",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Clashes on anniversary of Imran Khan imprisonment",
-      "published_at": "2026-08-05T21:28:14.000Z",
-      "image": "",
-      "image_alt": "Clashes on anniversary of Imran Khan imprisonment",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-apos--8fa9a3e5",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of &apos;blatant&apos; ceasefire violation",
-      "published_at": "2026-08-05T14:36:00.000Z",
-      "image": "",
-      "image_alt": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of &apos;blatant&apos; ceasefire violation",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "toronto-zoo-announces-birth-of-pygmy-hippo-calf-third-for-mother-kindi-64d35858",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
-      "published_at": "2026-08-05T22:16:20.000Z",
-      "image": "https://i.guim.co.uk/img/media/7382959e05950456eeaf08482f2f9d66c2ac2d81/0_53_750_600/master/750.jpg?width=140&quality=85&auto=format&fit=max&s=4bf6315c4b95ffc0d048db1521a8bea4",
-      "image_alt": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf"
+          "url": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss"
         }
       ],
       "impact": 74
+    },
+    {
+      "id": "organized-crime-plagues-israel-s-palestinian-towns-gangsters-are-no-lo-14f5a3b5",
+      "region": "Middle East",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Organized crime plagues Israel's Palestinian towns: 'Gangsters are no longer afraid of the police'",
+      "published_at": "2026-08-06T02:00:10.000Z",
+      "image": "https://img.lemde.fr/2026/08/03/834/0/6000/3000/644/322/60/0/cb857b8_upload-1-q92rcblptb9e-jo-crime-080-20260718.jpg",
+      "image_alt": "Organized crime plagues Israel's Palestinian towns: 'Gangsters are no longer afraid of the police'",
+      "translations": {
+        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/06/organized-crime-plagues-israel-s-palestinian-towns-gangsters-are-no-longer-afraid-of-the-police_6756202_4.html"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "mexican-influencer-shot-dead-while-streaming-live-on-social-media-c92580ac",
@@ -362,76 +339,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "migrant-crisis-reveals-vast-differences-between-ceuta-and-its-moroccan-9db07b01",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
-      "published_at": "2026-08-05T13:09:18.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05int-spain-morocco-cities-10-vmjw-copy/05int-spain-morocco-cities-10-vmjw-mediumSquareAt3X.jpg",
-      "image_alt": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html"
-        }
-      ],
       "impact": 72
     },
     {
-      "id": "hong-wang-s-fields-medal-win-reignites-debate-across-china-over-how-it-a7ba65ae",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hong Wang's Fields Medal win reignites debate across China over how its top researchers emerge",
-      "published_at": "2026-08-05T22:12:31.000Z",
-      "image": "https://img.lemde.fr/2026/08/05/33/0/3600/1800/644/322/60/0/e16ce34_upload-1-bca6buufy0ed-000-c2zm7g9.jpg",
-      "image_alt": "Hong Wang's Fields Medal win reignites debate across China over how its top researchers emerge",
+      "id": "middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-apos--8fa9a3e5",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of &apos;blatant&apos; ceasefire violation",
+      "published_at": "2026-08-05T14:36:00.000Z",
+      "image": "",
+      "image_alt": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of &apos;blatant&apos; ceasefire violation",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/06/hong-wang-s-fields-medal-win-reignites-debate-across-china-over-how-its-top-researchers-emerge_6756199_4.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "nigerian-security-forces-rescue-300-kidnapping-victims-3fbc9898",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nigerian security forces rescue 300 kidnapping victims",
-      "published_at": "2026-08-05T21:21:49.000Z",
-      "image": "https://img.lemde.fr/2026/07/20/343/0/7683/3841/644/322/60/0/6f15a36_ftp-1-4lzlekt8kecb-989e3c6e1e66426a8939ef6f48332f1b-1-9af8327d3edf4e979ca9bc8b25b999eb.jpg",
-      "image_alt": "Nigerian security forces rescue 300 kidnapping victims",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/05/nigerian-security-forces-rescue-300-kidnapping-victims_6756198_4.html"
-        }
-      ],
-      "impact": 71
+      "impact": 72
     },
     {
       "id": "israel-strikes-south-lebanon-after-first-evacuation-warning-in-weeks-c837ad8e",
@@ -454,7 +385,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "drone-carrying-explosives-found-at-german-airport-police-say-71ff3008",
@@ -477,30 +408,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
-      "id": "us-to-shut-five-consulates-as-critics-fear-china-could-fill-diplomatic-ba83ebae",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "published_at": "2026-08-05T19:20:28.000Z",
-      "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/488_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=e951340e079dde5983e6c08d64721b28",
-      "image_alt": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "id": "migrant-crisis-reveals-vast-differences-between-ceuta-and-its-moroccan-9db07b01",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+      "published_at": "2026-08-05T13:09:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05int-spain-morocco-cities-10-vmjw-copy/05int-spain-morocco-cities-10-vmjw-mediumSquareAt3X.jpg",
+      "image_alt": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
       "translations": {
-        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "iran-president-says-contact-with-supreme-leader-is-very-difficult-293cdecb",
@@ -523,7 +454,53 @@
           "url": "https://www.france24.com/en/middle-east/20260805-iran-president-says-contact-with-supreme-leader-is-very-difficult"
         }
       ],
-      "impact": 70
+      "impact": 68
+    },
+    {
+      "id": "us-abdul-el-sayed-wins-contentious-michigan-senate-primary-3e46b6a9",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+      "published_at": "2026-08-05T19:46:00.000Z",
+      "image": "",
+      "image_alt": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "us-to-shut-five-consulates-as-critics-fear-china-could-fill-diplomatic-ba83ebae",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "published_at": "2026-08-05T19:20:28.000Z",
+      "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/488_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=e951340e079dde5983e6c08d64721b28",
+      "image_alt": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
+        }
+      ],
+      "impact": 68
     },
     {
       "id": "ex-leader-hasina-gambles-on-return-to-bangladesh-despite-death-penalty-2156f87c",
@@ -546,7 +523,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 68
+    },
+    {
+      "id": "toronto-zoo-announces-birth-of-pygmy-hippo-calf-third-for-mother-kindi-64d35858",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "published_at": "2026-08-05T22:16:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/7382959e05950456eeaf08482f2f9d66c2ac2d81/0_53_750_600/master/750.jpg?width=140&quality=85&auto=format&fit=max&s=4bf6315c4b95ffc0d048db1521a8bea4",
+      "image_alt": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf"
+        }
+      ],
+      "impact": 66
     },
     {
       "id": "houthis-threaten-to-expand-red-sea-attacks-and-claim-strikes-on-saudi--76ef606d",
@@ -554,7 +554,7 @@
       "topic": "World",
       "urgency": "Update",
       "headline": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
-      "published_at": "2026-08-05T19:46:49.000Z",
+      "published_at": "2026-08-05T19:46:50.000Z",
       "image": "https://static01.nyt.com/images/2026/08/05/world/05int-Saudi-Houthis/05int-Saudi-Houthis-mediumSquareAt3X.jpg",
       "image_alt": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
       "translations": {
@@ -569,7 +569,7 @@
           "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html"
         }
       ],
-      "impact": 69
+      "impact": 66
     }
   ]
 }
