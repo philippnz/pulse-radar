@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:22:17.156Z",
+  "updated_at": "2026-08-07T17:21:12.799Z",
   "languages": [
     {
       "code": "en",
@@ -20,13 +20,63 @@
   ],
   "stories": [
     {
+      "id": "war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact-13d5e563",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "published_at": "2026-08-07T16:42:35.000Z",
+      "image": "",
+      "image_alt": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "saudi-arabia-turkey-and-pakistan-sign-joint-defense-pact-74f64ad2",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "published_at": "2026-08-07T16:29:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-Saudi-pact-qjcb/07int-Saudi-pact-qjcb-mediumSquareAt3X.jpg",
+      "image_alt": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/07/saudi-arabia-turkey-and-pakistan-sign-joint-defense-pact_6756265_4.html"
+        }
+      ],
+      "impact": 85
+    },
+    {
       "id": "seven-killed-after-thai-student-opens-fire-at-home-and-school-35ed0130",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Seven killed after Thai student opens fire at home and school",
       "published_at": "2026-08-07T15:51:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4823/live/c54bf9d0-926c-11f1-9f0c-8d4ddef91df6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfea/live/f48efef0-927f-11f1-870d-5d08c49babb2.jpg",
       "image_alt": "Seven killed after Thai student opens fire at home and school",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
@@ -40,30 +90,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
-    },
-    {
-      "id": "two-civilians-killed-in-houthi-strike-on-marib-says-yemen-s-government-b03c0074",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "published_at": "2026-08-07T14:22:24.000Z",
-      "image": "",
-      "image_alt": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
-        }
-      ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "saudi-arabia-turkey-and-pakistan-sign-defence-pact-d16d3801",
@@ -89,6 +116,29 @@
       "impact": 84
     },
     {
+      "id": "two-civilians-killed-in-houthi-strike-on-marib-says-yemen-s-government-b03c0074",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+      "published_at": "2026-08-07T14:22:24.000Z",
+      "image": "",
+      "image_alt": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
+        }
+      ],
+      "impact": 84
+    },
+    {
       "id": "mexico-and-peru-restore-diplomatic-relations-after-asylum-row-804b3dd0",
       "region": "Americas",
       "topic": "Politics",
@@ -109,34 +159,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "saudi-arabia-turkey-and-pakistan-sign-joint-defense-pact-74f64ad2",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "published_at": "2026-08-07T14:30:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-Saudi-pact-qjcb/07int-Saudi-pact-qjcb-mediumSquareAt3X.jpg",
-      "image_alt": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
-        },
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/07/saudi-arabia-turkey-and-pakistan-sign-joint-defense-pact_6756265_4.html"
-        }
-      ],
-      "impact": 84
+      "impact": 83
     },
     {
       "id": "trump-administration-fast-tracks-military-partnership-with-colombia-to-6cb1ed87",
@@ -159,7 +182,7 @@
           "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war-0374a733",
@@ -182,7 +205,53 @@
           "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slum-6f77b58c",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US labour market sheds jobs in July as labour force participation slumps",
+      "published_at": "2026-08-07T16:25:35.000Z",
+      "image": "",
+      "image_alt": "US labour market sheds jobs in July as labour force participation slumps",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role-84041f70",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
+      "published_at": "2026-08-07T16:23:33.000Z",
+      "image": "",
+      "image_alt": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all-bc9c0d29",
@@ -205,7 +274,7 @@
           "url": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos-04bd11b7",
@@ -228,7 +297,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "spain-threatens-retaliation-if-italy-fails-to-lift-border-controls-aft-7dc1d2ca",
@@ -236,7 +305,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "published_at": "2026-08-07T15:59:01.000Z",
+      "published_at": "2026-08-07T16:33:50.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
       "image_alt": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
       "translations": {
@@ -251,30 +320,76 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "turkiye-saudi-arabia-pakistan-sign-joint-defence-agreement-what-s-in-i-6981a1f8",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "spanish-police-arrest-78-people-in-bust-of-one-of-largest-smuggling-ne-506810ba",
+      "region": "World",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-      "published_at": "2026-08-07T13:28:40.000Z",
-      "image": "",
-      "image_alt": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
+      "headline": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "published_at": "2026-08-07T16:13:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5f/live/1bb4b890-927a-11f1-b7a2-c7c91f255a18.png",
+      "image_alt": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrest-b140c1be",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+      "published_at": "2026-08-07T17:07:29.000Z",
+      "image": "",
+      "image_alt": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
+    },
+    {
+      "id": "hun-manet-is-refining-cambodia-s-authoritarian-model-580d5788",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hun Manet is refining Cambodia’s authoritarian model",
+      "published_at": "2026-08-07T16:47:33.000Z",
+      "image": "",
+      "image_alt": "Hun Manet is refining Cambodia’s authoritarian model",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "italy-vows-to-maintain-border-checks-despite-spain-s-countermeasures-t-c5eeaa3c",
@@ -297,7 +412,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "video-captures-chaos-as-earthquake-strikes-japan-hospital-mid-surgery-9f07171e",
@@ -320,7 +435,7 @@
           "url": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "saudi-arabia-pakistan-and-turkey-sign-mutual-defence-agreement-1c1e00dc",
@@ -343,7 +458,7 @@
           "url": "https://www.france24.com/en/middle-east/20260807-saudi-arabia-pakistan-and-turkey-sign-mutual-defence-agreement"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "usa-democratic-party-s-progressive-wing-can-win-primaries-but-can-they-6bacfedf",
@@ -366,7 +481,7 @@
           "url": "https://www.france24.com/en/usa-democrats-progressive-wing-can-win-primaries-can-they-win-a-general-election"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "thailand-several-killed-in-school-shooting-north-of-bangkok-54ff7611",
@@ -389,99 +504,30 @@
           "url": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "trump-administration-to-pay-german-firm-1-2bn-to-halt-us-wind-projects-2f83371b",
-      "region": "Americas",
+      "id": "ceuta-spain-warns-italy-it-will-reciprocate-entry-checks-44c9553c",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "published_at": "2026-08-07T13:32:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
-      "image_alt": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "boy-kills-grandparents-and-then-five-teachers-thai-authorities-say-9db7755a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
-      "published_at": "2026-08-07T13:47:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-02-plwv/07int-thailand-school-shooting-02-plwv-mediumSquareAt3X.jpg",
-      "image_alt": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseu-e9f3c8c4",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
-      "published_at": "2026-08-07T13:30:43.000Z",
+      "headline": "Ceuta: Spain warns Italy it will reciprocate entry checks",
+      "published_at": "2026-08-07T16:12:00.000Z",
       "image": "",
-      "image_alt": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+      "image_alt": "Ceuta: Spain warns Italy it will reciprocate entry checks",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ceuta-spain-warns-italy-it-will-reciprocate-entry-checks/a-78282840?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact-64b7523e",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
-      "published_at": "2026-08-07T12:44:41.000Z",
-      "image": "",
-      "image_alt": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss"
-        }
-      ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "us-appeals-court-halts-construction-of-trump-s-400-million-white-house-0a5365dc",
@@ -504,7 +550,7 @@
           "url": "https://www.france24.com/en/americas/20260807-us-appeals-court-halts-construction-of-trump-400-million-white-house-ballroom-project"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "meta-fined-in-child-safety-case-ba7f2fdd",
@@ -527,53 +573,7 @@
           "url": "https://www.france24.com/en/meta-fined-in-child-safety-case"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "there-s-no-turning-back-uefa-stands-by-boycott-despite-infantino-s-apo-049eba0d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'There's no turning back': UEFA stands by boycott despite Infantino's apology",
-      "published_at": "2026-08-07T15:14:08.000Z",
-      "image": "https://s.france24.com/media/display/9d9b094a-9270-11f1-aa16-005056bfb2b6/w:1024/p:16x9/AP26195685219789.jpg",
-      "image_alt": "'There's no turning back': UEFA stands by boycott despite Infantino's apology",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260807-there-s-no-turning-back-uefa-stands-by-boycott-despite-infantino-s-apology"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "how-viable-is-the-potential-iran-oman-hormuz-shipping-deal-59c9a741",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-      "published_at": "2026-08-07T15:02:00.000Z",
-      "image": "",
-      "image_alt": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     }
   ]
 }
