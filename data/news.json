@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:37:33.266Z",
+  "updated_at": "2026-08-08T13:41:24.649Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "child-among-three-killed-in-russian-missile-attacks-near-kyiv-d56edb34",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Child among three killed in Russian missile attacks near Kyiv",
+      "published_at": "2026-08-08T13:29:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+      "image_alt": "Child among three killed in Russian missile attacks near Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
     {
       "id": "yemen-teeters-on-civil-war-as-regional-stability-hangs-in-the-balance-a209870b",
       "region": "Middle East",
@@ -40,30 +63,53 @@
           "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
-      "id": "woman-screams-in-fear-as-ukraine-war-recruiters-pounce-on-man-7c1a858d",
-      "region": "Europe",
+      "id": "war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque-26ed3132",
+      "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Woman screams in fear as Ukraine war recruiters pounce on man",
-      "published_at": "2026-08-08T11:29:44.000Z",
+      "headline": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
+      "published_at": "2026-08-08T13:31:00.000Z",
       "image": "",
-      "image_alt": "Woman screams in fear as Ukraine war recruiters pounce on man",
+      "image_alt": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 86
+      "impact": 84
+    },
+    {
+      "id": "saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout-7fb783f3",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "published_at": "2026-08-08T12:52:36.000Z",
+      "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+      "image_alt": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "us-pledges-1bn-support-to-colombia-as-trump-backed-president-sworn-in-a8ce2d06",
@@ -86,40 +132,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
-      "id": "child-among-three-killed-in-russian-missile-attacks-near-kyiv-d56edb34",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Child among three killed in Russian missile attacks near Kyiv",
-      "published_at": "2026-08-08T06:12:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-      "image_alt": "Child among three killed in Russian missile attacks near Kyiv",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 84
-    },
-    {
-      "id": "todd-blanche-trump-s-ex-lawyer-confirmed-as-us-attorney-general-6ff63d9b",
+      "id": "trump-s-ex-lawyer-todd-blanche-narrowly-confirmed-as-us-attorney-gener-6ff63d9b",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
-      "published_at": "2026-08-08T10:19:46.000Z",
+      "headline": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "published_at": "2026-08-08T13:23:16.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
-      "image_alt": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "image_alt": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -132,7 +155,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
         }
       ],
+      "impact": 80
+    },
+    {
+      "id": "nba-forward-clarke-s-death-due-to-effects-of-drugs-29fda5a3",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "NBA forward Clarke's death due to effects of drugs",
+      "published_at": "2026-08-08T12:05:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a4/live/9faa1ba0-9323-11f1-be7f-7379a19ef5b2.jpg",
+      "image_alt": "NBA forward Clarke's death due to effects of drugs",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
       "impact": 78
+    },
+    {
+      "id": "ivory-coast-s-talking-drum-returns-to-home-village-after-110-years-8c724250",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
+      "published_at": "2026-08-08T12:52:04.000Z",
+      "image": "",
+      "image_alt": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escal-4961d884",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+      "published_at": "2026-08-08T12:30:52.000Z",
+      "image": "",
+      "image_alt": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds-29204aa9",
@@ -155,30 +247,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-sim-da495fe7",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-      "published_at": "2026-08-08T12:01:17.000Z",
-      "image": "",
-      "image_alt": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "as-thailand-gets-known-for-mass-shootings-fresh-pledges-to-fix-gun-law-d873e536",
@@ -201,30 +270,30 @@
           "url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit-08cda4b5",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-sim-da495fe7",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
-      "published_at": "2026-08-08T10:34:40.000Z",
-      "image": "https://s.france24.com/media/display/fd7e667c-9306-11f1-b9da-005056bf30b7/w:1024/p:16x9/EN-20260808-090345-091156-CS.jpg",
-      "image_alt": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
+      "headline": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
+      "published_at": "2026-08-08T12:01:17.000Z",
+      "image": "",
+      "image_alt": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
       "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes-228340c6",
@@ -247,7 +316,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "hi-friends-modi-s-curious-campaign-to-win-over-gen-z-4efc1695",
@@ -270,7 +339,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "the-post-american-middle-east-is-beginning-to-take-shape-6dccaadf",
@@ -293,7 +362,7 @@
           "url": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok-52870703",
@@ -314,29 +383,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "yemen-s-collapsing-healthcare-forces-the-sick-to-seek-alternative-medi-3d381135",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
-      "published_at": "2026-08-08T10:58:46.000Z",
-      "image": "",
-      "image_alt": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss"
         }
       ],
       "impact": 75
@@ -362,7 +408,76 @@
           "url": "https://www.france24.com/en/tv-shows/focus/20260808-vietnam-s-indigenous-hmong-people-forced-to-adapt-to-climate-crisis"
         }
       ],
-      "impact": 75
+      "impact": 74
+    },
+    {
+      "id": "russian-attacks-kill-several-in-ukraine-709810b9",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian attacks kill several in Ukraine",
+      "published_at": "2026-08-08T13:12:48.000Z",
+      "image": "https://s.france24.com/media/display/6609f260-932a-11f1-a372-005056bf30b7/w:1024/p:16x9/EN-20260808-150131-150501-CS.jpg",
+      "image_alt": "Russian attacks kill several in Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general-e132a2c7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
+      "published_at": "2026-08-08T12:54:24.000Z",
+      "image": "https://s.france24.com/media/display/ffd447cc-9327-11f1-a096-005056a90284/w:1024/p:16x9/EN-20260808-140701-140845-CS.jpg",
+      "image_alt": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "bulgaria-unknown-drone-explodes-near-romanian-border-29418b85",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bulgaria: Unknown drone explodes near Romanian border",
+      "published_at": "2026-08-08T11:58:00.000Z",
+      "image": "",
+      "image_alt": "Bulgaria: Unknown drone explodes near Romanian border",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border-349f1bfd",
@@ -370,7 +485,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
-      "published_at": "2026-08-08T12:25:51.000Z",
+      "published_at": "2026-08-08T12:25:49.000Z",
       "image": "https://img.lemde.fr/2026/08/08/452/0/5424/2712/644/322/60/0/9b89b53_ftp-1-we7xdruoxrup-2026-08-08t115356z-1282797557-rc2i9maw3h8j-rtrmadp-3-bulgaria-drone-explosion.JPG",
       "image_alt": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
       "translations": {
@@ -385,7 +500,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border_6756290_4.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "eu-holds-talks-with-big-tech-over-ceuta-misinformation-276cce63",
@@ -408,7 +523,7 @@
           "url": "https://www.dw.com/en/eu-holds-talks-with-big-tech-over-ceuta-misinformation/a-78288214?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "spacex-a-dream-put-to-the-test-of-the-numbers-69b8d6fa",
@@ -431,142 +546,27 @@
           "url": "https://www.lemonde.fr/en/opinion/article/2026/08/08/spacex-a-dream-put-to-the-test-of-the-numbers_6756289_23.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "france-looks-up-for-night-of-stars-56d93ed8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France looks up for night of stars",
-      "published_at": "2026-08-08T10:39:12.000Z",
-      "image": "https://s.france24.com/media/display/f9129920-9313-11f1-a15b-005056bf30b7/w:1024/p:16x9/EN-20260808-121337-121454-CS.jpg",
-      "image_alt": "France looks up for night of stars",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260808-france-looks-up-for-night-of-stars"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "when-german-catholics-and-protestants-share-a-church-0bb91137",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "When German Catholics and Protestants share a church",
-      "published_at": "2026-08-08T10:35:00.000Z",
-      "image": "",
-      "image_alt": "When German Catholics and Protestants share a church",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/when-german-catholics-and-protestants-share-a-church/a-78276609?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "india-protesters-face-online-backlash-fec61873",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India protesters face online backlash",
-      "published_at": "2026-08-08T10:29:39.000Z",
-      "image": "https://s.france24.com/media/display/51d3bc52-9313-11f1-b7b9-005056a90284/w:1024/p:16x9/EN-20260808-121030-121313-CS.jpg",
-      "image_alt": "India protesters face online backlash",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/india-protesters-face-online-backlash"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "germany-news-trucking-rules-eased-as-rivers-run-low-1c87186b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany news: Trucking rules eased as rivers run low",
-      "published_at": "2026-08-08T10:01:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Trucking rules eased as rivers run low",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-trucking-rules-eased-as-rivers-run-low/live-78287439?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "algeria-s-arrests-of-alleged-drug-lords-signal-cautious-thaw-between-p-47acb376",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Algeria's arrests of alleged drug lords signal cautious thaw between Paris and Algiers",
-      "published_at": "2026-08-08T10:45:05.000Z",
-      "image": "https://img.lemde.fr/2025/12/24/433/0/7243/3621/644/322/60/0/f446a5e_ftp-1-82gds1pq95ml-5746953-01-06.jpg",
-      "image_alt": "Algeria's arrests of alleged drug lords signal cautious thaw between Paris and Algiers",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/algeria-s-arrests-of-alleged-drug-lords-signal-cautious-thaw-between-paris-and-algiers_6756288_124.html"
-        }
-      ],
       "impact": 71
     },
     {
-      "id": "ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv-149845c3",
+      "id": "serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit-08cda4b5",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
-      "published_at": "2026-08-08T10:41:05.000Z",
-      "image": "https://img.lemde.fr/2026/08/08/504/0/6056/3028/644/322/60/0/a66d352_ftp-1-cl2q2rbk1jke-0619851f55214eb2a912992d971bcd41-0-970b366921014c52a523c7a5288eef35.jpg",
-      "image_alt": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
+      "published_at": "2026-08-08T10:34:40.000Z",
+      "image": "https://s.france24.com/media/display/fd7e667c-9306-11f1-b9da-005056bf30b7/w:1024/p:16x9/EN-20260808-090345-091156-CS.jpg",
+      "image_alt": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit"
         }
       ],
       "impact": 71
