@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:23:15.821Z",
+  "updated_at": "2026-08-08T22:56:25.242Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "yemen-s-government-forces-attack-houthis-amid-renewed-shelling-of-mari-49ff6f49",
-      "region": "Middle East",
+      "id": "car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-presid-7706eec6",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-      "published_at": "2026-08-08T18:43:20.000Z",
+      "headline": "Car bomb attack rattles Colombia after inauguration of hardline president",
+      "published_at": "2026-08-08T22:22:36.000Z",
       "image": "",
-      "image_alt": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+      "image_alt": "Car bomb attack rattles Colombia after inauguration of hardline president",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +37,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss"
         }
       ],
-      "impact": 83
+      "impact": 87
+    },
+    {
+      "id": "kosovo-pm-kurti-egged-in-parliament-amid-political-crisis-2e837f88",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Breaking",
+      "headline": "Kosovo PM Kurti egged in parliament amid political crisis",
+      "published_at": "2026-08-08T20:31:00.000Z",
+      "image": "",
+      "image_alt": "Kosovo PM Kurti egged in parliament amid political crisis",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "will-pakistan-saudi-turkiye-defence-pact-change-us-strategy-5370d24c",
@@ -89,29 +112,6 @@
       "impact": 80
     },
     {
-      "id": "paris-tells-e-scooter-riders-to-wear-safety-gear-or-face-fines-aa95c4f5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "published_at": "2026-08-08T20:18:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg",
-      "image_alt": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
       "id": "bald-range-wildfire-forces-evacuation-of-18-000-in-british-columbia-6fad9e62",
       "region": "World",
       "topic": "Climate",
@@ -135,6 +135,29 @@
       "impact": 77
     },
     {
+      "id": "paris-tells-e-scooter-riders-to-wear-safety-gear-or-face-fines-aa95c4f5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "published_at": "2026-08-08T20:18:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg",
+      "image_alt": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "political-scientist-carlos-echeverria-jesus-the-ceuta-crisis-reflects--92f5f788",
       "region": "Europe",
       "topic": "World",
@@ -153,75 +176,6 @@
         {
           "name": "Le Monde",
           "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/political-scientist-carlos-echeverria-jesus-the-ceuta-crisis-reflects-morocco-s-territorial-ambitions_6756301_124.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "trump-s-former-lawyer-is-now-attorney-general-ec89621e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump’s Former Lawyer Is Now Attorney General",
-      "published_at": "2026-08-08T21:04:54.000Z",
-      "image": "",
-      "image_alt": "Trump’s Former Lawyer Is Now Attorney General",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "canada-wildfires-what-to-know-about-fires-in-british-columbia-and-onta-ee588555",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "published_at": "2026-08-08T20:30:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg",
-      "image_alt": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/article/canada-wildfires-2026.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "whirling-like-dervishes-in-turkey-but-open-to-everyone-c8753297",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Whirling Like Dervishes in Turkey, but Open to Everyone",
-      "published_at": "2026-08-08T20:29:48.000Z",
-      "image": "",
-      "image_alt": "Whirling Like Dervishes in Turkey, but Open to Everyone",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html"
         }
       ],
       "impact": 76
@@ -250,27 +204,73 @@
       "impact": 76
     },
     {
-      "id": "us-offers-1bn-to-colombia-on-new-right-wing-president-s-first-day-of-o-a8ce2d06",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "published_at": "2026-08-08T17:58:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-      "image_alt": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "id": "trump-s-former-lawyer-is-now-attorney-general-ec89621e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump’s Former Lawyer Is Now Attorney General",
+      "published_at": "2026-08-08T21:04:54.000Z",
+      "image": "",
+      "image_alt": "Trump’s Former Lawyer Is Now Attorney General",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "canada-wildfires-what-to-know-about-fires-in-british-columbia-and-onta-ee588555",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "published_at": "2026-08-08T20:30:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg",
+      "image_alt": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/article/canada-wildfires-2026.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "whirling-like-dervishes-in-turkey-but-open-to-everyone-c8753297",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+      "published_at": "2026-08-08T20:29:48.000Z",
+      "image": "",
+      "image_alt": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "what-are-the-challenges-facing-the-mecca-agreement-9ffdb143",
@@ -291,6 +291,29 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-offers-1bn-to-colombia-on-new-right-wing-president-s-first-day-of-o-a8ce2d06",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "published_at": "2026-08-08T17:58:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+      "image_alt": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 75
@@ -408,7 +431,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "la-crisis-de-ceuta-da-alas-a-los-partidarios-de-los-centros-de-deporta-164b4793",
@@ -431,76 +454,7 @@
           "url": "https://elpais.com/internacional/2026-08-08/la-crisis-de-ceuta-da-alas-a-los-partidarios-de-los-centros-de-deportacion-fuera-de-la-ue.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "madonna-pays-tribute-to-genius-otherworldly-producer-william-orbit-1b281c3c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "published_at": "2026-08-08T17:23:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5d1/live/1c2a1c50-934e-11f1-8654-453c05ccaef9.jpg",
-      "image_alt": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "el-partido-gobernante-de-hungr-a-propone-al-jurista-andr-s-baka-como-n-3cbeaef4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "El partido gobernante de Hungría propone al jurista András Baka como nuevo presidente",
-      "published_at": "2026-08-08T19:43:40.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/77ZVWH7GG5MZZPW7IE27T3INQY.jpg?auth=3363da28d91ceea7ea734b42992d6ef42c95f43135f6605142fae416835888fe",
-      "image_alt": "El partido gobernante de Hungría propone al jurista András Baka como nuevo presidente",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-08/el-partido-gobernante-de-hungria-propone-al-jurista-andras-baka-como-nuevo-presidente.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda-0ef3c3e5",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Update",
-      "headline": "At least 200 people evacuated as wildfire rages near Lake Garda",
-      "published_at": "2026-08-08T19:13:03.000Z",
-      "image": "",
-      "image_alt": "At least 200 people evacuated as wildfire rages near Lake Garda",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss"
-        }
-      ],
-      "impact": 69
+      "impact": 71
     },
     {
       "id": "iran-issues-list-of-demands-dampening-hopes-of-reopening-strait-of-hor-1fe8b464",
@@ -526,6 +480,52 @@
       "impact": 69
     },
     {
+      "id": "madonna-pays-tribute-to-genius-otherworldly-producer-william-orbit-1b281c3c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "published_at": "2026-08-08T17:23:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5d1/live/1c2a1c50-934e-11f1-8654-453c05ccaef9.jpg",
+      "image_alt": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda-0ef3c3e5",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Update",
+      "headline": "At least 200 people evacuated as wildfire rages near Lake Garda",
+      "published_at": "2026-08-08T19:13:03.000Z",
+      "image": "",
+      "image_alt": "At least 200 people evacuated as wildfire rages near Lake Garda",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss"
+        }
+      ],
+      "impact": 68
+    },
+    {
       "id": "lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-tow-d80a1649",
       "region": "World",
       "topic": "World",
@@ -546,7 +546,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea-c344f158",
@@ -569,7 +569,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     }
   ]
 }
