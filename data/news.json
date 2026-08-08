@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:52:34.994Z",
+  "updated_at": "2026-08-08T20:23:09.161Z",
   "languages": [
     {
       "code": "en",
@@ -19,29 +19,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "child-among-three-killed-in-russian-missile-attacks-near-kyiv-d56edb34",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Child among three killed in Russian missile attacks near Kyiv",
-      "published_at": "2026-08-08T18:06:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-      "image_alt": "Child among three killed in Russian missile attacks near Kyiv",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 88
-    },
     {
       "id": "yemen-s-government-forces-attack-houthis-amid-renewed-shelling-of-mari-49ff6f49",
       "region": "Middle East",
@@ -63,7 +40,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "us-offers-1bn-to-colombia-on-new-right-wing-president-s-first-day-of-o-a8ce2d06",
@@ -109,7 +86,30 @@
           "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "paris-tells-e-scooter-riders-to-wear-safety-gear-or-face-fines-aa95c4f5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "published_at": "2026-08-08T20:18:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg",
+      "image_alt": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "hormuz-talks-positive-oman-says-as-iran-warns-deal-would-not-open-stra-639e1a78",
@@ -135,6 +135,75 @@
       "impact": 79
     },
     {
+      "id": "canada-wildfires-what-to-know-about-fires-in-british-columbia-and-onta-ee588555",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "published_at": "2026-08-08T20:22:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg",
+      "image_alt": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/article/canada-wildfires-2026.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky--bb51ba3b",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
+      "published_at": "2026-08-08T19:48:21.000Z",
+      "image": "https://s.france24.com/media/display/bc77dfa2-9345-11f1-9350-005056bfb2b6/w:1024/p:16x9/24b7f8acc7fd12ece7e4cec9c2cef31eaa8407c4.jpg",
+      "image_alt": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "wildfire-forces-evacuation-of-18-000-from-summerland-british-columbia-6fad9e62",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "published_at": "2026-08-08T19:52:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
+      "image_alt": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "madonna-pays-tribute-to-genius-otherworldly-producer-william-orbit-1b281c3c",
       "region": "World",
       "topic": "World",
@@ -155,7 +224,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-apos-s-terms-d259369e",
@@ -178,7 +247,7 @@
           "url": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque-26ed3132",
@@ -199,52 +268,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "iran-issues-list-of-demands-dampening-hopes-of-reopening-strait-of-hor-1fe8b464",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-      "published_at": "2026-08-08T19:04:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout-7fb783f3",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-      "published_at": "2026-08-08T12:52:36.000Z",
-      "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
-      "image_alt": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout"
         }
       ],
       "impact": 77
@@ -268,6 +291,29 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iran-issues-list-of-demands-dampening-hopes-of-reopening-strait-of-hor-1fe8b464",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "published_at": "2026-08-08T19:04:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html"
         }
       ],
       "impact": 76
@@ -342,24 +388,24 @@
       "impact": 76
     },
     {
-      "id": "wildfire-forces-evacuation-of-18-000-from-summerland-british-columbia-6fad9e62",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
-      "published_at": "2026-08-08T17:56:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
-      "image_alt": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "id": "saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout-7fb783f3",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "published_at": "2026-08-08T12:52:36.000Z",
+      "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+      "image_alt": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
       "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout"
         }
       ],
       "impact": 76
@@ -408,30 +454,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "canada-wildfires-what-to-know-about-fires-in-british-columbia-and-onta-ee588555",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "published_at": "2026-08-08T17:24:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg",
-      "image_alt": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/article/canada-wildfires-2026.html"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "la-crisis-de-ceuta-da-alas-a-los-partidarios-de-los-centros-de-deporta-164b4793",
@@ -457,47 +480,24 @@
       "impact": 74
     },
     {
-      "id": "british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfir-32a4618d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-      "published_at": "2026-08-08T17:14:09.000Z",
-      "image": "",
-      "image_alt": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute-f4bab42f",
+      "id": "el-partido-gobernante-de-hungr-a-propone-al-jurista-andr-s-baka-como-n-3cbeaef4",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Spain imposes border checks on Italian travellers amid migrant dispute",
-      "published_at": "2026-08-08T17:07:07.000Z",
-      "image": "https://s.france24.com/media/display/16f0298a-934b-11f1-8829-005056bfb2b6/w:1024/p:16x9/2026-08-08T113635Z-2311392-RC2BUMA2SQ7A-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA-ROME.jpg",
-      "image_alt": "Spain imposes border checks on Italian travellers amid migrant dispute",
+      "headline": "El partido gobernante de Hungría propone al jurista András Baka como nuevo presidente",
+      "published_at": "2026-08-08T19:43:40.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/77ZVWH7GG5MZZPW7IE27T3INQY.jpg?auth=3363da28d91ceea7ea734b42992d6ef42c95f43135f6605142fae416835888fe",
+      "image_alt": "El partido gobernante de Hungría propone al jurista András Baka como nuevo presidente",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-08-08/el-partido-gobernante-de-hungria-propone-al-jurista-andras-baka-como-nuevo-presidente.html"
         }
       ],
       "impact": 71
