@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:50:28.493Z",
+  "updated_at": "2026-08-09T08:36:14.762Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,50 @@
   ],
   "stories": [
     {
-      "id": "iran-seeks-way-out-of-neither-war-nor-peace-stalemate-with-us-c4f1265c",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-      "published_at": "2026-08-09T04:12:39.000Z",
+      "id": "whirling-like-dervishes-in-turkey-but-open-to-everyone-c8753297",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+      "published_at": "2026-08-09T08:18:47.000Z",
       "image": "",
-      "image_alt": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+      "image_alt": "Whirling Like Dervishes in Turkey, but Open to Everyone",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan-c2e9bdec",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+      "published_at": "2026-08-09T07:58:00.000Z",
+      "image": "",
+      "image_alt": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 77
     },
     {
       "id": "the-french-far-right-fighters-of-the-lebanese-civil-war-bac0ab11",
@@ -63,7 +86,30 @@
           "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/09/the-french-far-right-fighters-of-the-lebanese-civil-war_6756306_117.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot-coexist-4976cd3c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+      "published_at": "2026-08-09T07:56:47.000Z",
+      "image": "",
+      "image_alt": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open-ba9917e6",
@@ -112,29 +158,6 @@
       "impact": 76
     },
     {
-      "id": "costa-rican-diplomat-emerges-as-strong-contender-to-be-first-female-he-5fc8e805",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-      "published_at": "2026-08-09T07:00:08.000Z",
-      "image": "https://i.guim.co.uk/img/media/cf6e5500a73b1c6d7beda2064a865f481d67eb3b/1333_0_6667_5334/master/6667.jpg?width=140&quality=85&auto=format&fit=max&s=ee3bb0b09606c2675caa9815550f3c78",
-      "image_alt": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un"
-        }
-      ],
-      "impact": 75
-    },
-    {
       "id": "wildfire-forces-thousands-of-evacuations-in-western-canada-80a0092a",
       "region": "Americas",
       "topic": "Climate",
@@ -158,96 +181,73 @@
       "impact": 75
     },
     {
-      "id": "lionel-messi-returns-to-argentina-after-father-jorge-s-death-d310890d",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lionel Messi returns to Argentina after father Jorge’s death",
-      "published_at": "2026-08-09T05:18:37.000Z",
-      "image": "",
-      "image_alt": "Lionel Messi returns to Argentina after father Jorge’s death",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "iran-issues-new-demands-as-pezeshkian-seeks-deal-ca5c55b9",
+      "id": "australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airpor-68bcc4ac",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran issues new demands as Pezeshkian seeks deal",
-      "published_at": "2026-08-09T05:06:02.000Z",
+      "headline": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
+      "published_at": "2026-08-09T07:53:00.000Z",
       "image": "",
-      "image_alt": "Iran issues new demands as Pezeshkian seeks deal",
+      "image_alt": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 74
     },
     {
-      "id": "very-painful-joe-biden-s-cancer-has-spread-son-hunter-says-63a491b7",
+      "id": "costa-rican-diplomat-emerges-as-strong-contender-to-be-first-female-he-5fc8e805",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "published_at": "2026-08-09T05:01:54.000Z",
-      "image": "",
-      "image_alt": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "headline": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+      "published_at": "2026-08-09T07:00:08.000Z",
+      "image": "https://i.guim.co.uk/img/media/cf6e5500a73b1c6d7beda2064a865f481d67eb3b/1333_0_6667_5334/master/6667.jpg?width=140&quality=85&auto=format&fit=max&s=ee3bb0b09606c2675caa9815550f3c78",
+      "image_alt": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un"
         }
       ],
       "impact": 74
     },
     {
-      "id": "car-bomb-hits-colombia-highway-day-after-new-president-sworn-in-2af58be6",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Car bomb hits Colombia highway day after new president sworn in",
-      "published_at": "2026-08-09T04:32:32.000Z",
-      "image": "",
-      "image_alt": "Car bomb hits Colombia highway day after new president sworn in",
+      "id": "demi-vollering-turns-women-s-tour-de-france-upside-down-on-eve-of-fini-38a18555",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Demi Vollering turns women's Tour de France upside down on eve of finish",
+      "published_at": "2026-08-09T08:23:32.000Z",
+      "image": "https://s.france24.com/media/display/7c2e6f7c-9388-11f1-a8f5-005056a90284/w:1024/p:16x9/AP26220586638353.jpg",
+      "image_alt": "Demi Vollering turns women's Tour de France upside down on eve of finish",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260809-demi-vollering-turns-women-tour-de-france-upside-down-eve-of-finish"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "canada-british-columbia-declares-emergency-as-fires-spread-0b421b9d",
@@ -270,7 +270,7 @@
           "url": "https://www.dw.com/en/canada-british-columbia-declares-emergency-as-fires-spread/a-78291841?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "eclipse-chasers-when-chasing-totality-becomes-a-way-of-life-1-4-5ef4412e",
@@ -293,7 +293,7 @@
           "url": "https://www.france24.com/en/europe/20260809-eclipse-chasers-when-chasing-totality-becomes-a-way-of-life-1-4"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "many-of-iran-s-demands-already-agreed-to-by-the-us-in-june-mou-6a2d110c",
@@ -316,7 +316,30 @@
           "url": "https://www.france24.com/en/many-of-iran-s-demands-already-agreed-to-by-us-in-june-mou"
         }
       ],
-      "impact": 73
+      "impact": 72
+    },
+    {
+      "id": "germany-news-drone-incidents-prompt-security-research-boost-7952ae7c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany news: Drone incidents prompt security research boost",
+      "published_at": "2026-08-09T06:25:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: Drone incidents prompt security research boost",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "kosovo-pm-kurti-egged-in-parliament-amid-political-crisis-2e837f88",
@@ -339,7 +362,7 @@
           "url": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "infantino-denies-affair-allegation-fifa-slams-concerted-effort-to-weak-850ad1c9",
@@ -362,7 +385,7 @@
           "url": "https://www.france24.com/en/middle-east/20260809-infantino-denies-affair-allegation-fifa-slams-concerted-effort-to-weaken-him"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "perez-hilton-faces-long-recovery-after-reports-he-self-harmed-during-l-9c512813",
@@ -383,52 +406,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "china-cancels-flights-issues-evacuation-orders-as-typhoon-dolphin-loom-e7314fae",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "China cancels flights, issues evacuation orders as Typhoon Dolphin looms",
-      "published_at": "2026-08-09T05:35:12.000Z",
-      "image": "https://s.france24.com/media/display/16fcca5a-93b4-11f1-853f-005056bfb2b6/w:1024/p:16x9/d90ddea7ccad35829bf1f072a00f675e79606670.jpg",
-      "image_alt": "China cancels flights, issues evacuation orders as Typhoon Dolphin looms",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260809-flight-cancellations-evacuations-in-china-as-typhoon-dolphin-looms"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-h-20c932d2",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Middle East live: Iran issues list of demands for reopening Strait of Hormuz",
-      "published_at": "2026-08-09T05:01:29.000Z",
-      "image": "https://s.france24.com/media/display/8e112f44-93ac-11f1-a7fa-005056a97e36/w:1024/p:16x9/AP26218279433565.jpg",
-      "image_alt": "Middle East live: Iran issues list of demands for reopening Strait of Hormuz",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz"
         }
       ],
       "impact": 71
@@ -454,7 +431,76 @@
           "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "lionel-messi-returns-to-argentina-after-father-jorge-s-death-d310890d",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Lionel Messi returns to Argentina after father Jorge’s death",
+      "published_at": "2026-08-09T05:18:37.000Z",
+      "image": "",
+      "image_alt": "Lionel Messi returns to Argentina after father Jorge’s death",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "iran-issues-new-demands-as-pezeshkian-seeks-deal-ca5c55b9",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Iran issues new demands as Pezeshkian seeks deal",
+      "published_at": "2026-08-09T05:06:02.000Z",
+      "image": "",
+      "image_alt": "Iran issues new demands as Pezeshkian seeks deal",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "very-painful-joe-biden-s-cancer-has-spread-son-hunter-says-63a491b7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "published_at": "2026-08-09T05:01:54.000Z",
+      "image": "",
+      "image_alt": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "bald-range-wildfire-forces-evacuation-of-18-000-in-british-columbia-6fad9e62",
@@ -477,7 +523,7 @@
           "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "how-a-drone-hellscape-might-stop-a-chinese-invasion-of-taiwan-83704ab6",
@@ -500,7 +546,7 @@
           "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "bombing-attacks-mark-first-day-of-colombia-s-new-right-wing-government-25ba7c71",
@@ -523,53 +569,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/09/bombing-attacks-mark-first-day-of-colombia-s-new-right-wing-government_6756307_4.html"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "tonnes-of-rotting-food-from-vast-la-warehouse-fire-creates-unbearable--7358ec4f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-      "published_at": "2026-08-09T00:15:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/4c1667b0-911a-11f1-9d85-c54b3ca88a18.jpg",
-      "image_alt": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "hundreds-arrested-over-french-wildfires-but-who-is-to-blame-8e1ac2fc",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Hundreds arrested over French wildfires, but who is to blame?",
-      "published_at": "2026-08-08T23:59:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Hundreds arrested over French wildfires, but who is to blame?",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 67
+      "impact": 68
     }
   ]
 }
