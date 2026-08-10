@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T13:53:28.648Z",
+  "updated_at": "2026-08-10T14:53:37.245Z",
   "languages": [
     {
       "code": "en",
@@ -25,7 +25,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "published_at": "2026-08-10T12:54:13.000Z",
+      "published_at": "2026-08-10T14:34:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
       "image_alt": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "translations": {
@@ -40,7 +40,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 90
     },
     {
       "id": "alleged-rebel-leader-killed-in-colombia-as-president-targets-armed-gro-bfa7e669",
@@ -63,7 +63,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 88
+    },
+    {
+      "id": "war-on-iran-phase-ii-day-30-3ac30ac8",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "War on Iran: Phase II: Day 30",
+      "published_at": "2026-08-10T14:07:04.000Z",
+      "image": "",
+      "image_alt": "War on Iran: Phase II: Day 30",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "why-netanyahu-s-coup-against-gaza-plan-risks-endless-war-2ef852b2",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+      "published_at": "2026-08-10T13:59:58.000Z",
+      "image": "",
+      "image_alt": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss"
+        }
+      ],
+      "impact": 86
     },
     {
       "id": "ukraine-drone-attack-on-industrial-city-in-russia-kills-at-least-13-1eeb169a",
@@ -84,33 +130,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html"
-        }
-      ],
-      "impact": 87
-    },
-    {
-      "id": "ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people-4c1764b1",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukraine drone strike on Russian oil-refining city kills 12 people",
-      "published_at": "2026-08-10T13:09:16.000Z",
-      "image": "https://s.france24.com/media/display/5e6dae20-94ba-11f1-91eb-005056bf30b7/w:1024/p:16x9/capture-20328942416a79c99706f398-83181920.jpg",
-      "image_alt": "Ukraine drone strike on Russian oil-refining city kills 12 people",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
-        },
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/10/ukraine-drone-strike-on-russian-oil-refining-city-kills-13_6756338_4.html"
         }
       ],
       "impact": 86
@@ -136,30 +155,76 @@
           "url": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
-      "id": "taiwan-holds-military-drills-to-prepare-for-invasion-by-china-7b9fd1dd",
-      "region": "Asia-Pacific",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Taiwan holds military drills to prepare for invasion by China",
-      "published_at": "2026-08-10T12:09:08.000Z",
-      "image": "",
-      "image_alt": "Taiwan holds military drills to prepare for invasion by China",
+      "id": "battle-for-mali-base-has-killed-dozens-of-militants-army-says-a5f9ecad",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Battle for Mali base has killed dozens of militants, army says",
+      "published_at": "2026-08-10T12:32:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48c/live/bb9b7b40-94b0-11f1-afe9-fb1a837ec5d9.jpg",
+      "image_alt": "Battle for Mali base has killed dozens of militants, army says",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "ukraine-drone-strike-on-russian-oil-refining-city-kills-13-45e10685",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukraine drone strike on Russian oil-refining city kills 13",
+      "published_at": "2026-08-10T11:50:40.000Z",
+      "image": "https://img.lemde.fr/2026/08/10/719/0/8144/4072/644/322/60/0/3a448ce_ftp-1-r1ywm7gq0w4p-15142ab4ef7d42a5932ae50530325e22-3-59b753911223404bae7466408242091e.jpg",
+      "image_alt": "Ukraine drone strike on Russian oil-refining city kills 13",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/10/ukraine-drone-strike-on-russian-oil-refining-city-kills-13_6756338_4.html"
         }
       ],
       "impact": 80
+    },
+    {
+      "id": "powerful-earthquake-strikes-colombia-4ae7e319",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Powerful Earthquake Strikes Colombia",
+      "published_at": "2026-08-10T14:46:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-colombia-quake-hjvt/10int-colombia-quake-hjvt-mediumSquareAt3X.jpg",
+      "image_alt": "Powerful Earthquake Strikes Colombia",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "indian-students-march-on-jharkhand-assembly-escalate-hunger-strike-ove-05bf7e72",
@@ -182,7 +247,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/10/indian-students-march-on-jharkhand-assembly-escalate-hunger-strike-over-exam-fraud-claims_6756336_4.html"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "ukrainian-drone-attack-kills-at-least-13-in-central-russia-65bcde07",
@@ -205,7 +270,30 @@
           "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections-bfaed235",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "published_at": "2026-08-10T14:18:52.000Z",
+      "image": "",
+      "image_alt": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "translations": {
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "saudi-arabia-pakistan-and-turkey-sign-defense-pact-in-mecca-sending-st-d54093c6",
@@ -228,7 +316,76 @@
           "url": "https://www.lemonde.fr/en/opinion/article/2026/08/10/saudi-arabia-pakistan-and-turkey-sign-defense-pact-in-mecca-sending-strong-message-to-rivals_6756343_23.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed-a3e157fb",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
+      "published_at": "2026-08-10T14:13:00.000Z",
+      "image": "",
+      "image_alt": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "record-230-people-reach-uk-on-single-boat-after-crossing-english-chann-7297db93",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Record 230 people reach UK on single boat after crossing English Channel",
+      "published_at": "2026-08-10T14:02:38.000Z",
+      "image": "",
+      "image_alt": "Record 230 people reach UK on single boat after crossing English Channel",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-ir-17a12e90",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+      "published_at": "2026-08-10T14:00:02.000Z",
+      "image": "",
+      "image_alt": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "gaza-honours-al-jazeera-s-anas-al-sharif-and-mohammed-qraiqea-54d933ec",
@@ -251,7 +408,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health-a65af212",
@@ -274,99 +431,53 @@
           "url": "https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons-0b164545",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nigel Farage vows to deport foreign criminals from UK prisons",
-      "published_at": "2026-08-10T13:24:52.000Z",
-      "image": "",
-      "image_alt": "Nigel Farage vows to deport foreign criminals from UK prisons",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-kn-d26892b5",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "One million evacuated as Typhoon Dolphin pummels east China: What we know",
-      "published_at": "2026-08-10T13:14:34.000Z",
-      "image": "",
-      "image_alt": "One million evacuated as Typhoon Dolphin pummels east China: What we know",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know?traffic_source=rss"
-        }
-      ],
       "impact": 76
     },
     {
-      "id": "has-the-army-turned-the-page-on-control-of-western-sudan-843ef603",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Has the army turned the page on control of western Sudan?",
-      "published_at": "2026-08-10T12:51:53.000Z",
-      "image": "",
-      "image_alt": "Has the army turned the page on control of western Sudan?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports-417305ba",
+      "id": "7-4-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-4f07762c",
       "region": "World",
-      "topic": "World",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports",
-      "published_at": "2026-08-10T12:43:14.000Z",
-      "image": "",
-      "image_alt": "Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports",
+      "headline": "7.4 magnitude earthquake shakes Colombia, causing serious damage – latest news",
+      "published_at": "2026-08-10T14:35:16.000Z",
+      "image": "https://i.guim.co.uk/img/media/e69966377a5fb5d9366de0a4bc74959c781a50c1/0_241_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=d25d910349df220a7bfa2046655f3e38",
+      "image_alt": "7.4 magnitude earthquake shakes Colombia, causing serious damage – latest news",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "powerful-7-4-magnitude-earthquake-strikes-western-colombia-b9dbb3d4",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Powerful 7.4 magnitude earthquake strikes western Colombia",
+      "published_at": "2026-08-10T14:28:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/a60bbe6d8089152e6e6edaeb54ba6f3fcc64e3f1/118_0_4221_3377/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=73ba2710015ae4012f867343665a76d2",
+      "image_alt": "Powerful 7.4 magnitude earthquake strikes western Colombia",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "italia-y-dinamarca-vinculan-la-inmigraci-n-descontrolada-con-la-delinc-ea02f330",
@@ -389,53 +500,30 @@
           "url": "https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "former-mp-opens-fire-in-thailand-s-second-shooting-within-days-91475e65",
-      "region": "World",
-      "topic": "World",
+      "id": "large-earthquake-hits-western-colombia-causing-damage-dd5bb18d",
+      "region": "Europe",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Former MP opens fire in Thailand’s second shooting within days",
-      "published_at": "2026-08-10T12:00:29.000Z",
+      "headline": "Large earthquake hits western Colombia causing damage",
+      "published_at": "2026-08-10T13:42:00.000Z",
       "image": "",
-      "image_alt": "Former MP opens fire in Thailand’s second shooting within days",
+      "image_alt": "Large earthquake hits western Colombia causing damage",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/large-earthquake-hits-western-colombia-causing-damage/a-78307841?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "iran-insists-strait-of-hormuz-will-stay-closed-until-trump-agrees-to-d-5f6f3f5a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-      "published_at": "2026-08-10T11:34:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/1-int-iran-hormuz-gbkp/1-int-iran-hormuz-gbkp-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "how-climate-change-is-reshaping-africa-apos-s-malaria-risk-594b76b9",
@@ -456,52 +544,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "typhoon-dolphin-the-biggest-storm-china-has-seen-this-year-445c0d38",
-      "region": "Asia-Pacific",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Typhoon Dolphin, \"the biggest storm China has seen this year\"",
-      "published_at": "2026-08-10T13:43:05.000Z",
-      "image": "https://s.france24.com/media/display/ae8a344a-94c0-11f1-b05b-005056bfb2b6/w:1024/p:16x9/capture-12949442236a79d42e5ccd46-05126815.jpg",
-      "image_alt": "Typhoon Dolphin, \"the biggest storm China has seen this year\"",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260810-typhoon-dolphin-the-biggest-storm-china-has-seen-this-year"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "russian-forces-in-syria-will-give-up-control-of-two-strategic-bases-on-61ffca9d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian forces in Syria will give up control of two strategic bases on the Mediterranean coast",
-      "published_at": "2026-08-10T13:18:44.000Z",
-      "image": "https://s.france24.com/media/display/f3cad004-94bc-11f1-8de6-005056bf30b7/w:1024/p:16x9/capture-1122241506a79cdec85a193-85566542.jpg",
-      "image_alt": "Russian forces in Syria will give up control of two strategic bases on the Mediterranean coast",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260810-russian-forces-in-syria-will-give-up-control-of-two-strategic-bases-on-the-mediterranean-coast"
         }
       ],
       "impact": 73
@@ -527,53 +569,7 @@
           "url": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "asean-closing-ranks-as-cyberscam-threat-escalates-75889f50",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "ASEAN closing ranks as cyberscam threat escalates",
-      "published_at": "2026-08-10T12:56:00.000Z",
-      "image": "",
-      "image_alt": "ASEAN closing ranks as cyberscam threat escalates",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "india-student-anger-over-alleged-exam-issues-spreads-to-jharkhand-ab49a47d",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India: Student anger over alleged exam issues spreads to Jharkhand",
-      "published_at": "2026-08-10T12:52:00.000Z",
-      "image": "",
-      "image_alt": "India: Student anger over alleged exam issues spreads to Jharkhand",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-student-anger-over-alleged-exam-issues-spreads-to-jharkhand/a-78304059?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     }
   ]
 }
