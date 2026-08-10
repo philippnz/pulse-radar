@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:52:14.986Z",
+  "updated_at": "2026-08-10T20:36:47.401Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote-0cdb358a",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+      "published_at": "2026-08-10T19:47:13.000Z",
+      "image": "",
+      "image_alt": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "at-least-13-killed-in-ukrainian-drone-strike-deep-into-russia-91024385",
       "region": "Europe",
@@ -40,7 +63,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping--8e577053",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes",
+      "published_at": "2026-08-10T20:26:19.000Z",
+      "image": "https://s.france24.com/media/display/47bd4c46-9468-11f1-b4bd-005056a97e36/w:1024/p:16x9/2026-08-09T152332Z-69083853-RC2ZUMA5Q3OB-RTRMADP-3-YEMEN-SECURITY.jpg",
+      "image_alt": "Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "ukraine-drone-attack-on-industrial-city-in-russia-kills-at-least-13-1eeb169a",
@@ -61,29 +107,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "russia-bars-only-anti-war-party-yabloko-from-september-parliamentary-e-46b2fc8d",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
-      "published_at": "2026-08-10T17:49:13.000Z",
-      "image": "https://s.france24.com/media/display/cc04344e-94e3-11f1-ae29-005056a97e36/w:1024/p:16x9/ade7a1f5ee3866cf50e0bf6ccb218c5acfd06224.jpg",
-      "image_alt": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections"
         }
       ],
       "impact": 82
@@ -112,83 +135,37 @@
       "impact": 81
     },
     {
-      "id": "111-dead-after-colombia-quakes-leave-trail-of-destruction-5a7d77e9",
-      "region": "World",
-      "topic": "World",
+      "id": "russia-bars-only-anti-war-party-yabloko-from-september-parliamentary-e-46b2fc8d",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Breaking",
-      "headline": "111 dead after Colombia quakes leave trail of destruction",
-      "published_at": "2026-08-10T18:51:02.000Z",
-      "image": "",
-      "image_alt": "111 dead after Colombia quakes leave trail of destruction",
+      "headline": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
+      "published_at": "2026-08-10T17:49:13.000Z",
+      "image": "https://s.france24.com/media/display/cc04344e-94e3-11f1-ae29-005056a97e36/w:1024/p:16x9/ade7a1f5ee3866cf50e0bf6ccb218c5acfd06224.jpg",
+      "image_alt": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections"
         }
       ],
       "impact": 81
     },
     {
-      "id": "lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh-5830f3a1",
-      "region": "Middle East",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-      "published_at": "2026-08-10T18:37:07.000Z",
-      "image": "",
-      "image_alt": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker-c4683ac5",
-      "region": "World",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Oman trying to contain extensive oil spill from stricken tanker",
-      "published_at": "2026-08-10T18:15:23.000Z",
-      "image": "",
-      "image_alt": "Oman trying to contain extensive oil spill from stricken tanker",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "trump-signs-order-to-limit-and-split-childhood-vaccines-7c1d08a3",
+      "id": "trump-signs-order-to-limit-childhood-vaccines-and-split-mmr-shots-7c1d08a3",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump signs order to limit and split childhood vaccines",
-      "published_at": "2026-08-10T19:35:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee3/live/db6fb8b0-94f0-11f1-ae55-21d5b5925ae1.jpg",
-      "image_alt": "Trump signs order to limit and split childhood vaccines",
+      "headline": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "published_at": "2026-08-10T20:16:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5647/live/b36560e0-94f5-11f1-9181-85140b8ce01b.jpg",
+      "image_alt": "Trump signs order to limit childhood vaccines and split MMR shots",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -209,7 +186,7 @@
       "topic": "Climate",
       "urgency": "Breaking",
       "headline": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
-      "published_at": "2026-08-10T19:19:27.000Z",
+      "published_at": "2026-08-10T20:10:00.000Z",
       "image": "https://i.guim.co.uk/img/media/9ada7efe0440a985b43f294d081bd99e5f27be14/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d708d575017a4953b585d99fb4dea378",
       "image_alt": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
       "translations": {
@@ -222,6 +199,52 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "111-dead-after-colombia-quakes-leave-trail-of-destruction-5a7d77e9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "111 dead after Colombia quakes leave trail of destruction",
+      "published_at": "2026-08-10T18:51:02.000Z",
+      "image": "",
+      "image_alt": "111 dead after Colombia quakes leave trail of destruction",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh-5830f3a1",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+      "published_at": "2026-08-10T18:37:07.000Z",
+      "image": "",
+      "image_alt": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss"
         }
       ],
       "impact": 80
@@ -250,6 +273,29 @@
       "impact": 79
     },
     {
+      "id": "live-updates-powerful-7-4-earthquake-strikes-colombia-killing-more-tha-fbdf2fda",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "published_at": "2026-08-10T20:36:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/10colombia-quake-promo-430p/10colombia-quake-promo-430p-mediumSquareAt3X.jpg",
+      "image_alt": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali"
+        }
+      ],
+      "impact": 78
+    },
+    {
       "id": "new-train-service-connects-finland-and-sweden-for-first-time-in-decade-53527909",
       "region": "World",
       "topic": "World",
@@ -270,7 +316,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "scores-dead-after-powerful-earthquake-strikes-western-colombia-b9dbb3d4",
@@ -293,7 +339,7 @@
           "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "how-taiwan-simulated-a-potential-chinese-attack-2ffba9ba",
@@ -316,76 +362,7 @@
           "url": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "we-are-chasing-ebola-virus-f7358b3b",
-      "region": "Americas",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "We are chasing Ebola virus",
-      "published_at": "2026-08-10T17:50:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4fc/live/e95d8e40-94da-11f1-8a7b-e7300179227e.jpg",
-      "image_alt": "We are chasing Ebola virus",
-      "translations": {
-        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 78
-    },
-    {
-      "id": "live-updates-powerful-7-4-earthquake-strikes-colombia-killing-more-tha-fbdf2fda",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
-      "published_at": "2026-08-10T19:33:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10colombia-quake--02-plfw/10colombia-quake--02-plfw-mediumSquareAt3X.jpg",
-      "image_alt": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us-f4476616",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-      "published_at": "2026-08-10T19:30:29.000Z",
-      "image": "",
-      "image_alt": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss"
-        }
-      ],
-      "impact": 77
     },
     {
       "id": "police-in-india-use-tear-gas-to-break-youth-protest-cc6d6407",
@@ -411,6 +388,75 @@
       "impact": 77
     },
     {
+      "id": "we-are-chasing-ebola-virus-f7358b3b",
+      "region": "Americas",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "We are chasing Ebola virus",
+      "published_at": "2026-08-10T17:50:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4fc/live/e95d8e40-94da-11f1-8a7b-e7300179227e.jpg",
+      "image_alt": "We are chasing Ebola virus",
+      "translations": {
+        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "trump-administration-has-revoked-over-175-000-visas-us-state-departmen-0a29371f",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump administration has revoked over 175,000 visas: US State Department",
+      "published_at": "2026-08-10T19:46:34.000Z",
+      "image": "",
+      "image_alt": "Trump administration has revoked over 175,000 visas: US State Department",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us-f4476616",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
+      "published_at": "2026-08-10T19:30:29.000Z",
+      "image": "",
+      "image_alt": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "netanyahu-walks-tightrope-on-trump-s-gaza-disarmament-deal-65b5b0d0",
       "region": "Middle East",
       "topic": "World",
@@ -429,98 +475,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-o-79adb086",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
-      "published_at": "2026-08-10T17:47:25.000Z",
-      "image": "https://s.france24.com/media/display/42623fae-94d6-11f1-b3d4-005056bfb2b6/w:1024/p:16x9/000-994M3G3.jpg",
-      "image_alt": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
-      "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "30-years-later-a-former-gang-member-will-stand-trial-for-tupac-s-murde-affe6e93",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "published_at": "2026-08-10T16:52:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2203/live/75fccdd0-94cb-11f1-8dc4-8907761852f3.jpg",
-      "image_alt": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "netanyahu-s-veto-and-the-limits-of-american-power-d46a22db",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Netanyahu’s veto and the limits of American power",
-      "published_at": "2026-08-10T18:35:31.000Z",
-      "image": "",
-      "image_alt": "Netanyahu’s veto and the limits of American power",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-r-7c2fde70",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "published_at": "2026-08-10T18:34:25.000Z",
-      "image": "",
-      "image_alt": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -549,27 +503,73 @@
       "impact": 76
     },
     {
-      "id": "live-at-least-47-killed-after-powerful-quake-rattles-colombia-4633ccfe",
+      "id": "tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-o-79adb086",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "🔴 Live: At least 47 killed after powerful quake rattles Colombia",
-      "published_at": "2026-08-10T16:47:20.000Z",
-      "image": "",
-      "image_alt": "🔴 Live: At least 47 killed after powerful quake rattles Colombia",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
+      "published_at": "2026-08-10T17:47:25.000Z",
+      "image": "https://s.france24.com/media/display/42623fae-94d6-11f1-b3d4-005056bfb2b6/w:1024/p:16x9/000-994M3G3.jpg",
+      "image_alt": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage"
+          "url": "https://www.france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company"
         }
       ],
       "impact": 76
+    },
+    {
+      "id": "netanyahu-s-veto-and-the-limits-of-american-power-d46a22db",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Netanyahu’s veto and the limits of American power",
+      "published_at": "2026-08-10T18:35:31.000Z",
+      "image": "",
+      "image_alt": "Netanyahu’s veto and the limits of American power",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-r-7c2fde70",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+      "published_at": "2026-08-10T18:34:25.000Z",
+      "image": "",
+      "image_alt": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     }
   ]
 }
