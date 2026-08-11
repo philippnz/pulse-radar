@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T17:55:32.798Z",
+  "updated_at": "2026-08-11T18:56:48.550Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "four-killed-in-houthi-strike-on-red-sea-ship-yemeni-government-says-610a3de8",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+      "published_at": "2026-08-11T18:29:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg",
+      "image_alt": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "russia-using-north-korean-missiles-to-strike-ukraine-zelensky-says-ab563eb3",
       "region": "Europe",
@@ -40,40 +63,17 @@
           "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 87
     },
     {
-      "id": "four-killed-in-houthi-strike-on-red-sea-ship-yemeni-government-says-610a3de8",
+      "id": "former-judge-removed-by-orb-n-elected-hungarian-president-de1c5dc5",
       "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-      "published_at": "2026-08-11T16:26:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg",
-      "image_alt": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html"
-        }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "lebanon-parliament-votes-to-abolish-death-penalty-8c94fd50",
-      "region": "Middle East",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Lebanon parliament votes to abolish death penalty",
-      "published_at": "2026-08-11T15:24:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc8/live/f4f01500-9590-11f1-b8bb-1b597db1ad66.jpg",
-      "image_alt": "Lebanon parliament votes to abolish death penalty",
+      "headline": "Former judge removed by Orbán elected Hungarian president",
+      "published_at": "2026-08-11T18:34:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ba/live/772d0f60-959a-11f1-976a-4934d54b5403.jpg",
+      "image_alt": "Former judge removed by Orbán elected Hungarian president",
       "translations": {
         "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,10 +83,10 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 85
     },
     {
       "id": "russian-civilian-deaths-are-growing-rapidly-as-ukraine-expands-its-air-a74d757d",
@@ -107,75 +107,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president-40be5ada",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Hungary elects supreme court judge ousted by Orban as new president",
-      "published_at": "2026-08-11T15:50:51.000Z",
-      "image": "",
-      "image_alt": "Hungary elects supreme court judge ousted by Orban as new president",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "lebanon-parliament-votes-to-end-death-penalty-1st-in-middle-east-to-do-5405f4d0",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
-      "published_at": "2026-08-11T15:20:38.000Z",
-      "image": "",
-      "image_alt": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "syria-sentences-former-president-al-assad-to-death-for-crimes-against--4c76cad6",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "published_at": "2026-08-11T15:00:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X-v2.jpg",
-      "image_alt": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
         }
       ],
       "impact": 80
@@ -201,7 +132,7 @@
           "url": "https://www.france24.com/en/europe/20260811-fast-and-fearless-baltic-defence-startups-innovate-to-counter-russian-threat"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "russia-releases-former-us-marine-reported-in-poor-health-d5a969d4",
@@ -224,30 +155,168 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "luigi-mangione-appears-in-court-as-questions-remain-in-case-ahead-of-m-a3d4ad03",
+      "id": "paramount-ceo-may-remove-operations-from-california-over-stalled-merge-7490fbb5",
       "region": "World",
-      "topic": "Society",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
-      "published_at": "2026-08-11T16:12:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/b3fcc830-95a0-11f1-a036-eb7cd99c5268.jpg",
-      "image_alt": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "headline": "Paramount CEO may remove operations from California over stalled merger",
+      "published_at": "2026-08-11T18:34:31.000Z",
+      "image": "",
+      "image_alt": "Paramount CEO may remove operations from California over stalled merger",
       "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "justice-at-last-syrians-react-to-assad-death-sentence-191dc797",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘Justice at last’: Syrians react to Assad death sentence",
+      "published_at": "2026-08-11T18:32:42.000Z",
+      "image": "",
+      "image_alt": "‘Justice at last’: Syrians react to Assad death sentence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "south-africa-mine-collapse-kills-14-suspected-illegal-miners-7dc92e41",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "South Africa mine collapse kills 14 suspected illegal miners",
+      "published_at": "2026-08-11T18:31:54.000Z",
+      "image": "",
+      "image_alt": "South Africa mine collapse kills 14 suspected illegal miners",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse-eacc7c4e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tourists rush to Iceland to witness rare total solar eclipse",
+      "published_at": "2026-08-11T18:22:14.000Z",
+      "image": "",
+      "image_alt": "Tourists rush to Iceland to witness rare total solar eclipse",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc-f53d246a",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "published_at": "2026-08-11T18:18:44.000Z",
+      "image": "",
+      "image_alt": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "brazil-s-supreme-court-to-weigh-cases-that-could-weaken-amazon-protect-bf0a177e",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
+      "published_at": "2026-08-11T18:00:01.000Z",
+      "image": "",
+      "image_alt": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death-e4c24817",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
+      "published_at": "2026-08-11T17:59:50.000Z",
+      "image": "",
+      "image_alt": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous-6cb0affb",
@@ -270,7 +339,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "hungary-apos-s-parliament-elects-orban-critic-as-new-president-e48cd5be",
@@ -293,73 +362,27 @@
           "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "russia-frees-ex-us-marine-robert-gilman-from-detention-79a0d22e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia frees ex-US Marine Robert Gilman from detention",
-      "published_at": "2026-08-11T17:09:31.000Z",
-      "image": "",
-      "image_alt": "Russia frees ex-US Marine Robert Gilman from detention",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss"
-        }
-      ],
       "impact": 76
     },
     {
-      "id": "psg-vs-aston-villa-uefa-super-cup-prediction-lineups-teams-67a7284e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams",
-      "published_at": "2026-08-11T16:55:34.000Z",
-      "image": "",
-      "image_alt": "PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams",
+      "id": "lebanon-parliament-votes-to-abolish-death-penalty-8c94fd50",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Lebanon parliament votes to abolish death penalty",
+      "published_at": "2026-08-11T15:24:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc8/live/f4f01500-9590-11f1-b8bb-1b597db1ad66.jpg",
+      "image_alt": "Lebanon parliament votes to abolish death penalty",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-faces-lawsuit-over-push-to-limit-birthright-citizenship-23c7c524",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump faces lawsuit over push to limit birthright citizenship",
-      "published_at": "2026-08-11T16:53:39.000Z",
-      "image": "",
-      "image_alt": "Trump faces lawsuit over push to limit birthright citizenship",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 76
@@ -385,7 +408,7 @@
           "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "how-ra-l-castro-s-grandson-ra-l-g-rodr-guez-castro-became-a-power-brok-22989295",
@@ -408,7 +431,7 @@
           "url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "eu-secures-voluntary-fact-checking-pact-with-meta-and-tiktok-after-ceu-6604d771",
@@ -431,57 +454,99 @@
           "url": "https://www.lemonde.fr/en/pixels/article/2026/08/11/eu-secures-voluntary-fact-checking-pact-with-meta-and-tiktok-after-ceuta-crisis_6756389_13.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities-6aa1e121",
+      "id": "syria-sentences-former-president-al-assad-to-death-for-crimes-against--4c76cad6",
       "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
-      "published_at": "2026-08-11T16:15:51.000Z",
-      "image": "https://s.france24.com/media/display/e6561210-959a-11f1-9ab8-005056a90284/w:1024/p:16x9/EN-20260811-170735-170934-CS.jpg",
-      "image_alt": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+      "published_at": "2026-08-11T15:00:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260811-syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities"
-        },
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "germany-s-hanover-airport-disrupted-by-drone-overflight-cdd9ae7c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany's Hanover Airport disrupted by drone overflight",
+      "published_at": "2026-08-11T18:47:55.000Z",
+      "image": "https://img.lemde.fr/2026/08/06/36/0/2578/1289/644/322/60/0/5908df1_ftp-1-ulrn72bhjakk-2026-08-06t121428z-1545967995-rc2csma2fx1q-rtrmadp-3-germany-security-airport.JPG",
+      "image_alt": "Germany's Hanover Airport disrupted by drone overflight",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/11/syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities_6756370_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/11/germany-s-hanover-airport-disrupted-by-drone-overflight_6756395_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "rwanda-the-genocide-against-the-tutsi-eca53e83",
-      "region": "World",
+      "id": "german-decommissioned-nuclear-power-plant-seeks-new-life-through-fusio-4ddec0e2",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Rwanda: The genocide against the Tutsi",
-      "published_at": "2026-08-11T15:49:09.000Z",
-      "image": "",
-      "image_alt": "Rwanda: The genocide against the Tutsi",
+      "headline": "German decommissioned nuclear power plant seeks new life through fusion",
+      "published_at": "2026-08-11T18:30:12.000Z",
+      "image": "https://img.lemde.fr/2026/08/07/275/0/5847/2923/644/322/60/0/8511335_upload-1-gbadz0wcjost-abaca-bramazingaerialagency20260729-1137.jpg",
+      "image_alt": "German decommissioned nuclear power plant seeks new life through fusion",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/08/11/german-decommissioned-nuclear-power-plant-seeks-new-life-through-fusion_6756394_19.html"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "former-us-marine-freed-from-prison-in-russia-f7342294",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Former US Marine freed from prison in Russia",
+      "published_at": "2026-08-11T18:23:20.000Z",
+      "image": "https://img.lemde.fr/2026/08/11/209/0/4528/2264/644/322/60/0/4a5c3b5_ftp-1-1s2p7rvehqn1-2026-08-11t141220z-1683958038-rc2ojkazsb5z-rtrmadp-3-usa-russia-gilman.JPG",
+      "image_alt": "Former US Marine freed from prison in Russia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/11/former-us-marine-freed-from-prison-in-russia_6756393_4.html"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "ex-marine-released-and-returning-to-us-from-russian-prison-ca567774",
@@ -502,75 +567,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/ex-marine-released-and-returning-to-us-from-russian-prison/a-78327699?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "russia-frees-ailing-ex-us-marine-after-four-years-in-prison-on-dispute-581e5efe",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia frees ailing ex-US marine after four years in prison on disputed charges",
-      "published_at": "2026-08-11T17:02:10.000Z",
-      "image": "https://s.france24.com/media/display/0ff11378-95a4-11f1-b3a3-005056a90284/w:1024/p:16x9/Gilman.jpg",
-      "image_alt": "Russia frees ailing ex-US marine after four years in prison on disputed charges",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "can-the-new-pkk-law-bring-peace-to-turkey-fe939a55",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can the new PKK law bring peace to Turkey?",
-      "published_at": "2026-08-11T16:28:00.000Z",
-      "image": "",
-      "image_alt": "Can the new PKK law bring peace to Turkey?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/can-the-new-pkk-law-bring-peace-to-turkey/a-78326063?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "scores-dead-in-colombia-after-powerful-earthquake-strikes-west-of-coun-b9dbb3d4",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "published_at": "2026-08-11T10:14:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/61a4b85fd3aa13e7e5f7eeb77da07c7d3e7a9ef3/693_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=5cfd7be58936229d9e68dc4ee2995445",
-      "image_alt": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
         }
       ],
       "impact": 73
