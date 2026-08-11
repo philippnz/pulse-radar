@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T15:56:37.608Z",
+  "updated_at": "2026-08-11T16:56:35.061Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "russia-using-north-korean-missiles-to-strike-ukraine-zelensky-says-ab563eb3",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "published_at": "2026-08-11T16:19:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg",
+      "image_alt": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
       "id": "four-killed-in-houthi-strike-on-red-sea-ship-yemeni-government-says-610a3de8",
       "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-      "published_at": "2026-08-11T15:42:13.000Z",
+      "published_at": "2026-08-11T16:26:01.000Z",
       "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg",
       "image_alt": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
       "translations": {
@@ -63,7 +86,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "lebanon-parliament-votes-to-abolish-death-penalty-8c94fd50",
@@ -86,30 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "russia-using-north-korean-missiles-to-strike-ukraine-zelensky-says-ab563eb3",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "published_at": "2026-08-11T09:39:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg",
-      "image_alt": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 84
+      "impact": 83
     },
     {
       "id": "russian-civilian-deaths-are-growing-rapidly-as-ukraine-expands-its-air-a74d757d",
@@ -132,7 +132,30 @@
           "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president-40be5ada",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Hungary elects supreme court judge ousted by Orban as new president",
+      "published_at": "2026-08-11T15:50:51.000Z",
+      "image": "",
+      "image_alt": "Hungary elects supreme court judge ousted by Orban as new president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "lebanon-parliament-votes-to-end-death-penalty-1st-in-middle-east-to-do-5405f4d0",
@@ -155,7 +178,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "syria-sentences-former-president-al-assad-to-death-for-crimes-against--4c76cad6",
@@ -178,17 +201,17 @@
           "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "ten-police-and-17-bandits-killed-in-firefight-in-northwestern-nigeria-2417a8fd",
       "region": "Africa",
       "topic": "Society",
       "urgency": "Breaking",
-      "headline": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "headline": "Ten police and 17 ‘bandits’ killed in firefight in northwestern Nigeria",
       "published_at": "2026-08-11T14:44:10.000Z",
       "image": "",
-      "image_alt": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "image_alt": "Ten police and 17 ‘bandits’ killed in firefight in northwestern Nigeria",
       "translations": {
         "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -201,30 +224,30 @@
           "url": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "four-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea-16bd4e40",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Four killed in suspected Houthi attack on Egyptian ship in the Red Sea",
-      "published_at": "2026-08-11T13:34:58.000Z",
-      "image": "https://s.france24.com/media/display/4eada7c8-9583-11f1-a35e-005056bfb2b6/w:1024/p:16x9/2026-08-11T014155Z-920576559-RC2JVMALG6M4-RTRMADP-3-IRAN-CRISIS-YEMEN-MOCHA.jpg",
-      "image_alt": "Four killed in suspected Houthi attack on Egyptian ship in the Red Sea",
+      "id": "luigi-mangione-appears-in-court-as-questions-remain-in-case-ahead-of-m-a3d4ad03",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "published_at": "2026-08-11T16:12:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373d/live/ab56d9d0-9589-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260811-three-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "russia-releases-former-us-marine-reported-in-poor-health-d5a969d4",
@@ -247,30 +270,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "what-are-saudi-arabia-turkiye-and-pakistan-s-joint-military-capabiliti-768c906c",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "hungary-apos-s-parliament-elects-orban-critic-as-new-president-e48cd5be",
+      "region": "Europe",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-      "published_at": "2026-08-11T13:47:50.000Z",
+      "headline": "Hungary&apos;s parliament elects Orban critic as new president",
+      "published_at": "2026-08-11T16:00:00.000Z",
       "image": "",
-      "image_alt": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+      "image_alt": "Hungary&apos;s parliament elects Orban critic as new president",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
       "id": "ousted-syrian-dictator-bashar-al-assad-sentenced-to-death-in-absentia-427cd01b",
@@ -293,7 +316,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "trump-hid-in-catering-truck-in-secret-plane-swap-over-iran-threat-repo-66ed4013",
@@ -316,7 +339,53 @@
           "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "after-deadly-earthquake-in-colombia-a-late-night-hunt-for-survivors-d0e2d10d",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+      "published_at": "2026-08-11T16:31:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/11int-colombia-quakes/11int-colombia-quakes-mediumSquareAt3X.jpg",
+      "image_alt": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "how-ra-l-castro-s-grandson-ra-l-g-rodr-guez-castro-became-a-power-brok-22989295",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+      "published_at": "2026-08-11T16:30:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/06/world/00int-cuba-castro/00int-cuba-castro-mediumSquareAt3X.jpg",
+      "image_alt": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "eu-secures-voluntary-fact-checking-pact-with-meta-and-tiktok-after-ceu-6604d771",
@@ -339,7 +408,7 @@
           "url": "https://www.lemonde.fr/en/pixels/article/2026/08/11/eu-secures-voluntary-fact-checking-pact-with-meta-and-tiktok-after-ceuta-crisis_6756389_13.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "france-bans-unsolicited-telemarketing-calls-21a2516a",
@@ -362,7 +431,57 @@
           "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities-6aa1e121",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
+      "published_at": "2026-08-11T16:15:51.000Z",
+      "image": "https://s.france24.com/media/display/e6561210-959a-11f1-9ab8-005056a90284/w:1024/p:16x9/EN-20260811-170735-170934-CS.jpg",
+      "image_alt": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260811-syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/11/syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities_6756370_4.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "rwanda-the-genocide-against-the-tutsi-eca53e83",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Rwanda: The genocide against the Tutsi",
+      "published_at": "2026-08-11T15:49:09.000Z",
+      "image": "",
+      "image_alt": "Rwanda: The genocide against the Tutsi",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "why-rumors-about-morocco-followed-spain-s-ceuta-migrant-surge-739b5874",
@@ -385,30 +504,7 @@
           "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "key-issues-in-zambia-apos-s-2026-general-election-7377eb08",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Key issues in Zambia&apos;s 2026 general election",
-      "published_at": "2026-08-11T13:38:00.000Z",
-      "image": "",
-      "image_alt": "Key issues in Zambia&apos;s 2026 general election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "dc-residents-debate-safety-gains-a-year-into-trump-s-guard-deployment-7ab5993b",
@@ -431,7 +527,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/11/dc-residents-debate-safety-gains-a-year-into-trumps-guard-deployment?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday-c9ad014f",
@@ -454,99 +550,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "after-deadly-earthquake-in-colombia-a-late-night-hunt-for-survivors-d0e2d10d",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
-      "published_at": "2026-08-11T14:43:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/11int-colombia-quakes/11int-colombia-quakes-mediumSquareAt3X.jpg",
-      "image_alt": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-ra-l-castro-s-grandson-ra-l-g-rodr-guez-castro-became-a-power-brok-22989295",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
-      "published_at": "2026-08-11T14:07:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/06/world/00int-cuba-castro/00int-cuba-castro-mediumSquareAt3X.jpg",
-      "image_alt": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "andras-baka-sworn-in-as-hungary-s-new-president-3328aa5d",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Andras Baka sworn in as Hungary's new president",
-      "published_at": "2026-08-11T13:53:45.000Z",
-      "image": "https://img.lemde.fr/2026/08/11/362/0/4353/2176/644/322/60/0/3598cc4_ftp-1-ox7ppc42x91a-655af3ff8727403eb02bb7768938a31f-0-04379355742a46aa955bcf0db0755c81.jpg",
-      "image_alt": "Andras Baka sworn in as Hungary's new president",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/11/hungary-s-parliament-approves-orban-critic-andras-baka-as-president_6756386_4.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-s-new-supreme-leader-prepares-military-for-prolonged-confrontatio-7fb6b023",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Iran's new supreme leader prepares military for prolonged confrontation with US and Israel",
-      "published_at": "2026-08-11T13:26:42.000Z",
-      "image": "https://img.lemde.fr/2026/08/10/792/0/9504/4752/644/322/60/0/631c9ec_upload-1-ojytyn0skk6e-000-b9dt4nr-1.jpg",
-      "image_alt": "Iran's new supreme leader prepares military for prolonged confrontation with US and Israel",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/11/iran-s-new-supreme-leader-prepares-military-for-prolonged-confrontation-with-us-and-israel_6756385_4.html"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks-9d01eee5",
@@ -569,7 +573,7 @@
           "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     }
   ]
 }
