@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T16:26:49.407Z",
+  "updated_at": "2026-08-12T17:28:40.642Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,52 @@
     }
   ],
   "stories": [
+    {
+      "id": "major-russian-grain-export-terminal-hit-in-ukraine-black-sea-port-atta-e8201d35",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+      "published_at": "2026-08-12T17:20:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg",
+      "image_alt": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
+    {
+      "id": "us-inflation-eases-as-food-and-fuel-costs-cool-c9a1ebd9",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US inflation eases as food and fuel costs cool",
+      "published_at": "2026-08-12T17:03:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
+      "image_alt": "US inflation eases as food and fuel costs cool",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "is-russia-s-economy-cracking-despite-the-iran-war-windfall-b35cbb06",
       "region": "Europe",
@@ -40,7 +86,7 @@
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "members-of-trump-s-cabinet-remained-on-decoy-plane-after-president-s-q-5853ee8f",
@@ -48,7 +94,7 @@
       "topic": "Politics",
       "urgency": "Live",
       "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "published_at": "2026-08-12T15:57:18.000Z",
+      "published_at": "2026-08-12T16:34:01.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
       "image_alt": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "translations": {
@@ -63,30 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
-    },
-    {
-      "id": "us-inflation-eases-as-food-and-fuel-costs-cool-c9a1ebd9",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "US inflation eases as food and fuel costs cool",
-      "published_at": "2026-08-12T14:09:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
-      "image_alt": "US inflation eases as food and fuel costs cool",
-      "translations": {
-        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
+      "impact": 84
     },
     {
       "id": "ugandan-opponent-bobi-wine-the-president-s-son-has-given-a-public-orde-c812d06d",
@@ -109,30 +132,30 @@
           "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/12/ugandan-opponent-bobi-wine-the-president-s-son-has-given-a-public-order-for-me-to-be-killed_6756427_124.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
-      "id": "us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat-d60bdb49",
+      "id": "thousands-of-canadians-call-for-us-ambassador-s-expulsion-65e2c412",
       "region": "Americas",
-      "topic": "Markets",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "US consumer inflation slows in July as energy prices briefly retreat",
-      "published_at": "2026-08-12T15:08:31.000Z",
-      "image": "",
-      "image_alt": "US consumer inflation slows in July as energy prices briefly retreat",
+      "headline": "Thousands of Canadians call for US ambassador's expulsion",
+      "published_at": "2026-08-12T16:35:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aed/live/6188d850-9659-11f1-ad58-9debde8148f5.jpg",
+      "image_alt": "Thousands of Canadians call for US ambassador's expulsion",
       "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "israeli-settlers-besieging-palestinian-families-in-west-bank-village-b86fbc4a",
@@ -155,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "la-lakers-to-be-sold-in-record-12-5bn-deal-72a023b1",
@@ -164,7 +187,7 @@
       "urgency": "Live",
       "headline": "LA Lakers to be sold in record $12.5bn deal",
       "published_at": "2026-08-12T16:11:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315f/live/02590670-9668-11f1-a6eb-474cf36e6c34.jpg",
       "image_alt": "LA Lakers to be sold in record $12.5bn deal",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
@@ -178,40 +201,17 @@
           "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "thousands-of-canadians-call-for-us-ambassador-s-expulsion-65e2c412",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Thousands of Canadians call for US ambassador's expulsion",
-      "published_at": "2026-08-12T16:03:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aed/live/6188d850-9659-11f1-ad58-9debde8148f5.jpg",
-      "image_alt": "Thousands of Canadians call for US ambassador's expulsion",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "live-updates-europe-counts-down-to-a-total-solar-eclipse-db328b8b",
+      "id": "live-updates-europe-s-first-total-solar-eclipse-is-turning-day-to-dark-db328b8b",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Live Updates: Europe Counts Down to a Total Solar Eclipse",
-      "published_at": "2026-08-12T16:19:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-10AM-cjbk/12europe-eclipse-promo-10AM-cjbk-mediumSquareAt3X.jpg",
-      "image_alt": "Live Updates: Europe Counts Down to a Total Solar Eclipse",
+      "headline": "Live Updates: Europe’s First Total Solar Eclipse Is Turning Day to Dark",
+      "published_at": "2026-08-12T17:23:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-1230-phmz/12europe-eclipse-promo-1230-phmz-mediumSquareAt3X.jpg",
+      "image_alt": "Live Updates: Europe’s First Total Solar Eclipse Is Turning Day to Dark",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -225,6 +225,29 @@
         }
       ],
       "impact": 78
+    },
+    {
+      "id": "drought-exposes-nazi-era-warship-wrecks-beneath-the-danube-74c5b1fc",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Drought exposes Nazi-era warship wrecks beneath the Danube",
+      "published_at": "2026-08-12T16:58:16.000Z",
+      "image": "",
+      "image_alt": "Drought exposes Nazi-era warship wrecks beneath the Danube",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "voting-ends-in-us-midwest-primaries-36b6702a",
@@ -247,7 +270,30 @@
           "url": "https://www.france24.com/en/voting-ends-in-us-midwest-primaries"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress-c096bc7f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+      "published_at": "2026-08-12T16:23:28.000Z",
+      "image": "",
+      "image_alt": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "psg-vs-aston-villa-live-uefa-super-cup-2026-4843c336",
@@ -270,7 +316,7 @@
           "url": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "europe-prepares-for-first-total-solar-eclipse-in-27-years-a7f770d3",
@@ -293,7 +339,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "colombia-declares-three-days-of-mourning-after-deadly-earthquake-36d2e888",
@@ -316,7 +362,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence-21523ca3",
@@ -339,7 +385,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met-8409c761",
@@ -362,30 +408,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control-c3956535",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-      "published_at": "2026-08-12T15:07:41.000Z",
-      "image": "",
-      "image_alt": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "at-least-44-dead-after-overcrowded-ferry-capsizes-on-lake-kariba-in-zi-ee459cb7",
@@ -408,7 +431,53 @@
           "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "germany-to-scrap-accompanied-drinking-for-14-and-15-year-olds-c47c9087",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany to scrap 'accompanied drinking' for 14 and 15-year-olds",
+      "published_at": "2026-08-12T17:15:06.000Z",
+      "image": "https://img.lemde.fr/2026/08/07/611/0/7327/3663/644/322/60/0/ff9495c_ftp-1-x901jktwkztv-d0029cf53f5b45d088fa629ccf4c81b1-0-044a4c0296944472982ecae8876c2d64.jpg",
+      "image_alt": "Germany to scrap 'accompanied drinking' for 14 and 15-year-olds",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/germany/article/2026/08/12/germany-to-scrap-accompanied-drinking-for-14-and-15-year-olds_6756433_146.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "mozart-tribute-ends-on-sour-note-after-mass-figurine-theft-05e856a6",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mozart tribute ends on sour note after mass figurine theft",
+      "published_at": "2026-08-12T16:11:00.000Z",
+      "image": "",
+      "image_alt": "Mozart tribute ends on sour note after mass figurine theft",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "germany-more-power-for-the-intelligence-agencies-09765bcd",
@@ -431,7 +500,7 @@
           "url": "https://www.dw.com/en/germany-more-power-for-the-intelligence-agencies/a-78341313?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "canadian-airline-westjet-agrees-to-settle-flight-attendants-sexual-har-0d416c63",
@@ -454,7 +523,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "trump-sued-over-sale-of-access-to-truth-social-posts-80323683",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump sued over sale of access to Truth Social posts",
+      "published_at": "2026-08-12T16:52:38.000Z",
+      "image": "https://img.lemde.fr/2026/08/10/117/0/6000/3000/644/322/60/0/a1c0316_ftp-1-ykqsza7m5zgl-c365cedfb0d948cd8eee79e87be4eaa4-0-b1b12017cf824fae8c7f67b90ed35dcf.jpg",
+      "image_alt": "Trump sued over sale of access to Truth Social posts",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/12/trump-sued-over-sale-of-access-to-truth-social-posts_6756432_4.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "eritrea-an-emerging-key-player-in-the-geopolitical-gamble-at-the-horn-472ce34b",
@@ -475,98 +567,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/eritrea-an-emerging-key-player-in-the-geopolitical-gamble-at-the-horn/a-78335316?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "lebanon-becomes-first-middle-east-country-to-end-death-penalty-0316549f",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lebanon becomes first Middle East country to end death penalty",
-      "published_at": "2026-08-12T15:24:50.000Z",
-      "image": "https://s.france24.com/media/display/2bc4bba0-9661-11f1-afe8-005056a97e36/w:1024/p:16x9/EN-20260812-170431-170725-CS.jpg",
-      "image_alt": "Lebanon becomes first Middle East country to end death penalty",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "colombia-bogota-s-search-for-survivors-continues-751d15a3",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Colombia: Bogota's search for survivors continues",
-      "published_at": "2026-08-12T15:21:22.000Z",
-      "image": "https://s.france24.com/media/display/db83da22-9660-11f1-9a48-005056a90284/w:1024/p:16x9/EN-20260812-170148-170321-CS.jpg",
-      "image_alt": "Colombia: Bogota's search for survivors continues",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "italy-etna-eruption-in-sicily-halts-catania-flights-3c12c5a8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Italy: Etna eruption in Sicily halts Catania flights",
-      "published_at": "2026-08-12T15:01:00.000Z",
-      "image": "",
-      "image_alt": "Italy: Etna eruption in Sicily halts Catania flights",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "ebola-is-spreading-at-a-speed-we-ve-never-seen-before-co-discoverer-of-ef94026d",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "'Ebola is spreading at a speed we've never seen before,' co-discoverer of virus says",
-      "published_at": "2026-08-12T15:30:03.000Z",
-      "image": "https://img.lemde.fr/2026/05/20/635/0/5407/2703/644/322/60/0/d25ee75_ftp-1-ads3coq5symv-5091175-01-06.jpg",
-      "image_alt": "'Ebola is spreading at a speed we've never seen before,' co-discoverer of virus says",
-      "translations": {
-        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/12/ebola-is-spreading-at-a-speed-we-ve-never-seen-before-co-discoverer-of-virus-says_6756430_124.html"
         }
       ],
       "impact": 72
