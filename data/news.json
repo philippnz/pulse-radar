@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:38:17.766Z",
+  "updated_at": "2026-08-12T21:40:07.654Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "israeli-air-strike-kills-one-in-northern-gaza-ef9cb9f1",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israeli air strike kills one in northern Gaza",
+      "published_at": "2026-08-12T20:58:42.000Z",
+      "image": "",
+      "image_alt": "Israeli air strike kills one in northern Gaza",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "major-russian-grain-export-terminals-hit-in-ukraine-black-sea-port-att-e8201d35",
       "region": "Europe",
@@ -40,7 +63,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
+    },
+    {
+      "id": "members-of-trump-s-cabinet-remained-on-decoy-plane-after-president-s-q-5853ee8f",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "published_at": "2026-08-12T20:58:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 84
+    },
+    {
+      "id": "drone-attacks-on-energy-infrastructure-deepen-libya-s-energy-crisis-19bdffd8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+      "published_at": "2026-08-12T20:59:52.000Z",
+      "image": "",
+      "image_alt": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "more-than-40-dead-after-a-ferry-capsizes-on-zimbabwe-s-lake-kariba-c0cd63a8",
@@ -63,7 +132,7 @@
           "url": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "trump-says-white-house-press-secretary-karoline-leavitt-to-leave-post-d4578d08",
@@ -71,7 +140,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "published_at": "2026-08-12T20:16:55.000Z",
+      "published_at": "2026-08-12T20:57:47.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5edf/live/54d0fdd0-9687-11f1-a7ab-8b30adf0800a.jpg",
       "image_alt": "Trump says White House press secretary Karoline Leavitt to leave post",
       "translations": {
@@ -86,17 +155,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "us-immigration-officers-to-be-equipped-with-gloves-that-deliver-electr-8f279dfc",
-      "region": "Americas",
+      "id": "ice-plans-to-equip-agents-with-gloves-that-can-deliver-electric-shocks-8f279dfc",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US immigration officers to be equipped with gloves that deliver electric shocks",
-      "published_at": "2026-08-12T19:21:22.000Z",
+      "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "published_at": "2026-08-12T20:57:13.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
-      "image_alt": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "image_alt": "ICE plans to equip agents with gloves that can deliver electric shocks",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -110,6 +179,213 @@
         }
       ],
       "impact": 79
+    },
+    {
+      "id": "woman-pulled-alive-from-rubble-36-hours-after-colombia-quake-b28edaa1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "published_at": "2026-08-12T20:56:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b547/live/5e706700-9654-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "first-total-eclipse-in-europe-in-decades-turns-day-to-night-db328b8b",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "First Total Eclipse in Europe in Decades Turns Day to Night",
+      "published_at": "2026-08-12T21:29:31.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-4PM-1-zptj/12europe-eclipse-promo-4PM-1-zptj-mediumSquareAt3X.jpg",
+      "image_alt": "First Total Eclipse in Europe in Decades Turns Day to Night",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge-79ef5171",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Morocco says working to prevent potential new Ceuta crossings surge",
+      "published_at": "2026-08-12T21:07:12.000Z",
+      "image": "",
+      "image_alt": "Morocco says working to prevent potential new Ceuta crossings surge",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "11-year-old-boy-shot-by-israeli-forces-in-gaza-e3212181",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "11-year-old boy shot by Israeli forces in Gaza",
+      "published_at": "2026-08-12T21:06:12.000Z",
+      "image": "",
+      "image_alt": "11-year-old boy shot by Israeli forces in Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "a-space-expert-hoped-to-use-the-eclipse-as-science-class-the-d-j-s-had-e3aa4d26",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
+      "published_at": "2026-08-12T21:04:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12int-spain-eclipse-01-pgbz/12int-spain-eclipse-01-pgbz-mediumSquareAt3X.jpg",
+      "image_alt": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "how-nigel-farage-ended-up-running-against-count-binface-in-clacton-98a13716",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+      "published_at": "2026-08-12T20:37:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12int-uk-binface-01-chlb/12int-uk-binface-01-chlb-mediumSquareAt3X.jpg",
+      "image_alt": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "deadly-india-landslide-kills-at-least-seven-in-mumbai-624c1666",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Deadly India landslide kills at least seven in Mumbai",
+      "published_at": "2026-08-12T20:58:24.000Z",
+      "image": "",
+      "image_alt": "Deadly India landslide kills at least seven in Mumbai",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "can-syria-deliver-transitional-justice-e300b525",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Can Syria deliver transitional justice?",
+      "published_at": "2026-08-12T20:53:26.000Z",
+      "image": "",
+      "image_alt": "Can Syria deliver transitional justice?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-vows-to-keep-troops-in-lebanon-gaza-and-syria-fe3cb8fc",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+      "published_at": "2026-08-12T20:26:07.000Z",
+      "image": "",
+      "image_alt": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "photos-solar-eclipse-plunges-parts-of-europe-into-darkness-811667ec",
@@ -132,99 +408,7 @@
           "url": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "platformicide-of-palestine-activists-struggle-to-be-heard-on-meta-9673872e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "published_at": "2026-08-12T20:15:38.000Z",
-      "image": "",
-      "image_alt": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "live-updates-first-total-eclipse-in-europe-in-decades-turns-day-to-nig-db328b8b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Live Updates: First Total Eclipse in Europe in Decades Turns Day to Night",
-      "published_at": "2026-08-12T20:13:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-4PM-1-zptj/12europe-eclipse-promo-4PM-1-zptj-mediumSquareAt3X.jpg",
-      "image_alt": "Live Updates: First Total Eclipse in Europe in Decades Turns Day to Night",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secre-bddb3ed0",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump reveals Karoline Leavitt to step down as White House press secretary",
-      "published_at": "2026-08-12T20:05:01.000Z",
-      "image": "",
-      "image_alt": "Trump reveals Karoline Leavitt to step down as White House press secretary",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn-1e889d64",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
-      "published_at": "2026-08-12T20:04:24.000Z",
-      "image": "",
-      "image_alt": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/12/josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn?traffic_source=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "ugandan-opponent-bobi-wine-the-president-s-son-has-given-a-public-orde-c812d06d",
@@ -247,122 +431,30 @@
           "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/12/ugandan-opponent-bobi-wine-the-president-s-son-has-given-a-public-order-for-me-to-be-killed_6756427_124.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse-024970db",
-      "region": "Europe",
+      "id": "partial-eclipse-seen-from-north-and-west-africa-d28483fa",
+      "region": "Africa",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iceland and Spain plunged into darkness during total solar eclipse",
-      "published_at": "2026-08-12T19:29:15.000Z",
-      "image": "",
-      "image_alt": "Iceland and Spain plunged into darkness during total solar eclipse",
+      "headline": "Partial eclipse seen from North and West Africa",
+      "published_at": "2026-08-12T21:09:38.000Z",
+      "image": "https://s.france24.com/media/display/ed293f78-968e-11f1-b1b6-005056bfb2b6/w:1024/p:16x9/AP26224677006109.jpg",
+      "image_alt": "Partial eclipse seen from North and West Africa",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "brazil-orders-discord-to-suspend-livestreams-after-teen-s-death-f52fba13",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Brazil orders Discord to suspend livestreams after teen’s death",
-      "published_at": "2026-08-12T19:21:11.000Z",
-      "image": "",
-      "image_alt": "Brazil orders Discord to suspend livestreams after teen’s death",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iraq-says-september-30-withdrawal-deadline-for-us-led-coalition-final-0f16901a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
-      "published_at": "2026-08-12T19:11:03.000Z",
-      "image": "",
-      "image_alt": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "thousands-flee-drought-in-somalia-amid-sharp-aid-decline-6424e37a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Thousands flee drought in Somalia amid sharp aid decline",
-      "published_at": "2026-08-12T19:06:23.000Z",
-      "image": "",
-      "image_alt": "Thousands flee drought in Somalia amid sharp aid decline",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "members-of-trump-s-cabinet-remained-on-decoy-plane-after-president-s-q-5853ee8f",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "published_at": "2026-08-12T16:34:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 73
     },
     {
       "id": "former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-d3815b8c",
@@ -385,7 +477,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "sobre-las-ruinas-del-hotel-que-albergaba-a-los-m-s-pobres-cientos-de-m-11425680",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sobre las ruinas del hotel que albergaba a los más pobres, cientos de manos cavan sin ayuda en Pereira",
+      "published_at": "2026-08-12T21:22:15.000Z",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1203999_150837_video_1800.mp4",
+      "image_alt": "Sobre las ruinas del hotel que albergaba a los más pobres, cientos de manos cavan sin ayuda en Pereira",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/america-colombia/2026-08-12/sobre-las-ruinas-del-hotel-que-albergaba-a-los-mas-pobres-cientos-de-manos-cavan-sin-ayuda-en-pereira.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "in-pictures-partial-to-total-eclipse-sweeps-across-much-of-europe-8b313d0a",
@@ -408,7 +523,7 @@
           "url": "https://www.france24.com/en/europe/20260812-in-pictures-partial-to-total-eclipse-seen-across-much-of-europe"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "white-house-press-secretary-karoline-leavitt-to-step-down-955d760c",
@@ -431,7 +546,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/12/white-house-press-secretary-karoline-leavitt-to-step-down_6756439_4.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "the-moment-of-the-total-solar-eclipse-in-spain-6c10b1f2",
@@ -452,121 +567,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/video/20260812-the-moment-of-the-total-solar-eclipse-in-spain"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "russia-why-is-the-yabloko-party-barred-from-the-elections-1ec1fc35",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia: Why is the Yabloko party barred from the elections?",
-      "published_at": "2026-08-12T18:37:00.000Z",
-      "image": "",
-      "image_alt": "Russia: Why is the Yabloko party barred from the elections?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "25-years-ohrid-agreement-is-n-macedonia-apos-s-peace-holding-648fc7c6",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "25 years Ohrid Agreement: Is N. Macedonia&apos;s peace holding?",
-      "published_at": "2026-08-12T17:56:00.000Z",
-      "image": "",
-      "image_alt": "25 years Ohrid Agreement: Is N. Macedonia&apos;s peace holding?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "at-least-44-dead-after-overcrowded-ferry-capsizes-on-lake-kariba-in-zi-ee459cb7",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-      "published_at": "2026-08-12T12:21:08.000Z",
-      "image": "https://i.guim.co.uk/img/media/bc9bcbc1f8089593ac3841e431f1cec076f4f3bc/81_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=1dd0145b25007671142bed3c66aac50b",
-      "image_alt": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "nba-s-los-angeles-lakers-to-be-sold-for-reported-12-5-billion-c0d81d7e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "NBA's Los Angeles Lakers to be sold for reported $12.5 billion",
-      "published_at": "2026-08-12T18:51:22.000Z",
-      "image": "https://img.lemde.fr/2026/08/12/316/0/3793/1896/644/322/60/0/0930613_ftp-1-b4mp20osu7xp-5823109-01-06.jpg",
-      "image_alt": "NBA's Los Angeles Lakers to be sold for reported $12.5 billion",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/sports/article/2026/08/12/nba-s-los-angeles-lakers-to-be-sold-for-reported-12-5-bn_6756437_9.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "brazil-orders-suspension-of-discord-livestreams-after-teen-suicide-5de00703",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Brazil orders suspension of Discord livestreams after teen suicide",
-      "published_at": "2026-08-12T18:46:17.000Z",
-      "image": "https://img.lemde.fr/2026/08/12/1118/0/8256/4128/644/322/60/0/a4d5998_ftp-1-8asu7xqmz9n7-5822391-01-06.jpg",
-      "image_alt": "Brazil orders suspension of Discord livestreams after teen suicide",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/12/brazil-orders-suspension-of-discord-livestreams-after-teen-suicide_6756436_4.html"
         }
       ],
       "impact": 71
