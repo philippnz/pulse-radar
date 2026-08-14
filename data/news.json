@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T10:54:37.046Z",
+  "updated_at": "2026-08-14T11:41:09.290Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,75 @@
     }
   ],
   "stories": [
+    {
+      "id": "ukraine-war-grain-attacks-raise-food-price-fears-685e64a2",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukraine war: Grain attacks raise food price fears",
+      "published_at": "2026-08-14T10:41:12.000Z",
+      "image": "https://s.france24.com/media/display/635a7fcc-97ca-11f1-ada5-005056a97e36/w:1024/p:16x9/EN-20260814-110545-111010-CS.jpg",
+      "image_alt": "Ukraine war: Grain attacks raise food price fears",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "russia-campaigned-to-derail-moldova-s-pro-western-government-6f2cba17",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "published_at": "2026-08-14T10:57:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg",
+      "image_alt": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "record-breaking-rain-in-japan-leaves-several-dead-thousands-stranded-3e4e5de4",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "published_at": "2026-08-14T10:52:15.000Z",
+      "image": "",
+      "image_alt": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
     {
       "id": "seven-killed-in-tunnel-accident-at-indian-hydropower-project-4c878831",
       "region": "World",
@@ -40,30 +109,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "russia-campaigned-to-derail-moldova-s-pro-western-government-6f2cba17",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "published_at": "2026-08-14T10:09:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg",
-      "image_alt": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
-        }
-      ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "record-breaking-rainfall-leaves-eight-dead-and-thousands-stranded-in-j-c27464a7",
@@ -89,27 +135,50 @@
       "impact": 81
     },
     {
-      "id": "uk-far-right-leader-farage-re-elected-in-boycotted-by-election-e1cb11fd",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "presidential-vote-counting-halted-in-zambia-over-alleged-attacks-on-po-e9f2b072",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "UK far-right leader Farage re-elected in boycotted by-election",
-      "published_at": "2026-08-14T09:24:24.000Z",
-      "image": "",
-      "image_alt": "UK far-right leader Farage re-elected in boycotted by-election",
+      "headline": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "published_at": "2026-08-14T11:37:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "stolen-matisse-artworks-recovered-by-police-in-brazil-01a8723d",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Stolen Matisse artworks recovered by police in Brazil",
+      "published_at": "2026-08-14T10:55:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Stolen Matisse artworks recovered by police in Brazil",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "unprecedented-rain-in-japan-kills-eight-people-3c023a57",
@@ -132,7 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "us-missionary-released-following-kidnap-in-niger-christian-group-says-676e9876",
@@ -158,6 +227,75 @@
       "impact": 79
     },
     {
+      "id": "man-city-tight-lipped-on-rodri-transfer-amid-barcelona-and-real-madrid-17168581",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+      "published_at": "2026-08-14T11:18:22.000Z",
+      "image": "",
+      "image_alt": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "us-threatens-indefinite-blockade-against-iran-how-long-can-it-last-dc8a62e1",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "published_at": "2026-08-14T11:06:59.000Z",
+      "image": "",
+      "image_alt": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "russian-ballistic-attacks-intensify-as-kyiv-claims-dnipropetrovsk-adva-e3734646",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+      "published_at": "2026-08-14T11:04:40.000Z",
+      "image": "",
+      "image_alt": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "chadian-president-pardons-nine-jailed-opposition-leaders-53ca67d9",
       "region": "Europe",
       "topic": "Politics",
@@ -178,7 +316,7 @@
           "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/14/chadian-president-pardons-nine-jailed-opposition-leaders_6756501_124.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "uk-farage-wins-controversial-by-election-a2c7e641",
@@ -199,75 +337,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/uk-farage-wins-controversial-by-election"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "us-says-dozens-of-countries-helped-china-dodge-trump-s-tariffs-eeffef37",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-      "published_at": "2026-08-14T08:39:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
-      "image_alt": "US says dozens of countries helped China dodge Trump's tariffs",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "stolen-matisse-artworks-recovered-by-police-in-brazil-01a8723d",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Stolen Matisse artworks recovered by police in Brazil",
-      "published_at": "2026-08-14T08:34:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fdf/live/61ca13d0-97c9-11f1-a927-0dfab640b8c9.jpg",
-      "image_alt": "Stolen Matisse artworks recovered by police in Brazil",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "scrutiny-over-farage-s-finances-has-hurt-reform-uk-support-9a154b70",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
-      "published_at": "2026-08-14T10:32:22.000Z",
-      "image": "",
-      "image_alt": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -296,6 +365,52 @@
       "impact": 77
     },
     {
+      "id": "why-women-are-breaking-men-apos-s-endurance-records-f4cff426",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Why women are breaking men&apos;s endurance records",
+      "published_at": "2026-08-14T09:42:00.000Z",
+      "image": "",
+      "image_alt": "Why women are breaking men&apos;s endurance records",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/why-women-are-breaking-men-s-endurance-records/a-78362321?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "scrutiny-over-farage-s-finances-has-hurt-reform-uk-support-9a154b70",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "published_at": "2026-08-14T10:32:22.000Z",
+      "image": "",
+      "image_alt": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "new-zealand-break-ranks-with-oceania-as-fifa-s-infantino-divide-grows-7f019c19",
       "region": "World",
       "topic": "World",
@@ -316,7 +431,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes-498b6d8d",
@@ -339,76 +454,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "swiatek-defeats-rybakina-to-claim-canadian-open-title-703bc37b",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Swiatek defeats Rybakina to claim Canadian Open title​",
-      "published_at": "2026-08-14T09:26:54.000Z",
-      "image": "",
-      "image_alt": "Swiatek defeats Rybakina to claim Canadian Open title​",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season-e8605dbe",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "La Liga: Barcelona key talking points heading into new 2026-27 season",
-      "published_at": "2026-08-14T09:20:37.000Z",
-      "image": "",
-      "image_alt": "La Liga: Barcelona key talking points heading into new 2026-27 season",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/14/la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "a-year-after-student-protests-that-shook-valjevo-serbia-at-a-crossroad-fa3870fe",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A year after student protests that shook Valjevo: Serbia at a crossroads",
-      "published_at": "2026-08-14T09:18:25.000Z",
-      "image": "",
-      "image_alt": "A year after student protests that shook Valjevo: Serbia at a crossroads",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "as-europe-gets-hotter-its-transportation-systems-struggle-to-cope-ca211852",
@@ -431,7 +477,7 @@
           "url": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "palestinian-rappers-shabjdeed-and-saint-levant-in-spat-over-authentici-76dd45c6",
@@ -454,7 +500,7 @@
           "url": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "after-notre-dame-fire-france-restored-the-cathedral-but-not-these-wind-23fefa98",
@@ -477,30 +523,30 @@
           "url": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse-35a0bef7",
-      "region": "Asia-Pacific",
+      "id": "west-bank-palestinians-families-trapped-in-home-b3c66471",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "India news: 7 dead, 3 trapped in Uttarakhand tunnel collapse",
-      "published_at": "2026-08-14T06:45:00.000Z",
-      "image": "",
-      "image_alt": "India news: 7 dead, 3 trapped in Uttarakhand tunnel collapse",
+      "urgency": "Live",
+      "headline": "West Bank: Palestinians families trapped in home",
+      "published_at": "2026-08-14T11:33:16.000Z",
+      "image": "https://s.france24.com/media/display/10f6cfac-97d3-11f1-b5e1-005056a97e36/w:1024/p:16x9/EN-20260814-130345-130831-CS.jpg",
+      "image_alt": "West Bank: Palestinians families trapped in home",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse/live-78361577?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "american-missionary-kidnapped-in-niger-freed-after-nine-months-58df9cd8",
@@ -524,52 +570,6 @@
         }
       ],
       "impact": 74
-    },
-    {
-      "id": "farage-wins-special-u-k-election-that-he-initiated-as-expected-00fa9031",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "published_at": "2026-08-14T07:35:29.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg",
-      "image_alt": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "the-ebola-virus-is-outpacing-the-international-response-cd9c917a",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "The Ebola virus is outpacing the international response",
-      "published_at": "2026-08-14T10:45:11.000Z",
-      "image": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/aadd6ce_ftp-1-k3xmbeijrf60-9d9d9801489b4d87907a7f539f83fdf6-3-f93bdce5db7b4cd5befbc571ae85a75f.jpg",
-      "image_alt": "The Ebola virus is outpacing the international response",
-      "translations": {
-        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/08/14/the-ebola-virus-is-outpacing-the-international-response_6756502_23.html"
-        }
-      ],
-      "impact": 73
     }
   ]
 }
