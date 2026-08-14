@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:11:19.557Z",
+  "updated_at": "2026-08-14T09:34:38.165Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "what-is-a-ceasefire-supposed-to-achieve-37e1f883",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "What is a ‘ceasefire’ supposed to achieve?",
+      "published_at": "2026-08-14T09:00:51.000Z",
+      "image": "",
+      "image_alt": "What is a ‘ceasefire’ supposed to achieve?",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "farage-wins-special-u-k-election-that-he-initiated-as-expected-00fa9031",
       "region": "World",
@@ -40,30 +63,53 @@
           "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
-      "id": "north-korea-fumes-over-upcoming-us-south-korea-military-drills-288a2313",
+      "id": "us-says-dozens-of-countries-helped-china-dodge-trump-s-tariffs-eeffef37",
       "region": "Asia-Pacific",
-      "topic": "Security",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "North Korea fumes over upcoming US-South Korea military drills",
-      "published_at": "2026-08-14T05:40:45.000Z",
-      "image": "",
-      "image_alt": "North Korea fumes over upcoming US-South Korea military drills",
+      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
+      "published_at": "2026-08-14T08:39:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
+      "image_alt": "US says dozens of countries helped China dodge Trump's tariffs",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
+    },
+    {
+      "id": "stolen-matisse-artworks-recovered-by-police-in-brazil-01a8723d",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Stolen Matisse artworks recovered by police in Brazil",
+      "published_at": "2026-08-14T08:34:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d1/live/3099e280-97a7-11f1-b9b1-c18c7ed25243.jpg",
+      "image_alt": "Stolen Matisse artworks recovered by police in Brazil",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "uk-nigel-farage-beats-a-trash-can-in-clacton-by-election-4310f6af",
@@ -86,17 +132,17 @@
           "url": "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
-      "id": "unprecedented-rains-in-japan-kill-six-people-3c023a57",
+      "id": "unprecedented-rain-in-japan-kills-six-people-3c023a57",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "'Unprecedented' rains in Japan kill six people",
+      "headline": "'Unprecedented' rain in Japan kills six people",
       "published_at": "2026-08-14T07:00:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg",
-      "image_alt": "'Unprecedented' rains in Japan kill six people",
+      "image_alt": "'Unprecedented' rain in Japan kills six people",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -109,17 +155,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
-      "id": "record-rainfall-leaves-four-dead-thousands-stranded-in-japan-39fc5625",
+      "id": "tanzid-makes-history-as-bangladesh-dominate-first-australia-test-19664ddb",
       "region": "Asia-Pacific",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Record rainfall leaves four dead, thousands stranded in Japan",
-      "published_at": "2026-08-14T05:02:19.000Z",
+      "urgency": "Live",
+      "headline": "Tanzid makes history as Bangladesh dominate first Australia Test",
+      "published_at": "2026-08-14T08:40:55.000Z",
       "image": "",
-      "image_alt": "Record rainfall leaves four dead, thousands stranded in Japan",
+      "image_alt": "Tanzid makes history as Bangladesh dominate first Australia Test",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,10 +175,125 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/8/14/tanzid-makes-history-as-bangladesh-dominate-first-australia-test?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 76
+    },
+    {
+      "id": "us-accuses-dozens-of-countries-of-helping-china-avoid-trump-s-tariffs-d5376ad3",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US accuses dozens of countries of helping China avoid Trump’s tariffs",
+      "published_at": "2026-08-14T08:37:21.000Z",
+      "image": "",
+      "image_alt": "US accuses dozens of countries of helping China avoid Trump’s tariffs",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/14/us-accuses-dozens-of-countries-of-helping-china-avoid-trumps-tariffs?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "south-korea-players-want-k-league-season-change-due-to-worsening-clima-3d0309e7",
+      "region": "Asia-Pacific",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "South Korea players want K League season change due to ‘worsening climate’",
+      "published_at": "2026-08-14T08:35:31.000Z",
+      "image": "",
+      "image_alt": "South Korea players want K League season change due to ‘worsening climate’",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "wildfires-force-thousands-to-flee-as-blazes-spread-across-europe-a6138945",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Wildfires force thousands to flee as blazes spread across Europe",
+      "published_at": "2026-08-14T08:23:27.000Z",
+      "image": "",
+      "image_alt": "Wildfires force thousands to flee as blazes spread across Europe",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/wildfires-force-thousands-to-flee-as-blazes-spread-across-europe?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says-a2723198",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+      "published_at": "2026-08-14T08:15:17.000Z",
+      "image": "",
+      "image_alt": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "the-gambian-women-turning-grief-into-song-4919bbfb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The Gambian women turning grief into song",
+      "published_at": "2026-08-14T08:09:59.000Z",
+      "image": "",
+      "image_alt": "The Gambian women turning grief into song",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse-35a0bef7",
@@ -155,7 +316,30 @@
           "url": "https://www.dw.com/en/india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse/live-78361577?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "stolen-matisse-art-found-in-brazil-743f08ca",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Stolen Matisse art found in Brazil",
+      "published_at": "2026-08-14T07:47:05.000Z",
+      "image": "",
+      "image_alt": "Stolen Matisse art found in Brazil",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "another-day-of-extreme-heat-bakes-europe-but-relief-is-on-the-horizon-2ca3f963",
@@ -178,132 +362,17 @@
           "url": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "nigel-farage-beats-count-binface-to-regain-uk-parliamentary-seat-in-wi-a66a628e",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Nigel Farage beats Count Binface to regain UK parliamentary seat in widely mocked by-election",
-      "published_at": "2026-08-14T06:34:35.000Z",
-      "image": "https://s.france24.com/media/display/5e83003e-97a5-11f1-816e-005056bf30b7/w:1024/p:16x9/2026-08-13T122514Z-2040419325-RC2OXMA5KPAJ-RTRMADP-3-BRITAIN-POLITICS-FARAGE.jpg",
-      "image_alt": "Nigel Farage beats Count Binface to regain UK parliamentary seat in widely mocked by-election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "prichard-colon-dies-from-boxing-injury-that-resulted-in-221-day-coma-8dd18964",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
-      "published_at": "2026-08-14T07:11:26.000Z",
-      "image": "",
-      "image_alt": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat-386c5dbe",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-      "published_at": "2026-08-14T07:07:42.000Z",
-      "image": "",
-      "image_alt": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "uk-far-right-leader-farage-beats-count-binface-to-win-by-election-ff18a5bb",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "UK far-right leader Farage beats Count Binface to win by-election",
-      "published_at": "2026-08-14T05:43:49.000Z",
-      "image": "https://img.lemde.fr/2026/08/14/629/0/6338/3169/644/322/60/0/44266e5_ftp-1-v8rfekeglb0x-5836028-01-06.jpg",
-      "image_alt": "UK far-right leader Farage beats Count Binface to win by-election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/14/uk-far-right-leader-farage-beats-count-binface-to-win-by-election_6756493_4.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking--daa48d0e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-      "published_at": "2026-08-14T06:22:41.000Z",
-      "image": "",
-      "image_alt": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "nato-jets-shoot-down-drone-flying-over-eastern-latvia-7601e0d1",
+      "id": "israeli-settlers-seize-palestinian-water-source-in-occupied-west-bank--b8c8c841",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "NATO jets shoot down drone flying over eastern Latvia",
-      "published_at": "2026-08-14T08:03:44.000Z",
-      "image": "https://s.france24.com/media/display/91938b9c-97b4-11f1-bfa9-005056bf30b7/w:1024/p:16x9/2026-07-31T121118Z-150587744-RC2TOMA01W5I-RTRMADP-3-UKRAINE-CRISIS-LATVIA-AWACS.jpg",
-      "image_alt": "NATO jets shoot down drone flying over eastern Latvia",
+      "headline": "Israeli settlers seize Palestinian water source in occupied West Bank to create recreational pool",
+      "published_at": "2026-08-14T09:23:33.000Z",
+      "image": "https://s.france24.com/media/display/647b8576-97bc-11f1-bcae-005056bf30b7/w:1024/p:16x9/2026-08-14T060113Z-1927548703-RC2TVMAVHWMD-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-SPRINGS.jpg",
+      "image_alt": "Israeli settlers seize Palestinian water source in occupied West Bank to create recreational pool",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -313,56 +382,56 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260814-nato-jets-shoot-down-drone-flying-over-eastern-latvia"
+          "url": "https://www.france24.com/en/middle-east/20260814-israeli-settlers-seize-palestinian-water-source-in-occupied-west-bank-to-create-recreational-pool"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "hunger-stones-the-history-behind-apos-if-you-see-me-weep-apos-409d1dc0",
+      "id": "ukraine-civilian-casualties-hit-highest-level-since-may-2022-5addbe6e",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Hunger stones: The history behind &apos;If you see me, weep&apos;",
-      "published_at": "2026-08-14T07:34:00.000Z",
-      "image": "",
-      "image_alt": "Hunger stones: The history behind &apos;If you see me, weep&apos;",
+      "headline": "Ukraine: Civilian casualties hit highest level since May 2022",
+      "published_at": "2026-08-14T09:08:02.000Z",
+      "image": "https://s.france24.com/media/display/1b91ba1c-97ba-11f1-88be-005056a97e36/w:1024/p:16x9/EN-20260814-090722-090901-CS.jpg",
+      "image_alt": "Ukraine: Civilian casualties hit highest level since May 2022",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/hunger-stones-the-history-behind-if-you-see-me-weep/a-78345729?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says-15034bae",
-      "region": "World",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
-      "published_at": "2026-08-14T04:52:45.000Z",
-      "image": "",
-      "image_alt": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
+      "id": "israel-sends-troops-to-west-bank-homes-besieged-by-settlers-03eca5ee",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel sends troops to West Bank homes besieged by settlers",
+      "published_at": "2026-08-14T08:59:38.000Z",
+      "image": "https://s.france24.com/media/display/5898b8a8-97b9-11f1-917e-005056a97e36/w:1024/p:16x9/EN-20260814-090117-090304-CS.jpg",
+      "image_alt": "Israel sends troops to West Bank homes besieged by settlers",
       "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "four-dead-thousands-stranded-as-record-rain-lashes-japan-8c3ebf7a",
@@ -385,7 +454,76 @@
           "url": "https://www.dw.com/en/four-dead-thousands-stranded-as-record-rain-lashes-japan/a-78361113?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "nato-jets-shoot-down-drone-in-latvian-airspace-84a101c6",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "NATO jets shoot down drone in Latvian airspace",
+      "published_at": "2026-08-14T08:45:27.000Z",
+      "image": "https://img.lemde.fr/2026/04/14/468/0/5616/2808/644/322/60/0/7cb3be2_ftp-1-nyigvkwdgvmx-2026-04-14t095639z-388327168-rc2sokarp8ia-rtrmadp-3-ukraine-crisis-nato-baltic-air-policing.JPG",
+      "image_alt": "NATO jets shoot down drone in Latvian airspace",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/14/nato-jets-shoot-down-drone-in-latvian-airspace_6756496_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "nato-jets-shoot-down-drone-flying-over-eastern-latvia-7601e0d1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "NATO jets shoot down drone flying over eastern Latvia",
+      "published_at": "2026-08-14T08:03:44.000Z",
+      "image": "https://s.france24.com/media/display/91938b9c-97b4-11f1-bfa9-005056bf30b7/w:1024/p:16x9/2026-07-31T121118Z-150587744-RC2TOMA01W5I-RTRMADP-3-UKRAINE-CRISIS-LATVIA-AWACS.jpg",
+      "image_alt": "NATO jets shoot down drone flying over eastern Latvia",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260814-nato-jets-shoot-down-drone-flying-over-eastern-latvia"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "hunger-stones-the-history-behind-apos-if-you-see-me-weep-apos-409d1dc0",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hunger stones: The history behind &apos;if you see me, weep&apos;",
+      "published_at": "2026-08-14T07:34:00.000Z",
+      "image": "",
+      "image_alt": "Hunger stones: The history behind &apos;if you see me, weep&apos;",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/hunger-stones-the-history-behind-if-you-see-me-weep/a-78345729?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "brazilian-police-recover-eight-stolen-matisse-engravings-e0202027",
@@ -408,7 +546,7 @@
           "url": "https://www.lemonde.fr/en/culture/article/2026/08/14/brazilian-police-recover-eight-stolen-matisse-engravings_6756494_30.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "france-evacuates-hundreds-as-new-wildfire-threatens-southwestern-lande-2ed90333",
@@ -431,145 +569,7 @@
           "url": "https://www.france24.com/en/france/20260814-france-evacuates-hundreds-new-wildfire-threatens-southwestern-landes-region"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "can-childhood-trauma-be-prevented-with-a-drug-7a5b4b51",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can childhood trauma be prevented with a drug?",
-      "published_at": "2026-08-14T06:22:00.000Z",
-      "image": "",
-      "image_alt": "Can childhood trauma be prevented with a drug?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/can-childhood-trauma-be-prevented-with-a-drug/a-78301961?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "us-sailors-report-dire-conditions-as-replacement-carrier-heads-to-midd-bdc8e120",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US sailors report dire conditions as replacement carrier heads to Middle East",
-      "published_at": "2026-08-14T05:30:36.000Z",
-      "image": "https://s.france24.com/media/display/57621e74-97a1-11f1-9ca5-005056bf30b7/w:1024/p:16x9/2026-08-13T165557Z-1605003890-RC21PMAKQDWO-RTRMADP-3-USA-MILITARY-CONDITIONS.jpg",
-      "image_alt": "US sailors report dire conditions as replacement carrier heads to Middle East",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln"
-        }
-      ],
       "impact": 71
-    },
-    {
-      "id": "el-ultra-brit-nico-farage-revalida-su-esca-o-en-el-parlamento-tras-ven-8659f030",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al variopinto Conde Cubo de Basura",
-      "published_at": "2026-08-14T06:24:28.000Z",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204541_080027_video_1800.mp4",
-      "image_alt": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al variopinto Conde Cubo de Basura",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-14/el-ultra-britanico-farage-revalida-su-escano-en-el-parlamento-tras-vencer-al-variopinto-conde-cubo-de-basura.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "afghan-women-erased-from-public-life-in-five-years-of-taliban-rule-5b2d12cb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
-      "published_at": "2026-08-14T05:08:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg",
-      "image_alt": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "us-says-dozens-of-countries-helped-china-dodge-trump-s-tariffs-eeffef37",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-      "published_at": "2026-08-14T03:09:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
-      "image_alt": "US says dozens of countries helped China dodge Trump's tariffs",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-b-a48cb151",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-      "published_at": "2026-08-14T05:08:32.000Z",
-      "image": "",
-      "image_alt": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss"
-        }
-      ],
-      "impact": 69
     }
   ]
 }
