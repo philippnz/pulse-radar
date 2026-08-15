@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:16:49.244Z",
+  "updated_at": "2026-08-15T20:46:34.114Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "eleven-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "published_at": "2026-08-15T20:21:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "syrian-convicted-in-austria-of-civil-war-abuses-is-detained-in-syria-e00ec5a8",
       "region": "Middle East",
@@ -40,17 +63,17 @@
           "url": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
-      "id": "eleven-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
-      "region": "Middle East",
+      "id": "morocco-detains-dozens-of-migrants-trying-to-cross-into-ceuta-reports--24de7e20",
+      "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "published_at": "2026-08-15T16:02:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "urgency": "Live",
+      "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "published_at": "2026-08-15T20:32:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+      "image_alt": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,30 +83,7 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "powerful-magnitude-7-7-earthquake-kills-at-least-47-in-indonesia-55f5b4c9",
-      "region": "Asia-Pacific",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "published_at": "2026-08-15T20:00:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
@@ -110,6 +110,29 @@
         }
       ],
       "impact": 80
+    },
+    {
+      "id": "powerful-magnitude-7-7-earthquake-kills-at-least-47-in-indonesia-55f5b4c9",
+      "region": "Asia-Pacific",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "published_at": "2026-08-15T20:00:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "translations": {
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "liechtenstein-changes-succession-rule-to-allow-women-to-ascend-the-thr-3084e995",
@@ -158,29 +181,6 @@
       "impact": 79
     },
     {
-      "id": "morocco-detains-dozens-of-migrants-trying-to-cross-into-ceuta-24de7e20",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Morocco detains dozens of migrants trying to cross into Ceuta",
-      "published_at": "2026-08-15T19:16:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
-      "image_alt": "Morocco detains dozens of migrants trying to cross into Ceuta",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
       "id": "south-korea-president-proposes-talks-with-pyongyang-to-formally-end-ko-16808b53",
       "region": "Asia-Pacific",
       "topic": "Security",
@@ -204,70 +204,24 @@
       "impact": 79
     },
     {
-      "id": "firefighters-battle-wildfire-tearing-through-belgian-nature-reserve-5af5a4c3",
-      "region": "World",
-      "topic": "Climate",
+      "id": "canadian-petition-to-expel-us-ambassador-gains-over-170-000-signatures-4d1bda37",
+      "region": "Americas",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "published_at": "2026-08-15T17:47:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/1695a180-98ba-11f1-9a0b-ef36d15fc6b3.jpg",
-      "image_alt": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "berlin-s-housing-crisis-and-security-concerns-shape-election-campaign-75ac6994",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Breaking",
-      "headline": "Berlin's housing crisis and security concerns shape election campaign",
-      "published_at": "2026-08-15T14:52:58.000Z",
-      "image": "https://img.lemde.fr/2026/08/15/590/0/5512/2756/644/322/60/0/6a3ab38_upload-1-8xpslx3vchyo-037-av-0936-election-berlin-anton-vester.jpg",
-      "image_alt": "Berlin's housing crisis and security concerns shape election campaign",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/berlin-s-housing-crisis-and-security-concerns-shape-election-campaign_6756542_4.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-encla-2f62c1c4",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-      "published_at": "2026-08-15T19:46:20.000Z",
+      "headline": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "published_at": "2026-08-15T20:09:33.000Z",
       "image": "",
-      "image_alt": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "image_alt": "Canadian petition to expel US ambassador gains over 170,000 signatures",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -319,14 +273,106 @@
       "impact": 77
     },
     {
-      "id": "death-toll-from-zimbabwe-ferry-disaster-rises-to-69-ebd00f38",
+      "id": "firefighters-battle-wildfire-tearing-through-belgian-nature-reserve-5af5a4c3",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "published_at": "2026-08-15T17:47:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
+      "image_alt": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "translations": {
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "berlin-s-housing-crisis-and-security-concerns-shape-election-campaign-75ac6994",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Breaking",
+      "headline": "Berlin's housing crisis and security concerns shape election campaign",
+      "published_at": "2026-08-15T14:52:58.000Z",
+      "image": "https://img.lemde.fr/2026/08/15/590/0/5512/2756/644/322/60/0/6a3ab38_upload-1-8xpslx3vchyo-037-av-0936-election-berlin-anton-vester.jpg",
+      "image_alt": "Berlin's housing crisis and security concerns shape election campaign",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/berlin-s-housing-crisis-and-security-concerns-shape-election-campaign_6756542_4.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "moroccan-police-intercept-migrants-heading-for-ceuta-enclave-0e4015d5",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+      "published_at": "2026-08-15T20:07:07.000Z",
+      "image": "",
+      "image_alt": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-encla-2f62c1c4",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "published_at": "2026-08-15T19:46:20.000Z",
+      "image": "",
+      "image_alt": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "death-toll-from-zimbabwe-ferry-disaster-rises-to-72-ebd00f38",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Death toll from Zimbabwe ferry disaster rises to 69",
+      "headline": "Death toll from Zimbabwe ferry disaster rises to 72",
       "published_at": "2026-08-15T19:10:06.000Z",
       "image": "",
-      "image_alt": "Death toll from Zimbabwe ferry disaster rises to 69",
+      "image_alt": "Death toll from Zimbabwe ferry disaster rises to 72",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -340,52 +386,6 @@
         }
       ],
       "impact": 76
-    },
-    {
-      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "published_at": "2026-08-15T18:15:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
-      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "twenty-two-more-bodies-recovered-after-zimbabwe-boat-accident-7039a211",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Twenty-two more bodies recovered after Zimbabwe boat accident",
-      "published_at": "2026-08-15T19:39:07.000Z",
-      "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
-      "image_alt": "Twenty-two more bodies recovered after Zimbabwe boat accident",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
-        }
-      ],
-      "impact": 75
     },
     {
       "id": "la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season-90a90888",
@@ -411,6 +411,75 @@
       "impact": 75
     },
     {
+      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "published_at": "2026-08-15T18:15:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
+      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-ret-5dfa3ac3",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "published_at": "2026-08-15T20:37:34.000Z",
+      "image": "https://s.france24.com/media/display/9bc873a4-98c5-11f1-8108-005056a90284/w:1024/p:16x9/8d2575533c572c55c8b941d6ec31b065014ce460.jpg",
+      "image_alt": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "twenty-two-more-bodies-recovered-after-zimbabwe-boat-accident-7039a211",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "published_at": "2026-08-15T19:39:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
+      "image_alt": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
+        }
+      ],
+      "impact": 74
+    },
+    {
       "id": "us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east-18edbed8",
       "region": "Middle East",
       "topic": "World",
@@ -431,7 +500,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "inter-milan-sign-england-s-djed-spence-from-tottenham-hotspur-7efc257c",
@@ -452,98 +521,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "professor-s-death-leaves-behind-hard-questions-for-cambridge-on-race-a-1d047d94",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "published_at": "2026-08-15T17:31:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg",
-      "image_alt": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii-8e2cedf5",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
-      "published_at": "2026-08-15T17:27:57.000Z",
-      "image": "",
-      "image_alt": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "uk-pm-burnham-reacts-to-death-of-former-cambridge-professor-c960880c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UK PM Burnham reacts to death of former Cambridge professor",
-      "published_at": "2026-08-15T17:19:12.000Z",
-      "image": "",
-      "image_alt": "UK PM Burnham reacts to death of former Cambridge professor",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "zelensky-regains-control-after-a-month-of-political-crisis-b0c84d14",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Zelensky regains control after a month of political crisis",
-      "published_at": "2026-08-15T16:01:06.000Z",
-      "image": "https://img.lemde.fr/2026/08/08/688/0/8256/4128/644/322/60/0/1773b85_ftp-1-0weg2nnkcs0r-5796654-01-06.jpg",
-      "image_alt": "Zelensky regains control after a month of political crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/zelensky-regains-control-after-a-month-of-political-crisis_6756543_4.html"
         }
       ],
       "impact": 74
@@ -567,6 +544,29 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "zelensky-regains-control-after-a-month-of-political-crisis-b0c84d14",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Zelensky regains control after a month of political crisis",
+      "published_at": "2026-08-15T16:01:06.000Z",
+      "image": "https://img.lemde.fr/2026/08/08/688/0/8256/4128/644/322/60/0/1773b85_ftp-1-0weg2nnkcs0r-5796654-01-06.jpg",
+      "image_alt": "Zelensky regains control after a month of political crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/zelensky-regains-control-after-a-month-of-political-crisis_6756543_4.html"
         }
       ],
       "impact": 73
