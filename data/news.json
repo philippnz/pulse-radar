@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:43:31.860Z",
+  "updated_at": "2026-08-15T16:18:40.260Z",
   "languages": [
     {
       "code": "en",
@@ -40,7 +40,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 88
     },
     {
       "id": "syrian-convicted-in-austria-of-civil-war-abuses-is-detained-in-syria-e00ec5a8",
@@ -86,7 +86,30 @@
           "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
         }
       ],
-      "impact": 87
+      "impact": 86
+    },
+    {
+      "id": "eleven-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "published_at": "2026-08-15T16:02:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
     },
     {
       "id": "the-next-yemen-war-might-be-different-8f72bedf",
@@ -109,7 +132,7 @@
           "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "south-korea-president-proposes-talks-with-pyongyang-to-formally-end-ko-16808b53",
@@ -130,29 +153,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war"
-        }
-      ],
-      "impact": 84
-    },
-    {
-      "id": "eleven-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "published_at": "2026-08-15T13:38:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 83
@@ -179,29 +179,6 @@
         }
       ],
       "impact": 82
-    },
-    {
-      "id": "black-professor-at-centre-of-cambridge-plagiarism-row-found-dead-87ec5e7c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Black professor at centre of Cambridge plagiarism row found dead",
-      "published_at": "2026-08-15T13:11:31.000Z",
-      "image": "",
-      "image_alt": "Black professor at centre of Cambridge plagiarism row found dead",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss"
-        }
-      ],
-      "impact": 80
     },
     {
       "id": "at-least-47-dead-as-7-7-magnitude-earthquake-rocks-indonesia-e1fe2944",
@@ -250,6 +227,121 @@
       "impact": 79
     },
     {
+      "id": "black-professor-at-centre-of-cambridge-plagiarism-row-found-dead-87ec5e7c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Black professor at centre of Cambridge plagiarism row found dead",
+      "published_at": "2026-08-15T13:11:31.000Z",
+      "image": "",
+      "image_alt": "Black professor at centre of Cambridge plagiarism row found dead",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "israeli-strikes-in-lebanon-kill-11-health-officials-say-7a3f7f75",
+      "region": "Middle East",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "published_at": "2026-08-15T16:09:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg",
+      "image_alt": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "translations": {
+        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "zelensky-regains-control-after-a-month-of-political-crisis-b0c84d14",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Zelensky regains control after a month of political crisis",
+      "published_at": "2026-08-15T16:01:06.000Z",
+      "image": "https://img.lemde.fr/2026/08/08/688/0/8256/4128/644/322/60/0/1773b85_ftp-1-0weg2nnkcs0r-5796654-01-06.jpg",
+      "image_alt": "Zelensky regains control after a month of political crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/zelensky-regains-control-after-a-month-of-political-crisis_6756543_4.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package-3f236f90",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+      "published_at": "2026-08-15T15:50:06.000Z",
+      "image": "",
+      "image_alt": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israeli-settlers-besiege-palestinian-families-in-occupied-west-bank-c320464a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
+      "published_at": "2026-08-15T15:48:07.000Z",
+      "image": "",
+      "image_alt": "Israeli settlers besiege Palestinian families in occupied West Bank",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "family-stranded-at-sea-for-16-hours-after-jet-ski-capsized-in-thailand-719d8a5d",
       "region": "World",
       "topic": "World",
@@ -270,7 +362,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "powerful-magnitude-7-7-earthquake-kills-at-least-47-in-indonesia-55f5b4c9",
@@ -291,52 +383,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "sedition-to-anthem-many-lives-of-azadi-chants-in-india-s-youth-protest-b0f2eba8",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "published_at": "2026-08-15T15:25:51.000Z",
-      "image": "",
-      "image_alt": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "published_at": "2026-08-15T14:52:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
-      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
         }
       ],
       "impact": 77
@@ -365,6 +411,52 @@
       "impact": 77
     },
     {
+      "id": "sedition-to-anthem-many-lives-of-azadi-chants-in-india-s-youth-protest-b0f2eba8",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "published_at": "2026-08-15T15:25:51.000Z",
+      "image": "",
+      "image_alt": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "published_at": "2026-08-15T14:52:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
+      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "hawaii-under-state-of-emergency-ahead-of-historic-hurricane-a2fc9781",
       "region": "Europe",
       "topic": "World",
@@ -385,145 +477,7 @@
           "url": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "israeli-strikes-in-lebanon-kill-11-health-officials-say-7a3f7f75",
-      "region": "Middle East",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-      "published_at": "2026-08-15T13:28:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg",
-      "image_alt": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-      "translations": {
-        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
-        }
-      ],
       "impact": 75
-    },
-    {
-      "id": "afghans-mark-five-years-of-taliban-rule-8c2fad03",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Afghans mark five years of Taliban rule",
-      "published_at": "2026-08-15T13:12:51.000Z",
-      "image": "",
-      "image_alt": "Afghans mark five years of Taliban rule",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "vienna-woman-sues-city-for-discrimination-over-toilet-fees-72a19255",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Vienna woman sues city for discrimination over toilet fees",
-      "published_at": "2026-08-15T13:01:31.000Z",
-      "image": "",
-      "image_alt": "Vienna woman sues city for discrimination over toilet fees",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "five-wounded-in-shooting-at-virginia-state-university-multiple-suspect-ab37c9d9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Five wounded in shooting at Virginia State University, multiple suspects",
-      "published_at": "2026-08-15T12:57:08.000Z",
-      "image": "",
-      "image_alt": "Five wounded in shooting at Virginia State University, multiple suspects",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "five-years-on-how-will-taliban-deal-with-armed-opposition-9cfd4714",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Five years on, how will Taliban deal with armed opposition?",
-      "published_at": "2026-08-15T12:44:30.000Z",
-      "image": "",
-      "image_alt": "Five years on, how will Taliban deal with armed opposition?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country-fa9f6ff3",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Lebanon: Nine killed by Israeli airstrikes in south of country",
-      "published_at": "2026-08-15T11:32:21.000Z",
-      "image": "https://img.lemde.fr/2026/08/15/42/0/5000/2500/644/322/60/0/aa008e8_ftp-1-y3kc79tx4gqc-b1b34b59cbe540e4b0d7026ac86f135b-0-08d60f275cae4a0cbd205f0e6eb7efaf.jpg",
-      "image_alt": "Lebanon: Nine killed by Israeli airstrikes in south of country",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country_6756538_4.html"
-        }
-      ],
-      "impact": 74
     },
     {
       "id": "deadly-israeli-strikes-in-lebanon-put-peace-talks-at-risk-be168d5c",
@@ -567,6 +521,52 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/asia-pacific/20260815-french-father-and-two-children-rescued-after-16-hours-adrift-off-thai-island"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "in-germany-record-heat-meets-climate-action-fatigue-f9b08c01",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "In Germany, record heat meets climate action fatigue",
+      "published_at": "2026-08-15T14:51:00.000Z",
+      "image": "",
+      "image_alt": "In Germany, record heat meets climate action fatigue",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country-fa9f6ff3",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Lebanon: Nine killed by Israeli airstrikes in south of country",
+      "published_at": "2026-08-15T11:32:21.000Z",
+      "image": "https://img.lemde.fr/2026/08/15/42/0/5000/2500/644/322/60/0/aa008e8_ftp-1-y3kc79tx4gqc-b1b34b59cbe540e4b0d7026ac86f135b-0-08d60f275cae4a0cbd205f0e6eb7efaf.jpg",
+      "image_alt": "Lebanon: Nine killed by Israeli airstrikes in south of country",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/15/lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country_6756538_4.html"
         }
       ],
       "impact": 73
