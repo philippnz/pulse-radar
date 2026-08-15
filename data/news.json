@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:43:38.541Z",
+  "updated_at": "2026-08-15T18:21:15.168Z",
   "languages": [
     {
       "code": "en",
@@ -40,7 +40,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
       "id": "syrian-convicted-in-austria-of-civil-war-abuses-is-detained-in-syria-e00ec5a8",
@@ -86,7 +86,7 @@
           "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "eleven-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
@@ -132,7 +132,7 @@
           "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact-b2f1a0ee",
@@ -155,7 +155,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "one-killed-dozens-injured-after-wildfire-hits-croatian-coast-ea074353",
@@ -176,29 +176,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "multiple-suspects-at-large-after-five-shot-at-virginia-state-universit-a596e230",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "published_at": "2026-08-15T17:42:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
@@ -227,14 +204,60 @@
       "impact": 80
     },
     {
-      "id": "professor-s-death-leaves-behind-hard-questions-for-cambridge-on-race-a-1d047d94",
+      "id": "firefighters-battle-wildfire-tearing-through-belgian-nature-reserve-5af5a4c3",
       "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "published_at": "2026-08-15T17:47:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/1695a180-98ba-11f1-9a0b-ef36d15fc6b3.jpg",
+      "image_alt": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "translations": {
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "multiple-suspects-at-large-after-five-shot-at-virginia-state-universit-a596e230",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "published_at": "2026-08-15T17:42:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "published_at": "2026-08-15T17:31:40.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg",
-      "image_alt": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "published_at": "2026-08-15T18:15:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
+      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,7 +267,7 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
         }
       ],
       "impact": 78
@@ -273,6 +296,29 @@
       "impact": 78
     },
     {
+      "id": "professor-s-death-leaves-behind-hard-questions-for-cambridge-on-race-a-1d047d94",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "published_at": "2026-08-15T17:31:40.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg",
+      "image_alt": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii-8e2cedf5",
       "region": "World",
       "topic": "Climate",
@@ -293,7 +339,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "uk-pm-burnham-reacts-to-death-of-former-cambridge-professor-c960880c",
@@ -314,29 +360,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "sudan-s-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-retu-7718b504",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-      "published_at": "2026-08-15T16:17:43.000Z",
-      "image": "",
-      "image_alt": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -388,6 +411,52 @@
       "impact": 76
     },
     {
+      "id": "moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-c-e5ae694f",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "published_at": "2026-08-15T18:08:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=140&quality=85&auto=format&fit=max&s=c4b0308effadffb153d384ea76f1def0",
+      "image_alt": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "translations": {
+        "en": "PULSE is tracking this society update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "sudan-s-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-retu-7718b504",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+      "published_at": "2026-08-15T16:17:43.000Z",
+      "image": "",
+      "image_alt": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
       "id": "ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package-3f236f90",
       "region": "Europe",
       "topic": "World",
@@ -434,52 +503,6 @@
       "impact": 75
     },
     {
-      "id": "sedition-to-anthem-many-lives-of-azadi-chants-in-india-s-youth-protest-b0f2eba8",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "published_at": "2026-08-15T15:25:51.000Z",
-      "image": "",
-      "image_alt": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "published_at": "2026-08-15T14:52:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
-      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
       "id": "trump-s-silent-iran-war-withheld-information-shifting-objectives-and-s-bb4d0dd3",
       "region": "Middle East",
       "topic": "Security",
@@ -503,24 +526,24 @@
       "impact": 75
     },
     {
-      "id": "hawaii-under-state-of-emergency-ahead-of-historic-hurricane-a2fc9781",
-      "region": "Europe",
+      "id": "sedition-to-anthem-many-lives-of-azadi-chants-in-india-s-youth-protest-b0f2eba8",
+      "region": "Asia-Pacific",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Hawaii under state of emergency ahead of historic hurricane",
-      "published_at": "2026-08-15T12:11:00.000Z",
+      "urgency": "Live",
+      "headline": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "published_at": "2026-08-15T15:25:51.000Z",
       "image": "",
-      "image_alt": "Hawaii under state of emergency ahead of historic hurricane",
+      "image_alt": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss"
         }
       ],
       "impact": 74
@@ -547,29 +570,6 @@
         }
       ],
       "impact": 74
-    },
-    {
-      "id": "france-s-l-on-marchand-wins-200-meter-butterfly-final-at-european-swim-5771beef",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France's Léon Marchand wins 200-meter butterfly final at European Swimming Championships",
-      "published_at": "2026-08-15T16:55:43.000Z",
-      "image": "",
-      "image_alt": "France's Léon Marchand wins 200-meter butterfly final at European Swimming Championships",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships"
-        }
-      ],
-      "impact": 73
     }
   ]
 }
