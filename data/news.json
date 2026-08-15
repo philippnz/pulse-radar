@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T11:42:48.200Z",
+  "updated_at": "2026-08-15T12:28:03.510Z",
   "languages": [
     {
       "code": "en",
@@ -19,29 +19,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "seven-killed-in-israeli-strike-on-southern-lebanon-country-s-pm-says-8890d381",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "published_at": "2026-08-15T11:24:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 90
-    },
     {
       "id": "south-korea-proposes-talks-to-officially-end-war-with-north-20472af8",
       "region": "Asia-Pacific",
@@ -63,7 +40,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 87
     },
     {
       "id": "japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea-fc297b72",
@@ -86,30 +63,53 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
-      "id": "at-scene-of-deadly-israeli-strike-on-lebanon-home-b36f9f1c",
+      "id": "nine-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
       "region": "Middle East",
-      "topic": "Security",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "At scene of deadly Israeli strike on Lebanon home",
-      "published_at": "2026-08-15T10:18:40.000Z",
-      "image": "",
-      "image_alt": "At scene of deadly Israeli strike on Lebanon home",
+      "headline": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+      "published_at": "2026-08-15T12:25:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
+    },
+    {
+      "id": "at-least-38-dead-as-7-7-magnitude-earthquake-rocks-indonesia-e1fe2944",
+      "region": "Asia-Pacific",
+      "topic": "Climate",
+      "urgency": "Breaking",
+      "headline": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "published_at": "2026-08-15T12:07:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-indonesia-quake-photo-01-cvqh/15int-indonesia-quake-photo-01-cvqh-mediumSquareAt3X.jpg",
+      "image_alt": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "trump-s-silent-iran-war-withheld-information-shifting-objectives-and-s-bb4d0dd3",
@@ -135,27 +135,27 @@
       "impact": 81
     },
     {
-      "id": "at-least-38-dead-as-7-7-magnitude-earthquake-rocks-indonesia-e1fe2944",
+      "id": "powerful-7-7-magnitude-earthquake-kills-at-least-38-in-indonesia-55f5b4c9",
       "region": "Asia-Pacific",
       "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-      "published_at": "2026-08-15T09:17:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-indonesia-quake-photo-01-cvqh/15int-indonesia-quake-photo-01-cvqh-mediumSquareAt3X.jpg",
-      "image_alt": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "urgency": "Live",
+      "headline": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "published_at": "2026-08-15T11:48:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "family-stranded-at-sea-for-16-hours-after-jet-ski-capsized-in-thailand-719d8a5d",
@@ -181,6 +181,29 @@
       "impact": 79
     },
     {
+      "id": "afghan-refugees-face-an-uncertain-future-as-europe-shifts-to-the-right-2224dd52",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Afghan refugees face an uncertain future as Europe shifts to the right",
+      "published_at": "2026-08-15T12:14:30.000Z",
+      "image": "",
+      "image_alt": "Afghan refugees face an uncertain future as Europe shifts to the right",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "professor-s-death-leaves-behind-hard-questions-for-cambridge-on-race-a-1d047d94",
       "region": "World",
       "topic": "World",
@@ -201,7 +224,7 @@
           "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country-fa9f6ff3",
@@ -224,7 +247,76 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/15/lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country_6756538_4.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "is-china-seeking-to-copy-iran-s-strait-of-hormuz-blockade-around-taiwa-8aebfd51",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "published_at": "2026-08-15T11:30:00.000Z",
+      "image": "",
+      "image_alt": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "modi-threatens-to-target-intellectual-naxals-in-independence-day-speec-e4507d1e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+      "published_at": "2026-08-15T11:27:11.000Z",
+      "image": "",
+      "image_alt": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "aftermath-of-deadly-indonesia-earthquake-97495be1",
+      "region": "Asia-Pacific",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Aftermath of deadly Indonesia earthquake",
+      "published_at": "2026-08-15T11:19:56.000Z",
+      "image": "",
+      "image_alt": "Aftermath of deadly Indonesia earthquake",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "what-the-taliban-achieved-and-failed-to-achieve-in-five-years-4833f268",
@@ -247,7 +339,7 @@
           "url": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe-dcc4a4f3",
@@ -270,7 +362,7 @@
           "url": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "israeli-strikes-in-lebanon-kill-9-health-officials-say-7a3f7f75",
@@ -293,30 +385,7 @@
           "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "powerful-7-7-magnitude-earthquake-kills-at-least-38-in-indonesia-55f5b4c9",
-      "region": "Asia-Pacific",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "published_at": "2026-08-15T08:52:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "arsenal-vs-manchester-city-community-shield-prediction-lineups-teams-2a4fdc78",
@@ -339,7 +408,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "the-iranian-youtube-show-posing-questions-few-dare-ask-16895846",
@@ -362,53 +431,122 @@
           "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "canadian-petition-to-expel-u-s-ambassador-pete-hoekstra-takes-off-e7e53842",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "published_at": "2026-08-15T09:02:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
-      "image_alt": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "bangladesh-rock-australia-as-historic-test-win-in-sight-7a04704e",
-      "region": "Asia-Pacific",
+      "id": "russians-snap-up-new-homes-built-on-ukraine-apos-graveyard-apos-3972ed2f",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Bangladesh rock Australia as historic Test win in sight",
-      "published_at": "2026-08-15T08:50:56.000Z",
+      "headline": "Russians snap up new homes built on Ukraine &apos;graveyard&apos;",
+      "published_at": "2026-08-15T11:50:00.000Z",
       "image": "",
-      "image_alt": "Bangladesh rock Australia as historic Test win in sight",
+      "image_alt": "Russians snap up new homes built on Ukraine &apos;graveyard&apos;",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 74
+    },
+    {
+      "id": "afghan-allies-still-waiting-for-the-safety-germany-promised-265e7f0c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Afghan allies still waiting for the safety Germany promised",
+      "published_at": "2026-08-15T11:44:00.000Z",
+      "image": "",
+      "image_alt": "Afghan allies still waiting for the safety Germany promised",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "indonesia-hit-by-two-powerful-earthquakes-08338072",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "🔴 Indonesia hit by two powerful earthquakes",
+      "published_at": "2026-08-15T11:49:36.000Z",
+      "image": "",
+      "image_alt": "🔴 Indonesia hit by two powerful earthquakes",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region-fc5fe8c3",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine attacks Russian air base and rocket plant in Samara region",
+      "published_at": "2026-08-15T11:43:15.000Z",
+      "image": "https://s.france24.com/media/display/753b0fae-989c-11f1-9419-005056bfb2b6/w:1024/p:16x9/AP26208314496823.jpg",
+      "image_alt": "Ukraine attacks Russian air base and rocket plant in Samara region",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "donald-trump-apos-s-latin-america-allies-open-arms-to-israel-32924dd8",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Donald Trump&apos;s Latin America allies open arms to Israel",
+      "published_at": "2026-08-15T11:35:00.000Z",
+      "image": "",
+      "image_alt": "Donald Trump&apos;s Latin America allies open arms to Israel",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/donald-trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "we-re-seeing-an-important-escalation-in-southern-lebanon-despite-the-s-d1c6fa4d",
@@ -429,144 +567,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/we-re-seeing-an-important-escalation-in-southern-lebanon-despite-the-so-called-truce"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "us-luigi-mangione-pleads-guilty-to-killing-unitedhealthcare-ceo-3ccf40a9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-      "published_at": "2026-08-15T09:47:03.000Z",
-      "image": "https://s.france24.com/media/display/75789e46-9888-11f1-adc3-005056a97e36/w:1024/p:16x9/EN-20260815-081240-081440-CS.jpg",
-      "image_alt": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/us-luigi-mangione-pleads-guilty-to-killing-unitedhealthcare-ceo"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "los-talibanes-celebran-los-cinco-a-os-de-su-regreso-al-poder-en-afgani-cc5a7be5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Los talibanes celebran los cinco años de su regreso al poder en Afganistán como una “gran victoria” sobre Occidente",
-      "published_at": "2026-08-15T10:33:32.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XXEQXFQCEZNE5AX6WV7MTXXUIQ.jpg?auth=04dc7d5ba6ba290575b570e7dc90927fffaed4f7a48efa081056e358ed067c81",
-      "image_alt": "Los talibanes celebran los cinco años de su regreso al poder en Afganistán como una “gran victoria” sobre Occidente",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-15/los-talibanes-celebran-los-cinco-anos-de-su-regreso-al-poder-en-afganistan-como-una-gran-victoria-sobre-occidente.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "2026-european-swimming-championships-the-return-of-russian-athletes-sp-84a196ca",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "2026 European Swimming Championships: The return of Russian athletes sparks controversy",
-      "published_at": "2026-08-15T09:23:38.000Z",
-      "image": "https://img.lemde.fr/2026/08/10/282/0/4838/2419/644/322/60/0/aff7323_ftp-1-uuz2n30ojajh-1cbece75a8924568ba09862de2d4ffa2-0-54e47890307b4f1e87f93a52126cf84e.jpg",
-      "image_alt": "2026 European Swimming Championships: The return of Russian athletes sparks controversy",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/sports/article/2026/08/15/2026-european-swimming-championships-the-return-of-russian-athletes-sparks-controversy_6756535_9.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeove-40a5fd88",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Afghans rebuild their lives in France five years after Taliban takeover",
-      "published_at": "2026-08-15T09:13:06.000Z",
-      "image": "https://s.france24.com/media/display/1d4a7cb2-9888-11f1-85bb-005056bf30b7/w:1024/p:16x9/EN-20260815-080804-081127-CS.jpg",
-      "image_alt": "Afghans rebuild their lives in France five years after Taliban takeover",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeover"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "france-approves-assisted-dying-law-but-rejects-social-media-ban-for-un-9a592e85",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France approves assisted dying law but rejects social media ban for under-15s",
-      "published_at": "2026-08-15T09:09:04.000Z",
-      "image": "https://s.france24.com/media/display/c527f5fc-9885-11f1-b0e4-005056a97e36/w:1024/p:16x9/EN-20260815-101143-101343-CS.jpg",
-      "image_alt": "France approves assisted dying law but rejects social media ban for under-15s",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france-approves-assisted-dying-law-but-rejects-social-media-ban-for-under-15s"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west--727b036d",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-      "published_at": "2026-08-15T08:52:10.000Z",
-      "image": "https://s.france24.com/media/display/90739b6a-9883-11f1-ae27-005056a90284/w:1024/p:16x9/EN-20260815-100212-100422-CS.jpg",
-      "image_alt": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank"
         }
       ],
       "impact": 71
