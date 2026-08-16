@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:43:34.123Z",
+  "updated_at": "2026-08-16T12:29:29.423Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "limited-options-for-many-iranians-as-war-with-us-chokes-economy-baca6d67",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "‘Limited options’ for many Iranians as war with US chokes economy",
+      "published_at": "2026-08-16T11:38:50.000Z",
+      "image": "",
+      "image_alt": "‘Limited options’ for many Iranians as war with US chokes economy",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire-b1a922c6",
       "region": "Middle East",
@@ -63,53 +86,7 @@
           "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
         }
       ],
-      "impact": 86
-    },
-    {
-      "id": "twelve-killed-as-polish-bus-veers-off-hungarian-motorway-d20ba38f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "published_at": "2026-08-16T10:53:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d06/live/d689cf40-995d-11f1-9712-2936f8c80214.jpg",
-      "image_alt": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 84
-    },
-    {
-      "id": "five-killed-as-russia-launches-fresh-aerial-attacks-across-ukraine-20cfa26d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "published_at": "2026-08-16T10:52:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 84
+      "impact": 85
     },
     {
       "id": "ukraine-launches-one-of-its-largest-attacks-of-war-b0e32660",
@@ -135,6 +112,52 @@
       "impact": 83
     },
     {
+      "id": "twelve-killed-as-polish-bus-veers-off-hungarian-motorway-d20ba38f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "published_at": "2026-08-16T10:53:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d06/live/d689cf40-995d-11f1-9712-2936f8c80214.jpg",
+      "image_alt": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "five-killed-as-russia-launches-fresh-aerial-attacks-across-ukraine-20cfa26d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "published_at": "2026-08-16T10:52:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
       "id": "live-ukraine-launches-600-drones-at-russia-one-of-its-largest-aerial-a-4b1b4015",
       "region": "Europe",
       "topic": "Security",
@@ -155,7 +178,7 @@
           "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "europe-s-tallest-virgin-mary-statue-unveiled-in-rural-poland-2df5fb95",
@@ -178,7 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "mass-drone-attack-hits-moscow-as-russia-launches-deadly-strikes-in-ukr-086358bf",
@@ -201,7 +224,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/16/mass-drone-attack-hits-moscow-as-russia-launches-deadly-strikes-in-ukraine_6756558_4.html"
         }
       ],
-      "impact": 80
+      "impact": 79
+    },
+    {
+      "id": "spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police-074ac629",
+      "region": "Middle East",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+      "published_at": "2026-08-16T11:54:55.000Z",
+      "image": "",
+      "image_alt": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "brazil-election-lula-and-the-new-face-of-bolsonaro-s-right-1894033c",
@@ -224,30 +270,7 @@
           "url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right"
         }
       ],
-      "impact": 78
-    },
-    {
-      "id": "qatar-denies-capturing-three-iranian-pilots-after-downing-fighter-jets-ca01092f",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "published_at": "2026-08-16T09:27:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "how-germany-supports-recovery-of-berlin-pride-attack-victims-45e07ab4",
@@ -270,7 +293,30 @@
           "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he-26cf7fa8",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+      "published_at": "2026-08-16T11:14:23.000Z",
+      "image": "",
+      "image_alt": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "a-shooting-at-the-u-s-consulate-in-toronto-exposes-a-neighborhood-s-gu-333d9b63",
@@ -293,30 +339,7 @@
           "url": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "hurricane-lala-lashes-hawaii-with-strong-winds-and-torrential-rain-803a25ff",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "published_at": "2026-08-16T08:49:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "arsenal-vs-manchester-city-live-fa-community-shield-8d439ba6",
@@ -362,7 +385,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "doctor-describes-amputating-girl-s-leg-in-gaza-without-anaesthesia-7ff198ef",
@@ -385,7 +408,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "the-post-hormuz-era-offers-africa-a-great-opportunity-1f9cfa4e",
@@ -408,145 +431,53 @@
           "url": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "mohamed-salah-s-trabzonspor-debut-ends-in-draw-with-kasimpasa-36afd9c1",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
-      "published_at": "2026-08-16T09:48:42.000Z",
-      "image": "",
-      "image_alt": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky-aceeddce",
-      "region": "World",
+      "id": "week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settler-d9fabac5",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Live video captures panic as gunman opens fire at park in Kentucky",
-      "published_at": "2026-08-16T09:24:22.000Z",
-      "image": "",
-      "image_alt": "Live video captures panic as gunman opens fire at park in Kentucky",
+      "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+      "published_at": "2026-08-16T12:02:18.000Z",
+      "image": "https://s.france24.com/media/display/cce94d58-97d2-11f1-a5ff-005056bfb2b6/w:1024/p:16x9/AP26224672656799.jpg",
+      "image_alt": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "how-a-ukrainian-bank-worker-came-to-face-life-in-a-russian-prison-d4ef3b0d",
-      "region": "World",
+      "id": "hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan-a55aa9f8",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
-      "published_at": "2026-08-16T09:01:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/14/world/00int-russia-prisoner/00int-russia-prisoner-mediumSquareAt3X-v2.jpg",
-      "image_alt": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "headline": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+      "published_at": "2026-08-16T11:33:32.000Z",
+      "image": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
+      "image_alt": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "trump-s-other-hold-on-the-americas-the-visa-d5594430",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump’s Other Hold on the Americas: The Visa",
-      "published_at": "2026-08-16T09:00:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-latam-visas-vbmq/00int-latam-visas-vbmq-mediumSquareAt3X.jpg",
-      "image_alt": "Trump’s Other Hold on the Americas: The Visa",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "cholera-outbreak-sickens-over-90-in-myanmar-s-biggest-city-657b04b6",
-      "region": "Asia-Pacific",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
-      "published_at": "2026-08-16T08:44:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg",
-      "image_alt": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
-      "translations": {
-        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "cincinnati-open-djokovic-stunned-by-tirante-in-second-round-83f4a980",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-      "published_at": "2026-08-16T09:03:05.000Z",
-      "image": "",
-      "image_alt": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
-        }
-      ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "iran-war-qatar-denies-holding-missing-iranian-fighter-pilots-38af7ac8",
@@ -569,7 +500,76 @@
           "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "france-landes-wildfire-stopped-spreading-but-remains-out-of-control-057d8b77",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "France: Landes wildfire stopped spreading but remains out of control",
+      "published_at": "2026-08-16T10:43:12.000Z",
+      "image": "https://s.france24.com/media/display/1ca50e90-995e-11f1-b4d4-005056a90284/w:1024/p:16x9/EN-20260816-121151-121258-CS.jpg",
+      "image_alt": "France: Landes wildfire stopped spreading but remains out of control",
+      "translations": {
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france-landes-wildfire-stopped-spreading-but-remains-out-of-control"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "bus-crash-in-hungary-kills-at-least-12-8aee4a35",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bus crash in Hungary kills at least 12",
+      "published_at": "2026-08-16T09:47:00.000Z",
+      "image": "",
+      "image_alt": "Bus crash in Hungary kills at least 12",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "qatar-denies-capturing-three-iranian-pilots-after-downing-fighter-jets-ca01092f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "published_at": "2026-08-16T09:27:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 72
     }
   ]
 }
