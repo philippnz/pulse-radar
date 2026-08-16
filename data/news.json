@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T07:53:56.623Z",
+  "updated_at": "2026-08-16T08:23:03.684Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "three-killed-as-russia-launches-fresh-aerial-attacks-across-ukraine-20cfa26d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "published_at": "2026-08-16T08:14:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "twelve-killed-as-polish-bus-veers-off-hungarian-motorway-d20ba38f",
       "region": "World",
@@ -43,14 +66,14 @@
       "impact": 84
     },
     {
-      "id": "australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm--84b8af3d",
-      "region": "Asia-Pacific",
+      "id": "ukraine-targets-moscow-in-mass-drone-attack-as-russia-bombards-kyiv-abfb728b",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-      "published_at": "2026-08-16T04:35:26.000Z",
+      "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+      "published_at": "2026-08-16T04:54:33.000Z",
       "image": "",
-      "image_alt": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+      "image_alt": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,10 +83,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
         }
       ],
       "impact": 84
+    },
+    {
+      "id": "mass-drone-attack-hits-moscow-as-russia-launches-deadly-strikes-in-ukr-086358bf",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Mass drone attack hits Moscow as Russia launches deadly strikes in Ukraine",
+      "published_at": "2026-08-16T08:15:48.000Z",
+      "image": "https://img.lemde.fr/2026/08/16/425/0/6000/3000/644/322/60/0/edec581_ftp-1-efues39y89yx-2026-08-16t075309z-840111749-rc2hzmadmayi-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "image_alt": "Mass drone attack hits Moscow as Russia launches deadly strikes in Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/16/mass-drone-attack-hits-moscow-as-russia-launches-deadly-strikes-in-ukraine_6756558_4.html"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "how-germany-supports-recovery-of-berlin-pride-attack-victims-45e07ab4",
@@ -86,17 +132,17 @@
           "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
-      "id": "hawaii-battles-strong-winds-and-rain-as-hurricane-lala-threat-looms-803a25ff",
+      "id": "hurricane-lala-lashes-hawaii-with-strong-winds-and-torrential-rain-803a25ff",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "published_at": "2026-08-16T06:53:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+      "headline": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "published_at": "2026-08-16T07:58:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+      "image_alt": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -109,7 +155,53 @@
           "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 80
+    },
+    {
+      "id": "lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls-4bfa9839",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+      "published_at": "2026-08-16T07:47:45.000Z",
+      "image": "",
+      "image_alt": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "new-satellite-images-show-europe-s-disappearing-rivers-due-to-drought-091fc737",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "New satellite images show Europe’s disappearing rivers due to drought",
+      "published_at": "2026-08-16T07:46:22.000Z",
+      "image": "",
+      "image_alt": "New satellite images show Europe’s disappearing rivers due to drought",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "iran-war-qatar-denies-holding-missing-iranian-fighter-pilots-38af7ac8",
@@ -130,29 +222,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wil-a94220d3",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
-      "published_at": "2026-08-16T06:03:53.000Z",
-      "image": "https://s.france24.com/media/display/e99410cc-9936-11f1-8571-005056bf30b7/w:1024/p:16x9/000-C4R76G6.jpg",
-      "image_alt": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire"
         }
       ],
       "impact": 77
@@ -181,24 +250,24 @@
       "impact": 76
     },
     {
-      "id": "bangladesh-make-history-with-first-ever-test-cricket-win-in-australia-e7a3a882",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "published_at": "2026-08-16T06:40:50.000Z",
-      "image": "",
-      "image_alt": "Bangladesh make history with first-ever Test cricket win in Australia",
+      "id": "belgium-wildfire-scorches-3-000-hectares-as-villagers-evacuate-eu-send-a94220d3",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Breaking",
+      "headline": "Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
+      "published_at": "2026-08-16T06:03:53.000Z",
+      "image": "https://s.france24.com/media/display/e99410cc-9936-11f1-8571-005056bf30b7/w:1024/p:16x9/000-C4R76G6.jpg",
+      "image_alt": "Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire"
         }
       ],
       "impact": 76
@@ -225,6 +294,29 @@
         }
       ],
       "impact": 76
+    },
+    {
+      "id": "bangladesh-make-history-with-first-ever-test-cricket-win-in-australia-e7a3a882",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bangladesh make history with first-ever Test cricket win in Australia",
+      "published_at": "2026-08-16T06:40:50.000Z",
+      "image": "",
+      "image_alt": "Bangladesh make history with first-ever Test cricket win in Australia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "how-a-simple-lighter-has-become-the-backbone-of-life-in-gaza-6f269fcd",
@@ -293,73 +385,27 @@
           "url": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "indonesia-s-magnitude-7-7-quake-kills-at-least-51-displaces-thousands-2881d321",
-      "region": "Asia-Pacific",
+      "id": "troops-from-north-korea-to-boost-russia-apos-s-ukraine-forces-f693a34d",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-      "published_at": "2026-08-16T05:14:00.000Z",
+      "headline": "Troops from North Korea to boost Russia&apos;s Ukraine forces",
+      "published_at": "2026-08-16T06:49:00.000Z",
       "image": "",
-      "image_alt": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+      "image_alt": "Troops from North Korea to boost Russia&apos;s Ukraine forces",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-roma-abfb728b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-      "published_at": "2026-08-16T04:54:33.000Z",
-      "image": "",
-      "image_alt": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "eleven-killed-in-israeli-strikes-on-southern-lebanon-authorities-say-8890d381",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "published_at": "2026-08-15T20:21:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "image_alt": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 73
@@ -431,29 +477,6 @@
           "url": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "flood-in-rural-northwestern-spain-kills-two-injures-two-babies-3e66a938",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Flood in rural northwestern Spain kills two, injures two babies",
-      "published_at": "2026-08-16T05:18:24.000Z",
-      "image": "https://s.france24.com/media/display/898f585e-9930-11f1-8cba-005056bfb2b6/w:1024/p:16x9/AP24312623244023-1.jpg",
-      "image_alt": "Flood in rural northwestern Spain kills two, injures two babies",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260816-spain-flood-and-landslide-kills-two-injures-two-babies"
-        }
-      ],
       "impact": 71
     },
     {
@@ -503,14 +526,14 @@
       "impact": 71
     },
     {
-      "id": "israel-strikes-south-lebanon-again-as-families-flee-north-11d3e9b0",
-      "region": "Middle East",
+      "id": "indonesia-s-magnitude-7-7-quake-kills-at-least-51-displaces-thousands-2881d321",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Update",
-      "headline": "Israel strikes south Lebanon again as families flee north",
-      "published_at": "2026-08-16T04:43:21.000Z",
+      "headline": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+      "published_at": "2026-08-16T05:14:00.000Z",
       "image": "",
-      "image_alt": "Israel strikes south Lebanon again as families flee north",
+      "image_alt": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -520,7 +543,7 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
         }
       ],
       "impact": 69
@@ -546,30 +569,7 @@
           "url": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html"
         }
       ],
-      "impact": 69
-    },
-    {
-      "id": "with-priests-scarce-in-rural-italy-an-african-pastor-is-filling-the-vo-18e75ed4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-      "published_at": "2026-08-16T04:01:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02int-italy-priest-pkwl-promo/02int-italy-priest-pkwl-promo-mediumSquareAt3X.jpg",
-      "image_alt": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html"
-        }
-      ],
-      "impact": 69
+      "impact": 68
     }
   ]
 }
