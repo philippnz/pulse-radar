@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T08:55:30.743Z",
+  "updated_at": "2026-08-16T09:23:21.179Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "three-killed-as-russia-launches-fresh-aerial-attacks-across-ukraine-20cfa26d",
+      "id": "as-iran-war-turns-into-economic-battle-a-new-u-s-strategy-recalls-old--34ad65c5",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "published_at": "2026-08-16T09:02:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-iran-mou-01-jzwl/16int-iran-mou-01-jzwl-mediumSquareAt3X.jpg",
+      "image_alt": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "five-killed-as-russia-launches-fresh-aerial-attacks-across-ukraine-20cfa26d",
       "region": "Europe",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-      "published_at": "2026-08-16T08:14:56.000Z",
+      "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "published_at": "2026-08-16T09:04:14.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "image_alt": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,7 +63,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 85
     },
     {
       "id": "twelve-killed-as-polish-bus-veers-off-hungarian-motorway-d20ba38f",
@@ -66,6 +89,29 @@
       "impact": 83
     },
     {
+      "id": "at-least-12-people-killed-in-hungary-bus-crash-6d5e0ecf",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 12 people killed in Hungary bus crash",
+      "published_at": "2026-08-16T08:50:30.000Z",
+      "image": "",
+      "image_alt": "At least 12 people killed in Hungary bus crash",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
       "id": "mass-drone-attack-hits-moscow-as-russia-launches-deadly-strikes-in-ukr-086358bf",
       "region": "Europe",
       "topic": "Security",
@@ -89,29 +135,6 @@
       "impact": 82
     },
     {
-      "id": "belgium-wildfire-scorches-3-000-hectares-as-villagers-evacuate-eu-send-a94220d3",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "🔴 Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
-      "published_at": "2026-08-16T08:20:25.000Z",
-      "image": "https://s.france24.com/media/display/e99410cc-9936-11f1-8571-005056bf30b7/w:1024/p:16x9/000-C4R76G6.jpg",
-      "image_alt": "Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire"
-        }
-      ],
-      "impact": 81
-    },
-    {
       "id": "how-germany-supports-recovery-of-berlin-pride-attack-victims-45e07ab4",
       "region": "Europe",
       "topic": "Security",
@@ -132,7 +155,7 @@
           "url": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "hurricane-lala-lashes-hawaii-with-strong-winds-and-torrential-rain-803a25ff",
@@ -155,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "thousands-displaced-by-deadly-indonesia-earthquake-as-rescue-efforts-c-3ad1c578",
@@ -178,30 +201,191 @@
           "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "iran-war-qatar-denies-holding-missing-iranian-fighter-pilots-38af7ac8",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-      "published_at": "2026-08-16T01:38:00.000Z",
+      "id": "cincinnati-open-djokovic-stunned-by-tirante-in-second-round-83f4a980",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+      "published_at": "2026-08-16T09:03:05.000Z",
       "image": "",
-      "image_alt": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+      "image_alt": "Cincinnati Open: Djokovic stunned by Tirante in second round",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "how-a-ukrainian-bank-worker-came-to-face-life-in-a-russian-prison-d4ef3b0d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "published_at": "2026-08-16T09:01:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/14/world/00int-russia-prisoner/00int-russia-prisoner-mediumSquareAt3X.jpg",
+      "image_alt": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "a-shooting-at-the-u-s-consulate-in-toronto-exposes-a-neighborhood-s-gu-333d9b63",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+      "published_at": "2026-08-16T09:00:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-guns-promo/15int-canada-guns-lfvm-mediumSquareAt3X.jpg",
+      "image_alt": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "trump-s-other-hold-on-the-americas-the-visa-d5594430",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump’s Other Hold on the Americas: The Visa",
+      "published_at": "2026-08-16T09:00:11.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-latam-visas-vbmq/00int-latam-visas-vbmq-mediumSquareAt3X.jpg",
+      "image_alt": "Trump’s Other Hold on the Americas: The Visa",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "3-year-old-girl-rescued-100-hours-after-colombia-earthquake-7e21ff65",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "3-year-old girl rescued 100 hours after Colombia earthquake",
+      "published_at": "2026-08-16T08:53:14.000Z",
+      "image": "",
+      "image_alt": "3-year-old girl rescued 100 hours after Colombia earthquake",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "cholera-outbreak-sickens-over-90-in-myanmar-s-biggest-city-657b04b6",
+      "region": "Asia-Pacific",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
+      "published_at": "2026-08-16T08:44:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg",
+      "image_alt": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
+      "translations": {
+        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabu-e19ed180",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+      "published_at": "2026-08-16T08:40:34.000Z",
+      "image": "",
+      "image_alt": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "douglass-breaks-50m-freestyle-swimming-world-record-ledecky-loses-800m-ffe8d158",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+      "published_at": "2026-08-16T08:39:38.000Z",
+      "image": "",
+      "image_alt": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting-cab71fe8",
@@ -273,303 +457,119 @@
       "impact": 76
     },
     {
-      "id": "ufc-330-makhachev-secures-record-setting-win-against-machado-garry-6e56db0d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-      "published_at": "2026-08-16T07:04:29.000Z",
-      "image": "",
-      "image_alt": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "bangladesh-make-history-with-first-ever-test-cricket-win-in-australia-e7a3a882",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "published_at": "2026-08-16T06:40:50.000Z",
-      "image": "",
-      "image_alt": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "indonesian-earthquake-aid-reaches-flores-as-death-toll-climbs-ad9ae4f3",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Indonesian earthquake : Aid reaches Flores as death toll climbs",
-      "published_at": "2026-08-16T08:46:45.000Z",
-      "image": "https://s.france24.com/media/display/639526a8-994c-11f1-bb6c-005056bf30b7/w:1024/p:16x9/EN-20260816-100143-100315-CS.jpg",
-      "image_alt": "Indonesian earthquake : Aid reaches Flores as death toll climbs",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/indonesian-earthquake-aid-reaches-flores-as-death-toll-climbs"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "how-a-simple-lighter-has-become-the-backbone-of-life-in-gaza-6f269fcd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How a simple lighter has become the backbone of life in Gaza",
-      "published_at": "2026-08-16T06:10:58.000Z",
-      "image": "",
-      "image_alt": "How a simple lighter has become the backbone of life in Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "a-nation-divided-what-do-israelis-want-in-october-s-elections-d197bf7b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A nation divided: What do Israelis want in October’s elections?",
-      "published_at": "2026-08-16T06:06:31.000Z",
-      "image": "",
-      "image_alt": "A nation divided: What do Israelis want in October’s elections?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "spanish-fighter-jet-downs-drone-breaching-romania-s-airspace-43b093e9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Spanish fighter jet downs drone breaching Romania's airspace",
-      "published_at": "2026-08-16T07:50:35.000Z",
-      "image": "https://s.france24.com/media/display/b6665cfe-9946-11f1-9aed-005056a97e36/w:1024/p:16x9/000-36FL9VV.jpg",
-      "image_alt": "Spanish fighter jet downs drone breaching Romania's airspace",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "troops-from-north-korea-to-boost-russia-apos-s-ukraine-forces-f693a34d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Troops from North Korea to boost Russia&apos;s Ukraine forces",
-      "published_at": "2026-08-16T06:49:00.000Z",
-      "image": "",
-      "image_alt": "Troops from North Korea to boost Russia&apos;s Ukraine forces",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "thousands-of-evacuees-await-aid-after-deadly-quake-on-indonesia-s-flor-580b7d4b",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Thousands of evacuees await aid after deadly quake on Indonesia's Flores island",
-      "published_at": "2026-08-16T06:25:43.000Z",
-      "image": "https://s.france24.com/media/display/da9ed9f0-9939-11f1-b7c7-005056bf30b7/w:1024/p:16x9/AP26228200984600.jpg",
-      "image_alt": "Thousands of evacuees await aid after deadly quake on Indonesia's Flores island",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds-c0cdadb6",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-      "published_at": "2026-08-16T05:57:00.000Z",
-      "image": "",
-      "image_alt": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-ea-6a8c06c4",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-      "published_at": "2026-08-16T05:39:51.000Z",
-      "image": "https://s.france24.com/media/display/e7f88232-9933-11f1-8413-005056bfb2b6/w:1024/p:16x9/AP26228081392272.jpg",
-      "image_alt": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "syrian-convicted-in-austria-of-civil-war-abuses-is-detained-in-syria-e00ec5a8",
+      "id": "iran-war-qatar-denies-holding-missing-iranian-fighter-pilots-38af7ac8",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "published_at": "2026-08-15T15:28:28.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg",
-      "image_alt": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "indonesia-s-magnitude-7-7-quake-kills-at-least-51-displaces-thousands-2881d321",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-      "published_at": "2026-08-16T05:14:00.000Z",
+      "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+      "published_at": "2026-08-16T01:38:00.000Z",
       "image": "",
-      "image_alt": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+      "image_alt": "Iran war: Qatar denies holding missing Iranian fighter pilots",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 68
+      "impact": 76
     },
     {
-      "id": "after-women-in-india-joined-protests-online-harassment-followed-a44c22a0",
-      "region": "Asia-Pacific",
+      "id": "wafcon-malawi-and-cameroon-face-off-for-historic-first-crown-9fd6e745",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "After Women in India Joined Protests, Online Harassment Followed",
-      "published_at": "2026-08-16T04:01:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16INT-INDIA-WOMEN1-tgqw/16INT-INDIA-WOMEN1-tgqw-mediumSquareAt3X.jpg",
-      "image_alt": "After Women in India Joined Protests, Online Harassment Followed",
+      "urgency": "Live",
+      "headline": "WAFCON: Malawi and Cameroon face off for historic first crown",
+      "published_at": "2026-08-16T09:21:20.000Z",
+      "image": "https://s.france24.com/media/display/83a09e9e-9949-11f1-868d-005056a97e36/w:1024/p:16x9/AP26098352020610.jpg",
+      "image_alt": "WAFCON: Malawi and Cameroon face off for historic first crown",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown"
         }
       ],
-      "impact": 68
+      "impact": 74
+    },
+    {
+      "id": "why-france-s-under-15-social-media-ban-was-blocked-7d37b24d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why France's under-15 social media ban was blocked",
+      "published_at": "2026-08-16T09:20:06.000Z",
+      "image": "https://s.france24.com/media/display/8bd8eb1e-8005-11f1-836b-005056bfb2b6/w:1024/p:16x9/000-B9J29ZQ.jpg",
+      "image_alt": "Why France's under-15 social media ban was blocked",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/why-france-s-under-15-social-media-ban-was-blocked"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "morocco-tightens-security-as-migrants-gather-near-ceuta-border-3200c8cf",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Morocco tightens security as migrants gather near Ceuta border",
+      "published_at": "2026-08-16T09:17:50.000Z",
+      "image": "https://s.france24.com/media/display/6681330a-97a0-11f1-83fc-005056bf30b7/w:1024/p:16x9/Capture-243.jpg",
+      "image_alt": "Morocco tightens security as migrants gather near Ceuta border",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "italy-recovers-millions-of-euros-worth-of-stolen-renoir-c-zanne-and-ma-41abc371",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Italy recovers millions of euros worth of stolen Renoir, Cézanne and Matisse paintings",
+      "published_at": "2026-08-16T08:56:50.000Z",
+      "image": "https://s.france24.com/media/display/258d7016-994e-11f1-b415-005056bfb2b6/w:1024/p:16x9/EN-20260816-101303-101439-CS.jpg",
+      "image_alt": "Italy recovers millions of euros worth of stolen Renoir, Cézanne and Matisse paintings",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings"
+        }
+      ],
+      "impact": 73
     }
   ]
 }
