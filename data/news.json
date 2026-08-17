@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:20:27.132Z",
+  "updated_at": "2026-08-17T20:52:20.901Z",
   "languages": [
     {
       "code": "en",
@@ -43,6 +43,29 @@
       "impact": 88
     },
     {
+      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "published_at": "2026-08-17T20:38:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
+      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
+        }
+      ],
+      "impact": 87
+    },
+    {
       "id": "why-did-trump-scale-back-war-games-with-south-korea-aeff940e",
       "region": "Asia-Pacific",
       "topic": "Security",
@@ -61,29 +84,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "published_at": "2026-08-17T19:06:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
-      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
         }
       ],
       "impact": 86
@@ -109,7 +109,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "russia-s-prominent-anti-war-politician-jailed-for-11-years-b09712b5",
@@ -132,7 +132,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "houthis-claim-strike-on-saudi-vessel-as-red-sea-violence-escalates-bcb5874c",
@@ -155,7 +155,30 @@
           "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "at-least-92-dead-in-zimbabwe-after-lake-kariba-ferry-disaster-3db50b18",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
+      "published_at": "2026-08-17T19:12:19.000Z",
+      "image": "",
+      "image_alt": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head-f4ae8cc9",
@@ -178,7 +201,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "from-napoleon-s-camels-to-d-day-s-dogs-the-animals-drafted-into-war-c4131b08",
@@ -201,7 +224,7 @@
           "url": "https://www.lemonde.fr/en/summer-reads/article/2026/08/17/from-napoleon-s-camels-to-d-day-s-dogs-the-animals-drafted-into-war_6756600_183.html"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "russia-prison-for-opposition-leader-over-war-criticism-47cce58e",
@@ -224,7 +247,7 @@
           "url": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "trump-threatens-to-bomb-us-ally-oman-if-it-gets-in-the-way-over-iran-d-fddaa90f",
@@ -245,29 +268,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "clashes-between-government-and-opposition-fighters-in-somalia-s-baidoa-b0f57539",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-      "published_at": "2026-08-17T17:42:02.000Z",
-      "image": "",
-      "image_alt": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss"
         }
       ],
       "impact": 79
@@ -296,52 +296,6 @@
       "impact": 79
     },
     {
-      "id": "mushroom-murderer-erin-patterson-is-appealing-d39202e0",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mushroom murderer Erin Patterson is appealing",
-      "published_at": "2026-08-17T18:03:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
-      "image_alt": "Mushroom murderer Erin Patterson is appealing",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "french-pm-heckled-over-wildfire-response-as-blazes-continue-across-eur-c0862d3e",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "French PM heckled over wildfire response as blazes continue across Europe",
-      "published_at": "2026-08-17T18:00:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
-      "image_alt": "French PM heckled over wildfire response as blazes continue across Europe",
-      "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
       "id": "russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian--6919d389",
       "region": "Europe",
       "topic": "Security",
@@ -363,6 +317,52 @@
         }
       ],
       "impact": 78
+    },
+    {
+      "id": "torrential-rains-flood-homes-and-roads-across-lima-peru-335c5c84",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Torrential rains flood homes and roads across Lima, Peru",
+      "published_at": "2026-08-17T20:41:39.000Z",
+      "image": "",
+      "image_alt": "Torrential rains flood homes and roads across Lima, Peru",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "trump-s-approval-rating-sinks-to-new-low-645c02e6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump’s approval rating sinks to new low",
+      "published_at": "2026-08-17T20:41:31.000Z",
+      "image": "",
+      "image_alt": "Trump’s approval rating sinks to new low",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "barred-from-ballot-a-party-becomes-a-vessel-for-russians-discontent-af5d4959",
@@ -388,14 +388,14 @@
       "impact": 77
     },
     {
-      "id": "tributes-to-actress-hayden-panettiere-as-coroner-finds-no-signs-of-tra-9f3eca5c",
+      "id": "mushroom-murderer-erin-patterson-is-appealing-d39202e0",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "published_at": "2026-08-17T17:31:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
-      "image_alt": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "headline": "Mushroom murderer Erin Patterson is appealing",
+      "published_at": "2026-08-17T18:03:23.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
+      "image_alt": "Mushroom murderer Erin Patterson is appealing",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -405,7 +405,30 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "french-pm-heckled-over-wildfire-response-as-blazes-continue-across-eur-c0862d3e",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "French PM heckled over wildfire response as blazes continue across Europe",
+      "published_at": "2026-08-17T18:00:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
+      "image_alt": "French PM heckled over wildfire response as blazes continue across Europe",
+      "translations": {
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 77
@@ -480,14 +503,14 @@
       "impact": 76
     },
     {
-      "id": "photos-search-for-indonesia-earthquake-victims-continues-3de76e22",
+      "id": "photos-indonesia-earthquake-rescue-efforts-continue-as-death-toll-hits-3de76e22",
       "region": "Asia-Pacific",
       "topic": "Climate",
       "urgency": "Live",
-      "headline": "Photos: Search for Indonesia earthquake victims continues",
+      "headline": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
       "published_at": "2026-08-17T19:22:54.000Z",
       "image": "",
-      "image_alt": "Photos: Search for Indonesia earthquake victims continues",
+      "image_alt": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
       "translations": {
         "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -503,73 +526,50 @@
       "impact": 76
     },
     {
-      "id": "death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92-3db50b18",
-      "region": "World",
+      "id": "indonesian-mother-recounts-emergency-birth-during-7-7-magnitude-quake-821093fd",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Death toll from capsized ferry in Zimbabwe rises to 92",
-      "published_at": "2026-08-17T19:12:19.000Z",
-      "image": "",
-      "image_alt": "Death toll from capsized ferry in Zimbabwe rises to 92",
+      "urgency": "Breaking",
+      "headline": "Indonesian mother recounts emergency birth during 7.7-magnitude quake",
+      "published_at": "2026-08-17T15:40:43.000Z",
+      "image": "https://s.france24.com/media/display/e3af81b8-9a4f-11f1-9aee-005056bf30b7/w:1024/p:16x9/Montage-916-00-00-04-03-Still002.jpg",
+      "image_alt": "Indonesian mother recounts emergency birth during 7.7-magnitude quake",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260817-indonesian-mother-recounts-emergency-birth-during-7-7-magnitude-quake"
         }
       ],
-      "impact": 76
+      "impact": 73
     },
     {
-      "id": "cair-slams-abbott-s-anti-muslim-stunt-on-texas-airport-washing-station-673adaa4",
-      "region": "World",
+      "id": "discord-complies-with-brazil-order-suspending-livestreams-after-teen-g-aa7d6050",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "CAIR slams Abbott’s ‘anti-Muslim stunt’ on Texas airport washing stations",
-      "published_at": "2026-08-17T18:02:15.000Z",
-      "image": "",
-      "image_alt": "CAIR slams Abbott’s ‘anti-Muslim stunt’ on Texas airport washing stations",
+      "headline": "Discord complies with Brazil order suspending livestreams after teen girl's suicide",
+      "published_at": "2026-08-17T19:56:40.000Z",
+      "image": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/e0139e7_ftp-1-19ry0uyt1vaw-5822393-01-06.jpg",
+      "image_alt": "Discord complies with Brazil order suspending livestreams after teen girl's suicide",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/17/discord-complies-with-brazil-order-suspending-livestreams-after-teen-girl-s-suicide_6756604_4.html"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "kushner-meets-netanyahu-in-israel-in-effort-to-break-logjam-over-gaza-f18f12c8",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "published_at": "2026-08-17T17:44:27.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg",
-      "image_alt": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
-        }
-      ],
-      "impact": 75
+      "impact": 72
     }
   ]
 }
