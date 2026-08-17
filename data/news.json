@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:56:01.796Z",
+  "updated_at": "2026-08-17T11:21:56.249Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,52 @@
     }
   ],
   "stories": [
+    {
+      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "published_at": "2026-08-17T11:12:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
+      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
+        }
+      ],
+      "impact": 88
+    },
+    {
+      "id": "iraqi-kurdish-pm-barzani-s-office-targeted-in-drone-attack-b0a4bd6d",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+      "published_at": "2026-08-17T10:54:50.000Z",
+      "image": "",
+      "image_alt": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "u-s-and-iran-blow-through-deadline-to-agree-to-a-broad-deal-to-end-war-2209cbe7",
       "region": "Middle East",
@@ -66,29 +112,6 @@
       "impact": 86
     },
     {
-      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "published_at": "2026-08-17T09:02:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
-      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
-        }
-      ],
-      "impact": 86
-    },
-    {
       "id": "trump-says-us-to-reduce-military-drills-with-south-korea-after-it-stay-d39bc91d",
       "region": "Middle East",
       "topic": "Security",
@@ -109,7 +132,99 @@
           "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
+    },
+    {
+      "id": "uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployment-14449e54",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+      "published_at": "2026-08-17T10:57:49.000Z",
+      "image": "",
+      "image_alt": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "trump-envoy-kushner-meets-netanyahu-after-hamas-talks-on-peace-plan-2d4b2183",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "published_at": "2026-08-17T11:16:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/056878c0-9a2b-11f1-b650-3b3c4c4b08b3.jpg",
+      "image_alt": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "ukrainian-strikes-kill-six-in-russia-acting-governor-says-5875d121",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukrainian strikes kill six in Russia, acting governor says",
+      "published_at": "2026-08-17T11:14:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/067cc130-9a26-11f1-aed2-8d6da8d75094.jpg",
+      "image_alt": "Ukrainian strikes kill six in Russia, acting governor says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "top-zambian-opposition-figures-arrested-days-after-presidential-vote-1614ac48",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Top Zambian opposition figures arrested days after presidential vote",
+      "published_at": "2026-08-17T10:57:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
+      "image_alt": "Top Zambian opposition figures arrested days after presidential vote",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "inside-the-uk-s-stressful-cost-of-living-crisis-burnham-hopes-to-tackl-468b3438",
@@ -132,7 +247,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "aid-shortages-and-fears-of-starvation-as-indonesia-reels-from-deadly-e-f7417463",
@@ -155,30 +270,53 @@
           "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "outrage-as-colombia-s-president-hands-out-footballs-as-residents-await-c0cdc9ce",
-      "region": "World",
-      "topic": "Politics",
+      "id": "china-wants-its-data-to-power-the-world-s-a-i-b32388f2",
+      "region": "Asia-Pacific",
+      "topic": "Technology",
       "urgency": "Live",
-      "headline": "Outrage as Colombia’s president hands out footballs as residents await aid",
-      "published_at": "2026-08-17T08:18:05.000Z",
-      "image": "",
-      "image_alt": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "headline": "China Wants Its Data to Power the World’s A.I.",
+      "published_at": "2026-08-17T11:10:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-china-ai-data3-bvfp/16int-china-ai-data3-bvfp-mediumSquareAt3X.jpg",
+      "image_alt": "China Wants Its Data to Power the World’s A.I.",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html"
         }
       ],
-      "impact": 80
+      "impact": 78
+    },
+    {
+      "id": "trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-bef-54fbabfb",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Trump orders Pentagon to cut back military drills with Seoul hours before start",
+      "published_at": "2026-08-17T10:56:44.000Z",
+      "image": "https://s.france24.com/media/display/2f808d66-9a29-11f1-b5f4-005056a90284/w:1024/p:16x9/mini-26.jpg",
+      "image_alt": "Trump orders Pentagon to cut back military drills with Seoul hours before start",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "us-south-korea-drills-renew-questions-over-north-korea-s-military-powe-a1799bd2",
@@ -227,96 +365,96 @@
       "impact": 78
     },
     {
-      "id": "ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-27fa2321",
-      "region": "Europe",
+      "id": "trump-s-overture-to-north-korea-strains-alliance-with-the-south-57c20bae",
+      "region": "Asia-Pacific",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
-      "published_at": "2026-08-17T09:49:46.000Z",
-      "image": "https://s.france24.com/media/display/0db05648-99f8-11f1-9886-005056bf30b7/w:1024/p:16x9/2026-08-16T132621Z-1142941815-RC2JZMA7YR7J-RTRMADP-3-UKRAINE-CRISIS-DONETSK-ATTACK.jpg",
-      "image_alt": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+      "urgency": "Live",
+      "headline": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "published_at": "2026-08-17T10:57:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-skorea-trump-promo-ctkj/17int-skorea-trump-promo-ctkj-mediumSquareAt3X.jpg",
+      "image_alt": "Trump’s Overture to North Korea Strains Alliance With the South",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "top-zambian-opposition-figures-arrested-days-after-presidential-vote-1614ac48",
+      "id": "indian-temple-stampede-kills-seven-people-and-injures-dozens-0fa2d8f2",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Top Zambian opposition figures arrested days after presidential vote",
-      "published_at": "2026-08-17T09:01:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
-      "image_alt": "Top Zambian opposition figures arrested days after presidential vote",
+      "headline": "Indian temple stampede kills seven people and injures dozens",
+      "published_at": "2026-08-17T10:54:40.000Z",
+      "image": "",
+      "image_alt": "Indian temple stampede kills seven people and injures dozens",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "ukrainian-strikes-kill-six-in-russia-acting-governor-says-5875d121",
-      "region": "Europe",
+      "id": "is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-c552d64c",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Ukrainian strikes kill six in Russia, acting governor says",
-      "published_at": "2026-08-17T08:47:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/067cc130-9a26-11f1-aed2-8d6da8d75094.jpg",
-      "image_alt": "Ukrainian strikes kill six in Russia, acting governor says",
+      "headline": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
+      "published_at": "2026-08-17T10:51:49.000Z",
+      "image": "",
+      "image_alt": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "trump-envoy-kushner-arrives-in-israel-after-rare-hamas-talks-on-gaza-p-2d4b2183",
+      "id": "watch-young-chef-16-cooking-up-gourmet-meals-in-gaza-7705da38",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "published_at": "2026-08-17T08:43:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
-      "image_alt": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "headline": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
+      "published_at": "2026-08-17T10:51:03.000Z",
+      "image": "",
+      "image_alt": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "kushner-meets-netanyahu-in-effort-to-break-logjam-over-gaza-f18f12c8",
@@ -342,14 +480,14 @@
       "impact": 77
     },
     {
-      "id": "thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conduc-bcd71dbd",
+      "id": "thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-under--bcd71dbd",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Thousands await aid after deadly Indonesia quake as rescue work conducted",
+      "headline": "Thousands await aid after deadly Indonesia quake as rescue work under way",
       "published_at": "2026-08-17T10:14:28.000Z",
       "image": "",
-      "image_alt": "Thousands await aid after deadly Indonesia quake as rescue work conducted",
+      "image_alt": "Thousands await aid after deadly Indonesia quake as rescue work under way",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -360,29 +498,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-s-overture-to-north-korea-strains-alliance-with-the-south-57c20bae",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "published_at": "2026-08-17T09:05:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-skorea-trump-promo-ctkj/17int-skorea-trump-promo-ctkj-mediumSquareAt3X.jpg",
-      "image_alt": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
         }
       ],
       "impact": 76
@@ -411,73 +526,27 @@
       "impact": 75
     },
     {
-      "id": "photos-rising-energy-prices-disrupt-education-on-cambodia-s-tonle-sap--43f597ae",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
-      "published_at": "2026-08-17T09:01:52.000Z",
-      "image": "",
-      "image_alt": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "scottie-scheffler-wins-st-jude-championship-by-eight-shots-95a183c9",
-      "region": "World",
+      "id": "germany-apos-s-afd-is-labeled-far-right-populist-or-extremist-6b7437f4",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Scottie Scheffler wins St Jude Championship by eight shots",
-      "published_at": "2026-08-17T08:43:09.000Z",
+      "headline": "Germany&apos;s AfD is labeled far-right, populist or extremist",
+      "published_at": "2026-08-17T10:51:00.000Z",
       "image": "",
-      "image_alt": "Scottie Scheffler wins St Jude Championship by eight shots",
+      "image_alt": "Germany&apos;s AfD is labeled far-right, populist or extremist",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson-aa224daf",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
-      "published_at": "2026-08-17T08:18:25.000Z",
-      "image": "",
-      "image_alt": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "french-taxpayers-warned-after-personal-data-stolen-in-major-hack-62f0e22f",
@@ -498,75 +567,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/french-taxpayers-warned-after-personal-data-stolen-in-major-hack"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "kushner-to-meet-netanyahu-to-push-trump-gaza-plan-978c3496",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kushner to meet Netanyahu to push Trump Gaza plan",
-      "published_at": "2026-08-17T08:13:04.000Z",
-      "image": "",
-      "image_alt": "Kushner to meet Netanyahu to push Trump Gaza plan",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "indonesia-earthquake-leaves-thousands-homeless-as-rescue-efforts-conti-2108dde1",
-      "region": "Asia-Pacific",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Indonesia earthquake leaves thousands homeless as rescue efforts continue",
-      "published_at": "2026-08-17T10:38:41.000Z",
-      "image": "https://s.france24.com/media/display/80076052-9a1f-11f1-9324-005056a97e36/w:1024/p:16x9/EN-20260817-110833-111008-CS.jpg",
-      "image_alt": "Indonesia earthquake leaves thousands homeless as rescue efforts continue",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/indonesia-earthquake-leaves-thousands-homeless-as-rescue-efforts-continue"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "trump-s-gaza-plan-what-is-at-stake-for-netanyahu-38611145",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump’s Gaza plan: What is at stake for Netanyahu?",
-      "published_at": "2026-08-17T10:30:47.000Z",
-      "image": "https://s.france24.com/media/display/b384e806-68e6-11f1-8675-005056bf30b7/w:1024/p:16x9/2026-06-15T181805Z-842535677-RC2IULA84HV9-RTRMADP-3-IRAN-CRISIS-ISRAEL-NETANYAHU.jpg",
-      "image_alt": "Trump’s Gaza plan: What is at stake for Netanyahu?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/trump-s-gaza-plan-what-is-at-stake-for-netanyahu"
         }
       ],
       "impact": 73
