@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:27:01.580Z",
+  "updated_at": "2026-08-18T09:57:45.100Z",
   "languages": [
     {
       "code": "en",
@@ -19,29 +19,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-45f8417e",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-      "published_at": "2026-08-18T08:05:42.000Z",
-      "image": "",
-      "image_alt": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
     {
       "id": "syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes-9ec76d0e",
       "region": "Middle East",
@@ -63,7 +40,30 @@
           "url": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes"
         }
       ],
-      "impact": 84
+      "impact": 83
+    },
+    {
+      "id": "russia-warns-uk-will-pay-for-supplying-drones-to-ukraine-73549710",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia warns UK will pay for supplying drones to Ukraine",
+      "published_at": "2026-08-18T09:55:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "image_alt": "Russia warns UK will pay for supplying drones to Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "what-to-watch-in-tuesday-s-florida-primary-elections-c8f23816",
@@ -86,7 +86,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "war-in-ukraine-at-least-10-killed-in-kharkiv-several-wounded-in-moscow-c37f879d",
@@ -109,30 +109,30 @@
           "url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "russia-warns-uk-will-pay-for-supplying-drones-to-ukraine-73549710",
+      "id": "ukraine-russia-trade-strikes-wildberries-site-hit-again-ab8980e9",
       "region": "Europe",
-      "topic": "World",
+      "topic": "Markets",
       "urgency": "Live",
-      "headline": "Russia warns UK will pay for supplying drones to Ukraine",
-      "published_at": "2026-08-18T09:11:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
-      "image_alt": "Russia warns UK will pay for supplying drones to Ukraine",
+      "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "published_at": "2026-08-18T09:29:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine, Russia trade strikes; Wildberries site hit again",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "hayden-panettiere-s-ex-wladimir-klitschko-says-family-in-profound-shoc-01ccb878",
@@ -153,29 +153,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "ivf-staff-accused-of-misleading-uk-parents-about-sperm-and-egg-donors--bdb966a8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "published_at": "2026-08-18T08:07:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
-      "image_alt": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
@@ -204,6 +181,121 @@
       "impact": 79
     },
     {
+      "id": "zambia-apos-s-election-marred-by-irregularities-and-apos-militia-apos--1d78fd8a",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Zambia&apos;s election marred by irregularities and &apos;militia&apos; arrests",
+      "published_at": "2026-08-18T09:11:00.000Z",
+      "image": "",
+      "image_alt": "Zambia&apos;s election marred by irregularities and &apos;militia&apos; arrests",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ivf-staff-accused-of-misleading-uk-parents-about-sperm-and-egg-donors--bdb966a8",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "published_at": "2026-08-18T08:07:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image_alt": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "how-israel-s-financial-chokehold-is-stifling-the-west-bank-economy-820f68c7",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+      "published_at": "2026-08-18T09:37:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-WEST-BANK-ECONOMY-top-hjvl/18int-WEST-BANK-ECONOMY-top-hjvl-mediumSquareAt3X.jpg",
+      "image_alt": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "videos-show-deadly-school-shooting-in-philippines-c830759b",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Videos show deadly school shooting in Philippines",
+      "published_at": "2026-08-18T09:31:56.000Z",
+      "image": "",
+      "image_alt": "Videos show deadly school shooting in Philippines",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-r-b278c3c5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Drone video shows drought-hit fields in England after driest July on record",
+      "published_at": "2026-08-18T09:29:30.000Z",
+      "image": "",
+      "image_alt": "Drone video shows drought-hit fields in England after driest July on record",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "choc-colombia-faces-deeper-hardship-after-an-earthquake-53a0fda1",
       "region": "World",
       "topic": "Climate",
@@ -222,52 +314,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "china-censors-public-mourning-as-it-holds-former-premier-s-funeral-ba66544e",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "China censors public mourning as it holds former premier's funeral",
-      "published_at": "2026-08-18T07:17:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg",
-      "image_alt": "China censors public mourning as it holds former premier's funeral",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "pakistan-top-court-orders-imran-khan-s-hospital-transfer-amid-access-b-d9770a96",
-      "region": "Asia-Pacific",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-      "published_at": "2026-08-18T09:15:03.000Z",
-      "image": "",
-      "image_alt": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -342,6 +388,52 @@
       "impact": 77
     },
     {
+      "id": "china-censors-public-mourning-as-it-holds-former-premier-s-funeral-ba66544e",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "China censors public mourning as it holds former premier's funeral",
+      "published_at": "2026-08-18T07:17:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg",
+      "image_alt": "China censors public mourning as it holds former premier's funeral",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "pakistan-top-court-orders-imran-khan-s-hospital-transfer-amid-access-b-d9770a96",
+      "region": "Asia-Pacific",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+      "published_at": "2026-08-18T09:15:03.000Z",
+      "image": "",
+      "image_alt": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances-3d199a15",
       "region": "World",
       "topic": "World",
@@ -362,30 +454,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "doctors-remove-3-1kg-stone-from-man-s-bladder-and-claim-record-d5d3143e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "published_at": "2026-08-18T06:53:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1b8/live/5e4457f0-9ac8-11f1-a74b-2f66a3b83590.jpg",
-      "image_alt": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "trump-lashes-out-at-cnn-reporter-over-south-korea-question-8449fc50",
@@ -454,30 +523,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "lakers-jeanie-buss-contesting-family-s-vote-to-sell-to-kushner-iger-858c9e12",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
-      "published_at": "2026-08-18T07:59:53.000Z",
-      "image": "",
-      "image_alt": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "moscow-warns-london-over-role-in-ukraine-conflict-after-uk-made-drones-035c81cb",
@@ -500,30 +546,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/18/moscow-warns-of-price-after-uk-made-drones-hit-russia_6756609_4.html"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "published_at": "2026-08-17T20:38:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
-      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "visit-rome-by-night-italian-capital-tests-new-tourism-strategy-b1c82a89",
@@ -546,30 +569,7 @@
           "url": "https://www.france24.com/en/visit-rome-by-night-italian-capital-tests-new-tourism-strategy"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital-10bdaee7",
-      "region": "Asia-Pacific",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Pakistan top court orders Imran Khan moved from jail to hospital",
-      "published_at": "2026-08-18T09:11:00.000Z",
-      "image": "",
-      "image_alt": "Pakistan top court orders Imran Khan moved from jail to hospital",
-      "translations": {
-        "en": "PULSE is tracking this health update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
+      "impact": 73
     }
   ]
 }
