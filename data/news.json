@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:18:40.818Z",
+  "updated_at": "2026-08-18T21:46:05.175Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "israeli-strike-reported-to-kill-at-least-six-in-gaza-city-b75cf9e5",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israeli strike reported to kill at least six in Gaza City",
+      "published_at": "2026-08-18T21:03:04.000Z",
+      "image": "",
+      "image_alt": "Israeli strike reported to kill at least six in Gaza City",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant-df1ec323",
       "region": "Europe",
@@ -40,53 +63,30 @@
           "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss"
         }
       ],
-      "impact": 87
-    },
-    {
-      "id": "russian-missile-strike-kills-10-civilians-in-kharkiv-7d77c32e",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Russian missile strike kills 10 civilians in Kharkiv",
-      "published_at": "2026-08-18T20:26:01.000Z",
-      "image": "",
-      "image_alt": "Russian missile strike kills 10 civilians in Kharkiv",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss"
-        }
-      ],
       "impact": 86
     },
     {
-      "id": "us-sanctions-international-criminal-court-president-and-trial-lawyer-64eb26f5",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "US sanctions International Criminal Court president and trial lawyer",
-      "published_at": "2026-08-18T20:09:07.000Z",
+      "id": "congo-ebola-outbreak-global-emergency-as-infections-pass-5-000-who-bbe63025",
+      "region": "Africa",
+      "topic": "Health",
+      "urgency": "Breaking",
+      "headline": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+      "published_at": "2026-08-18T21:24:52.000Z",
       "image": "",
-      "image_alt": "US sanctions International Criminal Court president and trial lawyer",
+      "image_alt": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 82
     },
     {
       "id": "nigeria-dozens-killed-in-plateau-state-attack-fbd7e9c0",
@@ -109,7 +109,30 @@
           "url": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 79
+    },
+    {
+      "id": "ukraine-s-ousted-defense-minister-mykhailo-fedorov-urges-path-to-elect-bea106ea",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Ukraine’s ousted defense minister Mykhailo Fedorov urges path to elections",
+      "published_at": "2026-08-18T21:43:30.000Z",
+      "image": "https://img.lemde.fr/2026/07/15/0/0/4383/2191/644/322/60/0/a2e6428_ftp-1-mzty4b38jnj9-2026-07-15t192242z-774889553-rc2w4marbeuj-rtrmadp-3-ukraine-crisis-government-fedorov.JPG",
+      "image_alt": "Ukraine’s ousted defense minister Mykhailo Fedorov urges path to elections",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/ukraine-s-ousted-defense-minister-mykhailo-fedorov-urges-path-to-elections_6756648_4.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "judge-swapped-in-trump-s-defamation-case-against-bbc-5c0ac9fb",
@@ -132,7 +155,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "trump-administration-moves-to-end-rule-protecting-swaths-of-forest-lan-e6963cad",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump administration moves to end rule protecting swaths of forest land",
+      "published_at": "2026-08-18T21:26:47.000Z",
+      "image": "",
+      "image_alt": "Trump administration moves to end rule protecting swaths of forest land",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "why-is-the-us-ramping-up-tomahawk-production-192fca6a",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why is the US ramping up Tomahawk production?",
+      "published_at": "2026-08-18T21:26:07.000Z",
+      "image": "",
+      "image_alt": "Why is the US ramping up Tomahawk production?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "syria-opens-assad-era-nuclear-programme-to-un-probe-3fb903f4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Syria opens Assad-era nuclear programme to UN probe",
+      "published_at": "2026-08-18T21:25:06.000Z",
+      "image": "",
+      "image_alt": "Syria opens Assad-era nuclear programme to UN probe",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "israel-strikes-air-base-in-syria-drawing-ire-from-the-u-s-491be10b",
@@ -155,7 +247,7 @@
           "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "a-mother-s-quest-to-rescue-her-son-from-russian-occupied-ukraine-f78b52de",
@@ -181,14 +273,14 @@
       "impact": 77
     },
     {
-      "id": "jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony-aea005a4",
-      "region": "World",
+      "id": "trump-says-no-talks-planned-with-iran-amid-anger-over-iran-oman-hormuz-05d51be6",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
-      "published_at": "2026-08-18T20:41:50.000Z",
+      "headline": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+      "published_at": "2026-08-18T21:03:59.000Z",
       "image": "",
-      "image_alt": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+      "image_alt": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,10 +290,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "who-ebola-can-be-contained-in-months-if-enough-funding-is-provided-32d1a84b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "WHO: Ebola can be contained in months if enough funding is provided",
+      "published_at": "2026-08-18T20:53:44.000Z",
+      "image": "",
+      "image_alt": "WHO: Ebola can be contained in months if enough funding is provided",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "it-s-crunchtime-again-for-canada-to-avoid-trump-s-new-tariffs-c5aaed17",
@@ -222,121 +337,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "liberia-to-take-1-200-deportees-from-the-us-5abf1c5f",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Liberia to take 1,200 deportees from the US",
-      "published_at": "2026-08-18T20:39:15.000Z",
-      "image": "",
-      "image_alt": "Liberia to take 1,200 deportees from the US",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-and-carney-speak-ahead-of-us-tariff-deadline-7b1648ad",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump and Carney speak ahead of US tariff deadline",
-      "published_at": "2026-08-18T20:19:27.000Z",
-      "image": "",
-      "image_alt": "Trump and Carney speak ahead of US tariff deadline",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-justice-department-denies-whistleblower-claims-on-anti-semitism-pro-2c55f620",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-      "published_at": "2026-08-18T19:56:48.000Z",
-      "image": "",
-      "image_alt": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "turkish-politician-melih-meric-stabbed-62b39835",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Turkish politician Melih Meric stabbed",
-      "published_at": "2026-08-18T19:51:17.000Z",
-      "image": "",
-      "image_alt": "Turkish politician Melih Meric stabbed",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-imposes-sanctions-on-icc-president-067875b0",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "US imposes sanctions on ICC president",
-      "published_at": "2026-08-18T18:44:42.000Z",
-      "image": "https://img.lemde.fr/2026/08/18/244/0/4254/2127/644/322/60/0/5ceb84d_ftp-1-df2z5xcko0dw-5868444-01-06.jpg",
-      "image_alt": "US imposes sanctions on ICC president",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/us-imposes-sanctions-on-icc-president_6756646_4.html"
         }
       ],
       "impact": 76
@@ -362,7 +362,7 @@
           "url": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "jailed-businessman-appears-accused-of-bribes-and-cartel-links-0cd9e92e",
@@ -383,75 +383,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "explosion-at-school-in-afghanistan-kills-at-least-42-children-940b0f2c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Explosion at school in Afghanistan kills at least 42 children",
-      "published_at": "2026-08-18T16:15:56.000Z",
-      "image": "https://img.lemde.fr/2022/09/18/500/0/6000/3000/644/322/60/0/e0717d0_3eb709ddb3114a19bceab4d1a2040d8d-3eb709ddb3114a19bceab4d1a2040d8d-0.jpg",
-      "image_alt": "Explosion at school in Afghanistan kills at least 42 children",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/explosion-at-school-in-afghanistan-kills-at-least-42-children_6756639_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "france-to-expel-two-iranian-diplomats-as-arrests-row-heightens-898dfb39",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France to expel two Iranian diplomats as arrests row heightens",
-      "published_at": "2026-08-18T19:22:11.000Z",
-      "image": "https://s.france24.com/media/display/8e12e38a-9b35-11f1-9d6e-005056a97e36/w:1024/p:16x9/000-C2UL234.jpg",
-      "image_alt": "France to expel two Iranian diplomats as arrests row heightens",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "lindsay-clancy-begged-for-help-before-her-children-s-killings-mother-i-d52cc91d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "published_at": "2026-08-18T17:54:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d07/live/edd792a0-9b46-11f1-b109-879e35c24276.jpg",
-      "image_alt": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 72
@@ -480,47 +411,47 @@
       "impact": 72
     },
     {
-      "id": "estados-unidos-ampl-a-su-campa-a-contra-el-tribunal-penal-internaciona-9257630a",
+      "id": "france-to-expel-two-iranian-diplomats-as-arrests-row-heightens-898dfb39",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Estados Unidos amplía su campaña contra el Tribunal Penal Internacional y sanciona a su presidenta",
-      "published_at": "2026-08-18T20:04:40.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/JM6GGZYUUZJG7ENMB5AR2BFBH4.jpg?auth=70fd0ed72381af97b37242205bcaf61f6f9724129329d70c244d4bba025bf1dc",
-      "image_alt": "Estados Unidos amplía su campaña contra el Tribunal Penal Internacional y sanciona a su presidenta",
+      "headline": "France to expel two Iranian diplomats as arrests row heightens",
+      "published_at": "2026-08-18T19:22:11.000Z",
+      "image": "https://s.france24.com/media/display/8e12e38a-9b35-11f1-9d6e-005056a97e36/w:1024/p:16x9/000-C2UL234.jpg",
+      "image_alt": "France to expel two Iranian diplomats as arrests row heightens",
       "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-18/estados-unidos-amplia-su-campana-contra-el-tribunal-penal-internacional-y-sanciona-a-su-presidenta.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens"
         }
       ],
       "impact": 71
     },
     {
-      "id": "france-to-expel-two-iranian-diplomats-dd06f4a5",
-      "region": "Europe",
+      "id": "lindsay-clancy-begged-for-help-before-her-children-s-killings-mother-i-d52cc91d",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "France to expel two Iranian diplomats",
-      "published_at": "2026-08-18T18:57:41.000Z",
-      "image": "https://img.lemde.fr/2026/03/03/185/0/3376/1688/644/322/60/0/aa15052_ftp-1-0ponbadhbcgg-2026-03-03t070745z-728288511-rc2tfjakgk28-rtrmadp-3-iran-crisis-france-china.JPG",
-      "image_alt": "France to expel two Iranian diplomats",
+      "urgency": "Update",
+      "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "published_at": "2026-08-18T17:54:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d07/live/edd792a0-9b46-11f1-b109-879e35c24276.jpg",
+      "image_alt": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/france-to-expel-two-iranian-diplomats_6756647_4.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 71
@@ -549,6 +480,75 @@
       "impact": 71
     },
     {
+      "id": "estados-unidos-ampl-a-su-campa-a-contra-el-tribunal-penal-internaciona-9257630a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Estados Unidos amplía su campaña contra el Tribunal Penal Internacional y sanciona a su presidenta",
+      "published_at": "2026-08-18T20:04:40.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/JM6GGZYUUZJG7ENMB5AR2BFBH4.jpg?auth=70fd0ed72381af97b37242205bcaf61f6f9724129329d70c244d4bba025bf1dc",
+      "image_alt": "Estados Unidos amplía su campaña contra el Tribunal Penal Internacional y sanciona a su presidenta",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-08-18/estados-unidos-amplia-su-campana-contra-el-tribunal-penal-internacional-y-sanciona-a-su-presidenta.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "france-to-expel-two-iranian-diplomats-dd06f4a5",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France to expel two Iranian diplomats",
+      "published_at": "2026-08-18T18:57:41.000Z",
+      "image": "https://img.lemde.fr/2026/03/03/185/0/3376/1688/644/322/60/0/aa15052_ftp-1-0ponbadhbcgg-2026-03-03t070745z-728288511-rc2tfjakgk28-rtrmadp-3-iran-crisis-france-china.JPG",
+      "image_alt": "France to expel two Iranian diplomats",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/france-to-expel-two-iranian-diplomats_6756647_4.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "us-imposes-sanctions-on-icc-president-067875b0",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "US imposes sanctions on ICC president",
+      "published_at": "2026-08-18T18:44:42.000Z",
+      "image": "https://img.lemde.fr/2026/08/18/244/0/4254/2127/644/322/60/0/5ceb84d_ftp-1-df2z5xcko0dw-5868444-01-06.jpg",
+      "image_alt": "US imposes sanctions on ICC president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/us-imposes-sanctions-on-icc-president_6756646_4.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
       "id": "pakistan-top-court-orders-ex-pm-imran-khan-be-moved-to-hospital-from-j-a266b362",
       "region": "Asia-Pacific",
       "topic": "Health",
@@ -569,7 +569,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     }
   ]
 }
