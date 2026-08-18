@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:47:48.806Z",
+  "updated_at": "2026-08-18T21:18:40.818Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant-df1ec323",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+      "published_at": "2026-08-18T20:45:42.000Z",
+      "image": "",
+      "image_alt": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "russian-missile-strike-kills-10-civilians-in-kharkiv-7d77c32e",
       "region": "World",
@@ -40,7 +63,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
       "id": "us-sanctions-international-criminal-court-president-and-trial-lawyer-64eb26f5",
@@ -64,29 +87,6 @@
         }
       ],
       "impact": 81
-    },
-    {
-      "id": "us-judge-says-government-can-revoke-deportation-protections-for-ethiop-df7788be",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "US judge says government can revoke deportation protections for Ethiopians",
-      "published_at": "2026-08-18T19:09:23.000Z",
-      "image": "",
-      "image_alt": "US judge says government can revoke deportation protections for Ethiopians",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss"
-        }
-      ],
-      "impact": 80
     },
     {
       "id": "nigeria-dozens-killed-in-plateau-state-attack-fbd7e9c0",
@@ -135,6 +135,75 @@
       "impact": 79
     },
     {
+      "id": "israel-strikes-air-base-in-syria-drawing-ire-from-the-u-s-491be10b",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "published_at": "2026-08-18T21:16:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/18/world/middleeast/18vid-israel-strike-syria-cover-image/18vid-israel-strike-syria-cover-image-mediumSquareAt3X.jpg",
+      "image_alt": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "a-mother-s-quest-to-rescue-her-son-from-russian-occupied-ukraine-f78b52de",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "published_at": "2026-08-18T20:55:38.000Z",
+      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/00int-ukraine-rescue-promo/00int-ukraine-rescue-1-cjlb-mediumSquareAt3X.jpg",
+      "image_alt": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony-aea005a4",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+      "published_at": "2026-08-18T20:41:50.000Z",
+      "image": "",
+      "image_alt": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "it-s-crunchtime-again-for-canada-to-avoid-trump-s-new-tariffs-c5aaed17",
       "region": "Americas",
       "topic": "World",
@@ -158,6 +227,29 @@
       "impact": 77
     },
     {
+      "id": "liberia-to-take-1-200-deportees-from-the-us-5abf1c5f",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Liberia to take 1,200 deportees from the US",
+      "published_at": "2026-08-18T20:39:15.000Z",
+      "image": "",
+      "image_alt": "Liberia to take 1,200 deportees from the US",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "trump-and-carney-speak-ahead-of-us-tariff-deadline-7b1648ad",
       "region": "Americas",
       "topic": "World",
@@ -178,76 +270,7 @@
           "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "israel-strikes-air-base-in-syria-drawing-ire-from-the-u-s-491be10b",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "published_at": "2026-08-18T19:51:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/18/world/middleeast/18vid-israel-strike-syria-cover-image/18vid-israel-strike-syria-cover-image-mediumSquareAt3X.jpg",
-      "image_alt": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "a-mother-s-quest-to-rescue-her-son-from-russian-occupied-ukraine-f78b52de",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "published_at": "2026-08-18T19:37:46.000Z",
-      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/00int-ukraine-rescue-promo/00int-ukraine-rescue-1-cjlb-mediumSquareAt3X.jpg",
-      "image_alt": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "lindsay-clancy-begged-for-help-before-her-children-s-killings-mother-i-d52cc91d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "published_at": "2026-08-18T17:54:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
-      "image_alt": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "us-justice-department-denies-whistleblower-claims-on-anti-semitism-pro-2c55f620",
@@ -296,52 +319,6 @@
       "impact": 76
     },
     {
-      "id": "us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia-07477633",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-      "published_at": "2026-08-18T19:46:39.000Z",
-      "image": "",
-      "image_alt": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "the-witch-hunt-of-jason-arday-f79910e3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "The ‘witch-hunt’ of Jason Arday",
-      "published_at": "2026-08-18T19:22:45.000Z",
-      "image": "",
-      "image_alt": "The ‘witch-hunt’ of Jason Arday",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
       "id": "us-imposes-sanctions-on-icc-president-067875b0",
       "region": "Americas",
       "topic": "Politics",
@@ -363,29 +340,6 @@
         }
       ],
       "impact": 76
-    },
-    {
-      "id": "explosion-at-school-in-afghanistan-kills-at-least-42-children-940b0f2c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Explosion at school in Afghanistan kills at least 42 children",
-      "published_at": "2026-08-18T16:15:56.000Z",
-      "image": "https://img.lemde.fr/2022/09/18/500/0/6000/3000/644/322/60/0/e0717d0_3eb709ddb3114a19bceab4d1a2040d8d-3eb709ddb3114a19bceab4d1a2040d8d-0.jpg",
-      "image_alt": "Explosion at school in Afghanistan kills at least 42 children",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/explosion-at-school-in-afghanistan-kills-at-least-42-children_6756639_4.html"
-        }
-      ],
-      "impact": 74
     },
     {
       "id": "icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law-97f9cba6",
@@ -434,6 +388,29 @@
       "impact": 73
     },
     {
+      "id": "explosion-at-school-in-afghanistan-kills-at-least-42-children-940b0f2c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Explosion at school in Afghanistan kills at least 42 children",
+      "published_at": "2026-08-18T16:15:56.000Z",
+      "image": "https://img.lemde.fr/2022/09/18/500/0/6000/3000/644/322/60/0/e0717d0_3eb709ddb3114a19bceab4d1a2040d8d-3eb709ddb3114a19bceab4d1a2040d8d-0.jpg",
+      "image_alt": "Explosion at school in Afghanistan kills at least 42 children",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/explosion-at-school-in-afghanistan-kills-at-least-42-children_6756639_4.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
       "id": "france-to-expel-two-iranian-diplomats-as-arrests-row-heightens-898dfb39",
       "region": "Europe",
       "topic": "World",
@@ -457,24 +434,24 @@
       "impact": 72
     },
     {
-      "id": "earthquake-rocks-spain-s-historic-granada-injuring-three-8e7e394a",
-      "region": "Europe",
-      "topic": "Climate",
+      "id": "lindsay-clancy-begged-for-help-before-her-children-s-killings-mother-i-d52cc91d",
+      "region": "World",
+      "topic": "World",
       "urgency": "Update",
-      "headline": "Earthquake rocks Spain's historic Granada, injuring three",
-      "published_at": "2026-08-18T17:15:39.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
-      "image_alt": "Earthquake rocks Spain's historic Granada, injuring three",
+      "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "published_at": "2026-08-18T17:54:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d07/live/edd792a0-9b46-11f1-b109-879e35c24276.jpg",
+      "image_alt": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
       "translations": {
-        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 72
@@ -549,27 +526,50 @@
       "impact": 71
     },
     {
-      "id": "you-have-to-be-careful-to-go-slow-fast-inside-high-risk-mission-at-int-c4a1d8e4",
+      "id": "earthquake-rocks-spain-s-historic-granada-injuring-three-8e7e394a",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘You have to be careful, to go slow & fast’: Inside high-risk mission at International Space Station",
-      "published_at": "2026-08-18T17:52:48.000Z",
-      "image": "https://s.france24.com/media/display/1a493340-9b2c-11f1-abda-005056a97e36/w:1024/p:16x9/EN-20260818-180049-180811-CS.jpg",
-      "image_alt": "‘You have to be careful, to go slow & fast’: Inside high-risk mission at International Space Station",
+      "topic": "Climate",
+      "urgency": "Update",
+      "headline": "Earthquake rocks Spain's historic Granada, injuring three",
+      "published_at": "2026-08-18T17:15:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
+      "image_alt": "Earthquake rocks Spain's historic Granada, injuring three",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/you-have-to-be-careful-to-go-slow-fast-inside-high-risk-mission-at-international-space-station"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 71
+    },
+    {
+      "id": "pakistan-top-court-orders-ex-pm-imran-khan-be-moved-to-hospital-from-j-a266b362",
+      "region": "Asia-Pacific",
+      "topic": "Health",
+      "urgency": "Update",
+      "headline": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "published_at": "2026-08-18T16:00:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b1/live/b309d2e0-9b15-11f1-ae25-295c0447cea3.jpg",
+      "image_alt": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "translations": {
+        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
     }
   ]
 }
