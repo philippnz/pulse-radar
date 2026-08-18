@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:34:41.620Z",
+  "updated_at": "2026-08-18T07:33:19.614Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,50 @@
   ],
   "stories": [
     {
-      "id": "hichilema-wins-second-term-as-president-of-copper-rich-zambia-071bce8c",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Hichilema wins second term as president of copper-rich Zambia",
-      "published_at": "2026-08-18T04:07:13.000Z",
-      "image": "",
-      "image_alt": "Hichilema wins second term as president of copper-rich Zambia",
+      "id": "war-in-ukraine-10-killed-in-kharkiv-while-several-wounded-in-drone-att-c37f879d",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "War in Ukraine: 10 killed in Kharkiv while several wounded in drone attack on Moscow",
+      "published_at": "2026-08-18T06:32:32.000Z",
+      "image": "https://s.france24.com/media/display/f1199f8a-9ac9-11f1-a53e-005056bfb2b6/w:1024/p:16x9/2026-08-16T090757Z-971134754-RC2KZMA4ADZ2-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW.jpg",
+      "image_alt": "War in Ukraine: 10 killed in Kharkiv while several wounded in drone attack on Moscow",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region"
         }
       ],
-      "impact": 80
+      "impact": 83
+    },
+    {
+      "id": "russia-says-uk-will-pay-for-supplying-drones-to-ukraine-73549710",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "published_at": "2026-08-18T06:40:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "image_alt": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "tupac-murder-trial-all-hell-broke-loose-night-of-rapper-s-shooting-wit-6042dc8f",
@@ -49,7 +72,7 @@
       "urgency": "Live",
       "headline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
       "published_at": "2026-08-18T05:24:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c2/live/383684b0-9ad3-11f1-b2f7-5d1639b20e22.jpg",
       "image_alt": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
       "translations": {
         "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
@@ -63,7 +86,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "inside-secret-police-warehouse-as-germany-targets-small-boats-gangs-e00f54ba",
@@ -86,7 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "ivf-staff-accused-of-misleading-uk-parents-about-sperm-and-egg-donors--bdb966a8",
@@ -109,76 +132,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
-    },
-    {
-      "id": "russia-warns-uk-over-supplying-drones-to-ukraine-73549710",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia warns UK over supplying drones to Ukraine",
-      "published_at": "2026-08-18T04:59:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
-      "image_alt": "Russia warns UK over supplying drones to Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "two-students-killed-in-philippine-school-shooting-4b4e018f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Two students killed in Philippine school shooting",
-      "published_at": "2026-08-18T02:51:22.000Z",
-      "image": "",
-      "image_alt": "Two students killed in Philippine school shooting",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "published_at": "2026-08-17T20:38:44.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
-      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
-        }
-      ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "moscow-warns-london-over-role-in-ukraine-conflict-after-uk-made-drones-035c81cb",
@@ -204,6 +158,98 @@
       "impact": 77
     },
     {
+      "id": "how-ukraine-s-satellites-help-drive-its-war-drones-306b8cca",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "published_at": "2026-08-17T20:38:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg",
+      "image_alt": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "russia-says-more-than-600-drones-targeted-moscow-region-589661a1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia says more than 600 drones targeted Moscow region",
+      "published_at": "2026-08-18T06:47:40.000Z",
+      "image": "",
+      "image_alt": "Russia says more than 600 drones targeted Moscow region",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says-61cad85b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+      "published_at": "2026-08-18T06:35:43.000Z",
+      "image": "",
+      "image_alt": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "can-china-s-new-arctic-sea-route-to-europe-replace-middle-east-chokepo-e38ad0f8",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+      "published_at": "2026-08-18T06:28:31.000Z",
+      "image": "",
+      "image_alt": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "trump-says-n-korea-s-kim-has-responded-to-his-request-for-a-conversati-ff1dee7b",
       "region": "Asia-Pacific",
       "topic": "World",
@@ -224,7 +270,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "can-trump-limit-birthright-citizenship-legal-experts-are-doubtful-14b15494",
@@ -247,7 +293,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "choc-colombia-faces-deeper-hardship-after-an-earthquake-53a0fda1",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
+      "published_at": "2026-08-18T05:17:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-colombia-quake-choco-promo/18int-colombia-quake-choco-wfjl-mediumSquareAt3X.jpg",
+      "image_alt": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "a-hero-s-welcome-as-cameroon-parades-its-first-women-s-afcon-title-c8a5b7c4",
@@ -270,7 +339,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "russia-s-prominent-anti-war-politician-jailed-for-11-years-b09712b5",
@@ -293,7 +362,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "india-testing-agency-revamp-follows-renewed-criticism-a9395136",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "India: Testing agency revamp follows renewed criticism",
+      "published_at": "2026-08-18T07:06:00.000Z",
+      "image": "",
+      "image_alt": "India: Testing agency revamp follows renewed criticism",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/india-testing-agency-revamp-follows-renewed-criticism/live-78407227?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "tupac-shakur-murder-trial-opens-as-prosecutors-say-apos-keffe-d-apos-o-6d08e879",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Tupac Shakur murder trial opens as prosecutors say &apos;Keffe D&apos; ordered 1996 killing",
+      "published_at": "2026-08-18T06:55:00.000Z",
+      "image": "",
+      "image_alt": "Tupac Shakur murder trial opens as prosecutors say &apos;Keffe D&apos; ordered 1996 killing",
+      "translations": {
+        "en": "PULSE is tracking this society update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/tupac-shakur-murder-trial-opens-as-prosecutors-say-keffe-d-ordered-1996-killing/a-78407221?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "hichilema-wins-second-term-as-president-of-copper-rich-zambia-071bce8c",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Hichilema wins second term as president of copper-rich Zambia",
+      "published_at": "2026-08-18T04:07:13.000Z",
+      "image": "",
+      "image_alt": "Hichilema wins second term as president of copper-rich Zambia",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "clamping-down-china-tightens-exit-rules-3ad4e652",
@@ -316,7 +454,7 @@
           "url": "https://www.france24.com/en/asia-pacific/20260818-clamping-down-china-tightens-exit-rules"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "fifa-chief-of-operations-kevin-lamour-leaves-after-criticizing-gianni--364bdffa",
@@ -339,7 +477,7 @@
           "url": "https://www.france24.com/en/tv-shows/sports/20260818-fifa-chief-of-operations-kevin-lamour-leaves-after-criticizing-gianni-infatino"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "live-iran-declares-60-day-memorandum-of-understanding-negotiation-dead-a99e3c87",
@@ -362,53 +500,7 @@
           "url": "https://www.france24.com/en/middle-east/20260818-middle-east-live-iran-declares-60-day-negotiation-deadline-null-and-void"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "zambia-apos-s-hichilema-wins-second-presidential-term-3a26cd68",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Zambia&apos;s Hichilema wins second presidential term",
-      "published_at": "2026-08-18T04:03:00.000Z",
-      "image": "",
-      "image_alt": "Zambia&apos;s Hichilema wins second presidential term",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "houthis-claim-strike-on-saudi-vessel-as-red-sea-violence-escalates-bcb5874c",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-      "published_at": "2026-08-17T15:16:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-houthi-saudi-attack-1-jvbl/17int-houthi-saudi-attack-1-jvbl-mediumSquareAt3X.jpg",
-      "image_alt": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "us-tourist-killed-by-lightning-on-sicily-apos-s-mount-etna-ba2dcc02",
@@ -431,7 +523,30 @@
           "url": "https://www.dw.com/en/us-tourist-killed-by-lightning-on-sicily-s-mount-etna/a-78405901?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "it-s-crunchtime-again-for-canada-to-avoid-new-u-s-tariffs-c5aaed17",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+      "published_at": "2026-08-18T04:01:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg",
+      "image_alt": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "russia-prison-for-opposition-leader-over-war-criticism-47cce58e",
@@ -454,122 +569,7 @@
           "url": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "thousands-mourn-jason-arday-in-london-blaming-racist-press-for-his-dea-9b161ac9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-      "published_at": "2026-08-18T03:17:58.000Z",
-      "image": "",
-      "image_alt": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss"
-        }
-      ],
       "impact": 69
-    },
-    {
-      "id": "trump-says-talking-to-north-korea-s-kim-makes-the-south-safer-832a1be8",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump says talking to North Korea’s Kim makes the south safer",
-      "published_at": "2026-08-18T01:58:11.000Z",
-      "image": "",
-      "image_alt": "Trump says talking to North Korea’s Kim makes the south safer",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "zambia-s-president-hichilema-wins-re-election-with-big-economic-promis-ea6288ce",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Zambia's President Hichilema wins re-election with big economic promises",
-      "published_at": "2026-08-18T01:22:51.000Z",
-      "image": "https://s.france24.com/media/display/57f170e0-9a46-11f1-a704-005056bfb2b6/w:1024/p:16x9/776b60ad4fc502130e4f963ab426b6051db95d80.jpg",
-      "image_alt": "Zambia's President Hichilema wins re-election with big economic promises",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "watch-why-has-trump-shifted-on-north-korea-24d62d12",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Watch: Why has Trump shifted on North Korea?",
-      "published_at": "2026-08-17T23:42:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Watch: Why has Trump shifted on North Korea?",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "tributes-to-actress-hayden-panettiere-as-coroner-finds-no-signs-of-tra-9f3eca5c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "published_at": "2026-08-17T23:28:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
-      "image_alt": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
     }
   ]
 }
