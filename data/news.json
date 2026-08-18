@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T17:30:39.326Z",
+  "updated_at": "2026-08-18T18:30:50.116Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankar-91753c0b",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+      "published_at": "2026-08-18T17:51:46.000Z",
+      "image": "",
+      "image_alt": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "nigeria-dozens-killed-in-plateau-state-attack-fbd7e9c0",
       "region": "Africa",
@@ -40,17 +63,40 @@
           "url": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
-      "id": "nigeria-influencer-arrested-after-seizure-of-cocaine-worth-28m-destine-2cb7a451",
+      "id": "volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-7378ce90",
       "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Volodymyr Zelensky names new Defence minister after weeks of political crisis",
+      "published_at": "2026-08-18T14:27:17.000Z",
+      "image": "https://s.france24.com/media/display/90fc6aec-9b0f-11f1-b988-005056a90284/w:1024/p:16x9/EN-20260818-160121-160505-CS.jpg",
+      "image_alt": "Volodymyr Zelensky names new Defence minister after weeks of political crisis",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "us-mother-begged-for-help-before-her-children-s-killings-mother-in-law-d52cc91d",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "published_at": "2026-08-18T16:26:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e507/live/933b7b80-9b1a-11f1-b792-a710e56a11dc.jpg",
-      "image_alt": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "headline": "US mother begged for help before her children's killings, mother-in-law testifies",
+      "published_at": "2026-08-18T17:54:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
+      "image_alt": "US mother begged for help before her children's killings, mother-in-law testifies",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,30 +106,30 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
     },
     {
-      "id": "disney-and-abc-sue-trump-s-media-regulator-to-stop-early-licence-renew-3d18859e",
-      "region": "World",
-      "topic": "World",
+      "id": "earthquake-rocks-spain-s-historic-granada-injuring-three-8e7e394a",
+      "region": "Europe",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "published_at": "2026-08-18T16:22:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg",
-      "image_alt": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "headline": "Earthquake rocks Spain's historic Granada, injuring three",
+      "published_at": "2026-08-18T17:15:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f93/live/6bc5d050-9b24-11f1-9a2c-6d6ac3827d20.jpg",
+      "image_alt": "Earthquake rocks Spain's historic Granada, injuring three",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
@@ -109,7 +155,99 @@
           "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "nigeria-hospital-collapses-after-rain-washed-away-its-foundations-abc3df44",
+      "region": "Africa",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Nigeria hospital collapses after rain washed away its foundations",
+      "published_at": "2026-08-18T17:55:26.000Z",
+      "image": "",
+      "image_alt": "Nigeria hospital collapses after rain washed away its foundations",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israel-strikes-air-base-in-syria-drawing-ire-from-the-u-s-491be10b",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "published_at": "2026-08-18T17:41:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-syria-strikes-cjwb/18int-syria-strikes-cjwb-mediumSquareAt3X.jpg",
+      "image_alt": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "the-british-state-has-recast-protest-as-terrorism-350d969f",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "The British state has recast protest as terrorism",
+      "published_at": "2026-08-18T17:34:44.000Z",
+      "image": "",
+      "image_alt": "The British state has recast protest as terrorism",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "tropical-storm-lala-leaves-hawaii-flooded-and-without-power-1914a373",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Tropical Storm Lala leaves Hawaii flooded and without power",
+      "published_at": "2026-08-18T17:22:38.000Z",
+      "image": "",
+      "image_alt": "Tropical Storm Lala leaves Hawaii flooded and without power",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "choc-colombia-faces-deeper-hardship-after-an-earthquake-53a0fda1",
@@ -132,7 +270,7 @@
           "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "how-israel-s-financial-chokehold-is-stifling-the-west-bank-economy-820f68c7",
@@ -155,7 +293,7 @@
           "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "explosion-at-school-in-afghanistan-kills-at-least-42-children-940b0f2c",
@@ -178,30 +316,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/18/explosion-at-school-in-afghanistan-kills-at-least-42-children_6756639_4.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "afghanistan-only-5-of-labor-market-are-women-under-taliban-17ae05b2",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Afghanistan: Only 5% of labor market are women under Taliban",
-      "published_at": "2026-08-18T15:21:00.000Z",
-      "image": "",
-      "image_alt": "Afghanistan: Only 5% of labor market are women under Taliban",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/afghanistan-only-5-of-labor-market-are-women-under-taliban/a-78415895?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions-9ce1ce85",
@@ -224,7 +339,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "at-ex-premier-zhu-rongji-s-funeral-china-s-past-shadows-its-present-7cd1869c",
@@ -247,7 +362,7 @@
           "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "disney-sues-us-regulator-claiming-political-retaliation-over-abc-stati-50e6b687",
@@ -270,30 +385,7 @@
           "url": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "israel-strikes-air-base-in-syria-drawing-ire-from-the-u-s-491be10b",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "published_at": "2026-08-18T16:10:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-syria-strikes-cjwb/18int-syria-strikes-cjwb-mediumSquareAt3X.jpg",
-      "image_alt": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "real-madrid-officially-present-mourinho-in-bizarre-closed-door-ceremon-f4eeb431",
@@ -316,7 +408,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta-af4843e7",
@@ -339,53 +431,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "palestinian-living-in-caves-older-than-israel-102d7589",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Palestinian living in caves older than Israel",
-      "published_at": "2026-08-18T15:53:38.000Z",
-      "image": "",
-      "image_alt": "Palestinian living in caves older than Israel",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "i-fear-for-my-family-s-lives-says-loui-ridi-as-settlers-besiege-home-f2a1df6f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-      "published_at": "2026-08-18T15:53:12.000Z",
-      "image": "",
-      "image_alt": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "brazil-s-president-lula-hails-oil-discovery-near-amazon-river-bdb8a874",
@@ -408,99 +454,76 @@
           "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "iran-clubs-face-qatar-and-uae-sides-at-neutral-venues-in-champions-lea-f0d5ecba",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-      "published_at": "2026-08-18T15:14:17.000Z",
-      "image": "",
-      "image_alt": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "it-s-crunchtime-again-for-canada-to-avoid-trump-s-new-tariffs-c5aaed17",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
-      "published_at": "2026-08-18T15:06:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg",
-      "image_alt": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-cites-india-on-voter-ids-but-are-elections-under-modi-clean-e735c27f",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US cites India on voter IDs, but are elections under Modi clean?",
-      "published_at": "2026-08-18T15:04:24.000Z",
-      "image": "",
-      "image_alt": "US cites India on voter IDs, but are elections under Modi clean?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "a-mother-s-quest-to-rescue-her-son-from-russian-occupied-ukraine-f78b52de",
+      "id": "afghan-women-fight-and-invent-strategies-to-survive-a-women-s-radio-st-8ef83d71",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "published_at": "2026-08-18T14:51:04.000Z",
-      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/00int-ukraine-rescue-promo/00int-ukraine-rescue-1-cjlb-mediumSquareAt3X.jpg",
-      "image_alt": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "headline": "'Afghan women fight and invent strategies to survive': A women's radio station and underground schools offer glimmers of hope",
+      "published_at": "2026-08-18T18:01:11.000Z",
+      "image": "https://img.lemde.fr/2026/08/11/584/0/7008/3504/644/322/60/0/a15895f_upload-1-eod3uxbb6d8b-afg-2025-04-12-0255.jpg",
+      "image_alt": "'Afghan women fight and invent strategies to survive': A women's radio station and underground schools offer glimmers of hope",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/summer-reads/article/2026/08/18/afghan-women-fight-and-invent-strategies-to-survive-a-women-s-radio-station-and-underground-schools-offer-glimmers-of-hope_6756645_183.html"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "un-atomic-watchdog-says-nuclear-material-found-in-syria-73b23bf2",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UN atomic watchdog says nuclear material found in Syria",
+      "published_at": "2026-08-18T18:00:56.000Z",
+      "image": "https://img.lemde.fr/2026/08/18/59/0/2700/1350/644/322/60/0/96fc571_ftp-1-e7rsvsxtudpa-5868016-01-06.jpg",
+      "image_alt": "UN atomic watchdog says nuclear material found in Syria",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/syria/article/2026/08/18/un-atomic-watchdog-says-nuclear-material-found-in-syria_6756644_229.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "quebec-s-separatist-party-rules-out-an-independence-vote-while-trump-i-711e8881",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Quebec's separatist party rules out an independence vote while Trump in power",
+      "published_at": "2026-08-18T17:31:19.000Z",
+      "image": "https://img.lemde.fr/2026/08/18/1014/0/5371/2685/644/322/60/0/bc4f94e_ftp-1-6gtr3t1g1bdu-0a23999da9ca4400a6e3bca256f6544f-0-1ef2c0304e5e44878915539597d5f012.jpg",
+      "image_alt": "Quebec's separatist party rules out an independence vote while Trump in power",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/quebec-s-separatist-party-rules-out-an-independence-vote-while-trump-in-power_6756643_4.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "abc-sues-trump-s-media-regulator-over-threat-to-broadcast-licenses-e052e03f",
@@ -523,7 +546,7 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/08/18/abc-sues-trump-s-media-regulator-over-threat-to-broadcast-licenses_6756642_19.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "middle-east-no-talks-or-conversations-with-iran-trump-says-dcb4e9fd",
@@ -544,29 +567,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "philippine-student-killed-in-livestreamed-school-shooting-c49660d9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Philippine student killed in livestreamed school shooting",
-      "published_at": "2026-08-18T10:56:10.000Z",
-      "image": "https://img.lemde.fr/2026/08/18/344/0/5500/2750/644/322/60/0/b6f1618_ftp-1-bowhof2l1m5w-2026-08-18t034941z-463433727-rc2r0na33845-rtrmadp-3-philippines-school-shooting.JPG",
-      "image_alt": "Philippine student killed in livestreamed school shooting",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/philippine-students-killed-in-livestreamed-school-shooting_6756628_4.html"
         }
       ],
       "impact": 72
