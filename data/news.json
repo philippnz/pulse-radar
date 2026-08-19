@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T02:19:49.549Z",
+  "updated_at": "2026-08-19T03:24:09.906Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "iranian-academic-writes-of-us-detention-hell-over-link-to-1979-hostage-c47111c5",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "published_at": "2026-08-19T03:12:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cfa/live/3fef0100-9b46-11f1-bd52-f9704e8e5c82.jpg",
+      "image_alt": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
     {
       "id": "iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging-d68c1493",
       "region": "Middle East",
@@ -40,7 +63,30 @@
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-a-e626cf95",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Middle East live: Turkey rejects Israeli claims after strike on Syria air base",
+      "published_at": "2026-08-19T03:05:51.000Z",
+      "image": "https://s.france24.com/media/display/a7830724-9b02-11f1-a71c-005056bf30b7/w:1024/p:16x9/1bdd3be295f5e6ff35a18f4fcfbc605190ff83e6.jpg",
+      "image_alt": "Middle East live: Turkey rejects Israeli claims after strike on Syria air base",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "sacked-ukrainian-defence-minister-calls-for-presidential-election-f53d7089",
@@ -63,7 +109,145 @@
           "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
+    },
+    {
+      "id": "us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says-92a4f22f",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+      "published_at": "2026-08-19T02:35:15.000Z",
+      "image": "",
+      "image_alt": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "us-refineries-taking-in-half-of-venezuela-s-oil-output-official-says-41603645",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US refineries taking in half of Venezuela’s oil output, official says",
+      "published_at": "2026-08-19T02:00:43.000Z",
+      "image": "",
+      "image_alt": "US refineries taking in half of Venezuela’s oil output, official says",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "trump-hits-pause-on-canada-tariffs-threat-and-hints-at-revival-of-keys-08c2d1d6",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+      "published_at": "2026-08-19T03:12:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882",
+      "image_alt": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "husband-and-mother-in-law-charged-over-indian-bride-s-death-1312c500",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Husband and mother-in-law charged over Indian bride's death",
+      "published_at": "2026-08-19T03:04:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Husband and mother-in-law charged over Indian bride's death",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "witness-gets-combative-in-tupac-murder-trial-e200c7e9",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Witness gets combative in Tupac murder trial",
+      "published_at": "2026-08-19T03:00:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e351/live/b5761980-9b79-11f1-afeb-4d7c67d79c36.jpg",
+      "image_alt": "Witness gets combative in Tupac murder trial",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "trump-pauses-new-tariffs-on-canada-and-says-countries-close-to-a-deal-6854b3dd",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "published_at": "2026-08-19T02:41:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+      "image_alt": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "how-ebola-became-the-deadliest-outbreak-in-dr-congo-s-history-0add52e8",
@@ -86,7 +270,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "us-ambassador-to-israel-calls-settler-violence-terror-e3ea75e3",
@@ -109,76 +293,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "quebec-separatist-says-no-independence-referendum-while-trump-in-offic-e8a85f6e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Quebec separatist says no independence referendum while Trump in office",
-      "published_at": "2026-08-19T00:17:01.000Z",
-      "image": "",
-      "image_alt": "Quebec separatist says no independence referendum while Trump in office",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "al-jazeera-reports-from-indonesia-s-quake-zone-desperate-for-help-2c8abe1a",
+      "id": "in-china-xi-jinping-pays-tribute-to-former-leader-jiang-zemin-architec-39018659",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-      "published_at": "2026-08-18T23:59:43.000Z",
-      "image": "",
-      "image_alt": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+      "headline": "In China, Xi Jinping pays tribute to former leader Jiang Zemin, architect of the crackdown on youth after Tiananmen",
+      "published_at": "2026-08-19T03:00:57.000Z",
+      "image": "https://img.lemde.fr/2026/08/17/136/0/7752/3876/644/322/60/0/bd31390_ftp-1-3b3czsqhy4f7-2026-08-17t115029z-1175541790-rc2b0nazugpq-rtrmadp-3-china-politics.JPG",
+      "image_alt": "In China, Xi Jinping pays tribute to former leader Jiang Zemin, architect of the crackdown on youth after Tiananmen",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/19/in-china-xi-jinping-pays-tribute-to-former-leader-jiang-zemin-architect-of-the-crackdown-on-youth-after-tiananmen_6756656_4.html"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "democrats-call-for-uss-lincoln-probe-question-us-navy-s-readiness-f37fdf3a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-      "published_at": "2026-08-18T23:45:16.000Z",
-      "image": "",
-      "image_alt": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "german-africa-prize-goes-to-kenyan-social-entrepreneur-44c31d08",
@@ -201,7 +339,7 @@
           "url": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "zz-top-drummer-frank-beard-dead-at-77-e7b00edb",
@@ -224,7 +362,7 @@
           "url": "https://www.lemonde.fr/en/culture/article/2026/08/19/zz-top-drummer-frank-beard-dead-at-77_6756650_30.html"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "nigeria-dozens-killed-in-plateau-state-attack-fbd7e9c0",
@@ -247,7 +385,7 @@
           "url": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "two-french-filmmakers-held-in-togo-since-july-27-paris-says-847b5f01",
@@ -268,29 +406,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "europe-s-seas-reach-record-heat-as-climate-change-threatens-marine-lif-e58492e2",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Europe’s seas reach record heat as climate change threatens marine life",
-      "published_at": "2026-08-18T23:34:08.000Z",
-      "image": "https://s.france24.com/media/display/1ccfb78a-9b5c-11f1-9218-005056a97e36/w:1024/p:16x9/AP24099587328462.jpg",
-      "image_alt": "Europe’s seas reach record heat as climate change threatens marine life",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/environment/20260818-europe-seas-record-heat-climate-change-marine-life"
         }
       ],
       "impact": 71
@@ -316,17 +431,17 @@
           "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
-      "id": "meta-hooked-children-on-facebook-and-instagram-court-hears-20564c93",
-      "region": "World",
+      "id": "meta-hooked-children-on-facebook-and-instagram-us-court-hears-20564c93",
+      "region": "Americas",
       "topic": "Society",
       "urgency": "Update",
-      "headline": "Meta hooked children on Facebook and Instagram, court hears",
+      "headline": "Meta hooked children on Facebook and Instagram, US court hears",
       "published_at": "2026-08-18T22:11:07.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/0f5dc170-9b69-11f1-aed2-8d6da8d75094.jpg",
-      "image_alt": "Meta hooked children on Facebook and Instagram, court hears",
+      "image_alt": "Meta hooked children on Facebook and Instagram, US court hears",
       "translations": {
         "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -339,7 +454,53 @@
           "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "quebec-separatist-says-no-independence-referendum-while-trump-in-offic-e8a85f6e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Quebec separatist says no independence referendum while Trump in office",
+      "published_at": "2026-08-19T00:17:01.000Z",
+      "image": "",
+      "image_alt": "Quebec separatist says no independence referendum while Trump in office",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "al-jazeera-reports-from-indonesia-s-quake-zone-desperate-for-help-2c8abe1a",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+      "published_at": "2026-08-18T23:59:43.000Z",
+      "image": "",
+      "image_alt": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "carney-and-trump-talk-again-as-deadline-nears-on-new-u-s-tariffs-c5aaed17",
@@ -362,7 +523,7 @@
           "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "trump-says-no-iran-talks-planned-as-uae-suspends-trade-with-tehran-8e781943",
@@ -385,7 +546,7 @@
           "url": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-esca-1ed8a409",
@@ -408,168 +569,7 @@
           "url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "minnesota-official-sues-texas-governor-to-force-ice-agent-s-extraditio-ed63c190",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Minnesota official sues Texas governor to force ICE agent’s extradition",
-      "published_at": "2026-08-18T22:55:50.000Z",
-      "image": "",
-      "image_alt": "Minnesota official sues Texas governor to force ICE agent’s extradition",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss"
-        }
-      ],
       "impact": 69
-    },
-    {
-      "id": "uae-halts-all-trade-and-financial-dealings-with-iran-after-missile-inc-8331c2b2",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "UAE halts all trade and financial dealings with Iran after missile incident",
-      "published_at": "2026-08-18T22:07:14.000Z",
-      "image": "https://img.lemde.fr/2026/08/18/500/0/6000/3000/644/322/60/0/3cbb2c3_ftp-1-ovqsk9tw6azs-229eef651ad240c69cf9cb73221dd60d-0-96befe56cb314744bdde08302502134c.jpg",
-      "image_alt": "UAE halts all trade and financial dealings with Iran after missile incident",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran-after-missile-incident_6756649_4.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "us-announces-new-sanctions-on-top-icc-figures-f5a79ac3",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "US announces new sanctions on top ICC figures",
-      "published_at": "2026-08-18T20:21:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
-      "image_alt": "US announces new sanctions on top ICC figures",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "bolivia-arrests-political-adviser-to-latin-american-right-wingers-330f1896",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Bolivia arrests political adviser to Latin American right-wingers",
-      "published_at": "2026-08-18T21:50:43.000Z",
-      "image": "",
-      "image_alt": "Bolivia arrests political adviser to Latin American right-wingers",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "ukraine-s-ousted-defense-minister-mykhailo-fedorov-urges-path-to-elect-bea106ea",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Ukraine’s ousted defense minister Mykhailo Fedorov urges path to elections",
-      "published_at": "2026-08-18T21:43:30.000Z",
-      "image": "https://img.lemde.fr/2026/07/15/0/0/4383/2191/644/322/60/0/a2e6428_ftp-1-mzty4b38jnj9-2026-07-15t192242z-774889553-rc2w4marbeuj-rtrmadp-3-ukraine-crisis-government-fedorov.JPG",
-      "image_alt": "Ukraine’s ousted defense minister Mykhailo Fedorov urges path to elections",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/18/ukraine-s-ousted-defense-minister-mykhailo-fedorov-urges-path-to-elections_6756648_4.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "israel-strikes-air-base-in-syria-drawing-ire-from-the-u-s-491be10b",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "published_at": "2026-08-18T21:16:37.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/18/world/middleeast/18vid-israel-strike-syria-cover-image/18vid-israel-strike-syria-cover-image-mediumSquareAt3X.jpg",
-      "image_alt": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "iran-s-supreme-leader-signals-intention-to-keep-country-on-a-war-footi-3f255c29",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
-      "published_at": "2026-08-17T09:42:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-assess-01-htwk/17int-iran-assess-01-htwk-mediumSquareAt3X.jpg",
-      "image_alt": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html"
-        }
-      ],
-      "impact": 68
     }
   ]
 }
