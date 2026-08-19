@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:56:16.829Z",
+  "updated_at": "2026-08-19T16:28:59.305Z",
   "languages": [
     {
       "code": "en",
@@ -63,30 +63,53 @@
           "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
-      "id": "war-on-iran-iran-allegedly-targets-the-uae-668ebb7c",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "libyan-government-in-tunisia-for-crisis-talks-ba79a355",
+      "region": "Europe",
+      "topic": "Politics",
       "urgency": "Breaking",
-      "headline": "War on Iran: Iran allegedly targets the UAE",
-      "published_at": "2026-08-19T13:01:05.000Z",
-      "image": "",
-      "image_alt": "War on Iran: Iran allegedly targets the UAE",
+      "headline": "Libyan government in Tunisia for crisis talks",
+      "published_at": "2026-08-19T15:40:46.000Z",
+      "image": "https://s.france24.com/media/display/60ce73be-9bdd-11f1-968e-005056bfb2b6/w:1024/p:16x9/EN-20260818-215001-215207-CS.jpg",
+      "image_alt": "Libyan government in Tunisia for crisis talks",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks"
         }
       ],
-      "impact": 84
+      "impact": 83
+    },
+    {
+      "id": "u-a-e-announces-halt-to-trade-with-iran-amid-trump-s-push-to-isolate-t-96315499",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+      "published_at": "2026-08-19T16:00:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-UAE-Iran-zctk/19int-UAE-Iran-zctk-mediumSquareAt3X.jpg",
+      "image_alt": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "the-ukrainians-sleeping-in-kyiv-s-metro-even-on-strike-less-nights-oth-614eb4af",
@@ -107,52 +130,6 @@
         {
           "name": "Le Monde",
           "url": "https://www.lemonde.fr/en/international/article/2026/08/19/the-ukrainians-sleeping-in-kyiv-s-metro-even-on-strike-less-nights-otherwise-you-re-up-all-night-worrying_6756678_4.html"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "u-a-e-announces-halt-to-trade-with-iran-amid-trump-s-push-to-isolate-t-96315499",
-      "region": "Middle East",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-      "published_at": "2026-08-19T15:27:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-UAE-Iran-zctk/19int-UAE-Iran-zctk-mediumSquareAt3X.jpg",
-      "image_alt": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-      "translations": {
-        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "israel-blames-turkey-after-strike-on-syria-air-base-de773bf8",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Israel blames Turkey after strike on Syria air base",
-      "published_at": "2026-08-19T14:32:52.000Z",
-      "image": "https://s.france24.com/media/display/b886eeea-9bd5-11f1-8829-005056bf30b7/w:1024/p:16x9/EN-20260819-140729-140918-CS.jpg",
-      "image_alt": "Israel blames Turkey after strike on Syria air base",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260819-israel-blames-turkey-after-strike-on-syria-air-base"
         }
       ],
       "impact": 82
@@ -181,6 +158,29 @@
       "impact": 82
     },
     {
+      "id": "israel-opens-up-tenders-for-controversial-west-bank-settlement-project-3d02ce96",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel opens up tenders for controversial West Bank settlement project",
+      "published_at": "2026-08-19T15:50:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "image_alt": "Israel opens up tenders for controversial West Bank settlement project",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
       "id": "trump-pauses-new-tariffs-on-canada-for-three-days-saying-deal-close-6854b3dd",
       "region": "Americas",
       "topic": "World",
@@ -201,7 +201,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
+    },
+    {
+      "id": "israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramed-b8a54c5e",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Israeli military probes killings of Hind Rajab and Palestinian paramedics",
+      "published_at": "2026-08-19T15:47:52.000Z",
+      "image": "https://s.france24.com/media/display/397ece9c-9be4-11f1-a4ee-005056a90284/w:1024/p:16x9/EN-20260819-170110-170755-CS.jpg",
+      "image_alt": "Israeli military probes killings of Hind Rajab and Palestinian paramedics",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "zelensky-s-office-probed-for-corruption-as-fired-defence-minister-dema-de992e83",
@@ -227,50 +250,50 @@
       "impact": 77
     },
     {
-      "id": "ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle-51830266",
-      "region": "Europe",
-      "topic": "Security",
+      "id": "seven-decades-of-us-regime-change-efforts-what-have-they-achieved-57a53b01",
+      "region": "Americas",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Ukraine MPs approve new defence minister after divisive reshuffle",
-      "published_at": "2026-08-19T14:34:28.000Z",
-      "image": "https://s.france24.com/media/display/25879518-9bd5-11f1-88e4-005056a90284/w:1024/p:16x9/EN-20260819-140143-140407-CS.jpg",
-      "image_alt": "Ukraine MPs approve new defence minister after divisive reshuffle",
+      "headline": "Seven decades of US regime change efforts: What have they achieved?",
+      "published_at": "2026-08-19T15:46:05.000Z",
+      "image": "",
+      "image_alt": "Seven decades of US regime change efforts: What have they achieved?",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "pa-financial-crisis-no-budget-for-essential-services-including-infrast-3d9f2345",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Breaking",
-      "headline": "PA financial crisis: No budget for 'essential services' including infrastructure, education & health",
-      "published_at": "2026-08-19T14:33:26.000Z",
-      "image": "https://s.france24.com/media/display/61b88164-9bd5-11f1-9750-005056a97e36/w:1024/p:16x9/EN-20260819-130449-131623-CS.jpg",
-      "image_alt": "PA financial crisis: No budget for 'essential services' including infrastructure, education & health",
+      "id": "israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gaza-s-suffe-940b94ec",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+      "published_at": "2026-08-19T15:44:02.000Z",
+      "image": "",
+      "image_alt": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
       "translations": {
-        "en": "PULSE is tracking this health update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/pa-financial-crisis-no-budget-for-essential-services-including-infrastructure-education-health"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "palestinian-refugee-and-two-relatives-drown-off-english-coast-d746bfb0",
@@ -291,75 +314,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israel-numbers-palestinian-detainee-foreheads-what-we-know-e550438d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel numbers Palestinian detainee foreheads: What we know",
-      "published_at": "2026-08-19T14:48:55.000Z",
-      "image": "",
-      "image_alt": "Israel numbers Palestinian detainee foreheads: What we know",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blas-4c4a7dfb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-      "published_at": "2026-08-19T14:44:09.000Z",
-      "image": "",
-      "image_alt": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "premier-league-2026-27-form-guide-title-race-prediction-players-to-wat-05eaa82c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
-      "published_at": "2026-08-19T14:37:13.000Z",
-      "image": "",
-      "image_alt": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -388,6 +342,75 @@
       "impact": 76
     },
     {
+      "id": "israel-numbers-palestinian-detainee-foreheads-what-we-know-e550438d",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel numbers Palestinian detainee foreheads: What we know",
+      "published_at": "2026-08-19T14:48:55.000Z",
+      "image": "",
+      "image_alt": "Israel numbers Palestinian detainee foreheads: What we know",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blas-4c4a7dfb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+      "published_at": "2026-08-19T14:44:09.000Z",
+      "image": "",
+      "image_alt": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "premier-league-2026-27-form-guide-title-race-prediction-players-to-wat-05eaa82c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
+      "published_at": "2026-08-19T14:37:13.000Z",
+      "image": "",
+      "image_alt": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
       "id": "after-youth-outcry-vietnam-says-former-official-caused-fatal-crash-at--97ee2e9e",
       "region": "World",
       "topic": "World",
@@ -408,7 +431,7 @@
           "url": "https://www.nytimes.com/2026/08/19/world/asia/vietnam-crash-tree-55-community-party-official.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "chinese-comic-investigated-after-singing-a-riff-of-a-patriotic-song-8898e11e",
@@ -429,125 +452,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "germany-and-france-condemn-israeli-minister-ben-gvir-s-inhumane-call-t-9fa70a20",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Germany and France condemn Israeli minister Ben-Gvir's 'inhumane' call to kill Gazans",
-      "published_at": "2026-08-19T13:24:04.000Z",
-      "image": "https://img.lemde.fr/2026/05/20/1014/0/7016/3508/644/322/60/0/885ad40_ftp-1-eftxe2uhef7l-05db8b5e362743289250492e76525353-0-6d4b396afce74935a7695dcf2f588d4a.jpg",
-      "image_alt": "Germany and France condemn Israeli minister Ben-Gvir's 'inhumane' call to kill Gazans",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/19/germany-and-france-condemn-israeli-minister-ben-gvir-s-inhumane-gaza-remarks_6756673_4.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didn-t-need-rod-6aaff0f8",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
-      "published_at": "2026-08-19T13:24:34.000Z",
-      "image": "",
-      "image_alt": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests-8d4f8a0e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli forces mark Palestinians with numbers amid mass arrests",
-      "published_at": "2026-08-19T13:20:08.000Z",
-      "image": "",
-      "image_alt": "Israeli forces mark Palestinians with numbers amid mass arrests",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "ukraine-s-ex-defense-minister-calls-for-election-cementing-break-with--2542b8a4",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-      "published_at": "2026-08-19T12:53:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-ukraine-fedorov-01-vtgb/19int-ukraine-fedorov-01-vtgb-mediumSquareAt3X.jpg",
-      "image_alt": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "ukrainian-man-arrested-in-croatia-over-nord-stream-pipeline-blasts-471f5489",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "published_at": "2026-08-19T12:47:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
-      "image_alt": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/19/ukrainian-man-arrested-in-croatia-over-nord-stream-pipeline-sabotage_6756671_4.html"
         }
       ],
       "impact": 75
@@ -574,6 +478,102 @@
         }
       ],
       "impact": 75
+    },
+    {
+      "id": "no-italy-s-lake-como-didn-t-dry-up-3436af54",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "No, Italy’s Lake Como didn’t dry up",
+      "published_at": "2026-08-19T16:24:12.000Z",
+      "image": "https://s.france24.com/media/display/89d36ab8-9bd7-11f1-8101-005056bfb2b6/w:1024/p:16x9/como.jpg",
+      "image_alt": "No, Italy’s Lake Como didn’t dry up",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260819-italy-lake-como-dry-up-debunked"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "ukraine-s-ex-defense-minister-calls-for-election-cementing-break-with--2542b8a4",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
+      "published_at": "2026-08-19T12:53:51.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-ukraine-fedorov-01-vtgb/19int-ukraine-fedorov-01-vtgb-mediumSquareAt3X.jpg",
+      "image_alt": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "ukrainian-man-arrested-in-croatia-over-nord-stream-pipeline-blasts-471f5489",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "published_at": "2026-08-19T12:47:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+      "image_alt": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/19/ukrainian-man-arrested-in-croatia-over-nord-stream-pipeline-sabotage_6756671_4.html"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "recognizing-the-courage-of-afghan-women-7133eb67",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Recognizing the courage of Afghan women",
+      "published_at": "2026-08-19T16:02:52.000Z",
+      "image": "https://img.lemde.fr/2026/08/19/758/0/5779/2889/644/322/60/0/46b333c_upload-1-kgsaqyd2kxog-000-c44d8g3.jpg",
+      "image_alt": "Recognizing the courage of Afghan women",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/08/19/recognizing-the-courage-of-afghan-women_6756681_23.html"
+        }
+      ],
+      "impact": 73
     }
   ]
 }
