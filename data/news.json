@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:42:40.235Z",
+  "updated_at": "2026-08-20T17:23:50.772Z",
   "languages": [
     {
       "code": "en",
@@ -25,7 +25,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T13:56:25.000Z",
+      "published_at": "2026-08-20T17:14:55.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
       "image_alt": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "translations": {
@@ -40,7 +40,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 90
     },
     {
       "id": "deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attac-47a5df98",
@@ -63,7 +63,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "assad-officer-extradited-to-syria-on-war-crimes-charges-for-first-time-854cfb2d",
@@ -86,30 +86,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
-      "id": "missile-barrage-shows-russia-s-doubt-that-ukraine-can-defend-itself-1cdb6f02",
-      "region": "Europe",
-      "topic": "Security",
+      "id": "como-mayor-bans-beasts-in-city-centre-after-being-hit-by-bike-8b65c32a",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
-      "published_at": "2026-08-20T14:20:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
-      "image_alt": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
+      "headline": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "published_at": "2026-08-20T16:53:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
+      "image_alt": "Como mayor bans 'beasts' in city centre after being hit by bike",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "as-iran-and-u-s-settle-into-an-uneasy-standoff-who-will-blink-first-68a062c2",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "published_at": "2026-08-20T17:14:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
+      "image_alt": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
         }
       ],
-      "impact": 80
+      "impact": 78
+    },
+    {
+      "id": "bad-plot-worse-graphics-chinese-moviegoers-flock-to-a-low-budget-hit-f834f63f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "published_at": "2026-08-20T17:14:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-china-movie-ghwc/20int-china-movie-ghwc-mediumSquareAt3X.jpg",
+      "image_alt": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "colombia-13-dead-in-illegal-gold-mine-collapse-35b00592",
@@ -132,17 +178,17 @@
           "url": "https://www.dw.com/en/colombia-13-dead-in-illegal-gold-mine-collapse/a-78449479?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-cus-e88f2c3f",
-      "region": "Middle East",
+      "id": "swiss-tourist-jailed-for-insulting-bali-s-sacred-day-of-silence-c69990f0",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Syria detains policeman over death of White Helmets rescuer hit in custody",
-      "published_at": "2026-08-20T16:19:30.000Z",
+      "headline": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+      "published_at": "2026-08-20T17:05:31.000Z",
       "image": "",
-      "image_alt": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+      "image_alt": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -152,7 +198,7 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -163,7 +209,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-      "published_at": "2026-08-20T16:16:38.000Z",
+      "published_at": "2026-08-20T17:04:31.000Z",
       "image": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
       "image_alt": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
       "translations": {
@@ -176,6 +222,75 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza--d567aa1a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+      "published_at": "2026-08-20T17:02:43.000Z",
+      "image": "",
+      "image_alt": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "north-korea-fires-ballistic-missiles-as-us-south-korea-drills-near-end-7092d0f6",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "North Korea fires ballistic missiles as US-South Korea drills near end",
+      "published_at": "2026-08-20T17:00:12.000Z",
+      "image": "",
+      "image_alt": "North Korea fires ballistic missiles as US-South Korea drills near end",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "at-least-800-people-evacuated-from-major-wildfire-in-western-spain-1c82e471",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "At least 800 people evacuated from major wildfire in western Spain",
+      "published_at": "2026-08-20T16:58:19.000Z",
+      "image": "",
+      "image_alt": "At least 800 people evacuated from major wildfire in western Spain",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -227,6 +342,52 @@
       "impact": 77
     },
     {
+      "id": "spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters-f6bc1f71",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+      "published_at": "2026-08-20T16:22:46.000Z",
+      "image": "",
+      "image_alt": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-cus-e88f2c3f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+      "published_at": "2026-08-20T16:19:30.000Z",
+      "image": "",
+      "image_alt": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "one-geography-two-states-saudi-arabia-s-security-approach-to-sudan-252c7485",
       "region": "Middle East",
       "topic": "World",
@@ -245,75 +406,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy-d256213e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-      "published_at": "2026-08-20T15:36:59.000Z",
-      "image": "",
-      "image_alt": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overth-6797978b",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
-      "published_at": "2026-08-20T15:24:42.000Z",
-      "image": "",
-      "image_alt": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "landslide-kills-13-at-illegal-gold-mine-in-colombia-s-southwest-a96740bb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
-      "published_at": "2026-08-20T15:08:16.000Z",
-      "image": "",
-      "image_alt": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -342,70 +434,24 @@
       "impact": 76
     },
     {
-      "id": "man-utd-preview-five-key-talking-points-for-2026-27-premier-league-sea-d94ad932",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-      "published_at": "2026-08-20T15:00:43.000Z",
-      "image": "",
-      "image_alt": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "how-china-and-russia-could-hobble-trump-s-plans-to-isolate-iran-2493ae91",
+      "id": "missile-barrage-shows-russia-s-doubt-that-ukraine-can-defend-itself-1cdb6f02",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
-      "published_at": "2026-08-20T14:55:47.000Z",
-      "image": "",
-      "image_alt": "How China and Russia could hobble Trump’s plans to isolate Iran",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
+      "published_at": "2026-08-20T14:20:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
+      "image_alt": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "what-to-know-about-prince-harry-and-meghan-s-move-back-to-the-u-k-715f57b1",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
-      "published_at": "2026-08-20T13:58:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg",
-      "image_alt": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html"
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
         }
       ],
       "impact": 75
@@ -477,7 +523,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/20/new-us-aircraft-carrier-arrives-in-middle-east-to-relieve-long-deployed-ship_6756710_4.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-out--bc3b21bc",
@@ -500,7 +546,7 @@
           "url": "https://www.france24.com/en/europe/20260820-british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-sea"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet-f804c48e",
@@ -521,52 +567,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "french-pm-announces-creation-of-unit-to-combat-cyberattacks-63fe50c7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "French PM announces creation of unit to combat cyberattacks",
-      "published_at": "2026-08-20T15:19:31.000Z",
-      "image": "https://s.france24.com/media/display/d6f0ce12-9ca9-11f1-bf86-005056bf30b7/w:1024/p:16x9/EN-20260820-170636-170809-CS.jpg",
-      "image_alt": "French PM announces creation of unit to combat cyberattacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260820-french-pm-announces-creation-of-unit-to-combat-cyberattacks"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "germany-news-powerful-storms-turn-deadly-41009ee7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany news: Powerful storms turn deadly",
-      "published_at": "2026-08-20T14:38:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Powerful storms turn deadly",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 72
