@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T13:41:53.662Z",
+  "updated_at": "2026-08-20T14:31:05.860Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "at-least-15-killed-in-kyiv-as-ukraine-grapples-with-air-defence-shorta-cedf7f5c",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "published_at": "2026-08-20T13:56:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
     {
       "id": "war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economicall-f0ad04ee",
       "region": "Middle East",
@@ -40,7 +63,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
       "id": "gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocida-f04f03c5",
@@ -63,30 +86,53 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
-      "id": "at-least-15-killed-in-kyiv-as-ukraine-grapples-with-air-defence-shorta-cedf7f5c",
+      "id": "missile-barrage-shows-russia-s-doubt-that-ukraine-can-defend-itself-1cdb6f02",
       "region": "Europe",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T11:06:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "urgency": "Live",
+      "headline": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
+      "published_at": "2026-08-20T14:20:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
+      "image_alt": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
         }
       ],
-      "impact": 87
+      "impact": 83
+    },
+    {
+      "id": "ex-defence-chief-s-call-for-wartime-election-raises-pressure-on-zelens-5eff73b8",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+      "published_at": "2026-08-20T13:32:55.000Z",
+      "image": "",
+      "image_alt": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continue-ce994db7",
@@ -109,7 +155,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "german-neo-nazi-suspected-of-deadly-1970-fire-at-jewish-retirement-hom-1acfe0c0",
@@ -135,6 +181,29 @@
       "impact": 79
     },
     {
+      "id": "after-six-years-harry-and-meghan-are-coming-home-what-changed-3cb7dcbc",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+      "published_at": "2026-08-20T14:23:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
+      "image_alt": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
       "id": "icc-slams-us-decision-to-sanction-the-court-s-president-and-a-senior-p-8996dce8",
       "region": "Americas",
       "topic": "Politics",
@@ -158,6 +227,29 @@
       "impact": 78
     },
     {
+      "id": "what-to-know-about-prince-harry-and-meghan-s-move-back-to-the-u-k-715f57b1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
+      "published_at": "2026-08-20T13:58:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg",
+      "image_alt": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "bangladesh-lawmakers-elect-bnp-apos-s-alamgir-as-president-280edab0",
       "region": "Europe",
       "topic": "Politics",
@@ -178,7 +270,7 @@
           "url": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "us-capital-demand-for-ai-and-defense-fuels-beginnings-of-a-debt-crisis-67e1bdbb",
@@ -201,30 +293,30 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/08/20/us-demand-for-capital-for-ai-and-defense-fuels-the-beginnings-of-a-debt-crisis_6756698_19.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "what-to-know-about-prince-harry-and-meghan-s-move-back-to-the-u-k-715f57b1",
-      "region": "World",
+      "id": "funeral-for-50-palestinians-recovered-from-gaza-rubble-3ecd2201",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
-      "published_at": "2026-08-20T13:20:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg",
-      "image_alt": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
+      "headline": "Funeral for 50 Palestinians recovered from Gaza rubble",
+      "published_at": "2026-08-20T13:39:38.000Z",
+      "image": "",
+      "image_alt": "Funeral for 50 Palestinians recovered from Gaza rubble",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "why-a-trump-envoy-s-kashmir-visit-has-led-to-us-pakistan-spat-3cba2b58",
@@ -247,7 +339,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matte-5c8881aa",
@@ -270,7 +362,7 @@
           "url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "west-ham-urges-fans-to-stop-chanting-anti-palestine-message-1c0e3c36",
@@ -291,75 +383,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "russian-missiles-kill-at-least-15-in-kyiv-as-air-defenses-dwindle-1cdb6f02",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
-      "published_at": "2026-08-20T12:58:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
-      "image_alt": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "migrant-women-face-sexual-assault-in-ceuta-5462f733",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Migrant women face sexual assault in Ceuta",
-      "published_at": "2026-08-20T12:57:33.000Z",
-      "image": "",
-      "image_alt": "Migrant women face sexual assault in Ceuta",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/migrant-women-face-sexual-assault-in-ceuta?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "fifa-s-infantino-under-threat-of-no-confidence-vote-by-regional-bodies-df83ab73",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "FIFA’s Infantino under threat of no-confidence vote by regional bodies",
-      "published_at": "2026-08-20T12:55:30.000Z",
-      "image": "",
-      "image_alt": "FIFA’s Infantino under threat of no-confidence vote by regional bodies",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -385,40 +408,17 @@
           "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "after-six-years-harry-and-meghan-are-coming-home-what-changed-3cb7dcbc",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-      "published_at": "2026-08-20T11:28:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
-      "image_alt": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "ukraine-several-killed-in-apos-massive-apos-russian-strikes-on-kyiv-8221753f",
+      "id": "romania-destroys-drone-near-gas-project-blames-russia-6e515112",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Ukraine: Several killed in &apos;massive&apos; Russian strikes on Kyiv",
-      "published_at": "2026-08-20T08:59:00.000Z",
+      "urgency": "Live",
+      "headline": "Romania destroys drone near gas project, blames Russia",
+      "published_at": "2026-08-20T13:50:00.000Z",
       "image": "",
-      "image_alt": "Ukraine: Several killed in &apos;massive&apos; Russian strikes on Kyiv",
+      "image_alt": "Romania destroys drone near gas project, blames Russia",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,20 +428,20 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/romania-destroys-drone-near-gas-project-blames-russia/a-78447040?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis-1bab6ad7",
+      "id": "france-fines-uk-fashion-site-boohoo-over-fake-sales-fa72c6bf",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
-      "published_at": "2026-08-20T09:32:35.000Z",
-      "image": "https://img.lemde.fr/2026/08/19/245/0/4435/2217/644/322/60/0/284db78_ftp-1-kq8g3oe2f6de-b1794f482c824257b089e5ad5314cbd1-0-d92ae0cfbf274764b945015d5a135e87.jpg",
-      "image_alt": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
+      "urgency": "Live",
+      "headline": "France fines UK fashion site Boohoo over fake sales",
+      "published_at": "2026-08-20T14:11:04.000Z",
+      "image": "https://img.lemde.fr/2026/08/20/0/0/5101/2550/644/322/60/0/6a9297e_ftp-1-ctixj8urfq9x-2026-08-20t113128z-941379530-rc2b2na6o5rg-rtrmadp-3-boohoo-grp-france-fine.JPG",
+      "image_alt": "France fines UK fashion site Boohoo over fake sales",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -451,10 +451,10 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis_6756700_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/france-fines-uk-fashion-site-boohoo-over-fake-sales_6756708_4.html"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "ceuta-france-24-brings-you-up-to-speed-fd23b458",
