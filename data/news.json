@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T02:17:49.298Z",
+  "updated_at": "2026-08-20T03:23:34.535Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-trump-announces-most-crushing-iran-sanctions-e68fe4f4",
-      "region": "Middle East",
+      "id": "russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home-cbd00cf5",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-      "published_at": "2026-08-20T00:00:00.000Z",
+      "headline": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+      "published_at": "2026-08-20T02:50:17.000Z",
       "image": "",
-      "image_alt": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "image_alt": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,7 +37,30 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "former-liberian-vice-president-charged-in-drug-trafficking-probe-2c99652c",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Former Liberian vice president charged in drug-trafficking probe",
+      "published_at": "2026-08-20T03:09:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
+      "image_alt": "Former Liberian vice president charged in drug-trafficking probe",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 85
@@ -63,7 +86,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/20/kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections_6756692_4.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "trump-threatens-tremendous-economic-consequences-on-any-country-helpin-61c52ea5",
@@ -71,7 +94,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "published_at": "2026-08-20T02:16:49.000Z",
+      "published_at": "2026-08-20T03:22:57.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
       "image_alt": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
       "translations": {
@@ -87,6 +110,52 @@
         }
       ],
       "impact": 80
+    },
+    {
+      "id": "australia-outraged-after-israeli-decision-not-to-prosecute-over-killin-088e31d8",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "published_at": "2026-08-20T03:12:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "ukraine-several-killed-in-fresh-russian-strikes-on-kyiv-dc0a2dde",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+      "published_at": "2026-08-20T02:54:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "giant-whales-move-into-greenland-waters-as-ice-disappears-c956a27f",
@@ -109,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "publisher-of-us-military-newspaper-resigns-over-differences-with-gover-2dc8151c",
@@ -132,30 +201,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "nigeria-s-election-campaign-begins-with-tinubu-facing-a-reform-test-5d2ec1d5",
-      "region": "Africa",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-      "published_at": "2026-08-20T00:06:05.000Z",
-      "image": "",
-      "image_alt": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "ecuador-intelligence-chief-and-five-americans-killed-in-kenya-helicopt-96f51d25",
@@ -178,7 +224,7 @@
           "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "israel-opens-up-bids-for-highly-sensitive-west-bank-settlement-project-3d02ce96",
@@ -201,30 +247,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "australia-outraged-after-israeli-decision-not-to-prosecute-over-killin-088e31d8",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "published_at": "2026-08-20T00:48:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "icc-slams-us-sanctions-on-court-as-apos-flagrant-attack-apos-81b4cd99",
@@ -247,7 +270,30 @@
           "url": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "north-korean-official-dismisses-reduced-drills-between-us-and-south-ko-5a5c0398",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
+      "published_at": "2026-08-20T02:22:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-nkorea-drill-1-cjwm/19int-nkorea-drill-1-cjwm-mediumSquareAt3X.jpg",
+      "image_alt": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "at-least-100-killed-in-collapse-at-illegal-gold-mine-in-central-africa-46ea38a8",
@@ -270,7 +316,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/20/at-least-100-killed-in-collapse-at-illegal-gold-mine-in-central-african-republic_6756693_4.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "more-than-100-dead-after-goldmine-collapses-in-central-african-republi-61d1d5d0",
@@ -293,7 +339,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia-d390167b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+      "published_at": "2026-08-20T02:16:17.000Z",
+      "image": "",
+      "image_alt": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-allia-f867206a",
@@ -316,7 +385,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "bodycam-captures-police-team-falling-when-deck-collapses-in-missouri-ea692b2d",
@@ -339,30 +408,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "trump-and-canada-s-carney-seem-to-make-progress-on-a-tariff-deal-but-q-45845763",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-      "published_at": "2026-08-20T00:22:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-assess-ctvz/19int-canada-tariffs-assess-ctvz-mediumSquareAt3X.jpg",
-      "image_alt": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "tsunami-of-emigration-reshapes-israel-s-future-experts-warn-142e9d6c",
@@ -385,53 +431,53 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time-25a9f658",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Harry Kane scores goal by winning Golden Shoe for the second time",
-      "published_at": "2026-08-20T00:12:59.000Z",
+      "id": "nigeria-s-election-campaign-begins-with-tinubu-facing-a-reform-test-5d2ec1d5",
+      "region": "Africa",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+      "published_at": "2026-08-20T00:06:05.000Z",
       "image": "",
-      "image_alt": "Harry Kane scores goal by winning Golden Shoe for the second time",
+      "image_alt": "Nigeria’s election campaign begins with Tinubu facing a reform test",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "us-national-debt-passes-record-40-trillion-3457088e",
-      "region": "Americas",
+      "id": "russian-strikes-kill-at-least-six-in-kyiv-and-surrounding-region-7dfb5164",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US national debt passes record $40 trillion",
-      "published_at": "2026-08-19T23:59:16.000Z",
-      "image": "",
-      "image_alt": "US national debt passes record $40 trillion",
+      "headline": "Russian strikes kill at least six in Kyiv and surrounding region",
+      "published_at": "2026-08-20T03:02:04.000Z",
+      "image": "https://img.lemde.fr/2026/08/20/253/0/3000/1500/644/322/60/0/9392496_ftp-1-vyyf1crqadw8-5877314-01-06.jpg",
+      "image_alt": "Russian strikes kill at least six in Kyiv and surrounding region",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/russian-strikes-kill-at-least-six-in-kyiv-and-surrounding-region_6756696_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "sacked-ukrainian-defence-minister-calls-for-presidential-election-f53d7089",
@@ -454,7 +500,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "five-americans-among-seven-killed-in-safari-helicopter-crash-in-kenya-258accd4",
@@ -477,7 +523,7 @@
           "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "israel-confirms-soldiers-fired-at-car-in-which-hind-rajab-was-killed-a-f0db32b6",
@@ -500,7 +546,7 @@
           "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "fjord-palme-d-or-2026-cristian-mungiu-lends-cinematic-prestige-to-the--bcac70ba",
@@ -523,53 +569,7 @@
           "url": "https://www.lemonde.fr/en/opinion/article/2026/08/20/fjord-palme-d-or-2026-cristian-mungiu-lends-cinematic-prestige-to-the-fight-against-political-correctness_6756694_23.html"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year-7b56e530",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump says he will meet North Korea’s Kim Jong Un later this year",
-      "published_at": "2026-08-20T01:15:53.000Z",
-      "image": "https://s.france24.com/media/display/b2e4fe7a-9b7e-11f1-8eee-005056a90284/w:1024/p:16x9/8243b038211f88ebf691c494912cd62dec0bef90.jpg",
-      "image_alt": "Trump says he will meet North Korea’s Kim Jong Un later this year",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "middle-east-live-trump-threatens-economic-punishment-on-any-country-he-dfa1b83a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Middle East live: Trump threatens economic punishment on 'any country' helping Iran",
-      "published_at": "2026-08-19T23:26:20.000Z",
-      "image": "https://s.france24.com/media/display/6c8169ec-9b32-11f1-8fb3-005056bf30b7/w:1024/p:16x9/e0f965597c05995bf4c65a81497058de714040c8.jpg",
-      "image_alt": "Middle East live: Trump threatens economic punishment on 'any country' helping Iran",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran"
-        }
-      ],
-      "impact": 71
+      "impact": 72
     }
   ]
 }
