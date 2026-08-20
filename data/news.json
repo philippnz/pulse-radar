@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T11:51:55.385Z",
+  "updated_at": "2026-08-20T12:37:51.709Z",
   "languages": [
     {
       "code": "en",
@@ -89,6 +89,29 @@
       "impact": 86
     },
     {
+      "id": "bangladesh-s-government-under-pressure-as-youth-demand-jobs-c309d657",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Bangladesh’s government under pressure as youth demand jobs",
+      "published_at": "2026-08-20T11:49:36.000Z",
+      "image": "",
+      "image_alt": "Bangladesh’s government under pressure as youth demand jobs",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
       "id": "syrian-official-says-no-plans-to-establish-turkish-military-presence-02c46278",
       "region": "World",
       "topic": "Security",
@@ -109,7 +132,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "icc-says-us-sanctions-flagrant-attack-on-court-independence-69d3bedf",
@@ -130,29 +153,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "how-conflict-is-making-life-more-expensive-for-iranians-e7fbec87",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "How conflict is making life more expensive for Iranians",
-      "published_at": "2026-08-20T09:20:17.000Z",
-      "image": "",
-      "image_alt": "How conflict is making life more expensive for Iranians",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
         }
       ],
       "impact": 80
@@ -178,7 +178,7 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/08/20/us-demand-for-capital-for-ai-and-defense-fuels-the-beginnings-of-a-debt-crisis_6756698_19.html"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "belgian-car-salesman-becomes-prince-after-royal-parentage-confirmed-3e1f712b",
@@ -204,6 +204,52 @@
       "impact": 78
     },
     {
+      "id": "russian-missiles-kill-at-least-15-in-kyiv-as-air-defenses-dwindle-1cdb6f02",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+      "published_at": "2026-08-20T12:13:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
+      "image_alt": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "the-indian-city-where-ai-is-creating-jobs-for-humans-683c8680",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "The Indian City Where AI Is Creating Jobs for Humans",
+      "published_at": "2026-08-20T12:03:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg",
+      "image_alt": "The Indian City Where AI Is Creating Jobs for Humans",
+      "translations": {
+        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
       "id": "after-six-years-harry-and-meghan-are-coming-home-what-changed-3cb7dcbc",
       "region": "World",
       "topic": "World",
@@ -227,6 +273,52 @@
       "impact": 77
     },
     {
+      "id": "who-was-hind-rajab-and-why-is-israel-investigating-her-killing-18c1c65a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Who was Hind Rajab and why is Israel investigating her killing?",
+      "published_at": "2026-08-20T11:48:18.000Z",
+      "image": "",
+      "image_alt": "Who was Hind Rajab and why is Israel investigating her killing?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west-df15dad9",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel is betting on Islamophobia to save its standing in the West",
+      "published_at": "2026-08-20T11:44:15.000Z",
+      "image": "",
+      "image_alt": "Israel is betting on Islamophobia to save its standing in the West",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages--51d509f1",
       "region": "Europe",
       "topic": "World",
@@ -247,30 +339,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "trump-vows-tougher-economic-measures-on-iran-and-supporting-countries-61c52ea5",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump vows tougher economic measures on Iran and supporting countries",
-      "published_at": "2026-08-20T09:13:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
-      "image_alt": "Trump vows tougher economic measures on Iran and supporting countries",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "china-sentences-evergrande-founder-to-life-in-prison-f2f4b868",
@@ -291,75 +360,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "taliban-secures-pragmatic-global-alliances-without-formal-recognition-ce5f554b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Taliban secures pragmatic global alliances without formal recognition",
-      "published_at": "2026-08-20T10:14:30.000Z",
-      "image": "",
-      "image_alt": "Taliban secures pragmatic global alliances without formal recognition",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "russian-missiles-kill-at-least-13-in-kyiv-as-air-defenses-dwindle-1cdb6f02",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
-      "published_at": "2026-08-20T10:04:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
-      "image_alt": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis-1bab6ad7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
-      "published_at": "2026-08-20T09:32:35.000Z",
-      "image": "https://img.lemde.fr/2026/08/19/245/0/4435/2217/644/322/60/0/284db78_ftp-1-kq8g3oe2f6de-b1794f482c824257b089e5ad5314cbd1-0-d92ae0cfbf274764b945015d5a135e87.jpg",
-      "image_alt": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis_6756700_4.html"
         }
       ],
       "impact": 76
@@ -388,6 +388,52 @@
       "impact": 76
     },
     {
+      "id": "taliban-secures-pragmatic-global-alliances-without-formal-recognition-ce5f554b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Taliban secures pragmatic global alliances without formal recognition",
+      "published_at": "2026-08-20T10:14:30.000Z",
+      "image": "",
+      "image_alt": "Taliban secures pragmatic global alliances without formal recognition",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis-1bab6ad7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
+      "published_at": "2026-08-20T09:32:35.000Z",
+      "image": "https://img.lemde.fr/2026/08/19/245/0/4435/2217/644/322/60/0/284db78_ftp-1-kq8g3oe2f6de-b1794f482c824257b089e5ad5314cbd1-0-d92ae0cfbf274764b945015d5a135e87.jpg",
+      "image_alt": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis_6756700_4.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
       "id": "migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta-a1405521",
       "region": "Europe",
       "topic": "World",
@@ -408,17 +454,17 @@
           "url": "https://www.france24.com/en/video/20260820-migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "germany-news-powerful-storms-damage-homes-leave-1-dead-4c659757",
-      "region": "Europe",
+      "id": "in-iran-contact-with-foreigners-could-soon-be-a-crime-2e36f205",
+      "region": "Middle East",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Germany news: Powerful storms damage homes, leave 1 dead",
-      "published_at": "2026-08-20T08:12:00.000Z",
+      "urgency": "Live",
+      "headline": "In Iran, contact with foreigners could soon be a crime",
+      "published_at": "2026-08-20T12:11:00.000Z",
       "image": "",
-      "image_alt": "Germany news: Powerful storms damage homes, leave 1 dead",
+      "image_alt": "In Iran, contact with foreigners could soon be a crime",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,102 +474,56 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "bare-grocery-shelves-are-a-new-wartime-hardship-for-ukrainians-571e0f46",
+      "id": "how-conflict-is-making-life-more-expensive-for-iranians-e7fbec87",
       "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
-      "published_at": "2026-08-20T09:28:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20ukraine-grocery-add-tpzf/20ukraine-grocery-add-tpzf-mediumSquareAt3X.jpg",
-      "image_alt": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "as-iran-and-u-s-settle-into-an-uneasy-standoff-who-will-blink-first-68a062c2",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "published_at": "2026-08-20T09:04:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
-      "image_alt": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "the-indian-city-where-ai-is-creating-jobs-for-humans-683c8680",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "The Indian City Where AI Is Creating Jobs for Humans",
-      "published_at": "2026-08-20T09:02:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg",
-      "image_alt": "The Indian City Where AI Is Creating Jobs for Humans",
-      "translations": {
-        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "state-backed-israeli-settler-violence-forces-west-bank-displacement-hr-1c5f6882",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-      "published_at": "2026-08-20T09:08:58.000Z",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "How conflict is making life more expensive for Iranians",
+      "published_at": "2026-08-20T09:20:17.000Z",
       "image": "",
-      "image_alt": "State-backed Israeli settler violence forces West Bank displacement: HRW",
+      "image_alt": "How conflict is making life more expensive for Iranians",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
         }
       ],
       "impact": 74
+    },
+    {
+      "id": "munich-prosecutors-close-fatal-1970-antisemitic-arson-case-5103b4ce",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Munich prosecutors close fatal 1970 antisemitic arson case",
+      "published_at": "2026-08-20T11:19:00.000Z",
+      "image": "",
+      "image_alt": "Munich prosecutors close fatal 1970 antisemitic arson case",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "south-africa-apos-s-anc-faces-voter-backlash-5f5737dd",
@@ -569,7 +569,7 @@
           "url": "https://www.dw.com/en/how-dw-fact-checks-fake-news/a-64950646?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 72
     }
   ]
 }
