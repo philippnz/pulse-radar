@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:56:03.412Z",
+  "updated_at": "2026-08-20T11:23:47.250Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "at-least-13-killed-in-kyiv-as-ukraine-grapples-with-air-defence-shorta-cedf7f5c",
+      "id": "at-least-15-killed-in-kyiv-as-ukraine-grapples-with-air-defence-shorta-cedf7f5c",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T10:34:33.000Z",
+      "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "published_at": "2026-08-20T11:06:54.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "image_alt": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -86,7 +86,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "syrian-official-says-no-plans-to-establish-turkish-military-presence-02c46278",
@@ -112,24 +112,24 @@
       "impact": 81
     },
     {
-      "id": "how-conflict-is-making-life-more-expensive-for-iranians-e7fbec87",
-      "region": "World",
+      "id": "icc-says-us-sanctions-flagrant-attack-on-court-independence-69d3bedf",
+      "region": "Americas",
       "topic": "Security",
-      "urgency": "Live",
-      "headline": "How conflict is making life more expensive for Iranians",
-      "published_at": "2026-08-20T09:20:17.000Z",
-      "image": "",
-      "image_alt": "How conflict is making life more expensive for Iranians",
+      "urgency": "Breaking",
+      "headline": "ICC says US sanctions 'flagrant attack' on court independence",
+      "published_at": "2026-08-20T08:55:15.000Z",
+      "image": "https://s.france24.com/media/display/178c865e-9c74-11f1-add8-005056a97e36/w:1024/p:16x9/EN-20260820-100633-101034-CS.jpg",
+      "image_alt": "ICC says US sanctions 'flagrant attack' on court independence",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence"
         }
       ],
       "impact": 81
@@ -158,6 +158,29 @@
       "impact": 81
     },
     {
+      "id": "how-conflict-is-making-life-more-expensive-for-iranians-e7fbec87",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "How conflict is making life more expensive for Iranians",
+      "published_at": "2026-08-20T09:20:17.000Z",
+      "image": "",
+      "image_alt": "How conflict is making life more expensive for Iranians",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
       "id": "missing-teen-hiker-found-dead-in-australian-bush-after-eight-day-searc-35560161",
       "region": "World",
       "topic": "World",
@@ -178,7 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "trump-vows-tougher-economic-measures-on-iran-and-supporting-countries-61c52ea5",
@@ -227,52 +250,6 @@
       "impact": 77
     },
     {
-      "id": "russian-missiles-kill-at-least-13-in-kyiv-as-air-defenses-dwindle-1cdb6f02",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
-      "published_at": "2026-08-20T10:04:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
-      "image_alt": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis-1bab6ad7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
-      "published_at": "2026-08-20T09:32:35.000Z",
-      "image": "https://img.lemde.fr/2026/08/19/245/0/4435/2217/644/322/60/0/284db78_ftp-1-kq8g3oe2f6de-b1794f482c824257b089e5ad5314cbd1-0-d92ae0cfbf274764b945015d5a135e87.jpg",
-      "image_alt": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis_6756700_4.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
       "id": "ukraine-several-killed-in-apos-massive-apos-russian-strikes-on-kyiv-8221753f",
       "region": "Europe",
       "topic": "World",
@@ -291,29 +268,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "germany-news-powerful-storms-damage-homes-leave-1-dead-4c659757",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Germany news: Powerful storms damage homes, leave 1 dead",
-      "published_at": "2026-08-20T08:12:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Powerful storms damage homes, leave 1 dead",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 77
@@ -342,6 +296,52 @@
       "impact": 76
     },
     {
+      "id": "russian-missiles-kill-at-least-13-in-kyiv-as-air-defenses-dwindle-1cdb6f02",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
+      "published_at": "2026-08-20T10:04:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
+      "image_alt": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis-1bab6ad7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
+      "published_at": "2026-08-20T09:32:35.000Z",
+      "image": "https://img.lemde.fr/2026/08/19/245/0/4435/2217/644/322/60/0/284db78_ftp-1-kq8g3oe2f6de-b1794f482c824257b089e5ad5314cbd1-0-d92ae0cfbf274764b945015d5a135e87.jpg",
+      "image_alt": "Spain expands migrant shelters in Ceuta to ease humanitarian crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/spain-expands-migrant-shelters-in-ceuta-to-ease-humanitarian-crisis_6756700_4.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "bare-grocery-shelves-are-a-new-wartime-hardship-for-ukrainians-571e0f46",
       "region": "World",
       "topic": "World",
@@ -365,47 +365,47 @@
       "impact": 76
     },
     {
-      "id": "as-iran-and-u-s-settle-into-an-uneasy-standoff-who-will-blink-first-68a062c2",
-      "region": "Middle East",
+      "id": "migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta-a1405521",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "published_at": "2026-08-20T09:04:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
-      "image_alt": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "urgency": "Breaking",
+      "headline": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta",
+      "published_at": "2026-08-20T08:54:23.000Z",
+      "image": "https://s.france24.com/media/display/bbd50fd4-9c73-11f1-b00d-005056bf30b7/w:1024/p:16x9/EN-20260820-100412-100559-CS.jpg",
+      "image_alt": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260820-migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta"
         }
       ],
       "impact": 76
     },
     {
-      "id": "the-indian-city-where-ai-is-creating-jobs-for-humans-683c8680",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "The Indian City Where AI Is Creating Jobs for Humans",
-      "published_at": "2026-08-20T09:02:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg",
-      "image_alt": "The Indian City Where AI Is Creating Jobs for Humans",
+      "id": "germany-news-powerful-storms-damage-homes-leave-1-dead-4c659757",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Germany news: Powerful storms damage homes, leave 1 dead",
+      "published_at": "2026-08-20T08:12:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: Powerful storms damage homes, leave 1 dead",
       "translations": {
-        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 76
@@ -434,6 +434,75 @@
       "impact": 75
     },
     {
+      "id": "as-iran-and-u-s-settle-into-an-uneasy-standoff-who-will-blink-first-68a062c2",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "published_at": "2026-08-20T09:04:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
+      "image_alt": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "the-indian-city-where-ai-is-creating-jobs-for-humans-683c8680",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "The Indian City Where AI Is Creating Jobs for Humans",
+      "published_at": "2026-08-20T09:02:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg",
+      "image_alt": "The Indian City Where AI Is Creating Jobs for Humans",
+      "translations": {
+        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "south-africa-apos-s-anc-faces-voter-backlash-5f5737dd",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "South Africa&apos;s ANC faces voter backlash",
+      "published_at": "2026-08-20T11:02:00.000Z",
+      "image": "",
+      "image_alt": "South Africa&apos;s ANC faces voter backlash",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
       "id": "are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-the-data-sho-9673e6c3",
       "region": "Middle East",
       "topic": "Technology",
@@ -454,7 +523,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "max-verstappen-signs-new-f1-contract-with-red-bull-until-2030-9cdc01e6",
@@ -477,7 +546,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock-b2916891",
@@ -500,76 +569,7 @@
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "europe-heatwaves-germany-and-spain-report-over-18-000-heat-related-dea-3f7bbe9a",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Europe heatwaves: Germany and Spain report over 18,000 heat-related deaths this summer",
-      "published_at": "2026-08-20T10:26:07.000Z",
-      "image": "https://img.lemde.fr/2026/06/26/0/0/4000/2000/644/322/60/0/a98000b_ftp-1-s6jvj8u0qtjh-2026-06-26t140923z-1242352613-rc2o1man0ekb-rtrmadp-3-europe-weather-germany.JPG",
-      "image_alt": "Europe heatwaves: Germany and Spain report over 18,000 heat-related deaths this summer",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/environment/article/2026/08/20/europe-heatwaves-germany-and-spain-report-over-18-000-heat-related-deaths-this-summer_6756703_114.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections-ef98d984",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
-      "published_at": "2026-08-20T01:04:21.000Z",
-      "image": "https://img.lemde.fr/2026/08/18/309/0/5715/2857/644/322/60/0/4504127_ftp-1-bq9atqfnba31-2026-08-18t164146z-1610490417-rc231naglalg-rtrmadp-3-russia-myanmar.JPG",
-      "image_alt": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections_6756692_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "hungarian-public-news-back-on-air-after-pm-magyar-s-media-reforms-3cbe1e7e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hungarian public news back on air after PM Magyar's media reforms",
-      "published_at": "2026-08-20T10:01:23.000Z",
-      "image": "https://img.lemde.fr/2026/08/07/164/0/2283/1141/644/322/60/0/3976883_ftp-1-rt4rmell0uqr-2026-08-07t121811z-1153723333-rc2zqmagyaua-rtrmadp-3-europe-weather-hungary.JPG",
-      "image_alt": "Hungarian public news back on air after PM Magyar's media reforms",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/hungarian-public-news-back-on-the-air-after-pm-magyar-s-media-reforms_6756701_4.html"
-        }
-      ],
-      "impact": 72
+      "impact": 74
     }
   ]
 }
