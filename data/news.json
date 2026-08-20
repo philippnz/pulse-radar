@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T17:23:50.772Z",
+  "updated_at": "2026-08-20T17:55:06.549Z",
   "languages": [
     {
       "code": "en",
@@ -19,52 +19,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "at-least-15-killed-in-kyiv-as-ukraine-grapples-with-air-defence-shorta-cedf7f5c",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T17:14:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 90
-    },
-    {
-      "id": "deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attac-47a5df98",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-      "published_at": "2026-08-20T15:41:56.000Z",
-      "image": "",
-      "image_alt": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
     {
       "id": "assad-officer-extradited-to-syria-on-war-crimes-charges-for-first-time-854cfb2d",
       "region": "Middle East",
@@ -89,6 +43,52 @@
       "impact": 85
     },
     {
+      "id": "bangladesh-elects-ruling-party-veteran-alamgir-as-president-4b65a5b2",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Bangladesh elects ruling party veteran Alamgir as president",
+      "published_at": "2026-08-20T17:35:34.000Z",
+      "image": "",
+      "image_alt": "Bangladesh elects ruling party veteran Alamgir as president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "russia-purposefully-hit-critical-infrastructure-in-latest-strikes-kyiv-cedf7f5c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "published_at": "2026-08-20T17:14:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
       "id": "como-mayor-bans-beasts-in-city-centre-after-being-hit-by-bike-8b65c32a",
       "region": "World",
       "topic": "World",
@@ -109,53 +109,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "as-iran-and-u-s-settle-into-an-uneasy-standoff-who-will-blink-first-68a062c2",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "published_at": "2026-08-20T17:14:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
-      "image_alt": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "bad-plot-worse-graphics-chinese-moviegoers-flock-to-a-low-budget-hit-f834f63f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
-      "published_at": "2026-08-20T17:14:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-china-movie-ghwc/20int-china-movie-ghwc-mediumSquareAt3X.jpg",
-      "image_alt": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html"
-        }
-      ],
-      "impact": 78
+      "impact": 79
     },
     {
       "id": "colombia-13-dead-in-illegal-gold-mine-collapse-35b00592",
@@ -181,14 +135,37 @@
       "impact": 78
     },
     {
-      "id": "swiss-tourist-jailed-for-insulting-bali-s-sacred-day-of-silence-c69990f0",
+      "id": "academic-who-publicized-plagiarism-allegations-against-jason-arday-is--50613e31",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
-      "published_at": "2026-08-20T17:05:31.000Z",
+      "headline": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
+      "published_at": "2026-08-20T17:37:00.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/20int-arday-1-lzgc/21int-arday-1-lzgc-mediumSquareAt3X.jpg",
+      "image_alt": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "humanoid-robots-take-centre-stage-in-china-us-tech-race-2b200497",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Humanoid robots take centre stage in China-US tech race",
+      "published_at": "2026-08-20T17:17:47.000Z",
       "image": "",
-      "image_alt": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+      "image_alt": "Humanoid robots take centre stage in China-US tech race",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,7 +175,53 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "first-u-s-deportees-to-arrive-in-liberia-amid-growing-backlash-60af3c50",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+      "published_at": "2026-08-20T17:16:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/20int-liberia-trump-deportees-1-fcjz/02int-liberia-trump-deportees-1-fcjz-mediumSquareAt3X.jpg",
+      "image_alt": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "as-iran-and-u-s-settle-into-an-uneasy-standoff-who-will-blink-first-68a062c2",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "published_at": "2026-08-20T17:14:53.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
+      "image_alt": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
         }
       ],
       "impact": 77
@@ -227,6 +250,52 @@
       "impact": 77
     },
     {
+      "id": "canada-and-u-s-resume-talks-over-trump-tariffs-as-a-new-deadline-looms-d2d717f9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "published_at": "2026-08-20T16:46:04.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
+      "image_alt": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "swiss-tourist-jailed-for-insulting-bali-s-sacred-day-of-silence-c69990f0",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+      "published_at": "2026-08-20T17:05:31.000Z",
+      "image": "",
+      "image_alt": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza--d567aa1a",
       "region": "Middle East",
       "topic": "World",
@@ -247,7 +316,7 @@
           "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "north-korea-fires-ballistic-missiles-as-us-south-korea-drills-near-end-7092d0f6",
@@ -270,7 +339,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "at-least-800-people-evacuated-from-major-wildfire-in-western-spain-1c82e471",
@@ -293,53 +362,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "spain-expands-ceuta-migrant-shelters-to-ease-crisis-f1f507cf",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Spain expands Ceuta migrant shelters to ease crisis",
-      "published_at": "2026-08-20T15:18:09.000Z",
-      "image": "https://s.france24.com/media/display/18314e7a-9ca9-11f1-b8a9-005056bfb2b6/w:1024/p:16x9/EN-20260820-160511-160853-CS.jpg",
-      "image_alt": "Spain expands Ceuta migrant shelters to ease crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260820-spain-expands-ceuta-migrant-shelters-to-ease-crisis"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-b-75b952fe",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Hundreds of migrants relocated to temporary shelters following Ceuta border crisis",
-      "published_at": "2026-08-20T15:17:22.000Z",
-      "image": "https://s.france24.com/media/display/8efc76c4-9ca9-11f1-bd6b-005056bfb2b6/w:1024/p:16x9/EN-20260820-170439-170606-CS.jpg",
-      "image_alt": "Hundreds of migrants relocated to temporary shelters following Ceuta border crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters-f6bc1f71",
@@ -388,24 +411,47 @@
       "impact": 76
     },
     {
-      "id": "one-geography-two-states-saudi-arabia-s-security-approach-to-sudan-252c7485",
-      "region": "Middle East",
+      "id": "spain-expands-ceuta-migrant-shelters-to-ease-crisis-f1f507cf",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-      "published_at": "2026-08-20T15:51:46.000Z",
-      "image": "",
-      "image_alt": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+      "urgency": "Breaking",
+      "headline": "Spain expands Ceuta migrant shelters to ease crisis",
+      "published_at": "2026-08-20T15:18:09.000Z",
+      "image": "https://s.france24.com/media/display/18314e7a-9ca9-11f1-b8a9-005056bfb2b6/w:1024/p:16x9/EN-20260820-160511-160853-CS.jpg",
+      "image_alt": "Spain expands Ceuta migrant shelters to ease crisis",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260820-spain-expands-ceuta-migrant-shelters-to-ease-crisis"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-b-75b952fe",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Hundreds of migrants relocated to temporary shelters following Ceuta border crisis",
+      "published_at": "2026-08-20T15:17:22.000Z",
+      "image": "https://s.france24.com/media/display/8efc76c4-9ca9-11f1-bd6b-005056bfb2b6/w:1024/p:16x9/EN-20260820-170439-170606-CS.jpg",
+      "image_alt": "Hundreds of migrants relocated to temporary shelters following Ceuta border crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis"
         }
       ],
       "impact": 76
@@ -431,7 +477,30 @@
           "url": "https://www.france24.com/en/video/20260820-gold-mine-collapse-in-central-african-republic-leaves-at-least-100-dead"
         }
       ],
-      "impact": 76
+      "impact": 75
+    },
+    {
+      "id": "israeli-troops-are-moving-deeper-into-syria-dw-looks-at-why-a-temporar-21c3a233",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli troops are moving deeper into Syria. DW looks at why a temporary buffer zone is starting to look more permanent.",
+      "published_at": "2026-08-20T17:33:00.000Z",
+      "image": "",
+      "image_alt": "Israeli troops are moving deeper into Syria. DW looks at why a temporary buffer zone is starting to look more permanent.",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/israeli-troops-are-moving-deeper-into-syria-dw-looks-at-why-a-temporary-buffer-zone-is-starting-to-look-more-permanent/a-78435811?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "missile-barrage-shows-russia-s-doubt-that-ukraine-can-defend-itself-1cdb6f02",
@@ -454,63 +523,17 @@
           "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "us-capital-demand-for-ai-and-defense-fuels-beginnings-of-a-debt-crisis-67e1bdbb",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US capital demand for AI and defense fuels beginnings of a debt crisis",
-      "published_at": "2026-08-20T08:51:52.000Z",
-      "image": "https://img.lemde.fr/2026/08/05/164/0/5202/2601/644/322/60/0/249e523_ftp-1-kbj99a1zznya-2026-08-05t072240z-576698147-rc2komangk7f-rtrmadp-3-japan-boj.JPG",
-      "image_alt": "US capital demand for AI and defense fuels beginnings of a debt crisis",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/08/20/us-demand-for-capital-for-ai-and-defense-fuels-the-beginnings-of-a-debt-crisis_6756698_19.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-deports-20-people-to-liberia-the-first-of-1-200-migrants-under-trum-d3f34500",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "published_at": "2026-08-20T15:42:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
-      "image_alt": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement"
-        }
-      ],
       "impact": 74
     },
     {
-      "id": "new-us-aircraft-carrier-arrives-in-middle-east-to-relieve-long-deploye-cf75acec",
-      "region": "Middle East",
+      "id": "the-taliban-preach-purity-and-morality-but-rush-to-strip-women-in-pris-f7ed9b36",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "New US aircraft carrier arrives in Middle East to relieve long-deployed ship",
-      "published_at": "2026-08-20T16:16:33.000Z",
-      "image": "https://img.lemde.fr/2026/08/19/340/0/5438/2719/644/322/60/0/00be267_ftp-1-h6brv7w3xbrw-2026-08-19t143107z-71025016-rc2vxmaqm9su-rtrmadp-3-iran-crisis-usa-carrier.JPG",
-      "image_alt": "New US aircraft carrier arrives in Middle East to relieve long-deployed ship",
+      "headline": "'The Taliban preach purity and morality, but rush to strip women in prison': A land of terror for Afghan women",
+      "published_at": "2026-08-20T17:31:09.000Z",
+      "image": "https://img.lemde.fr/2026/08/17/584/0/7008/3504/644/322/60/0/706c1c2_upload-1-e3d2w4skodjf-afg-2025-04-10-1116.jpg",
+      "image_alt": "'The Taliban preach purity and morality, but rush to strip women in prison': A land of terror for Afghan women",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -520,56 +543,33 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/new-us-aircraft-carrier-arrives-in-middle-east-to-relieve-long-deployed-ship_6756710_4.html"
+          "url": "https://www.lemonde.fr/en/summer-reads/article/2026/08/20/the-taliban-preach-purity-and-morality-but-rush-to-strip-women-in-prison-a-land-of-terror-for-afghan-women_6756711_183.html"
         }
       ],
-      "impact": 72
+      "impact": 73
     },
     {
-      "id": "british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-out--bc3b21bc",
+      "id": "drought-in-germany-and-europe-are-driving-up-costs-663146a2",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "British Army sailors rescue bedraggled barn owl 70 nautical miles out to sea",
-      "published_at": "2026-08-20T16:13:05.000Z",
-      "image": "https://s.france24.com/media/display/8d4a2b78-9cae-11f1-9072-005056bf30b7/w:1024/p:16x9/000-C3QY3AF.jpg",
-      "image_alt": "British Army sailors rescue bedraggled barn owl 70 nautical miles out to sea",
+      "headline": "Drought in Germany and Europe are driving up costs",
+      "published_at": "2026-08-20T16:30:00.000Z",
+      "image": "",
+      "image_alt": "Drought in Germany and Europe are driving up costs",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260820-british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-sea"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/drought-in-germany-and-europe-are-driving-up-costs/a-78447266?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet-f804c48e",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
-      "published_at": "2026-08-20T15:21:33.000Z",
-      "image": "https://s.france24.com/media/display/2b3ae868-9caa-11f1-8450-005056bfb2b6/w:1024/p:16x9/EN-20260820-170922-171103-CS.jpg",
-      "image_alt": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet"
-        }
-      ],
-      "impact": 72
+      "impact": 73
     }
   ]
 }
