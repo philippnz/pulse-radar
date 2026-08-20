@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T05:03:19.704Z",
+  "updated_at": "2026-08-20T05:55:15.930Z",
   "languages": [
     {
       "code": "en",
@@ -20,12 +20,35 @@
   ],
   "stories": [
     {
+      "id": "at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine-fa6eb65d",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+      "published_at": "2026-08-20T04:59:22.000Z",
+      "image": "",
+      "image_alt": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
       "id": "russia-launches-missile-strikes-on-kyiv-and-surrounding-region-killing-cedf7f5c",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Live",
       "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "published_at": "2026-08-20T04:46:32.000Z",
+      "published_at": "2026-08-20T05:25:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
       "image_alt": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
       "translations": {
@@ -63,29 +86,6 @@
           "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "former-liberian-vice-president-charged-in-drug-trafficking-probe-2c99652c",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Former Liberian vice president charged in drug-trafficking probe",
-      "published_at": "2026-08-20T03:09:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
-      "image_alt": "Former Liberian vice president charged in drug-trafficking probe",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 83
     },
     {
@@ -112,24 +112,93 @@
       "impact": 82
     },
     {
-      "id": "kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections-ef98d984",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
-      "published_at": "2026-08-20T01:04:23.000Z",
-      "image": "https://img.lemde.fr/2026/08/18/309/0/5715/2857/644/322/60/0/4504127_ftp-1-bq9atqfnba31-2026-08-18t164146z-1610490417-rc231naglalg-rtrmadp-3-russia-myanmar.JPG",
-      "image_alt": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
+      "id": "former-liberian-vice-president-charged-in-drug-trafficking-probe-2c99652c",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Former Liberian vice president charged in drug-trafficking probe",
+      "published_at": "2026-08-20T03:09:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
+      "image_alt": "Former Liberian vice president charged in drug-trafficking probe",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections_6756692_4.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "bangladesh-lawmakers-set-to-elect-alamgir-president-c5f68d0a",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Bangladesh lawmakers set to elect Alamgir president",
+      "published_at": "2026-08-20T05:37:00.000Z",
+      "image": "",
+      "image_alt": "Bangladesh lawmakers set to elect Alamgir president",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/bangladesh-lawmakers-set-to-elect-alamgir-president/a-78438534?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "australia-outraged-after-israel-decides-not-to-open-criminal-investiga-088e31d8",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "published_at": "2026-08-20T05:10:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "founder-of-collapsed-chinese-property-giant-evergrande-sentenced-to-li-f3404459",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "published_at": "2026-08-20T05:07:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+      "image_alt": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
@@ -158,27 +227,50 @@
       "impact": 78
     },
     {
-      "id": "australia-outraged-after-israeli-decision-not-to-prosecute-over-killin-088e31d8",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "published_at": "2026-08-20T03:12:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "id": "kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections-ef98d984",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
+      "published_at": "2026-08-20T01:04:23.000Z",
+      "image": "https://img.lemde.fr/2026/08/18/309/0/5715/2857/644/322/60/0/4504127_ftp-1-bq9atqfnba31-2026-08-18t164146z-1610490417-rc231naglalg-rtrmadp-3-russia-myanmar.JPG",
+      "image_alt": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections_6756692_4.html"
         }
       ],
       "impact": 78
+    },
+    {
+      "id": "exclusive-pentagon-sends-political-loyalty-survey-to-us-allies-bc164e0b",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+      "published_at": "2026-08-20T05:06:23.000Z",
+      "image": "",
+      "image_alt": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "trump-vows-economic-warfare-on-countries-helping-iran-b7b17220",
@@ -201,7 +293,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "ukraine-several-killed-in-fresh-russian-strikes-on-kyiv-dc0a2dde",
@@ -224,30 +316,7 @@
           "url": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "giant-whales-move-into-greenland-waters-as-ice-disappears-c956a27f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Giant whales move into Greenland waters as ice disappears",
-      "published_at": "2026-08-20T02:05:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
-      "image_alt": "Giant whales move into Greenland waters as ice disappears",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "icc-slams-us-sanctions-on-court-as-apos-flagrant-attack-apos-81b4cd99",
@@ -270,7 +339,7 @@
           "url": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "more-than-100-dead-after-goldmine-collapses-in-central-african-republi-61d1d5d0",
@@ -293,52 +362,6 @@
           "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "russian-forces-kill-6-in-ukraine-as-zelenskyy-faces-pressure-over-elec-cbd00cf5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
-      "published_at": "2026-08-20T02:50:17.000Z",
-      "image": "",
-      "image_alt": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "north-korean-official-dismisses-reduced-drills-between-us-and-south-ko-5a5c0398",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-      "published_at": "2026-08-20T02:22:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-nkorea-drill-1-cjwm/19int-nkorea-drill-1-cjwm-mediumSquareAt3X.jpg",
-      "image_alt": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
-        }
-      ],
       "impact": 75
     },
     {
@@ -347,7 +370,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "At least 100 killed in collapse at illegal gold mine in Central African Republic",
-      "published_at": "2026-08-20T02:10:33.000Z",
+      "published_at": "2026-08-20T02:10:32.000Z",
       "image": "https://img.lemde.fr/2026/08/19/0/0/2500/1250/644/322/60/0/0057200_upload-1-hewtu6ckolal-2014-05-09t120000z-1390605314-gm1ea591svl01-rtrmadp-3-centralafrican.JPG",
       "image_alt": "At least 100 killed in collapse at illegal gold mine in Central African Republic",
       "translations": {
@@ -362,30 +385,53 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/20/at-least-100-killed-in-collapse-at-illegal-gold-mine-in-central-african-republic_6756693_4.html"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia-d390167b",
-      "region": "World",
+      "id": "kyiv-targeted-by-massive-russian-strikes-killing-several-people-73524348",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
-      "published_at": "2026-08-20T02:16:17.000Z",
-      "image": "",
-      "image_alt": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+      "headline": "Kyiv targeted by massive Russian strikes killing several people",
+      "published_at": "2026-08-20T05:30:24.000Z",
+      "image": "https://s.france24.com/media/display/efe9edc4-9c52-11f1-a0fe-005056a97e36/w:1024/p:16x9/AP26232153366371.jpg",
+      "image_alt": "Kyiv targeted by massive Russian strikes killing several people",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "ligue-1-paul-pogba-s-monaco-adventure-comes-to-an-end-f8add38f",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ligue 1: Paul Pogba's Monaco adventure comes to an end",
+      "published_at": "2026-08-20T05:05:53.000Z",
+      "image": "https://s.france24.com/media/display/04e273f6-9c38-11f1-b62f-005056bf30b7/w:1024/p:16x9/AFP-pogba-1.jpg",
+      "image_alt": "Ligue 1: Paul Pogba's Monaco adventure comes to an end",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260820-ligue-1-paul-pogba-s-monaco-adventure-comes-to-an-end"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "publisher-of-us-military-newspaper-resigns-over-differences-with-gover-2dc8151c",
@@ -408,7 +454,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "nasa-satellite-rescue-mission-fails-swift-telescope-set-to-fall-to-ear-3dc01692",
@@ -431,30 +477,53 @@
           "url": "https://www.france24.com/en/americas/20260820-nasa-satellite-rescue-mission-fails-swift-telescope-set-to-fall-to-earth"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "sacked-ukrainian-defence-minister-calls-for-presidential-election-f53d7089",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T20:34:39.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
-      "image_alt": "Sacked Ukrainian defence minister calls for presidential election",
+      "id": "harry-and-meghan-moving-back-to-britain-reports-a517b0f1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Harry and Meghan moving back to Britain: reports",
+      "published_at": "2026-08-20T03:10:00.000Z",
+      "image": "",
+      "image_alt": "Harry and Meghan moving back to Britain: reports",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "giant-whales-move-into-greenland-waters-as-ice-disappears-c956a27f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Giant whales move into Greenland waters as ice disappears",
+      "published_at": "2026-08-20T02:05:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "image_alt": "Giant whales move into Greenland waters as ice disappears",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "five-americans-among-seven-killed-in-safari-helicopter-crash-in-kenya-258accd4",
@@ -477,17 +546,17 @@
           "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "russian-strikes-kill-at-least-six-in-kyiv-and-surrounding-region-7dfb5164",
+      "id": "russian-strikes-kill-at-least-nine-in-kyiv-and-surrounding-region-7dfb5164",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Russian strikes kill at least six in Kyiv and surrounding region",
-      "published_at": "2026-08-20T03:02:04.000Z",
+      "headline": "Russian strikes kill at least nine in Kyiv and surrounding region",
+      "published_at": "2026-08-20T03:02:01.000Z",
       "image": "https://img.lemde.fr/2026/08/20/253/0/3000/1500/644/322/60/0/9392496_ftp-1-vyyf1crqadw8-5877314-01-06.jpg",
-      "image_alt": "Russian strikes kill at least six in Kyiv and surrounding region",
+      "image_alt": "Russian strikes kill at least nine in Kyiv and surrounding region",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -498,75 +567,6 @@
         {
           "name": "Le Monde",
           "url": "https://www.lemonde.fr/en/international/article/2026/08/20/russian-strikes-kill-at-least-six-in-kyiv-and-surrounding-region_6756696_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "israel-opens-up-bids-for-highly-sensitive-west-bank-settlement-project-3d02ce96",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "published_at": "2026-08-20T00:53:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-      "image_alt": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "s-bastien-lecornu-primer-ministro-franc-s-un-a-o-al-frente-de-la-torme-6721fa0f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Sébastien Lecornu, primer ministro francés, un año al frente de la tormenta política francesa",
-      "published_at": "2026-08-20T03:30:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/5OU35MEIOZDEPG2S6TRNNJIJOA.JPG?auth=4bde1dd7f9005cb8e21f0088694226811395900deae08d3635022f3eb44b818f",
-      "image_alt": "Sébastien Lecornu, primer ministro francés, un año al frente de la tormenta política francesa",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-20/sebastien-lecornu-primer-ministro-frances-un-ano-al-frente-de-la-tormenta-politica-francesa.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "el-hombre-m-s-peligroso-de-alemania-una-portada-de-prensa-revoluciona--8124486b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
-      "published_at": "2026-08-20T03:30:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/JPNW66FVMZFOROC6DIRW326PFQ.jpg?auth=ad56a720eef8f87fe1aa290bf839f28cb46e47f4fa688ee165b1ff186845a43b",
-      "image_alt": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-20/el-hombre-mas-peligroso-de-alemania-una-portada-de-prensa-revoluciona-la-campana-electoral-de-la-extrema-derecha.html"
         }
       ],
       "impact": 70
