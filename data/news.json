@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:32:05.448Z",
+  "updated_at": "2026-08-20T19:26:31.187Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "thai-schools-hold-shooter-drills-after-deadly-attack-51885e5d",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Thai schools hold shooter drills after deadly attack",
+      "published_at": "2026-08-20T18:59:08.000Z",
+      "image": "",
+      "image_alt": "Thai schools hold shooter drills after deadly attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "assad-officer-extradited-to-syria-on-war-crimes-charges-for-first-time-854cfb2d",
       "region": "Middle East",
@@ -40,30 +63,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
-      "id": "bangladesh-elects-ruling-party-veteran-alamgir-as-president-4b65a5b2",
-      "region": "World",
-      "topic": "Politics",
+      "id": "us-says-sanctions-will-squash-iran-s-economy-and-collapse-its-regime-910d7372",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Bangladesh elects ruling party veteran Alamgir as president",
-      "published_at": "2026-08-20T17:35:34.000Z",
-      "image": "",
-      "image_alt": "Bangladesh elects ruling party veteran Alamgir as president",
+      "headline": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "published_at": "2026-08-20T19:19:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
+      "image_alt": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "uk-france-germany-italy-and-canada-condemn-israel-s-west-bank-settleme-e28573af",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "published_at": "2026-08-20T18:55:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "image_alt": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "canada-and-u-s-resume-talks-over-trump-tariffs-as-a-new-deadline-looms-d2d717f9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "published_at": "2026-08-20T19:13:27.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
+      "image_alt": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "russia-purposefully-hit-critical-infrastructure-in-latest-strikes-kyiv-cedf7f5c",
@@ -86,7 +155,168 @@
           "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "university-suspends-us-academic-leading-jason-arday-plagiarism-accusat-9ea4d2c5",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "University suspends US academic leading Jason Arday plagiarism accusations",
+      "published_at": "2026-08-20T19:13:53.000Z",
+      "image": "",
+      "image_alt": "University suspends US academic leading Jason Arday plagiarism accusations",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "arsenal-vs-coventry-premier-league-prediction-lineups-teams-e0b2bb70",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+      "published_at": "2026-08-20T19:12:56.000Z",
+      "image": "",
+      "image_alt": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "us-treasury-secretary-says-new-economic-measures-will-collapse-iran-08fce72e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+      "published_at": "2026-08-20T19:11:44.000Z",
+      "image": "",
+      "image_alt": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "fishermen-rescued-after-five-days-clinging-to-cooler-at-sea-d024110e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Fishermen rescued after five days clinging to cooler at sea",
+      "published_at": "2026-08-20T19:10:45.000Z",
+      "image": "",
+      "image_alt": "Fishermen rescued after five days clinging to cooler at sea",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fishermen-rescued-after-five-days-clinging-to-cooler-at-sea?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "jewish-american-barred-by-israel-calls-settler-violence-state-terror-73e84fe9",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+      "published_at": "2026-08-20T19:09:33.000Z",
+      "image": "",
+      "image_alt": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report-96b5617d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
+      "published_at": "2026-08-20T19:03:30.000Z",
+      "image": "",
+      "image_alt": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "ahmad-hassoun-assad-s-barrel-bomb-mufti-faces-damascus-court-verdict-c11ce8bd",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+      "published_at": "2026-08-20T18:55:52.000Z",
+      "image": "",
+      "image_alt": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "first-u-s-deportees-to-arrive-in-liberia-amid-growing-backlash-60af3c50",
@@ -109,7 +339,30 @@
           "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "nigeria-dozens-dead-after-boat-capsizes-in-sokoto-41edde31",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Nigeria: Dozens dead after boat capsizes in Sokoto",
+      "published_at": "2026-08-20T17:40:00.000Z",
+      "image": "",
+      "image_alt": "Nigeria: Dozens dead after boat capsizes in Sokoto",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/nigeria-dozens-dead-after-boat-capsizes-in-sokoto/a-78449903?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "why-is-israel-apos-s-military-presence-growing-in-syria-d65d297e",
@@ -132,7 +385,7 @@
           "url": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "como-mayor-bans-beasts-in-city-centre-after-being-hit-by-bike-8b65c32a",
@@ -153,98 +406,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "first-group-of-us-deportees-out-of-an-expected-1-200-arrive-in-liberia-273834cc",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
-      "published_at": "2026-08-20T18:22:58.000Z",
-      "image": "",
-      "image_alt": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "the-road-to-el-obeid-sudan-s-besieged-city-sheltering-thousands-9838ea9f",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
-      "published_at": "2026-08-20T18:16:55.000Z",
-      "image": "",
-      "image_alt": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "russian-paramilitaries-in-mali-kill-nine-including-children-hrw-8481da07",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian paramilitaries in Mali kill nine, including children: HRW",
-      "published_at": "2026-08-20T18:13:49.000Z",
-      "image": "",
-      "image_alt": "Russian paramilitaries in Mali kill nine, including children: HRW",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff-bf6b7b12",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
-      "published_at": "2026-08-20T18:06:14.000Z",
-      "image": "",
-      "image_alt": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -268,52 +429,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "colombia-13-dead-in-illegal-gold-mine-collapse-35b00592",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Colombia: 13 dead in illegal gold mine collapse",
-      "published_at": "2026-08-20T16:11:00.000Z",
-      "image": "",
-      "image_alt": "Colombia: 13 dead in illegal gold mine collapse",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/colombia-13-dead-in-illegal-gold-mine-collapse/a-78449479?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "humanoid-robots-take-centre-stage-in-china-us-tech-race-2b200497",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Humanoid robots take centre stage in China-US tech race",
-      "published_at": "2026-08-20T17:17:47.000Z",
-      "image": "",
-      "image_alt": "Humanoid robots take centre stage in China-US tech race",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -342,24 +457,24 @@
       "impact": 76
     },
     {
-      "id": "swiss-tourist-jailed-for-insulting-bali-s-sacred-day-of-silence-c69990f0",
-      "region": "World",
+      "id": "colombia-13-dead-in-illegal-gold-mine-collapse-35b00592",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
-      "published_at": "2026-08-20T17:05:31.000Z",
+      "urgency": "Breaking",
+      "headline": "Colombia: 13 dead in illegal gold mine collapse",
+      "published_at": "2026-08-20T16:11:00.000Z",
       "image": "",
-      "image_alt": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+      "image_alt": "Colombia: 13 dead in illegal gold mine collapse",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/colombia-13-dead-in-illegal-gold-mine-collapse/a-78449479?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 76
@@ -385,53 +500,7 @@
           "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza--d567aa1a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-      "published_at": "2026-08-20T17:02:43.000Z",
-      "image": "",
-      "image_alt": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "canada-and-u-s-resume-talks-over-trump-tariffs-as-a-new-deadline-looms-d2d717f9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-      "published_at": "2026-08-20T16:46:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
-      "image_alt": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "spain-expands-ceuta-migrant-shelters-to-ease-crisis-f1f507cf",
@@ -480,14 +549,14 @@
       "impact": 75
     },
     {
-      "id": "gold-mine-collapse-in-central-african-republic-leaves-at-least-100-dea-3351b3f8",
+      "id": "france-germany-uk-and-italy-slam-israel-s-e1-west-bank-settler-project-44746769",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Gold mine collapse in Central African Republic leaves at least 100 dead",
-      "published_at": "2026-08-20T14:22:25.000Z",
-      "image": "https://s.france24.com/media/display/37dd4750-9ca0-11f1-9202-005056bfb2b6/w:1024/p:16x9/CAF-gold-mine-Still001.jpg",
-      "image_alt": "Gold mine collapse in Central African Republic leaves at least 100 dead",
+      "urgency": "Live",
+      "headline": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
+      "published_at": "2026-08-20T18:52:15.000Z",
+      "image": "https://s.france24.com/media/display/98b93596-9cbb-11f1-8e7d-005056bfb2b6/w:1024/p:16x9/AP25233365700332.jpg",
+      "image_alt": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -497,76 +566,7 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260820-gold-mine-collapse-in-central-african-republic-leaves-at-least-100-dead"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "missile-barrage-shows-russia-s-doubt-that-ukraine-can-defend-itself-1cdb6f02",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
-      "published_at": "2026-08-20T14:20:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
-      "image_alt": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "france-joins-european-powers-in-call-for-israel-to-halt-west-bank-sett-ce79bd91",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France joins European powers in call for Israel to halt West Bank settlement plan",
-      "published_at": "2026-08-20T18:22:20.000Z",
-      "image": "https://img.lemde.fr/2025/08/14/1409/0/8449/4224/644/322/60/0/7b0d5ef_upload-1-9r0otaqwjfxl-563864.jpg",
-      "image_alt": "France joins European powers in call for Israel to halt West Bank settlement plan",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/20/france-joins-european-powers-in-call-for-israel-to-halt-west-bank-settlement-plan_6756712_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "us-deports-20-people-to-liberia-the-first-of-1-200-migrants-under-trum-d3f34500",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "published_at": "2026-08-20T15:42:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
-      "image_alt": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement"
+          "url": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
         }
       ],
       "impact": 73
