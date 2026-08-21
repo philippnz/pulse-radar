@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:48:23.105Z",
+  "updated_at": "2026-08-21T21:19:01.096Z",
   "languages": [
     {
       "code": "en",
@@ -20,6 +20,29 @@
   ],
   "stories": [
     {
+      "id": "one-killed-in-sword-attack-at-swedish-school-acd96479",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "One killed in sword attack at Swedish school",
+      "published_at": "2026-08-21T21:03:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+      "image_alt": "One killed in sword attack at Swedish school",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
+    {
       "id": "russian-double-tap-drone-strike-kills-15-in-ukrainian-mall-officials-s-fcfb10d2",
       "region": "World",
       "topic": "Security",
@@ -38,29 +61,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 89
-    },
-    {
-      "id": "one-killed-in-sword-attack-at-swedish-school-acd96479",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "One killed in sword attack at Swedish school",
-      "published_at": "2026-08-21T19:22:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
-      "image_alt": "One killed in sword attack at Swedish school",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 89
@@ -86,7 +86,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 87
     },
     {
       "id": "western-allies-slam-israel-for-ending-world-central-kitchen-strike-pro-720792e9",
@@ -132,30 +132,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "iranian-president-masoud-pezeshkian-says-time-to-end-war-while-in-posi-119aea75",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iranian President Masoud Pezeshkian says time to end war while in position of strength",
-      "published_at": "2026-08-21T19:38:14.000Z",
-      "image": "https://img.lemde.fr/2026/08/08/212/0/2550/1275/644/322/60/0/a172786_ftp-1-rb9dxy3xso1l-2026-08-08t190306z-41190565-rc2iumayim5t-rtrmadp-3-iran-crisis.JPG",
-      "image_alt": "Iranian President Masoud Pezeshkian says time to end war while in position of strength",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/21/iranian-president-masoud-pezeshkian-says-time-to-end-war-while-in-position-of-strength_6756741_4.html"
-        }
-      ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "bolivia-s-president-rodrigo-paz-fires-economy-minister-amid-unrest-308e437b",
@@ -181,14 +158,14 @@
       "impact": 81
     },
     {
-      "id": "as-israel-elections-approach-public-debates-and-campaign-plaforms-avoi-c5f05bc6",
+      "id": "iranian-president-masoud-pezeshkian-says-time-to-end-war-while-in-posi-119aea75",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "As Israel elections approach, public debates and campaign plaforms avoid discussing end of war",
-      "published_at": "2026-08-21T18:30:03.000Z",
-      "image": "https://img.lemde.fr/2026/07/16/462/0/5775/2887/644/322/60/0/37a20c8_upload-1-t6un4sm5lsnb-ll-tel-aviv-08.jpg",
-      "image_alt": "As Israel elections approach, public debates and campaign plaforms avoid discussing end of war",
+      "headline": "Iranian President Masoud Pezeshkian says time to end war while in position of strength",
+      "published_at": "2026-08-21T19:38:14.000Z",
+      "image": "https://img.lemde.fr/2026/08/08/212/0/2550/1275/644/322/60/0/a172786_ftp-1-rb9dxy3xso1l-2026-08-08t190306z-41190565-rc2iumayim5t-rtrmadp-3-iran-crisis.JPG",
+      "image_alt": "Iranian President Masoud Pezeshkian says time to end war while in position of strength",
       "translations": {
         "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,7 +175,7 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/21/as-israel-elections-approach-public-debates-and-campaign-plaforms-avoid-discussing-end-of-war_6756740_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/21/iranian-president-masoud-pezeshkian-says-time-to-end-war-while-in-position-of-strength_6756741_4.html"
         }
       ],
       "impact": 81
@@ -227,6 +204,29 @@
       "impact": 80
     },
     {
+      "id": "as-israel-elections-approach-public-debates-and-campaign-plaforms-avoi-c5f05bc6",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "As Israel elections approach, public debates and campaign plaforms avoid discussing end of war",
+      "published_at": "2026-08-21T18:30:03.000Z",
+      "image": "https://img.lemde.fr/2026/07/16/462/0/5775/2887/644/322/60/0/37a20c8_upload-1-t6un4sm5lsnb-ll-tel-aviv-08.jpg",
+      "image_alt": "As Israel elections approach, public debates and campaign plaforms avoid discussing end of war",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/21/as-israel-elections-approach-public-debates-and-campaign-plaforms-avoid-discussing-end-of-war_6756740_4.html"
+        }
+      ],
+      "impact": 80
+    },
+    {
       "id": "iran-apos-s-president-time-to-end-war-in-apos-position-of-strength-apo-9895bbb2",
       "region": "Middle East",
       "topic": "Security",
@@ -248,29 +248,6 @@
         }
       ],
       "impact": 79
-    },
-    {
-      "id": "israeli-settlers-and-military-kill-2-palestinians-one-a-teenager-in-se-b703ada2",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
-      "published_at": "2026-08-21T19:53:39.000Z",
-      "image": "https://s.france24.com/media/display/d8c7774e-9d95-11f1-b516-005056a97e36/w:1024/p:16x9/AP26233454282893.jpg",
-      "image_alt": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings"
-        }
-      ],
-      "impact": 78
     },
     {
       "id": "millions-in-cuba-face-water-shortages-as-oil-crisis-deepens-00c7a6d3",
@@ -296,70 +273,24 @@
       "impact": 78
     },
     {
-      "id": "can-a-humanitarian-disaster-be-averted-in-somalia-28e98a1e",
-      "region": "World",
-      "topic": "World",
+      "id": "israeli-settlers-and-military-kill-2-palestinians-one-a-teenager-in-se-b703ada2",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Live",
-      "headline": "Can a humanitarian disaster be averted in Somalia?",
-      "published_at": "2026-08-21T20:27:14.000Z",
-      "image": "",
-      "image_alt": "Can a humanitarian disaster be averted in Somalia?",
+      "headline": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
+      "published_at": "2026-08-21T19:53:39.000Z",
+      "image": "https://s.france24.com/media/display/d8c7774e-9d95-11f1-b516-005056a97e36/w:1024/p:16x9/AP26233454282893.jpg",
+      "image_alt": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza-aa510ec5",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-      "published_at": "2026-08-21T20:16:59.000Z",
-      "image": "",
-      "image_alt": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "tupac-murder-accused-told-police-in-2008-his-nephew-fired-fatal-shots-c5b059bb",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "published_at": "2026-08-21T18:09:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings"
         }
       ],
       "impact": 77
@@ -386,6 +317,52 @@
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "can-a-humanitarian-disaster-be-averted-in-somalia-28e98a1e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Can a humanitarian disaster be averted in Somalia?",
+      "published_at": "2026-08-21T20:27:14.000Z",
+      "image": "",
+      "image_alt": "Can a humanitarian disaster be averted in Somalia?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza-aa510ec5",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "published_at": "2026-08-21T20:16:59.000Z",
+      "image": "",
+      "image_alt": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "us-supreme-court-allows-trump-s-ballroom-project-to-continue-for-now-44d84344",
@@ -454,7 +431,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "russian-drones-kill-15-people-at-a-shopping-mall-in-kryvyi-rig-b0a740bf",
@@ -526,50 +503,73 @@
       "impact": 72
     },
     {
-      "id": "deadly-double-tap-russian-drone-strikes-target-ukraine-shopping-centre-38f1f3da",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
-      "published_at": "2026-08-21T18:07:50.000Z",
-      "image": "https://s.france24.com/media/display/8b15b172-9d87-11f1-abb9-005056bfb2b6/w:1024/p:16x9/000-C69769G.jpg",
-      "image_alt": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
+      "id": "tupac-murder-accused-told-police-in-2008-his-nephew-fired-fatal-shots-c5b059bb",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Update",
+      "headline": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "published_at": "2026-08-21T18:09:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 72
     },
     {
-      "id": "turkey-seeks-interpol-arrest-warrant-for-netanyahu-over-gaza-flotilla--13fc5b7f",
-      "region": "Middle East",
+      "id": "uk-canada-and-australia-condemn-israel-for-refusing-criminal-probe-int-52e71dd5",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
-      "published_at": "2026-08-21T18:04:40.000Z",
-      "image": "https://s.france24.com/media/display/2afc8f5a-9d86-11f1-9994-005056a90284/w:1024/p:16x9/AP26141592813959.jpg",
-      "image_alt": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
+      "urgency": "Update",
+      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "published_at": "2026-08-21T15:58:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+      "image_alt": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "germany-identifies-a-plot-after-finding-a-weapons-cache-but-names-no-c-8e1bf309",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
+      "published_at": "2026-08-21T17:28:45.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-germany-guns-qthk/21int-germany-guns-qthk-mediumSquareAt3X.jpg",
+      "image_alt": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html"
+        }
+      ],
+      "impact": 69
     }
   ]
 }
