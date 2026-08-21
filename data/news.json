@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T02:41:47.603Z",
+  "updated_at": "2026-08-21T03:46:03.560Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "in-kyiv-fleeting-moments-of-celebration-stolen-from-the-war-never-in-m-18d542fa",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "In Kyiv, fleeting moments of celebration stolen from the war: 'Never in my life have I seen so many beautiful people in one place'",
+      "published_at": "2026-08-21T03:30:00.000Z",
+      "image": "https://img.lemde.fr/2026/08/14/2307/0/11084/5542/644/322/60/0/505e644_upload-1-iasxwpgu4t4l-vyrriyfest-018.jpg",
+      "image_alt": "In Kyiv, fleeting moments of celebration stolen from the war: 'Never in my life have I seen so many beautiful people in one place'",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/21/in-kyiv-fleeting-moments-of-celebration-stolen-from-the-war-never-in-my-life-have-i-seen-so-many-beautiful-people-in-one-place_6756723_117.html"
+        }
+      ],
+      "impact": 83
+    },
     {
       "id": "iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support-960ec12b",
       "region": "Middle East",
@@ -40,30 +63,30 @@
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
-      "id": "houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scal-fc821b10",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-      "published_at": "2026-08-20T23:19:56.000Z",
-      "image": "",
-      "image_alt": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "id": "hong-kong-s-tiananmen-activists-guilty-in-national-security-trial-84ce4047",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "published_at": "2026-08-21T02:59:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg",
+      "image_alt": "Hong Kong's Tiananmen activists guilty in national security trial",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 79
     },
     {
       "id": "bali-jails-swiss-tourist-for-insulting-sacred-day-of-silence-9c3702b3",
@@ -86,53 +109,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
-      "id": "us-sanctions-more-cuban-companies-and-officials-803ec282",
-      "region": "Americas",
-      "topic": "World",
+      "id": "pakistan-s-imran-khan-moved-to-hospital-after-supreme-court-order-ea57cd1d",
+      "region": "Asia-Pacific",
+      "topic": "Health",
       "urgency": "Live",
-      "headline": "US sanctions more Cuban companies and officials",
-      "published_at": "2026-08-21T02:06:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe7e/live/6f5d3d40-9cf8-11f1-a391-c70b9c8f5b34.jpg",
-      "image_alt": "US sanctions more Cuban companies and officials",
+      "headline": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
+      "published_at": "2026-08-21T03:08:09.000Z",
+      "image": "",
+      "image_alt": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "dozens-dead-after-boat-capsizes-in-north-western-nigeria-7e1d630f",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Dozens dead after boat capsizes in north-western Nigeria",
-      "published_at": "2026-08-20T20:27:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a98/live/09ab3ba0-9cd5-11f1-8a94-1b7813744e0b.jpg",
-      "image_alt": "Dozens dead after boat capsizes in north-western Nigeria",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
+      "impact": 77
     },
     {
       "id": "after-gerd-can-egypt-shape-ethiopia-s-next-nile-dams-ae3e1819",
@@ -155,7 +155,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-t-55015095",
@@ -178,7 +178,7 @@
           "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino-aa5069f0",
@@ -201,7 +201,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "after-six-years-harry-and-meghan-are-coming-home-what-changed-3cb7dcbc",
@@ -224,7 +224,7 @@
           "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "antigovernment-protesters-take-to-tunisia-s-streets-for-second-month-968dc124",
@@ -247,53 +247,30 @@
           "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "taliban-release-two-detained-un-staff-members-in-afghanistan-7f3a83a0",
-      "region": "World",
-      "topic": "World",
+      "id": "hong-kong-convicts-activists-in-national-security-trial-e105d3a2",
+      "region": "Europe",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Taliban release two detained UN staff members in Afghanistan",
-      "published_at": "2026-08-21T00:44:46.000Z",
+      "headline": "Hong Kong convicts activists in national security trial",
+      "published_at": "2026-08-21T02:39:00.000Z",
       "image": "",
-      "image_alt": "Taliban release two detained UN staff members in Afghanistan",
+      "image_alt": "Hong Kong convicts activists in national security trial",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "us-deports-nearly-2-300-mexicans-to-guatemala-over-mexico-s-objections-69ace051",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-      "published_at": "2026-08-21T00:12:37.000Z",
-      "image": "",
-      "image_alt": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "us-warns-allies-and-china-to-join-iran-economic-pressure-campaign-b17fdd39",
@@ -316,7 +293,99 @@
           "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "pueden-los-progresistas-de-estados-unidos-impulsar-el-crecimiento-econ-0da8ddb1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "¿Pueden los progresistas de Estados Unidos impulsar el crecimiento económico?",
+      "published_at": "2026-08-21T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/M2FC2GEEUZE6VDJPY62MVTVADI.jpg?auth=76f32c735149816584737c0056b3993c5be0b6c6187a1111123494e549d77558",
+      "image_alt": "¿Pueden los progresistas de Estados Unidos impulsar el crecimiento económico?",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/opinion/2026-08-21/pueden-los-progresistas-de-estados-unidos-impulsar-el-crecimiento-economico.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "de-estrecho-a-estrecho-es-el-turno-de-europa-4da9d87c",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "De estrecho a estrecho, es el turno de Europa",
+      "published_at": "2026-08-21T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/5ZQ6UBY7SVGXTHXXOOHNCVUTIU.JPG?auth=a01d8d2c07974e0340d391a4b3628dbb676e8e7f17ce2069f0215beb0a7ebfc6",
+      "image_alt": "De estrecho a estrecho, es el turno de Europa",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/opinion/2026-08-21/de-estrecho-a-estrecho-es-el-turno-de-europa.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "panama-canal-to-cut-ship-traffic-over-el-ni-o-fueled-drought-0f2815f4",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Panama Canal to cut ship traffic over El Niño-fueled drought",
+      "published_at": "2026-08-21T03:06:09.000Z",
+      "image": "https://img.lemde.fr/2026/08/20/458/0/5500/2750/644/322/60/0/0d1ab02_ftp-1-lgx6zqffrgeh-2026-08-20t221210z-1036966271-rc2n3kazmoq7-rtrmadp-3-panama-canal.JPG",
+      "image_alt": "Panama Canal to cut ship traffic over El Niño-fueled drought",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/08/21/panama-canal-to-cut-ship-traffic-over-el-nino-fueled-drought_6756722_19.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "el-ni-o-set-to-be-strongest-in-living-memory-says-met-office-53f6d659",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "El Niño set to be 'strongest in living memory', says Met Office",
+      "published_at": "2026-08-21T00:33:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg",
+      "image_alt": "El Niño set to be 'strongest in living memory', says Met Office",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "turkey-s-marine-park-plans-heighten-tensions-between-athens-and-ankara-51517eb0",
@@ -339,7 +408,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/21/turkey-s-marine-park-plans-heighten-tensions-between-athens-and-ankara-over-territorial-waters_6756720_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "first-of-1200-us-deportees-land-in-liberia-e2304991",
@@ -362,7 +431,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/21/first-of-1200-us-deportees-land-in-liberia_6756719_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "how-much-could-trump-s-economic-d-day-hurt-iran-7bad4a19",
@@ -385,7 +454,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "why-the-us-economy-is-ringing-alarm-bells-4f5d67d6",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Why the US economy is ringing alarm bells",
+      "published_at": "2026-08-20T23:15:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
+      "image_alt": "Why the US economy is ringing alarm bells",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "taliban-release-two-detained-un-staff-members-in-afghanistan-7f3a83a0",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Taliban release two detained UN staff members in Afghanistan",
+      "published_at": "2026-08-21T00:44:46.000Z",
+      "image": "",
+      "image_alt": "Taliban release two detained UN staff members in Afghanistan",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "us-deports-nearly-2-300-mexicans-to-guatemala-over-mexico-s-objections-69ace051",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+      "published_at": "2026-08-21T00:12:37.000Z",
+      "image": "",
+      "image_alt": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "trump-wants-to-be-friends-with-kim-0582391a",
@@ -408,7 +546,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
       "id": "nigeria-dozens-dead-after-boat-capsizes-in-sokoto-41edde31",
@@ -431,145 +569,7 @@
           "url": "https://www.dw.com/en/nigeria-dozens-dead-after-boat-capsizes-in-sokoto/a-78449903?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "syrian-kurds-announce-completion-of-civil-and-military-integration-wit-f9495a10",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Syrian Kurds announce completion of civil and military integration with Damascus",
-      "published_at": "2026-08-20T23:06:30.000Z",
-      "image": "https://img.lemde.fr/2026/08/20/350/0/4200/2100/644/322/60/0/8eb27ca_ftp-1-sqcjsdn9ky8o-5882555-01-06.jpg",
-      "image_alt": "Syrian Kurds announce completion of civil and military integration with Damascus",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/21/syrian-kurds-announce-completion-of-civil-and-military-integration-with-damascus_6756716_4.html"
-        }
-      ],
       "impact": 69
-    },
-    {
-      "id": "trump-tariff-talks-leave-key-canadian-official-hopeful-d2d717f9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump Tariff Talks Leave Key Canadian Official Hopeful",
-      "published_at": "2026-08-20T22:46:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
-      "image_alt": "Trump Tariff Talks Leave Key Canadian Official Hopeful",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "colombia-13-dead-in-illegal-gold-mine-collapse-35b00592",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Colombia: 13 dead in illegal gold mine collapse",
-      "published_at": "2026-08-20T16:11:00.000Z",
-      "image": "",
-      "image_alt": "Colombia: 13 dead in illegal gold mine collapse",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/colombia-13-dead-in-illegal-gold-mine-collapse/a-78449479?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "first-u-s-deportees-to-arrive-in-liberia-amid-growing-backlash-60af3c50",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
-      "published_at": "2026-08-20T22:18:55.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/20int-liberia-trump-deportees-1-fcjz/02int-liberia-trump-deportees-1-fcjz-mediumSquareAt3X.jpg",
-      "image_alt": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "como-mayor-hit-by-electric-bike-and-issues-blanket-ban-in-italian-city-8b65c32a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "published_at": "2026-08-20T20:08:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
-      "image_alt": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "academic-who-publicized-plagiarism-allegations-against-jason-arday-is--50613e31",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
-      "published_at": "2026-08-20T21:00:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/20int-arday-1-lzgc/21int-arday-1-lzgc-mediumSquareAt3X.jpg",
-      "image_alt": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html"
-        }
-      ],
-      "impact": 67
     }
   ]
 }
