@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:18:34.717Z",
+  "updated_at": "2026-08-21T22:49:06.708Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "two-injured-in-stabbing-attack-at-canada-sikh-temple-dff87b19",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Two injured in stabbing attack at Canada Sikh temple",
+      "published_at": "2026-08-21T22:45:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
+      "image_alt": "Two injured in stabbing attack at Canada Sikh temple",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 90
+    },
     {
       "id": "one-killed-in-sword-attack-at-swedish-school-acd96479",
       "region": "World",
@@ -40,7 +63,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 88
     },
     {
       "id": "russian-double-tap-drone-strike-kills-15-in-ukrainian-mall-officials-s-fcfb10d2",
@@ -63,7 +86,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 87
     },
     {
       "id": "one-killed-three-wounded-in-sword-attack-at-swedish-high-school-bedd4641",
@@ -89,29 +112,6 @@
       "impact": 86
     },
     {
-      "id": "two-injured-in-stabbing-attack-at-canada-sikh-temple-dff87b19",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Two injured in stabbing attack at Canada Sikh temple",
-      "published_at": "2026-08-21T18:27:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
-      "image_alt": "Two injured in stabbing attack at Canada Sikh temple",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
       "id": "sword-attack-in-sweden-leaves-one-dead-and-three-wounded-e8cae898",
       "region": "Europe",
       "topic": "Security",
@@ -132,7 +132,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/21/sword-attack-in-sweden-leaves-one-dead-and-three-wounded_6756745_4.html"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-sty-ddef2957",
@@ -181,29 +181,6 @@
       "impact": 80
     },
     {
-      "id": "bolivia-s-president-rodrigo-paz-fires-economy-minister-amid-unrest-308e437b",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
-      "published_at": "2026-08-21T20:07:40.000Z",
-      "image": "",
-      "image_alt": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
       "id": "iranian-president-masoud-pezeshkian-says-time-to-end-war-while-in-posi-119aea75",
       "region": "Middle East",
       "topic": "Security",
@@ -225,29 +202,6 @@
         }
       ],
       "impact": 80
-    },
-    {
-      "id": "palestinian-teenager-killed-after-israeli-settlers-enter-west-bank-vil-8a15b0cd",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "published_at": "2026-08-21T18:32:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg",
-      "image_alt": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html"
-        }
-      ],
-      "impact": 79
     },
     {
       "id": "as-israel-elections-approach-public-debates-and-campaign-plaforms-avoi-c5f05bc6",
@@ -273,6 +227,29 @@
       "impact": 79
     },
     {
+      "id": "palestinian-teenager-killed-after-israeli-settlers-enter-west-bank-vil-8a15b0cd",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "published_at": "2026-08-21T18:32:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg",
+      "image_alt": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
       "id": "iran-apos-s-president-time-to-end-war-in-apos-position-of-strength-apo-9895bbb2",
       "region": "Middle East",
       "topic": "Security",
@@ -293,30 +270,30 @@
           "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
-      "id": "millions-in-cuba-face-water-shortages-as-oil-crisis-deepens-00c7a6d3",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Breaking",
-      "headline": "Millions in Cuba face water shortages as oil crisis deepens",
-      "published_at": "2026-08-21T15:28:52.000Z",
-      "image": "https://s.france24.com/media/display/9f727442-9d74-11f1-9415-005056a97e36/w:1024/p:16x9/EN-20260821-170921-171124-CS.jpg",
-      "image_alt": "Millions in Cuba face water shortages as oil crisis deepens",
+      "id": "tiktok-settles-with-us-justice-department-for-400m-over-child-privacy--952cf309",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "TikTok settles with US Justice Department for $400m over child privacy laws",
+      "published_at": "2026-08-21T21:59:29.000Z",
+      "image": "",
+      "image_alt": "TikTok settles with US Justice Department for $400m over child privacy laws",
       "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-char-1905ebeb",
@@ -388,24 +365,24 @@
       "impact": 76
     },
     {
-      "id": "ukraine-apos-s-farmers-struggle-to-sell-harvest-amid-war-drought-213ed5f1",
+      "id": "millions-in-cuba-face-water-shortages-as-oil-crisis-deepens-00c7a6d3",
       "region": "Europe",
-      "topic": "Security",
+      "topic": "Markets",
       "urgency": "Breaking",
-      "headline": "Ukraine&apos;s farmers struggle to sell harvest amid war, drought",
-      "published_at": "2026-08-21T13:51:00.000Z",
-      "image": "",
-      "image_alt": "Ukraine&apos;s farmers struggle to sell harvest amid war, drought",
+      "headline": "Millions in Cuba face water shortages as oil crisis deepens",
+      "published_at": "2026-08-21T15:28:52.000Z",
+      "image": "https://s.france24.com/media/display/9f727442-9d74-11f1-9415-005056a97e36/w:1024/p:16x9/EN-20260821-170921-171124-CS.jpg",
+      "image_alt": "Millions in Cuba face water shortages as oil crisis deepens",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens"
         }
       ],
       "impact": 76
@@ -457,6 +434,29 @@
       "impact": 75
     },
     {
+      "id": "ukraine-apos-s-farmers-struggle-to-sell-harvest-amid-war-drought-213ed5f1",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukraine&apos;s farmers struggle to sell harvest amid war, drought",
+      "published_at": "2026-08-21T13:51:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine&apos;s farmers struggle to sell harvest amid war, drought",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 75
+    },
+    {
       "id": "us-supreme-court-allows-construction-of-trump-s-ballroom-for-now-79075778",
       "region": "Americas",
       "topic": "Society",
@@ -500,7 +500,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/21/russian-drones-kill-15-people-at-a-shopping-mall-in-kryvyi-rig_6756742_4.html"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "tupac-murder-accused-told-police-in-2008-his-nephew-fired-fatal-shots-c5b059bb",
@@ -523,7 +523,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
       "id": "uk-canada-and-australia-condemn-israel-for-refusing-criminal-probe-int-52e71dd5",
@@ -546,27 +546,27 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
-      "id": "germany-identifies-a-plot-after-finding-a-weapons-cache-but-names-no-c-8e1bf309",
-      "region": "Europe",
-      "topic": "World",
+      "id": "jd-vance-reportedly-mocks-carney-for-trying-to-out-tough-trump-on-trad-1a9e609c",
+      "region": "World",
+      "topic": "Markets",
       "urgency": "Update",
-      "headline": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
-      "published_at": "2026-08-21T17:28:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-germany-guns-qthk/21int-germany-guns-qthk-mediumSquareAt3X.jpg",
-      "image_alt": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
+      "headline": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+      "published_at": "2026-08-21T15:22:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e42ad8f4fd17e212b111b799f3ea2506",
+      "image_alt": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade"
         }
       ],
       "impact": 68
