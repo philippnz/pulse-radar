@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:16:09.563Z",
+  "updated_at": "2026-08-22T14:45:57.813Z",
   "languages": [
     {
       "code": "en",
@@ -40,7 +40,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 90
+      "impact": 89
     },
     {
       "id": "rescuers-dig-through-ukraine-mall-wreckage-as-zelensky-condemns-despic-fcfb10d2",
@@ -63,7 +63,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 88
+    },
+    {
+      "id": "what-did-war-with-the-us-reveal-about-iran-s-weapons-capabilities-c9461b4a",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "What did war with the US reveal about Iran’s weapons capabilities?",
+      "published_at": "2026-08-22T14:19:06.000Z",
+      "image": "",
+      "image_alt": "What did war with the US reveal about Iran’s weapons capabilities?",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss"
+        }
+      ],
+      "impact": 87
     },
     {
       "id": "carney-stands-up-to-trump-in-u-s-canada-trade-war-9d52b2af",
@@ -158,6 +181,29 @@
       "impact": 81
     },
     {
+      "id": "father-leaves-7-year-old-son-alone-on-mount-fuji-to-continue-hike-repo-47b46dfd",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "published_at": "2026-08-22T14:35:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
+      "image_alt": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
       "id": "concacaf-asks-infantino-to-skip-youth-event-amid-fifa-governance-crisi-d9701b64",
       "region": "World",
       "topic": "World",
@@ -181,6 +227,29 @@
       "impact": 80
     },
     {
+      "id": "how-a-trump-envoy-uses-vodka-and-dirty-jokes-to-conduct-u-s-diplomacy-8ff0107f",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy",
+      "published_at": "2026-08-22T14:38:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22belarus-envoy-01-lfmg/22belarus-envoy-01-lfmg-mediumSquareAt3X.jpg",
+      "image_alt": "How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
       "id": "canada-u-s-trade-war-escalates-as-talks-collapse-d18325f5",
       "region": "Americas",
       "topic": "Security",
@@ -201,7 +270,7 @@
           "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "man-utd-humiliated-at-hull-to-open-premier-league-account-47d7dbd0",
@@ -224,7 +293,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup--37c32b59",
@@ -247,53 +316,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "cities-compete-in-dizzying-gold-rush-to-be-japan-s-backup-capital-84c8170b",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
-      "published_at": "2026-08-22T13:14:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-mediumSquareAt3X.jpg",
-      "image_alt": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports-a5b259ac",
-      "region": "Asia-Pacific",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
-      "published_at": "2026-08-22T11:49:00.000Z",
-      "image": "",
-      "image_alt": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires-4a408a15",
@@ -342,24 +365,24 @@
       "impact": 76
     },
     {
-      "id": "jewish-activists-push-back-against-israeli-settlers-783ef4ba",
-      "region": "World",
+      "id": "cities-compete-in-dizzying-gold-rush-to-be-japan-s-backup-capital-84c8170b",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Jewish activists push back against Israeli settlers",
-      "published_at": "2026-08-22T12:51:55.000Z",
-      "image": "",
-      "image_alt": "Jewish activists push back against Israeli settlers",
+      "headline": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
+      "published_at": "2026-08-22T13:14:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-mediumSquareAt3X.jpg",
+      "image_alt": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html"
         }
       ],
       "impact": 76
@@ -388,6 +411,29 @@
       "impact": 76
     },
     {
+      "id": "myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports-a5b259ac",
+      "region": "Asia-Pacific",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
+      "published_at": "2026-08-22T11:49:00.000Z",
+      "image": "",
+      "image_alt": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 76
+    },
+    {
       "id": "canada-vows-dollar-for-dollar-response-as-us-puts-50-tariffs-on-some-g-de9106f8",
       "region": "Americas",
       "topic": "World",
@@ -411,14 +457,14 @@
       "impact": 75
     },
     {
-      "id": "the-berlin-wall-separated-his-family-its-legacy-still-endures-228cec0b",
+      "id": "jewish-activists-push-back-against-israeli-settlers-783ef4ba",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The Berlin Wall separated his family. Its legacy still endures",
-      "published_at": "2026-08-22T12:31:00.000Z",
+      "headline": "Jewish activists push back against Israeli settlers",
+      "published_at": "2026-08-22T12:51:55.000Z",
       "image": "",
-      "image_alt": "The Berlin Wall separated his family. Its legacy still endures",
+      "image_alt": "Jewish activists push back against Israeli settlers",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,10 +474,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss"
         }
       ],
       "impact": 75
+    },
+    {
+      "id": "spain-battles-forest-fire-a-short-drive-from-flash-flood-ebcb25c6",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Spain battles forest fire a short drive from flash flood",
+      "published_at": "2026-08-22T14:35:00.000Z",
+      "image": "",
+      "image_alt": "Spain battles forest fire a short drive from flash flood",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "lindsay-clancy-suffering-command-hallucination-when-she-killed-childre-424fbe8b",
@@ -477,52 +546,6 @@
           "url": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "one-killed-in-sword-attack-at-swedish-school-acd96479",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "One killed in sword attack at Swedish school",
-      "published_at": "2026-08-21T21:03:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
-      "image_alt": "One killed in sword attack at Swedish school",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "us-federal-judge-strikes-down-trump-s-permanent-visa-freeze-on-75-coun-168d23e6",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US federal judge strikes down Trump's permanent visa freeze on 75 countries",
-      "published_at": "2026-08-22T12:48:12.000Z",
-      "image": "https://img.lemde.fr/2026/08/22/500/0/6000/3000/644/322/60/0/96724bb_ftp-1-j1phre26odaj-5892651-01-06.jpg",
-      "image_alt": "US federal judge strikes down Trump's permanent visa freeze on 75 countries",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/22/us-federal-judge-strikes-down-trump-s-permanent-visa-freeze-on-75-countries_6756761_4.html"
-        }
-      ],
       "impact": 72
     },
     {
@@ -544,29 +567,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban-8daf04dc",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
-      "published_at": "2026-08-22T12:44:07.000Z",
-      "image": "https://s.france24.com/media/display/ed85732c-9e24-11f1-a4be-005056a97e36/w:1024/p:16x9/000-1UQ6ZV.jpg",
-      "image_alt": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban"
         }
       ],
       "impact": 72
