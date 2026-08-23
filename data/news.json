@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:17:13.706Z",
+  "updated_at": "2026-08-23T15:45:33.504Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "pezeshkian-says-iran-has-not-become-venezuela-despite-war-and-sanction-a13939c1",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+      "published_at": "2026-08-23T15:25:47.000Z",
+      "image": "",
+      "image_alt": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "iran-warns-gulf-states-not-to-join-trump-s-economic-war-f32f83af",
       "region": "Middle East",
@@ -40,7 +63,7 @@
           "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
       "id": "heavy-israeli-air-strike-hits-warehouse-in-central-gaza-4cf31a4e",
@@ -86,7 +109,7 @@
           "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
       "id": "zelensky-should-be-asked-what-he-knew-about-government-corruption-sack-c8561442",
@@ -107,52 +130,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "zelensky-says-his-ex-defense-minister-was-wrong-to-call-for-elections-ab1f35e4",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-      "published_at": "2026-08-23T14:09:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg",
-      "image_alt": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "the-week-in-pictures-a-french-woman-in-space-wildfires-in-europe-and-t-dd88a0df",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
-      "published_at": "2026-08-23T13:09:15.000Z",
-      "image": "https://s.france24.com/media/display/7c3e251e-9ede-11f1-a863-005056a97e36/w:1024/p:16x9/000-C4Y79ZQ.jpg",
-      "image_alt": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine"
         }
       ],
       "impact": 82
@@ -179,6 +156,52 @@
         }
       ],
       "impact": 82
+    },
+    {
+      "id": "zelensky-says-his-ex-defense-minister-was-wrong-to-call-for-elections-ab1f35e4",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "published_at": "2026-08-23T14:09:59.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg",
+      "image_alt": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "the-week-in-pictures-a-french-woman-in-space-wildfires-in-europe-and-t-dd88a0df",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
+      "published_at": "2026-08-23T13:09:15.000Z",
+      "image": "https://s.france24.com/media/display/7c3e251e-9ede-11f1-a863-005056a97e36/w:1024/p:16x9/000-C4Y79ZQ.jpg",
+      "image_alt": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "no-more-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war-3fb3f23f",
@@ -227,29 +250,6 @@
       "impact": 81
     },
     {
-      "id": "france-links-rise-in-drownings-to-heatwaves-95e7989a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France links rise in drownings to heatwaves",
-      "published_at": "2026-08-23T15:00:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
-      "image_alt": "France links rise in drownings to heatwaves",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
       "id": "the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us-c57d04dd",
       "region": "Americas",
       "topic": "World",
@@ -271,6 +271,29 @@
         }
       ],
       "impact": 80
+    },
+    {
+      "id": "france-links-rise-in-drownings-to-heatwaves-95e7989a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France links rise in drownings to heatwaves",
+      "published_at": "2026-08-23T15:00:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
+      "image_alt": "France links rise in drownings to heatwaves",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-98116f09",
@@ -339,29 +362,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
-    },
-    {
-      "id": "new-season-new-trim-042d59a9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'New season, new trim'",
-      "published_at": "2026-08-23T12:36:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png",
-      "image_alt": "'New season, new trim'",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 77
     },
     {
@@ -383,29 +383,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms-80bce3e7",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-      "published_at": "2026-08-23T13:50:02.000Z",
-      "image": "",
-      "image_alt": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -455,6 +432,29 @@
         }
       ],
       "impact": 76
+    },
+    {
+      "id": "nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms-80bce3e7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+      "published_at": "2026-08-23T13:50:02.000Z",
+      "image": "",
+      "image_alt": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "chelsea-preview-five-key-talking-points-for-2026-27-premier-league-sea-6d76d563",
@@ -526,29 +526,6 @@
       "impact": 75
     },
     {
-      "id": "zelenskyy-says-wartime-elections-could-destroy-ukraine-b419e45d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-      "published_at": "2026-08-23T12:19:12.000Z",
-      "image": "",
-      "image_alt": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
       "id": "zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine-374572a4",
       "region": "Europe",
       "topic": "World",
@@ -567,6 +544,29 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-fo-05689e32",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "published_at": "2026-08-23T14:48:39.000Z",
+      "image": "https://s.france24.com/media/display/ce24a5dc-9ef8-11f1-9fc5-005056a97e36/w:1024/p:16x9/EN-20260823-150058-150742-CS.jpg",
+      "image_alt": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine"
         }
       ],
       "impact": 73
