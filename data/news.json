@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:02:53.371Z",
+  "updated_at": "2026-08-23T02:42:02.430Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "swedish-sword-attack-victim-was-17-year-old-girl-police-say-91f9a2d4",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Swedish sword attack victim was 17-year-old girl, police say",
+      "published_at": "2026-08-23T01:34:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
+      "image_alt": "Swedish sword attack victim was 17-year-old girl, police say",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
     {
       "id": "syria-says-israeli-strike-near-damascus-violation-of-international-law-e31109fa",
       "region": "Middle East",
@@ -40,7 +63,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 85
     },
     {
       "id": "iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war-695577ed",
@@ -63,7 +86,7 @@
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
       "id": "iran-warns-nearby-nations-against-joining-us-economic-war-efforts-3b09486e",
@@ -86,7 +109,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 84
     },
     {
       "id": "carney-stands-up-to-trump-in-u-s-canada-trade-war-9d52b2af",
@@ -109,7 +132,7 @@
           "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html"
         }
       ],
-      "impact": 81
+      "impact": 79
     },
     {
       "id": "canada-u-s-trade-war-escalates-as-talks-collapse-d18325f5",
@@ -132,7 +155,7 @@
           "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "fourteen-killed-in-strike-on-myanmar-monastery-34784173",
@@ -155,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
       "id": "rescuers-dig-through-ukraine-mall-wreckage-as-zelensky-condemns-despic-fcfb10d2",
@@ -178,7 +201,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "thousands-flee-sudan-s-kordofan-fighting-for-relative-safety-of-el-obe-43f90f93",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+      "published_at": "2026-08-23T01:51:47.000Z",
+      "image": "",
+      "image_alt": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "iran-threatens-countries-that-join-us-economic-d-day-bf3874ab",
@@ -201,53 +247,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail-5c7f9e2f",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "published_at": "2026-08-22T22:12:00.000Z",
-      "image": "",
-      "image_alt": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-win-2730948a",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-      "published_at": "2026-08-22T22:29:07.000Z",
-      "image": "",
-      "image_alt": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "carney-calls-trump-s-fresh-tariffs-a-miscalculation-after-trade-talks--f4c36d47",
@@ -270,7 +270,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "the-slow-reconciliation-of-polish-and-ukrainian-memories-over-world-wa-eb348c6b",
@@ -291,29 +291,6 @@
         {
           "name": "Le Monde",
           "url": "https://www.lemonde.fr/en/international/article/2026/08/22/the-slow-reconciliation-of-polish-and-ukrainian-memories-over-world-war-ii-mass-graves_6756766_4.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-postal-service-shares-mail-in-ballot-restrictions-despite-court-rul-c7f99506",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-      "published_at": "2026-08-22T20:49:17.000Z",
-      "image": "",
-      "image_alt": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss"
         }
       ],
       "impact": 73
@@ -339,7 +316,7 @@
           "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "west-bank-children-through-the-lens-of-palestinian-photographer-sakir--149adfbd",
@@ -362,30 +339,30 @@
           "url": "https://www.lemonde.fr/en/summer-reads/article/2026/08/23/west-bank-children-through-the-lens-of-palestinian-photographer-sakir-khader_6756770_183.html"
         }
       ],
-      "impact": 72
+      "impact": 70
     },
     {
-      "id": "us-military-newspaper-editor-voices-censorship-fears-after-being-fired-524958d3",
+      "id": "canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail-5c7f9e2f",
       "region": "Americas",
-      "topic": "Security",
+      "topic": "Markets",
       "urgency": "Update",
-      "headline": "US military newspaper editor voices censorship fears after being fired",
-      "published_at": "2026-08-22T16:57:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
-      "image_alt": "US military newspaper editor voices censorship fears after being fired",
+      "headline": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+      "published_at": "2026-08-22T22:12:00.000Z",
+      "image": "",
+      "image_alt": "Canada to hit back with retaliatory tariffs after US trade talks fail",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
+      "impact": 70
     },
     {
       "id": "lebanon-s-efforts-to-tame-hezbollah-stall-amid-israel-war-1262d251",
@@ -408,7 +385,30 @@
           "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html"
         }
       ],
-      "impact": 72
+      "impact": 70
+    },
+    {
+      "id": "tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-win-2730948a",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Update",
+      "headline": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "published_at": "2026-08-22T22:29:07.000Z",
+      "image": "",
+      "image_alt": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss"
+        }
+      ],
+      "impact": 68
     },
     {
       "id": "carney-faces-crucial-test-after-walking-away-from-trump-s-deal-5fd4de93",
@@ -431,7 +431,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 68
     },
     {
       "id": "real-madrid-beat-espanyol-2-1-in-jose-mourinho-s-first-game-on-return-7b8b8bbe",
@@ -454,7 +454,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss"
         }
       ],
-      "impact": 69
+      "impact": 67
     },
     {
       "id": "open-air-cinema-brings-movie-nights-back-to-khartoum-d98c414f",
@@ -477,7 +477,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss"
         }
       ],
-      "impact": 69
+      "impact": 67
     },
     {
       "id": "how-two-british-historians-made-a-smash-hit-podcast-17eb2af7",
@@ -500,7 +500,7 @@
           "url": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html"
         }
       ],
-      "impact": 69
+      "impact": 67
     },
     {
       "id": "israeli-army-and-settlers-injure-several-palestinians-across-west-bank-3dd7db9e",
@@ -523,7 +523,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
         }
       ],
-      "impact": 68
+      "impact": 66
     },
     {
       "id": "father-leaves-7-year-old-son-alone-on-mount-fuji-to-continue-hike-47b46dfd",
@@ -546,7 +546,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 65
+      "impact": 63
     },
     {
       "id": "france-promises-interceptor-missiles-to-ukraine-after-latest-deadly-ru-4c2c08b5",
@@ -569,7 +569,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/22/france-promises-interceptor-missiles-to-ukraine-after-latest-deadly-russian-drone-strikes_6756768_4.html"
         }
       ],
-      "impact": 64
+      "impact": 62
     }
   ]
 }
