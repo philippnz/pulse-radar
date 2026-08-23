@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:46:27.945Z",
+  "updated_at": "2026-08-23T23:16:03.984Z",
   "languages": [
     {
       "code": "en",
@@ -19,29 +19,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
-      "published_at": "2026-08-23T18:02:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X-v2.jpg",
-      "image_alt": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
-        }
-      ],
-      "impact": 83
-    },
     {
       "id": "no-more-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war-3fb3f23f",
       "region": "Americas",
@@ -66,14 +43,14 @@
       "impact": 82
     },
     {
-      "id": "iran-warns-gulf-states-not-to-join-trump-s-economic-war-f32f83af",
-      "region": "Middle East",
+      "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-      "published_at": "2026-08-23T17:00:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+      "headline": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "published_at": "2026-08-23T18:02:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X-v2.jpg",
+      "image_alt": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,10 +60,33 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+          "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
         }
       ],
       "impact": 82
+    },
+    {
+      "id": "iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector-5ff0e3ea",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran discovers major new gas reserves amid war-hit energy sector",
+      "published_at": "2026-08-23T20:38:25.000Z",
+      "image": "https://s.france24.com/media/display/77eb385e-9f32-11f1-b8a9-005056a90284/w:1024/p:16x9/000-79QQ74D.jpg",
+      "image_alt": "Iran discovers major new gas reserves amid war-hit energy sector",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "zelenskyy-repeats-ukraine-not-behind-nord-stream-attack-3d7bf7cd",
@@ -112,6 +112,29 @@
       "impact": 81
     },
     {
+      "id": "iran-warns-gulf-states-not-to-join-trump-s-economic-war-f32f83af",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+      "published_at": "2026-08-23T17:00:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
       "id": "landslide-at-waste-mound-in-guinea-capital-kills-30-government-says-1a74238f",
       "region": "World",
       "topic": "Politics",
@@ -132,7 +155,7 @@
           "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "trump-waves-green-flag-to-start-indycar-race-through-washington-street-205682e3",
@@ -155,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0-4a67eda6",
@@ -176,98 +199,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "will-donald-trump-s-new-sanctions-against-iran-work-f04273c1",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Will Donald Trump’s new sanctions against Iran work?",
-      "published_at": "2026-08-23T21:34:53.000Z",
-      "image": "",
-      "image_alt": "Will Donald Trump’s new sanctions against Iran work?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "serbia-requests-international-assistance-to-battle-wildfires-dc574733",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Serbia requests international assistance to battle wildfires",
-      "published_at": "2026-08-23T21:27:57.000Z",
-      "image": "",
-      "image_alt": "Serbia requests international assistance to battle wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-envoy-tom-barrack-retracts-comment-that-syria-s-golan-is-occupied-c9c29d9d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "published_at": "2026-08-23T21:23:05.000Z",
-      "image": "",
-      "image_alt": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "landfill-collapse-kills-30-in-guinea-s-capital-after-heavy-rains-e13b5d39",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
-      "published_at": "2026-08-23T21:08:17.000Z",
-      "image": "",
-      "image_alt": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
         }
       ],
       "impact": 76
@@ -319,6 +250,98 @@
       "impact": 76
     },
     {
+      "id": "will-donald-trump-s-new-sanctions-against-iran-work-f04273c1",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Will Donald Trump’s new sanctions against Iran work?",
+      "published_at": "2026-08-23T21:34:53.000Z",
+      "image": "",
+      "image_alt": "Will Donald Trump’s new sanctions against Iran work?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "serbia-requests-international-assistance-to-battle-wildfires-dc574733",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Serbia requests international assistance to battle wildfires",
+      "published_at": "2026-08-23T21:27:57.000Z",
+      "image": "",
+      "image_alt": "Serbia requests international assistance to battle wildfires",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-envoy-tom-barrack-retracts-comment-that-syria-s-golan-is-occupied-c9c29d9d",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "published_at": "2026-08-23T21:23:05.000Z",
+      "image": "",
+      "image_alt": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "landfill-collapse-kills-30-in-guinea-s-capital-after-heavy-rains-e13b5d39",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
+      "published_at": "2026-08-23T21:08:17.000Z",
+      "image": "",
+      "image_alt": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
       "id": "is-israel-about-to-split-the-occupied-west-bank-in-half-22935629",
       "region": "Middle East",
       "topic": "World",
@@ -339,63 +362,17 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "severe-winds-toss-four-aircraft-across-italian-airport-tarmac-828fc1dc",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Severe winds toss four aircraft across Italian airport tarmac",
-      "published_at": "2026-08-23T20:00:22.000Z",
-      "image": "",
-      "image_alt": "Severe winds toss four aircraft across Italian airport tarmac",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
-        }
-      ],
       "impact": 74
     },
     {
-      "id": "photos-indycars-speed-past-washington-landmarks-as-part-of-freedom-250-678ce317",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-      "published_at": "2026-08-23T19:52:12.000Z",
-      "image": "",
-      "image_alt": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "macron-to-host-saudi-s-crown-prince-for-contested-visit-938329bc",
+      "id": "macron-hosts-saudi-s-crown-prince-for-contested-visit-938329bc",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Macron to host Saudi's crown prince for contested visit",
-      "published_at": "2026-08-23T21:47:24.000Z",
-      "image": "https://img.lemde.fr/2026/08/20/213/0/2048/1024/644/322/60/0/42b47a9_ftp-1-bvwg1hvierwc-2026-08-20t185538z-942739809-rc2vhbatt3ff-rtrmadp-3-france-saudi.JPG",
-      "image_alt": "Macron to host Saudi's crown prince for contested visit",
+      "headline": "Macron hosts Saudi's crown prince for contested visit",
+      "published_at": "2026-08-23T21:47:21.000Z",
+      "image": "https://img.lemde.fr/2026/08/23/31/0/3744/1872/644/322/60/0/7cdabe8_ftp-1-rblgyfk43fdu-edffaf9f900f4a8fb236b0fc118cc103-0-f96175eb16dc4b7aa9dd2fc803ad3ff2.jpg",
+      "image_alt": "Macron hosts Saudi's crown prince for contested visit",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -457,6 +434,29 @@
       "impact": 71
     },
     {
+      "id": "emergency-declared-in-nevada-as-wildfire-forces-evacuation-of-14-000-p-ce35a6f2",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Breaking",
+      "headline": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+      "published_at": "2026-08-23T15:54:21.000Z",
+      "image": "https://s.france24.com/media/display/2663320c-9f0a-11f1-a438-005056bfb2b6/w:1024/p:16x9/EN-20260823-171003-171105-CS.jpg",
+      "image_alt": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+      "translations": {
+        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people"
+        }
+      ],
+      "impact": 71
+    },
+    {
       "id": "guinea-rubbish-landfill-collapse-kills-30-c3bfba41",
       "region": "World",
       "topic": "World",
@@ -475,29 +475,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "france-links-sharp-rise-in-drownings-to-heatwaves-95e7989a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "France links sharp rise in drownings to heatwaves",
-      "published_at": "2026-08-23T17:39:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg",
-      "image_alt": "France links sharp rise in drownings to heatwaves",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 70
@@ -549,24 +526,47 @@
       "impact": 70
     },
     {
-      "id": "zelensky-says-his-ex-defense-minister-was-wrong-to-call-for-elections-ab1f35e4",
+      "id": "severe-winds-toss-four-aircraft-across-italian-airport-tarmac-828fc1dc",
       "region": "World",
-      "topic": "Security",
+      "topic": "World",
       "urgency": "Update",
-      "headline": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-      "published_at": "2026-08-23T14:09:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg",
-      "image_alt": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "headline": "Severe winds toss four aircraft across Italian airport tarmac",
+      "published_at": "2026-08-23T20:00:22.000Z",
+      "image": "",
+      "image_alt": "Severe winds toss four aircraft across Italian airport tarmac",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "photos-indycars-speed-past-washington-landmarks-as-part-of-freedom-250-678ce317",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "published_at": "2026-08-23T19:52:12.000Z",
+      "image": "",
+      "image_alt": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss"
         }
       ],
       "impact": 69
