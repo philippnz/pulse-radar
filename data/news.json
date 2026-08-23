@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:51:14.655Z",
+  "updated_at": "2026-08-23T10:18:44.041Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,73 @@
   ],
   "stories": [
     {
-      "id": "zelensky-has-questions-to-answer-about-corruption-in-his-government-sa-c8561442",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "published_at": "2026-08-23T09:37:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
-      "image_alt": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "id": "u-s-canada-trade-war-what-to-know-about-tariffs-and-the-negotiations-8d45e4a9",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+      "published_at": "2026-08-23T09:47:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-wwk-1-ztkm/22int-canada-trade-wwk-1-ztkm-mediumSquareAt3X.jpg",
+      "image_alt": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html"
         }
       ],
-      "impact": 85
+      "impact": 87
+    },
+    {
+      "id": "israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-5215cd02",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+      "published_at": "2026-08-23T09:43:47.000Z",
+      "image": "",
+      "image_alt": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "published_at": "2026-08-23T09:01:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X.jpg",
+      "image_alt": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
+        }
+      ],
+      "impact": 86
     },
     {
       "id": "photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with--a7e8d01a",
@@ -66,27 +112,27 @@
       "impact": 85
     },
     {
-      "id": "carney-stands-up-to-trump-in-u-s-canada-trade-war-9d52b2af",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "published_at": "2026-08-23T07:15:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-analysis-SUB-hpcv/22int-canada-trade-analysis-SUB-hpcv-mediumSquareAt3X.jpg",
-      "image_alt": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "id": "zelensky-has-questions-to-answer-about-corruption-in-his-government-sa-c8561442",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "published_at": "2026-08-23T09:37:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+      "image_alt": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
       "id": "girl-17-killed-in-swedish-sword-attack-police-say-91f9a2d4",
@@ -109,53 +155,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "kazakhstan-holds-parliamentary-election-expected-to-cement-president-s-f6ea4b2c",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-      "published_at": "2026-08-23T07:38:42.000Z",
-      "image": "",
-      "image_alt": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "infantino-defies-fifa-vice-president-makes-appearance-in-the-caribbean-f8171cec",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-      "published_at": "2026-08-23T07:22:37.000Z",
-      "image": "",
-      "image_alt": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 81
     },
     {
       "id": "middle-east-live-iran-s-president-says-country-facing-many-problems-as-0d5f455c",
@@ -176,29 +176,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-t-a88976a9",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
-      "published_at": "2026-08-23T09:02:22.000Z",
-      "image": "https://s.france24.com/media/display/ae4b6f1e-9ecd-11f1-b052-005056bf30b7/w:1024/p:16x9/EN-20260823-100144-100323-CS.jpg",
-      "image_alt": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
-      "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs"
         }
       ],
       "impact": 78
@@ -227,24 +204,47 @@
       "impact": 78
     },
     {
-      "id": "37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan-8905e153",
-      "region": "Asia-Pacific",
-      "topic": "Climate",
+      "id": "how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped-b6e6a83f",
+      "region": "World",
+      "topic": "Health",
       "urgency": "Live",
-      "headline": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-      "published_at": "2026-08-23T09:21:12.000Z",
+      "headline": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
+      "published_at": "2026-08-23T10:00:20.000Z",
       "image": "",
-      "image_alt": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+      "image_alt": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "what-canadian-goods-will-take-trump-s-50-tariffs-some-pretty-strange-i-c708dbe4",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+      "published_at": "2026-08-23T09:44:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/23/world/23int-canada-tariffs-combo/23int-canada-tariffs-combo-mediumSquareAt3X.jpg",
+      "image_alt": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html"
         }
       ],
       "impact": 77
@@ -273,24 +273,24 @@
       "impact": 77
     },
     {
-      "id": "where-water-conflicts-pose-the-biggest-threat-in-2026-86227b10",
-      "region": "World",
-      "topic": "World",
+      "id": "us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-t-a88976a9",
+      "region": "Americas",
+      "topic": "Markets",
       "urgency": "Live",
-      "headline": "Where water conflicts pose the biggest threat in 2026",
-      "published_at": "2026-08-23T09:13:23.000Z",
-      "image": "",
-      "image_alt": "Where water conflicts pose the biggest threat in 2026",
+      "headline": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+      "published_at": "2026-08-23T09:02:22.000Z",
+      "image": "https://s.france24.com/media/display/ae4b6f1e-9ecd-11f1-b052-005056bf30b7/w:1024/p:16x9/EN-20260823-100144-100323-CS.jpg",
+      "image_alt": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs"
         }
       ],
       "impact": 77
@@ -319,14 +319,37 @@
       "impact": 77
     },
     {
-      "id": "israeli-wounded-in-occupied-west-bank-stabbing-35e8e124",
+      "id": "37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan-8905e153",
+      "region": "Asia-Pacific",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+      "published_at": "2026-08-23T09:21:12.000Z",
+      "image": "",
+      "image_alt": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "where-water-conflicts-pose-the-biggest-threat-in-2026-86227b10",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli wounded in occupied West Bank stabbing",
-      "published_at": "2026-08-23T08:38:01.000Z",
+      "headline": "Where water conflicts pose the biggest threat in 2026",
+      "published_at": "2026-08-23T09:13:23.000Z",
       "image": "",
-      "image_alt": "Israeli wounded in occupied West Bank stabbing",
+      "image_alt": "Where water conflicts pose the biggest threat in 2026",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -336,7 +359,30 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "echoing-trump-latin-america-s-leaders-boost-allies-across-borders-c7b26649",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "published_at": "2026-08-23T09:01:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-latam-diplo-bmhl/23int-latam-diplo-bmhl-mediumSquareAt3X.jpg",
+      "image_alt": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html"
         }
       ],
       "impact": 76
@@ -363,6 +409,29 @@
         }
       ],
       "impact": 76
+    },
+    {
+      "id": "israeli-wounded-in-occupied-west-bank-stabbing-35e8e124",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli wounded in occupied West Bank stabbing",
+      "published_at": "2026-08-23T08:38:01.000Z",
+      "image": "",
+      "image_alt": "Israeli wounded in occupied West Bank stabbing",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "flooding-across-caracas-venezuela-after-heavy-rains-a40bd81d",
@@ -431,7 +500,7 @@
           "url": "https://www.france24.com/en/hundreds-of-gaza-children-join-a-mass-swimming-lesson-to-cope-with-trauma"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "venezuela-two-months-after-the-quake-12-500-people-still-live-in-tempo-b44b0337",
@@ -454,7 +523,7 @@
           "url": "https://www.france24.com/en/venezuela-two-months-after-the-quake-12-500-people-still-live-in-temporary-camps"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "why-saudi-arabia-is-spending-billions-to-become-a-global-esports-power-fe573a8b",
@@ -477,7 +546,7 @@
           "url": "https://www.france24.com/en/why-saudi-arabia-is-spending-billions-to-become-a-global-esports-power"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
       "id": "what-is-the-apos-political-firewall-apos-against-germany-apos-s-far-ri-03e1c854",
@@ -498,75 +567,6 @@
         {
           "name": "Deutsche Welle",
           "url": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-ccb645f3",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine: Zelensky asks for more Patriot interceptors as civilian deaths hit highest level since 2022",
-      "published_at": "2026-08-23T09:05:59.000Z",
-      "image": "https://s.france24.com/media/display/bc9aecb8-9ed0-11f1-a7a9-005056a90284/w:1024/p:16x9/EN-20260823-100804-100940-CS.jpg",
-      "image_alt": "Ukraine: Zelensky asks for more Patriot interceptors as civilian deaths hit highest level since 2022",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-hit-highest-level-since-2022"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "south-korea-tests-arctic-route-with-a-first-container-shipped-to-europ-498bfe87",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Korea tests Arctic route with a first container shipped to Europe",
-      "published_at": "2026-08-23T09:03:56.000Z",
-      "image": "https://s.france24.com/media/display/6bf95958-9ecf-11f1-8cd2-005056bfb2b6/w:1024/p:16x9/EN-20260823-100613-100727-CS.jpg",
-      "image_alt": "South Korea tests Arctic route with a first container shipped to Europe",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "iran-escalates-threats-as-us-pushes-economic-isolation-fd40f7f1",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran escalates threats as US pushes economic isolation",
-      "published_at": "2026-08-23T09:02:14.000Z",
-      "image": "https://s.france24.com/media/display/d751d94c-9ece-11f1-888f-005056a97e36/w:1024/p:16x9/EN-20260823-100400-100544-CS.jpg",
-      "image_alt": "Iran escalates threats as US pushes economic isolation",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation"
         }
       ],
       "impact": 73
