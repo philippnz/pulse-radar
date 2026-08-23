@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:56:00.217Z",
+  "updated_at": "2026-08-23T19:20:16.374Z",
   "languages": [
     {
       "code": "en",
@@ -20,29 +20,6 @@
   ],
   "stories": [
     {
-      "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
-      "published_at": "2026-08-23T18:02:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X-v2.jpg",
-      "image_alt": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
-        }
-      ],
-      "impact": 87
-    },
-    {
       "id": "trump-has-run-out-of-options-in-iran-war-stephen-walt-1590ed4d",
       "region": "Middle East",
       "topic": "Security",
@@ -61,6 +38,29 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "published_at": "2026-08-23T18:02:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X-v2.jpg",
+      "image_alt": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
         }
       ],
       "impact": 86
@@ -89,6 +89,29 @@
       "impact": 86
     },
     {
+      "id": "trump-says-canada-wants-benefits-of-being-us-state-after-trade-talks-c-f4c36d47",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "published_at": "2026-08-23T19:11:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+      "image_alt": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
       "id": "iran-warns-gulf-states-not-to-join-trump-s-economic-war-f32f83af",
       "region": "Middle East",
       "topic": "Security",
@@ -109,7 +132,30 @@
           "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
         }
       ],
-      "impact": 86
+      "impact": 85
+    },
+    {
+      "id": "palestinian-teen-killed-in-israeli-raid-buried-in-occupied-west-bank-6cc64a16",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+      "published_at": "2026-08-23T18:47:11.000Z",
+      "image": "",
+      "image_alt": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "could-russia-apos-s-growing-fuel-crisis-help-end-the-ukraine-war-455c4f21",
@@ -201,7 +247,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "the-lesson-from-canada-s-collapsed-trade-talks-with-the-us-negotiation-05a262ac",
@@ -224,7 +270,30 @@
           "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "zhou-bo-china-s-alternative-to-western-power-c147a1c2",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Zhou Bo: China’s alternative to Western power",
+      "published_at": "2026-08-23T19:00:56.000Z",
+      "image": "",
+      "image_alt": "Zhou Bo: China’s alternative to Western power",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "the-week-in-pictures-a-french-woman-in-space-wildfires-in-europe-and-t-dd88a0df",
@@ -245,52 +314,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "video-thousands-of-families-flee-fighting-in-sudan-s-north-kordofan-st-a3ba3e62",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-      "published_at": "2026-08-23T18:27:46.000Z",
-      "image": "",
-      "image_alt": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "what-to-know-about-the-ebola-outbreak-centered-in-congo-e2ff27ba",
-      "region": "Africa",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "What to Know About the Ebola Outbreak Centered in Congo",
-      "published_at": "2026-08-23T18:04:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ebola-wtk01a-photo-qwhj/23int-ebola-wtk01a-photo-qwhj-mediumSquareAt3X.jpg",
-      "image_alt": "What to Know About the Ebola Outbreak Centered in Congo",
-      "translations": {
-        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
         }
       ],
       "impact": 77
@@ -317,6 +340,52 @@
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "video-thousands-of-families-flee-fighting-in-sudan-s-north-kordofan-st-a3ba3e62",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "published_at": "2026-08-23T18:27:46.000Z",
+      "image": "",
+      "image_alt": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "what-to-know-about-the-ebola-outbreak-centered-in-congo-e2ff27ba",
+      "region": "Africa",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "What to Know About the Ebola Outbreak Centered in Congo",
+      "published_at": "2026-08-23T18:04:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ebola-wtk01a-photo-qwhj/23int-ebola-wtk01a-photo-qwhj-mediumSquareAt3X.jpg",
+      "image_alt": "What to Know About the Ebola Outbreak Centered in Congo",
+      "translations": {
+        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "tunisia-sees-protests-after-migrant-boat-sinking-kills-eight-d1df1b43",
@@ -385,30 +454,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "photos-ukraine-celebrates-national-flag-day-12c5240b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Photos: Ukraine celebrates National Flag Day",
-      "published_at": "2026-08-23T17:18:25.000Z",
-      "image": "",
-      "image_alt": "Photos: Ukraine celebrates National Flag Day",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "emergency-declared-in-nevada-as-wildfire-forces-evacuation-of-14-000-p-ce35a6f2",
@@ -429,52 +475,6 @@
         {
           "name": "France 24",
           "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "live-elche-vs-barcelona-la-liga-60008b3e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "LIVE: Elche vs Barcelona – La Liga",
-      "published_at": "2026-08-23T16:50:00.000Z",
-      "image": "",
-      "image_alt": "LIVE: Elche vs Barcelona – La Liga",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "what-canadian-goods-will-take-trump-s-50-tariffs-some-pretty-strange-i-c708dbe4",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-      "published_at": "2026-08-23T16:14:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/23/world/23int-canada-tariffs-combo/23int-canada-tariffs-combo-mediumSquareAt3X.jpg",
-      "image_alt": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html"
         }
       ],
       "impact": 75
