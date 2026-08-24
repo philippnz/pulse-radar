@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:41:31.611Z",
+  "updated_at": "2026-08-24T10:32:35.032Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two-c684e04f",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "US military says strike on alleged drug-smuggling boat kills two",
+      "published_at": "2026-08-24T09:58:03.000Z",
+      "image": "",
+      "image_alt": "US military says strike on alleged drug-smuggling boat kills two",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "u-s-marines-cancel-drill-with-south-korea-citing-iran-war-demands-82be4bd0",
       "region": "Middle East",
@@ -48,7 +71,7 @@
       "topic": "Climate",
       "urgency": "Breaking",
       "headline": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "published_at": "2026-08-24T08:34:26.000Z",
+      "published_at": "2026-08-24T10:08:40.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e00/live/287ab570-9f95-11f1-b109-879e35c24276.jpg",
       "image_alt": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "translations": {
@@ -63,10 +86,33 @@
           "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 85
     },
     {
-      "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-6229a284",
+      "id": "war-torn-ukraine-celebrates-resilience-on-anniversary-of-its-independe-2b09a3b2",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "War-torn Ukraine celebrates resilience on anniversary of its independence",
+      "published_at": "2026-08-24T09:56:58.000Z",
+      "image": "https://s.france24.com/media/display/419aa8a0-9ef3-11f1-8f5d-005056bfb2b6/w:1024/p:16x9/2026-08-23T095230Z-1128688101-RC274NA1775D-RTRMADP-3-UKRAINE-CRISIS-FLAG-DAY.jpg",
+      "image_alt": "War-torn Ukraine celebrates resilience on anniversary of its independence",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/war-torn-ukraine-celebrates-resilience-on-anniversary-of-its-independence"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-a7bbdcb1",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
@@ -83,10 +129,10 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html"
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "despite-ceasefire-israeli-strikes-still-kill-in-gaza-and-the-west-bank-e524e146",
@@ -109,7 +155,7 @@
           "url": "https://www.france24.com/en/despite-ceasefire-israeli-strikes-still-kill-in-gaza-and-the-west-bank"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
@@ -132,7 +178,7 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "where-iran-s-young-people-gather-the-government-sees-threats-to-its-au-2bf6f342",
@@ -155,30 +201,30 @@
           "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
-      "id": "kazakhstan-s-newly-formed-pro-government-party-wins-parliamentary-elec-faa03352",
-      "region": "World",
-      "topic": "Politics",
+      "id": "eu-releases-6-1-billion-in-military-aid-for-ukraine-03c1ec8b",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Live",
-      "headline": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
-      "published_at": "2026-08-24T08:29:54.000Z",
-      "image": "",
-      "image_alt": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
+      "headline": "EU releases €6.1 billion in military aid for Ukraine",
+      "published_at": "2026-08-24T10:06:02.000Z",
+      "image": "https://img.lemde.fr/2025/08/17/593/0/7518/3759/644/322/60/0/f691b86_ftp-import-images-1-pehmscncf007-1d744b4e7f1c4b14a9d205514c8d54cc-0-8ae81a55b2dc407a9539b3bae3e87fc2.jpg",
+      "image_alt": "EU releases €6.1 billion in military aid for Ukraine",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/24/eu-releases-6-1-billion-in-military-aid-for-ukraine_6756790_4.html"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
       "id": "king-of-norway-s-health-has-worsened-palace-says-cbd15a41",
@@ -201,7 +247,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "ukraine-s-offensive-against-russia-causes-petrol-panic-across-central--fe31b04d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+      "published_at": "2026-08-24T10:11:19.000Z",
+      "image": "",
+      "image_alt": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "syria-and-israel-hold-u-s-mediated-talks-to-try-to-ease-tensions-d79f6e05",
@@ -224,7 +293,30 @@
           "url": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "dozens-of-coordinated-arson-attacks-carried-out-across-thailand-85309474",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Dozens of coordinated arson attacks carried out across Thailand",
+      "published_at": "2026-08-24T09:44:57.000Z",
+      "image": "",
+      "image_alt": "Dozens of coordinated arson attacks carried out across Thailand",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-gov-76327fab",
@@ -247,7 +339,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win-b1ed90e7",
@@ -270,7 +362,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league-f8463bad",
@@ -293,7 +385,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "us-threat-of-economic-d-day-for-iran-tests-trump-s-china-detente-d02361da",
@@ -316,30 +408,7 @@
           "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli-48517369",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
-      "published_at": "2026-08-24T09:08:25.000Z",
-      "image": "",
-      "image_alt": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "some-of-russia-s-a-i-drones-are-powered-by-nvidia-microcomputers-ukrai-1752d086",
@@ -362,7 +431,7 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
@@ -370,7 +439,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "published_at": "2026-08-24T09:02:25.000Z",
+      "published_at": "2026-08-24T09:02:26.000Z",
       "image": "",
       "image_alt": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
       "translations": {
@@ -385,7 +454,7 @@
           "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "mexico-s-tourist-beaches-grapple-with-sargassum-crisis-4e05b9d9",
@@ -408,7 +477,7 @@
           "url": "https://www.lemonde.fr/en/environment/article/2026/08/24/mexico-s-tourist-beaches-grapple-with-sargassum-crisis_6756788_114.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "germany-news-state-premier-visits-vw-for-crisis-talks-c17820c0",
@@ -431,86 +500,40 @@
           "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "maradona-s-hand-of-god-ball-sells-for-2-5m-35e497cb",
+      "id": "children-make-up-half-of-mpox-cases-in-guinea-bissau-as-epidemic-sprea-dd3abd4d",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "published_at": "2026-08-24T06:55:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg",
-      "image_alt": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "headline": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+      "published_at": "2026-08-24T10:11:34.000Z",
+      "image": "https://i.guim.co.uk/img/media/d2a4be74e38b869df6f4dd0020e652ff3c0cfa37/1005_0_1339_1072/master/1339.jpg?width=140&quality=85&auto=format&fit=max&s=d796a93349fdb0d90ada0d6b0b5f5fd3",
+      "image_alt": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "e1-settlement-why-netanyahu-israel-s-right-might-not-mind-global-outra-5e5f6250",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
-      "published_at": "2026-08-24T08:45:10.000Z",
-      "image": "",
-      "image_alt": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "barrel-bomb-mufti-ahmad-hassoun-handed-life-sentence-in-syria-trial-295cc0d1",
-      "region": "Middle East",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-      "published_at": "2026-08-24T08:18:12.000Z",
-      "image": "",
-      "image_alt": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "strategic-talks-in-paris-show-france-and-saudi-arabia-need-each-other--c06641e8",
+      "id": "volkswagen-warns-germany-s-car-making-industry-is-in-jeopardy-d9e8085f",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Strategic talks in Paris show France and Saudi Arabia 'need each other too much'",
-      "published_at": "2026-08-24T09:27:33.000Z",
-      "image": "https://s.france24.com/media/display/d6b1c802-9f33-11f1-b0a8-005056bf30b7/w:1024/p:16x9/000-C6C93GR.jpg",
-      "image_alt": "Strategic talks in Paris show France and Saudi Arabia 'need each other too much'",
+      "headline": "Volkswagen warns Germany's car-making industry is in jeopardy",
+      "published_at": "2026-08-24T10:19:36.000Z",
+      "image": "https://s.france24.com/media/display/ea445c60-9fa4-11f1-ae7d-005056a97e36/w:1024/p:16x9/2026-08-21T155331Z-1237195031-RC2DAMADCSJE-RTRMADP-3-VOLKSWAGEN-CEO.jpg",
+      "image_alt": "Volkswagen warns Germany's car-making industry is in jeopardy",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -520,53 +543,30 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/strategic-talks-in-paris-show-france-and-saudi-arabia-need-each-other-too-much"
+          "url": "https://www.france24.com/en/volkswagen-warns-germany-s-car-making-industry-is-in-jeopardy"
         }
       ],
       "impact": 73
     },
     {
-      "id": "european-leaders-rally-in-kyiv-to-celebrate-ukraine-s-independence-day-01164d2d",
+      "id": "iran-condemns-france-s-illegal-move-to-expel-two-diplomats-55712c32",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "European leaders rally in Kyiv to celebrate Ukraine's Independence Day",
-      "published_at": "2026-08-24T09:12:24.000Z",
-      "image": "https://s.france24.com/media/display/00505a16-9f57-11f1-a4f1-005056bf30b7/w:1024/p:16x9/AP26235592155543.jpg",
-      "image_alt": "European leaders rally in Kyiv to celebrate Ukraine's Independence Day",
+      "headline": "Iran condemns France's 'illegal' move to expel two diplomats",
+      "published_at": "2026-08-24T10:12:06.000Z",
+      "image": "https://img.lemde.fr/2026/08/24/0/0/2721/1360/644/322/60/0/e31db1e_ftp-1-sd6ve7yz8pbn-5910429-01-06.jpg",
+      "image_alt": "Iran condemns France's 'illegal' move to expel two diplomats",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/european-leaders-rally-in-kyiv-to-celebrate-ukraine-s-independence-day"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "scientists-discover-new-apos-immune-hubs-apos-in-skull-bone-marrow-7c522c97",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Scientists discover new &apos;immune hubs&apos; in skull bone marrow",
-      "published_at": "2026-08-24T08:17:00.000Z",
-      "image": "",
-      "image_alt": "Scientists discover new &apos;immune hubs&apos; in skull bone marrow",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/scientists-discover-new-immune-hubs-in-skull-bone-marrow/a-78460417?maca=en-rss-en-top-1022-rdf"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/24/iran-condemns-france-s-illegal-move-to-expel-two-diplomats_6756791_4.html"
         }
       ],
       "impact": 73
