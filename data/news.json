@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T02:42:38.509Z",
+  "updated_at": "2026-08-24T03:50:34.891Z",
   "languages": [
     {
       "code": "en",
@@ -40,17 +40,40 @@
           "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 87
     },
     {
-      "id": "iran-war-live-iranian-parliament-advances-plans-for-hormuz-service-fee-cf24da5f",
+      "id": "shein-aims-for-almost-27bn-valuation-in-stock-market-debut-8bcb9c0f",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Shein aims for almost $27bn valuation in stock market debut",
+      "published_at": "2026-08-24T02:05:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg",
+      "image_alt": "Shein aims for almost $27bn valuation in stock market debut",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "iran-war-live-us-vows-economic-d-day-tehran-threatens-gulf-oil-exports-cf24da5f",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "headline": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
       "published_at": "2026-08-24T00:00:00.000Z",
       "image": "",
-      "image_alt": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "image_alt": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -63,7 +86,53 @@
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
+    },
+    {
+      "id": "human-caused-nevada-wildfire-forces-42-000-people-to-evacuate-a5616067",
+      "region": "World",
+      "topic": "Climate",
+      "urgency": "Breaking",
+      "headline": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
+      "published_at": "2026-08-24T02:55:39.000Z",
+      "image": "",
+      "image_alt": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "nearly-3-million-teslas-recalled-in-china-over-hidden-door-handles-398564c7",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "published_at": "2026-08-24T03:27:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg",
+      "image_alt": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
@@ -84,29 +153,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector-5ff0e3ea",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran discovers major new gas reserves amid war-hit energy sector",
-      "published_at": "2026-08-23T20:38:25.000Z",
-      "image": "https://s.france24.com/media/display/77eb385e-9f32-11f1-b8a9-005056a90284/w:1024/p:16x9/000-79QQ74D.jpg",
-      "image_alt": "Iran discovers major new gas reserves amid war-hit energy sector",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector"
         }
       ],
       "impact": 78
@@ -132,7 +178,7 @@
           "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "iran-warns-gulf-states-not-to-join-trump-s-economic-war-f32f83af",
@@ -155,7 +201,7 @@
           "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
         }
       ],
-      "impact": 78
+      "impact": 77
     },
     {
       "id": "zelenskyy-repeats-ukraine-not-behind-nord-stream-attack-3d7bf7cd",
@@ -178,7 +224,30 @@
           "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 76
+    },
+    {
+      "id": "can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs-bb6cfb8c",
+      "region": "Africa",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
+      "published_at": "2026-08-24T02:09:40.000Z",
+      "image": "",
+      "image_alt": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
+      "translations": {
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "ebola-cases-in-drc-hit-5-515-as-pope-leo-urges-global-action-to-save-l-9854892a",
@@ -201,7 +270,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi-29611a17",
@@ -224,53 +293,30 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "large-forest-fire-burns-close-to-residential-areas-in-ankara-616a6963",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Large forest fire burns close to residential areas in Ankara",
-      "published_at": "2026-08-24T00:30:00.000Z",
-      "image": "",
-      "image_alt": "Large forest fire burns close to residential areas in Ankara",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "tokayev-allies-head-for-landslide-victory-in-kazakhstan-elections-f7522384",
-      "region": "World",
+      "id": "una-redada-46-historias-truncadas-me-falta-la-vida-sin-mi-hija-435aa4a7",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Tokayev allies head for landslide victory in Kazakhstan elections",
-      "published_at": "2026-08-24T00:12:21.000Z",
-      "image": "",
-      "image_alt": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "headline": "Una redada, 46 historias truncadas: “Me falta la vida sin mi hija”",
+      "published_at": "2026-08-24T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/VBBUSEOO7RFYTJR6H4JN3V6VYA.jpg?auth=021bceea6e841686fb19b7217f43f8f7c61b88147f244705cc09996fbb40c847",
+      "image_alt": "Una redada, 46 historias truncadas: “Me falta la vida sin mi hija”",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss"
+          "name": "El Pais",
+          "url": "https://elpais.com/us/migracion/2026-08-24/una-redada-46-historias-truncadas-me-falta-la-vida-sin-mi-hija.html"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
       "id": "venezuelan-photographer-silvana-trevale-s-captivating-photos-of-joy-am-113b4819",
@@ -293,30 +339,7 @@
           "url": "https://www.lemonde.fr/en/summer-reads/article/2026/08/24/venezuelan-photographer-silvana-trevale-s-captivating-photos-of-joy-amidst-the-whirlwind-of-collapse_6756787_183.html"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "trump-says-canada-wants-benefits-of-being-us-state-after-trade-talks-c-f4c36d47",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "published_at": "2026-08-23T19:11:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
-      "image_alt": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "translations": {
-        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "in-ukraine-people-are-numbed-by-the-constant-repetition-of-air-raid-al-09b37736",
@@ -339,7 +362,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/24/in-ukraine-people-are-numbed-by-the-constant-repetition-of-air-raid-alerts_6756785_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "trump-says-canada-wants-benefits-of-being-us-state-after-trade-talks-c-f4c36d47",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "published_at": "2026-08-23T19:11:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+      "image_alt": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "could-russia-apos-s-growing-fuel-crisis-help-end-the-ukraine-war-455c4f21",
@@ -362,7 +408,7 @@
           "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "australia-prepares-to-compete-with-china-with-new-rare-earth-refinerie-471f4138",
@@ -385,7 +431,30 @@
           "url": "https://www.lemonde.fr/en/economy/article/2026/08/24/australia-prepares-to-compete-with-china-with-new-rare-earth-refineries_6756784_19.html"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "burnham-to-visit-kyiv-on-first-foreign-trip-and-reaffirm-uk-support-fo-6c51db20",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "published_at": "2026-08-23T23:07:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg",
+      "image_alt": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
     },
     {
       "id": "landslide-at-waste-mound-in-guinea-capital-kills-30-government-says-1a74238f",
@@ -408,7 +477,53 @@
           "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "large-forest-fire-burns-close-to-residential-areas-in-ankara-616a6963",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Large forest fire burns close to residential areas in Ankara",
+      "published_at": "2026-08-24T00:30:00.000Z",
+      "image": "",
+      "image_alt": "Large forest fire burns close to residential areas in Ankara",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "tokayev-allies-head-for-landslide-victory-in-kazakhstan-elections-f7522384",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "published_at": "2026-08-24T00:12:21.000Z",
+      "image": "",
+      "image_alt": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "kazakhstan-parliamentary-vote-cements-president-apos-s-power-08cc1d51",
@@ -431,30 +546,7 @@
           "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-cements-president-s-power/a-78474598?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "emergency-declared-in-nevada-as-wildfire-forces-evacuation-of-14-000-p-ce35a6f2",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Breaking",
-      "headline": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-      "published_at": "2026-08-23T15:54:21.000Z",
-      "image": "https://s.france24.com/media/display/2663320c-9f0a-11f1-a438-005056bfb2b6/w:1024/p:16x9/EN-20260823-171003-171105-CS.jpg",
-      "image_alt": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people"
-        }
-      ],
-      "impact": 68
+      "impact": 67
     },
     {
       "id": "raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0-4a67eda6",
@@ -475,98 +567,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "will-donald-trump-s-new-sanctions-against-iran-work-f04273c1",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Will Donald Trump’s new sanctions against Iran work?",
-      "published_at": "2026-08-23T21:34:53.000Z",
-      "image": "",
-      "image_alt": "Will Donald Trump’s new sanctions against Iran work?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "serbia-requests-international-assistance-to-battle-wildfires-dc574733",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Serbia requests international assistance to battle wildfires",
-      "published_at": "2026-08-23T21:27:57.000Z",
-      "image": "",
-      "image_alt": "Serbia requests international assistance to battle wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "guinea-rubbish-landfill-collapse-kills-30-c3bfba41",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Guinea rubbish landfill collapse kills 30",
-      "published_at": "2026-08-23T18:17:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
-      "image_alt": "Guinea rubbish landfill collapse kills 30",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 67
-    },
-    {
-      "id": "norway-king-harald-apos-s-health-has-apos-deteriorated-apos-palace-say-7c567c76",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Update",
-      "headline": "Norway: King Harald&apos;s health has &apos;deteriorated,&apos; palace says",
-      "published_at": "2026-08-23T23:14:00.000Z",
-      "image": "",
-      "image_alt": "Norway: King Harald&apos;s health has &apos;deteriorated,&apos; palace says",
-      "translations": {
-        "en": "PULSE is tracking this health update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/norway-king-harald-s-health-has-deteriorated-palace-says/a-78479515?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 66
