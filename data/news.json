@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:30:57.796Z",
+  "updated_at": "2026-08-24T22:20:15.957Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-p-3330c785",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "US public support for Iran war falls as Trump approval at record low: Poll",
+      "published_at": "2026-08-24T21:35:10.000Z",
+      "image": "",
+      "image_alt": "US public support for Iran war falls as Trump approval at record low: Poll",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo-736c1239",
       "region": "Africa",
@@ -43,35 +66,12 @@
       "impact": 86
     },
     {
-      "id": "violence-flares-in-haiti-as-gang-attack-kills-30-people-9bdde1cb",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Violence flares in Haiti as gang attack kills 30 people",
-      "published_at": "2026-08-24T20:23:39.000Z",
-      "image": "",
-      "image_alt": "Violence flares in Haiti as gang attack kills 30 people",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
       "id": "us-strikes-a-vessel-in-the-eastern-pacific-killing-2-people-in-first-a-4bb1829e",
       "region": "Americas",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "published_at": "2026-08-24T20:23:26.000Z",
+      "published_at": "2026-08-24T21:40:48.000Z",
       "image": "https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=140&quality=85&auto=format&fit=max&s=b792c3ef80fb455aaf096b48819f02ae",
       "image_alt": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
       "translations": {
@@ -86,7 +86,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific"
         }
       ],
-      "impact": 84
+      "impact": 85
+    },
+    {
+      "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "published_at": "2026-08-24T22:16:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
+      "image_alt": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "what-s-behind-domestic-political-pressure-on-ukraine-s-president-37392e5c",
@@ -109,76 +132,7 @@
           "url": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "published_at": "2026-08-24T19:12:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-      "image_alt": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "ceasefire-verification-mission-deploys-to-eastern-dr-congo-383ea16f",
-      "region": "Africa",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ceasefire verification mission deploys to eastern DR Congo",
-      "published_at": "2026-08-24T16:04:37.000Z",
-      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
-      "image_alt": "Ceasefire verification mission deploys to eastern DR Congo",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "ukraine-celebrates-independence-day-amid-war-s-latest-escalation-c59c2afa",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukraine celebrates Independence Day amid war's latest escalation",
-      "published_at": "2026-08-24T15:44:06.000Z",
-      "image": "https://s.france24.com/media/display/8d1d2b2a-9fd1-11f1-a37f-005056a90284/w:1024/p:16x9/ukraine-13.jpg",
-      "image_alt": "Ukraine celebrates Independence Day amid war's latest escalation",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260824-ukraine-celebrates-independence-day-amid-war-s-latest-escalation"
-        }
-      ],
-      "impact": 78
+      "impact": 81
     },
     {
       "id": "iran-pledges-to-defy-trump-s-economic-sanctions-d3400220",
@@ -202,6 +156,52 @@
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79-873fda19",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+      "published_at": "2026-08-24T21:32:24.000Z",
+      "image": "",
+      "image_alt": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "displaced-palestinians-in-gaza-face-intensifying-israeli-strikes-f37db14e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+      "published_at": "2026-08-24T21:12:06.000Z",
+      "image": "",
+      "image_alt": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "video-iran-reacts-to-us-economic-d-day-sanctions-e35031cb",
@@ -273,52 +273,6 @@
       "impact": 76
     },
     {
-      "id": "ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor-e4644bed",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
-      "published_at": "2026-08-24T20:03:48.000Z",
-      "image": "",
-      "image_alt": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "washington-post-ordered-to-rehire-karen-attiah-after-charlie-kirk-post-97180ed8",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-      "published_at": "2026-08-24T20:00:18.000Z",
-      "image": "",
-      "image_alt": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
       "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-a7bbdcb1",
       "region": "World",
       "topic": "World",
@@ -339,76 +293,99 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "published_at": "2026-08-24T18:38:37.000Z",
-      "image": "",
-      "image_alt": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
+      "id": "tornado-devastates-village-in-southwestern-france-s-aude-region-1a4178f7",
       "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "published_at": "2026-08-24T17:47:04.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
-      "image_alt": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tornado devastates village in southwestern France’s Aude region",
+      "published_at": "2026-08-24T22:16:12.000Z",
+      "image": "https://s.france24.com/media/display/0fbb48e8-a007-11f1-9683-005056a97e36/w:1024/p:16x9/c2a4e67979d314a26bb09ef766339d52937ed548.jpg",
+      "image_alt": "Tornado devastates village in southwestern France’s Aude region",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region"
         }
       ],
       "impact": 74
     },
     {
-      "id": "trump-announces-new-50-tariff-on-canadian-cars-trucks-and-steel-d2d161f4",
-      "region": "Americas",
+      "id": "israel-s-netanyahu-says-iran-tried-to-assassinate-one-of-his-sons-707a7f3d",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-      "published_at": "2026-08-24T18:55:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2",
-      "image_alt": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+      "headline": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
+      "published_at": "2026-08-24T21:38:31.000Z",
+      "image": "https://s.france24.com/media/display/b473bf6c-9d84-11f1-a6cf-005056a90284/w:1024/p:16x9/2026-08-10T111823Z-2133718736-RC2IULATYH0L-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-PLAN.jpg",
+      "image_alt": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
       "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son"
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "zambia-shuts-down-court-system-89cd1097",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Zambia shuts down court system",
+      "published_at": "2026-08-24T20:58:42.000Z",
+      "image": "https://s.france24.com/media/display/d3874b96-9ff8-11f1-8347-005056a97e36/w:1024/p:16x9/DN196399-A-01-20260818-01.jpg",
+      "image_alt": "Zambia shuts down court system",
+      "translations": {
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/zambia-shuts-down-court-system"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T19:12:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
+      "image_alt": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-3bd004a4",
@@ -431,7 +408,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/24/us-removes-syria-from-list-of-state-terror-sponsors_6756810_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "saudi-arabia-to-invest-6-billion-in-three-theme-parks-near-paris-one-m-4c34d358",
@@ -454,30 +431,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/24/saudi-arabia-to-invest-6-billion-in-three-theme-parks-near-paris-one-manga-themed_6756809_4.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "us-announces-bid-to-further-isolate-iran-economically-2b353fbf",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US announces bid to further isolate Iran economically",
-      "published_at": "2026-08-24T19:03:00.000Z",
-      "image": "",
-      "image_alt": "US announces bid to further isolate Iran economically",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "mark-carney-says-canada-can-t-accept-us-trade-deal-that-would-weaken-f-a1f3dc30",
@@ -498,52 +452,6 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "published_at": "2026-08-24T17:29:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-      "image_alt": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "published_at": "2026-08-24T17:24:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
-      "image_alt": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 71
@@ -570,6 +478,98 @@
         }
       ],
       "impact": 70
+    },
+    {
+      "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "published_at": "2026-08-24T17:29:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+      "image_alt": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "published_at": "2026-08-24T17:24:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "image_alt": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "published_at": "2026-08-24T18:38:37.000Z",
+      "image": "",
+      "image_alt": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "as-el-ni-o-dries-indonesia-wildfires-intensify-776bbfbe",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "As El Niño Dries Indonesia, Wildfires Intensify",
+      "published_at": "2026-08-24T18:14:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-indonesia-fires-pbzg/00int-indonesia-fires-pbzg-mediumSquareAt3X-v3.jpg",
+      "image_alt": "As El Niño Dries Indonesia, Wildfires Intensify",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html"
+        }
+      ],
+      "impact": 69
     }
   ]
 }
