@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:43:51.667Z",
+  "updated_at": "2026-08-24T01:00:20.969Z",
   "languages": [
     {
       "code": "en",
@@ -20,6 +20,29 @@
   ],
   "stories": [
     {
+      "id": "iran-war-live-iranian-parliament-advances-plans-for-hormuz-service-fee-cf24da5f",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "published_at": "2026-08-24T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
       "id": "the-world-s-breadbaskets-are-getting-pounded-by-war-weather-and-trade--cf5f0667",
       "region": "World",
       "topic": "Security",
@@ -38,29 +61,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector-5ff0e3ea",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran discovers major new gas reserves amid war-hit energy sector",
-      "published_at": "2026-08-23T20:38:25.000Z",
-      "image": "https://s.france24.com/media/display/77eb385e-9f32-11f1-b8a9-005056a90284/w:1024/p:16x9/000-79QQ74D.jpg",
-      "image_alt": "Iran discovers major new gas reserves amid war-hit energy sector",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector"
         }
       ],
       "impact": 81
@@ -86,7 +86,7 @@
           "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
       "id": "iran-warns-gulf-states-not-to-join-trump-s-economic-war-f32f83af",
@@ -109,7 +109,30 @@
           "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector-5ff0e3ea",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran discovers major new gas reserves amid war-hit energy sector",
+      "published_at": "2026-08-23T20:38:25.000Z",
+      "image": "https://s.france24.com/media/display/77eb385e-9f32-11f1-b8a9-005056a90284/w:1024/p:16x9/000-79QQ74D.jpg",
+      "image_alt": "Iran discovers major new gas reserves amid war-hit energy sector",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "zelenskyy-repeats-ukraine-not-behind-nord-stream-attack-3d7bf7cd",
@@ -132,7 +155,7 @@
           "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "landslide-at-waste-mound-in-guinea-capital-kills-30-government-says-1a74238f",
@@ -155,7 +178,53 @@
           "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "large-forest-fire-burns-close-to-residential-areas-in-ankara-616a6963",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Large forest fire burns close to residential areas in Ankara",
+      "published_at": "2026-08-24T00:30:00.000Z",
+      "image": "",
+      "image_alt": "Large forest fire burns close to residential areas in Ankara",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "tokayev-allies-head-for-landslide-victory-in-kazakhstan-elections-f7522384",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "published_at": "2026-08-24T00:12:21.000Z",
+      "image": "",
+      "image_alt": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "trump-says-canada-wants-benefits-of-being-us-state-after-trade-talks-c-f4c36d47",
@@ -178,122 +247,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0-4a67eda6",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "published_at": "2026-08-23T21:45:05.000Z",
-      "image": "",
-      "image_alt": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "will-donald-trump-s-new-sanctions-against-iran-work-f04273c1",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Will Donald Trump’s new sanctions against Iran work?",
-      "published_at": "2026-08-23T21:34:53.000Z",
-      "image": "",
-      "image_alt": "Will Donald Trump’s new sanctions against Iran work?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "serbia-requests-international-assistance-to-battle-wildfires-dc574733",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Serbia requests international assistance to battle wildfires",
-      "published_at": "2026-08-23T21:27:57.000Z",
-      "image": "",
-      "image_alt": "Serbia requests international assistance to battle wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-envoy-tom-barrack-retracts-comment-that-syria-s-golan-is-occupied-c9c29d9d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "published_at": "2026-08-23T21:23:05.000Z",
-      "image": "",
-      "image_alt": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "landfill-collapse-kills-30-in-guinea-s-capital-after-heavy-rains-e13b5d39",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
-      "published_at": "2026-08-23T21:08:17.000Z",
-      "image": "",
-      "image_alt": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     },
     {
       "id": "could-russia-apos-s-growing-fuel-crisis-help-end-the-ukraine-war-455c4f21",
@@ -316,40 +270,17 @@
           "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "trump-waves-green-flag-to-start-indycar-race-through-washington-street-205682e3",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump waves green flag to start IndyCar race through Washington streets",
-      "published_at": "2026-08-23T20:19:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Trump waves green flag to start IndyCar race through Washington streets",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "macron-hosts-saudi-s-crown-prince-for-contested-visit-938329bc",
-      "region": "Middle East",
+      "id": "australia-prepares-to-compete-with-china-with-new-rare-earth-refinerie-471f4138",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Macron hosts Saudi's crown prince for contested visit",
-      "published_at": "2026-08-23T21:47:21.000Z",
-      "image": "https://img.lemde.fr/2026/08/23/31/0/3744/1872/644/322/60/0/7cdabe8_ftp-1-rblgyfk43fdu-edffaf9f900f4a8fb236b0fc118cc103-0-f96175eb16dc4b7aa9dd2fc803ad3ff2.jpg",
-      "image_alt": "Macron hosts Saudi's crown prince for contested visit",
+      "headline": "Australia prepares to compete with China with new rare earth refineries",
+      "published_at": "2026-08-24T00:59:30.000Z",
+      "image": "https://img.lemde.fr/2026/08/11/1231/0/8192/4096/644/322/60/0/54b5893_upload-1-yqosma55oain-iluka-refinery-const-site-t6a4296.JPG",
+      "image_alt": "Australia prepares to compete with China with new rare earth refineries",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -359,10 +290,10 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/23/macron-to-host-saudi-s-crown-prince-for-contested-visit_6756782_4.html"
+          "url": "https://www.lemonde.fr/en/economy/article/2026/08/24/australia-prepares-to-compete-with-china-with-new-rare-earth-refineries_6756784_19.html"
         }
       ],
-      "impact": 71
+      "impact": 73
     },
     {
       "id": "kazakhstan-parliamentary-vote-cements-president-apos-s-power-08cc1d51",
@@ -385,7 +316,30 @@
           "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-cements-president-s-power/a-78474598?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 71
+      "impact": 70
+    },
+    {
+      "id": "trump-waves-green-flag-to-start-indycar-race-through-washington-street-205682e3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Trump waves green flag to start IndyCar race through Washington streets",
+      "published_at": "2026-08-23T20:19:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Trump waves green flag to start IndyCar race through Washington streets",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 70
     },
     {
       "id": "emergency-declared-in-nevada-as-wildfire-forces-evacuation-of-14-000-p-ce35a6f2",
@@ -408,53 +362,122 @@
           "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people"
         }
       ],
-      "impact": 71
+      "impact": 70
     },
     {
-      "id": "la-ue-redobla-las-cr-ticas-por-los-asentamientos-israel-es-en-cisjorda-e6c8dff9",
+      "id": "raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0-4a67eda6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+      "published_at": "2026-08-23T21:45:05.000Z",
+      "image": "",
+      "image_alt": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "will-donald-trump-s-new-sanctions-against-iran-work-f04273c1",
       "region": "Middle East",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "La UE redobla las críticas por los asentamientos israelíes en Cisjordania: “Son ilegales según el derecho internacional”",
-      "published_at": "2026-08-23T21:55:52.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/5FSW3MBUJFNZXFDJJDGRKNP2UQ.jpg?auth=1f7de2c7fdd687b84b8acec1780760add8cf6da0362bfe5bb8e2813b2884b7a8",
-      "image_alt": "La UE redobla las críticas por los asentamientos israelíes en Cisjordania: “Son ilegales según el derecho internacional”",
+      "urgency": "Update",
+      "headline": "Will Donald Trump’s new sanctions against Iran work?",
+      "published_at": "2026-08-23T21:34:53.000Z",
+      "image": "",
+      "image_alt": "Will Donald Trump’s new sanctions against Iran work?",
       "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-23/la-ue-redobla-las-criticas-por-los-asentamientos-israelies-en-cisjordania-son-ilegales-segun-el-derecho-internacional.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
     },
     {
-      "id": "tunisia-says-it-has-recovered-the-drowned-bodies-of-11-migrants-e5343951",
-      "region": "Europe",
+      "id": "serbia-requests-international-assistance-to-battle-wildfires-dc574733",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Tunisia says it has recovered the drowned bodies of 11 migrants",
-      "published_at": "2026-08-23T20:59:24.000Z",
-      "image": "https://img.lemde.fr/2026/08/23/500/0/6000/3000/644/322/60/0/5cab33b_ftp-1-j7wx14atd7uw-0688c3a99b7b4d0f87beb7bdda11994a-0-90f021389a734afdb9cafd1973733ab1.jpg",
-      "image_alt": "Tunisia says it has recovered the drowned bodies of 11 migrants",
+      "urgency": "Update",
+      "headline": "Serbia requests international assistance to battle wildfires",
+      "published_at": "2026-08-23T21:27:57.000Z",
+      "image": "",
+      "image_alt": "Serbia requests international assistance to battle wildfires",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/23/tunisia-says-it-has-recovered-the-drowned-bodies-of-11-migrants_6756781_4.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
+    },
+    {
+      "id": "us-envoy-tom-barrack-retracts-comment-that-syria-s-golan-is-occupied-c9c29d9d",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "published_at": "2026-08-23T21:23:05.000Z",
+      "image": "",
+      "image_alt": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "landfill-collapse-kills-30-in-guinea-s-capital-after-heavy-rains-e13b5d39",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
+      "published_at": "2026-08-23T21:08:17.000Z",
+      "image": "",
+      "image_alt": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
+        }
+      ],
+      "impact": 68
     },
     {
       "id": "guinea-rubbish-landfill-collapse-kills-30-c3bfba41",
@@ -477,30 +500,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
-    },
-    {
-      "id": "is-israel-about-to-split-the-occupied-west-bank-in-half-22935629",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Is Israel about to split the occupied West Bank in half?",
-      "published_at": "2026-08-23T20:23:01.000Z",
-      "image": "",
-      "image_alt": "Is Israel about to split the occupied West Bank in half?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
-        }
-      ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "france-links-sharp-rise-in-drownings-to-heatwaves-95e7989a",
@@ -523,7 +523,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "the-lesson-from-canada-s-collapsed-trade-talks-with-the-us-negotiation-05a262ac",
@@ -546,7 +546,7 @@
           "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis"
         }
       ],
-      "impact": 69
+      "impact": 68
     },
     {
       "id": "zelensky-should-be-asked-what-he-knew-about-government-corruption-sack-c8561442",
@@ -569,7 +569,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
+      "impact": 68
     }
   ]
 }
