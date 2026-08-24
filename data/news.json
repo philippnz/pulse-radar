@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:57:04.128Z",
+  "updated_at": "2026-08-24T18:39:44.546Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "trump-administration-announces-global-economic-war-on-iran-d08fbbb4",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Trump administration announces global economic war on Iran",
+      "published_at": "2026-08-24T17:53:00.000Z",
+      "image": "",
+      "image_alt": "Trump administration announces global economic war on Iran",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "israeli-strike-on-gaza-shelter-extends-casualty-list-cdd3327e",
       "region": "Middle East",
@@ -40,7 +63,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
       "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
@@ -63,7 +86,7 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "ceasefire-verification-mission-deploys-to-eastern-dr-congo-383ea16f",
@@ -86,7 +109,7 @@
           "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "ukraine-celebrates-independence-day-amid-war-s-latest-escalation-c59c2afa",
@@ -112,6 +135,52 @@
       "impact": 81
     },
     {
+      "id": "mark-carney-says-canada-can-t-accept-us-trade-deal-that-would-weaken-f-a1f3dc30",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "published_at": "2026-08-24T18:22:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/e6071ba36e600ce983b80af2024aafc2f19d0b66/1210_0_5776_4620/master/5776.jpg?width=140&quality=85&auto=format&fit=max&s=68f0306f18835dc848a1aa943c97038d",
+      "image_alt": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T17:59:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
+      "image_alt": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
       "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
       "region": "Europe",
       "topic": "World",
@@ -132,7 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
@@ -158,6 +227,52 @@
       "impact": 79
     },
     {
+      "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "published_at": "2026-08-24T18:38:37.000Z",
+      "image": "",
+      "image_alt": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-fd5e5636",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
+      "published_at": "2026-08-24T18:16:00.000Z",
+      "image": "https://s.france24.com/media/display/7a764970-9fe5-11f1-9b94-005056a90284/w:1024/p:16x9/EN-20260824-180053-180818-CS.jpg",
+      "image_alt": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years"
+        }
+      ],
+      "impact": 78
+    },
+    {
       "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-a7bbdcb1",
       "region": "World",
       "topic": "World",
@@ -178,7 +293,53 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "as-el-ni-o-dries-indonesia-wildfires-intensify-776bbfbe",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "As El Niño Dries Indonesia, Wildfires Intensify",
+      "published_at": "2026-08-24T18:14:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-indonesia-fires-pbzg/00int-indonesia-fires-pbzg-mediumSquareAt3X-v3.jpg",
+      "image_alt": "As El Niño Dries Indonesia, Wildfires Intensify",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosqu-d829baa8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+      "published_at": "2026-08-24T18:02:50.000Z",
+      "image": "",
+      "image_alt": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "japanese-delegation-seeks-to-soothe-strained-ties-with-china-458b8ce0",
@@ -227,52 +388,6 @@
       "impact": 76
     },
     {
-      "id": "nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak-8d715a87",
-      "region": "Africa",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Nearly one in two Ebola patients dying in DR Congo outbreak",
-      "published_at": "2026-08-24T17:00:52.000Z",
-      "image": "",
-      "image_alt": "Nearly one in two Ebola patients dying in DR Congo outbreak",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-per-bf518029",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
-      "published_at": "2026-08-24T16:59:47.000Z",
-      "image": "",
-      "image_alt": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
       "id": "syria-and-israel-hold-u-s-mediated-talks-to-try-to-ease-tensions-d79f6e05",
       "region": "Middle East",
       "topic": "World",
@@ -296,6 +411,52 @@
       "impact": 76
     },
     {
+      "id": "nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak-8d715a87",
+      "region": "Africa",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Nearly one in two Ebola patients dying in DR Congo outbreak",
+      "published_at": "2026-08-24T17:00:52.000Z",
+      "image": "",
+      "image_alt": "Nearly one in two Ebola patients dying in DR Congo outbreak",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-per-bf518029",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
+      "published_at": "2026-08-24T16:59:47.000Z",
+      "image": "",
+      "image_alt": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
       "id": "former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse-8dbc22c3",
       "region": "World",
       "topic": "World",
@@ -316,53 +477,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "nathan-cofnas-on-whether-he-feels-responsible-for-jason-arday-s-death-d6a02c65",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
-      "published_at": "2026-08-24T16:21:55.000Z",
-      "image": "",
-      "image_alt": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "published_at": "2026-08-24T16:18:37.000Z",
-      "image": "",
-      "image_alt": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "prince-harry-quits-board-of-wildlife-charity-after-rangers-human-right-71af33c3",
@@ -385,53 +500,30 @@
           "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-inc-eed075ef",
-      "region": "World",
+      "id": "saudi-arabia-to-invest-6-billion-in-theme-parks-near-paris-macron-says-cb4602e1",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "England drop fast bowler Bryden Carse amid investigation into club incident",
-      "published_at": "2026-08-24T16:05:43.000Z",
-      "image": "",
-      "image_alt": "England drop fast bowler Bryden Carse amid investigation into club incident",
+      "headline": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
+      "published_at": "2026-08-24T18:13:11.000Z",
+      "image": "https://s.france24.com/media/display/7a181164-9fdd-11f1-86a6-005056a97e36/w:1024/p:16x9/AP26236547093503.jpg",
+      "image_alt": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "trump-threatens-new-tariffs-on-canadian-vehicles-as-trade-fight-heats--1e954154",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Trump threatens new tariffs on Canadian vehicles as trade fight heats up",
-      "published_at": "2026-08-24T15:02:32.000Z",
-      "image": "https://img.lemde.fr/2026/08/24/800/0/6400/3200/644/322/60/0/862bf3b_ftp-1-ebodsyd29hv1-5911551-01-06.jpg",
-      "image_alt": "Trump threatens new tariffs on Canadian vehicles as trade fight heats up",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/08/24/trump-threatens-new-tariffs-on-canadian-vehicles_6756804_19.html"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "what-the-renewed-black-sea-blockade-means-for-ukraine-s-farmers-82e953b5",
@@ -457,119 +549,27 @@
       "impact": 73
     },
     {
-      "id": "mideast-live-us-unveils-fresh-sanctions-to-sever-every-economic-lifeli-1788a20f",
-      "region": "Middle East",
+      "id": "how-africa-is-using-critical-minerals-to-rebalance-geopolitical-power-bb3aff03",
+      "region": "Africa",
       "topic": "World",
       "urgency": "Live",
-      "headline": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
-      "published_at": "2026-08-24T17:16:05.000Z",
-      "image": "",
-      "image_alt": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
+      "headline": "How Africa is using critical minerals to rebalance geopolitical power",
+      "published_at": "2026-08-24T18:00:17.000Z",
+      "image": "https://img.lemde.fr/2026/08/17/700/0/4200/2100/644/322/60/0/78fc6ca_upload-1-luvmpksepjqo-000-73hq8e9.jpg",
+      "image_alt": "How Africa is using critical minerals to rebalance geopolitical power",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "estados-unidos-da-un-ultim-tum-a-cualquier-pa-s-lo-suficientemente-loc-26a60305",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
-      "published_at": "2026-08-24T17:34:21.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/5472EVLXJZIYTDJ2Z5KKJZKDBI.jpg?auth=6f242706672af5796212440a4af6d9397f88f2df507afaad7b47d82926ffa67e",
-      "image_alt": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/24/how-africa-is-using-critical-minerals-to-rebalance-geopolitical-power_6756807_124.html"
         }
       ],
       "impact": 72
-    },
-    {
-      "id": "mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-eco-5d04079e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "MBS in the City of Light: In a world of realpolitik, does West value economic interests over values?",
-      "published_at": "2026-08-24T16:26:34.000Z",
-      "image": "https://s.france24.com/media/display/dff450b8-9f30-11f1-9709-005056bf30b7/w:1024/p:16x9/EN-20260823-201801-202643-CS.jpg",
-      "image_alt": "MBS in the City of Light: In a world of realpolitik, does West value economic interests over values?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "we-don-t-need-canada-trump-threatens-to-double-auto-tariffs-after-trad-425eea86",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Update",
-      "headline": "‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse",
-      "published_at": "2026-08-24T14:55:13.000Z",
-      "image": "https://s.france24.com/media/display/3d7cb31a-9fc7-11f1-95d5-005056a97e36/w:1024/p:16x9/063-2291195686.jpg",
-      "image_alt": "‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse",
-      "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "israel-warns-of-forceful-response-to-kites-flown-from-gaza-c5704ab7",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "published_at": "2026-08-24T13:56:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
-      "image_alt": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
     }
   ]
 }
