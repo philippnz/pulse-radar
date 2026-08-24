@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:57:35.237Z",
+  "updated_at": "2026-08-24T21:30:57.796Z",
   "languages": [
     {
       "code": "en",
@@ -20,6 +20,29 @@
   ],
   "stories": [
     {
+      "id": "ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo-736c1239",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+      "published_at": "2026-08-24T20:48:09.000Z",
+      "image": "",
+      "image_alt": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
       "id": "violence-flares-in-haiti-as-gang-attack-kills-30-people-9bdde1cb",
       "region": "World",
       "topic": "Security",
@@ -38,29 +61,6 @@
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss"
-        }
-      ],
-      "impact": 87
-    },
-    {
-      "id": "yemen-s-houthis-report-attack-on-saudi-oil-tanker-in-red-sea-f23dc1ca",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
-      "published_at": "2026-08-24T19:44:23.000Z",
-      "image": "",
-      "image_alt": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss"
         }
       ],
       "impact": 86
@@ -86,30 +86,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
-      "id": "ceasefire-verification-mission-deploys-to-eastern-dr-congo-383ea16f",
-      "region": "Africa",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ceasefire verification mission deploys to eastern DR Congo",
-      "published_at": "2026-08-24T16:04:37.000Z",
-      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
-      "image_alt": "Ceasefire verification mission deploys to eastern DR Congo",
+      "id": "what-s-behind-domestic-political-pressure-on-ukraine-s-president-37392e5c",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "What’s behind domestic political pressure on Ukraine’s president?",
+      "published_at": "2026-08-24T20:54:38.000Z",
+      "image": "",
+      "image_alt": "What’s behind domestic political pressure on Ukraine’s president?",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 82
     },
     {
       "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
@@ -135,24 +135,24 @@
       "impact": 78
     },
     {
-      "id": "mark-carney-says-canada-can-t-accept-us-trade-deal-that-would-weaken-f-a1f3dc30",
-      "region": "Americas",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "published_at": "2026-08-24T18:22:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/e6071ba36e600ce983b80af2024aafc2f19d0b66/1210_0_5776_4620/master/5776.jpg?width=140&quality=85&auto=format&fit=max&s=68f0306f18835dc848a1aa943c97038d",
-      "image_alt": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "id": "ceasefire-verification-mission-deploys-to-eastern-dr-congo-383ea16f",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ceasefire verification mission deploys to eastern DR Congo",
+      "published_at": "2026-08-24T16:04:37.000Z",
+      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
+      "image_alt": "Ceasefire verification mission deploys to eastern DR Congo",
       "translations": {
-        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo"
         }
       ],
       "impact": 78
@@ -179,6 +179,98 @@
         }
       ],
       "impact": 78
+    },
+    {
+      "id": "iran-pledges-to-defy-trump-s-economic-sanctions-d3400220",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran Pledges to Defy Trump’s Economic Sanctions",
+      "published_at": "2026-08-24T21:12:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Pledges to Defy Trump’s Economic Sanctions",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "video-iran-reacts-to-us-economic-d-day-sanctions-e35031cb",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+      "published_at": "2026-08-24T20:48:21.000Z",
+      "image": "",
+      "image_alt": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "ambush-in-south-sudan-kills-peacekeeping-troops-68beee5d",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ambush in South Sudan kills peacekeeping troops",
+      "published_at": "2026-08-24T20:47:24.000Z",
+      "image": "",
+      "image_alt": "Ambush in South Sudan kills peacekeeping troops",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief-0d67c544",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Displaced Palestinian builds mud shelter as tents offer little relief",
+      "published_at": "2026-08-24T20:45:51.000Z",
+      "image": "",
+      "image_alt": "Displaced Palestinian builds mud shelter as tents offer little relief",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor-e4644bed",
@@ -227,98 +319,6 @@
       "impact": 76
     },
     {
-      "id": "mexico-s-sheinbaum-condemns-governor-s-return-amid-us-drug-charges-633659da",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mexico’s Sheinbaum condemns governor’s return amid US drug charges",
-      "published_at": "2026-08-24T19:46:42.000Z",
-      "image": "",
-      "image_alt": "Mexico’s Sheinbaum condemns governor’s return amid US drug charges",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-pledges-to-defy-trump-s-economic-sanctions-d3400220",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran Pledges to Defy Trump’s Economic Sanctions",
-      "published_at": "2026-08-24T19:21:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Pledges to Defy Trump’s Economic Sanctions",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "video-israel-attacks-desalination-plant-and-mosque-in-gaza-6f2e5af7",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Video: Israel attacks desalination plant and mosque in Gaza",
-      "published_at": "2026-08-24T19:21:01.000Z",
-      "image": "",
-      "image_alt": "Video: Israel attacks desalination plant and mosque in Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-fd5e5636",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
-      "published_at": "2026-08-24T18:16:00.000Z",
-      "image": "https://s.france24.com/media/display/7a764970-9fe5-11f1-9b94-005056a90284/w:1024/p:16x9/EN-20260824-180053-180818-CS.jpg",
-      "image_alt": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years"
-        }
-      ],
-      "impact": 76
-    },
-    {
       "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-a7bbdcb1",
       "region": "World",
       "topic": "World",
@@ -340,52 +340,6 @@
         }
       ],
       "impact": 76
-    },
-    {
-      "id": "israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank-6babfe50",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli restrictions cause fuel shortage in occupied West Bank",
-      "published_at": "2026-08-24T19:18:00.000Z",
-      "image": "",
-      "image_alt": "Israeli restrictions cause fuel shortage in occupied West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "why-pogrom-best-describes-what-s-happening-in-the-occupied-west-bank-09118d46",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
-      "published_at": "2026-08-24T19:09:45.000Z",
-      "image": "",
-      "image_alt": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "impact": 75
     },
     {
       "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
@@ -411,29 +365,6 @@
       "impact": 75
     },
     {
-      "id": "as-el-ni-o-dries-indonesia-wildfires-intensify-776bbfbe",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "As El Niño Dries Indonesia, Wildfires Intensify",
-      "published_at": "2026-08-24T18:14:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-indonesia-fires-pbzg/00int-indonesia-fires-pbzg-mediumSquareAt3X-v3.jpg",
-      "image_alt": "As El Niño Dries Indonesia, Wildfires Intensify",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
       "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
       "region": "Europe",
       "topic": "Politics",
@@ -454,30 +385,7 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-3bd004a4",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US removes Syria from list of state sponsors of terrorism",
-      "published_at": "2026-08-24T20:27:31.000Z",
-      "image": "https://img.lemde.fr/2026/08/24/341/0/4097/2048/644/322/60/0/cb246f5_ftp-1-oeactxts45dz-2026-08-24t192153z-649812681-rc2r9ma87udb-rtrmadp-3-usa-trump-syria-rescind.JPG",
-      "image_alt": "US removes Syria from list of state sponsors of terrorism",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/24/us-removes-syria-from-list-of-state-terror-sponsors_6756810_4.html"
-        }
-      ],
-      "impact": 73
+      "impact": 74
     },
     {
       "id": "trump-announces-new-50-tariff-on-canadian-cars-trucks-and-steel-d2d161f4",
@@ -501,6 +409,29 @@
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-3bd004a4",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "published_at": "2026-08-24T20:27:31.000Z",
+      "image": "https://img.lemde.fr/2026/08/24/341/0/4097/2048/644/322/60/0/cb246f5_ftp-1-oeactxts45dz-2026-08-24t192153z-649812681-rc2r9ma87udb-rtrmadp-3-usa-trump-syria-rescind.JPG",
+      "image_alt": "US removes Syria from list of state sponsors of terrorism",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/24/us-removes-syria-from-list-of-state-terror-sponsors_6756810_4.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "saudi-arabia-to-invest-6-billion-in-three-theme-parks-near-paris-one-m-4c34d358",
@@ -549,6 +480,29 @@
       "impact": 72
     },
     {
+      "id": "mark-carney-says-canada-can-t-accept-us-trade-deal-that-would-weaken-f-a1f3dc30",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Update",
+      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "published_at": "2026-08-24T18:22:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/e6071ba36e600ce983b80af2024aafc2f19d0b66/1210_0_5776_4620/master/5776.jpg?width=140&quality=85&auto=format&fit=max&s=68f0306f18835dc848a1aa943c97038d",
+      "image_alt": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language"
+        }
+      ],
+      "impact": 72
+    },
+    {
       "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
       "region": "Europe",
       "topic": "World",
@@ -569,7 +523,53 @@
           "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
+      "impact": 71
+    },
+    {
+      "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "published_at": "2026-08-24T17:24:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "image_alt": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-fd5e5636",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
+      "published_at": "2026-08-24T18:16:00.000Z",
+      "image": "https://s.france24.com/media/display/7a764970-9fe5-11f1-9b94-005056a90284/w:1024/p:16x9/EN-20260824-180053-180818-CS.jpg",
+      "image_alt": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years"
+        }
+      ],
+      "impact": 70
     }
   ]
 }
