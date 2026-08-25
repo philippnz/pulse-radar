@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T00:59:55.379Z",
+  "updated_at": "2026-08-25T02:20:48.042Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead-752b81ce",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
+      "published_at": "2026-08-25T01:46:26.000Z",
+      "image": "",
+      "image_alt": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "iran-war-live-us-slaps-new-sanctions-on-iran-warns-tehran-trade-partne-da52d5d8",
       "region": "Middle East",
@@ -40,30 +63,7 @@
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
         }
       ],
-      "impact": 86
-    },
-    {
-      "id": "us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-p-3330c785",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "published_at": "2026-08-24T21:35:10.000Z",
-      "image": "",
-      "image_alt": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
-        }
-      ],
-      "impact": 84
+      "impact": 85
     },
     {
       "id": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd03",
@@ -90,7 +90,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/24/us-removes-syria-from-list-of-state-terror-sponsors_6756810_4.html"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
       "id": "us-strikes-a-vessel-in-the-eastern-pacific-killing-2-people-in-first-a-4bb1829e",
@@ -113,7 +113,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific"
         }
       ],
-      "impact": 82
+      "impact": 81
+    },
+    {
+      "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "published_at": "2026-08-25T01:48:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+      "image_alt": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "colombia-s-new-president-abelardo-de-la-espriella-announces-immigratio-87a8f142",
@@ -136,30 +159,7 @@
           "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "published_at": "2026-08-24T22:16:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
-      "image_alt": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
-        }
-      ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "moment-tornado-tears-through-southern-france-e1edf19d",
@@ -182,7 +182,7 @@
           "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
@@ -205,7 +205,53 @@
           "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "us-plans-to-revoke-business-tourism-visas-of-200-000-asylum-seekers-be7e034c",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+      "published_at": "2026-08-25T01:01:44.000Z",
+      "image": "",
+      "image_alt": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "drc-s-constitutional-battle-the-fight-over-the-2028-vote-fa879b62",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "DRC’s constitutional battle: The fight over the 2028 vote",
+      "published_at": "2026-08-25T00:34:29.000Z",
+      "image": "",
+      "image_alt": "DRC’s constitutional battle: The fight over the 2028 vote",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "search-continues-in-tunisia-as-migrant-boat-sinking-sparks-protests-cfa6a7fb",
@@ -228,99 +274,53 @@
           "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers-0a7aed49",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How US sanctions on Iran ripple through global markets and consumers",
-      "published_at": "2026-08-24T22:46:02.000Z",
-      "image": "",
-      "image_alt": "How US sanctions on Iran ripple through global markets and consumers",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "us-supreme-court-allows-trump-s-mail-voting-restrictions-to-proceed-79c4b2df",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
-      "published_at": "2026-08-24T22:40:04.000Z",
-      "image": "",
-      "image_alt": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
+      "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "published_at": "2026-08-24T22:16:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
+      "image_alt": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-removes-syria-from-state-sponsor-of-terrorism-list-3f619cad",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US removes Syria from ‘state sponsor of terrorism’ list",
-      "published_at": "2026-08-24T22:32:26.000Z",
-      "image": "",
-      "image_alt": "US removes Syria from ‘state sponsor of terrorism’ list",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "hakeem-jeffries-jared-kushner-meeting-sparks-speculation-amid-us-midte-af55ec25",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
-      "published_at": "2026-08-24T22:19:08.000Z",
-      "image": "",
-      "image_alt": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
         }
       ],
       "impact": 74
+    },
+    {
+      "id": "colossal-theme-park-project-near-paris-unveiled-as-saudi-arabia-s-mbs--4dbc95c8",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'Colossal' theme park project near Paris unveiled as Saudi Arabia's MBS visits France",
+      "published_at": "2026-08-25T01:45:48.000Z",
+      "image": "https://img.lemde.fr/2026/08/24/749/0/8000/4000/644/322/60/0/ea1c3fa_upload-1-yeidnvahshrh-jmug260824090.jpg",
+      "image_alt": "'Colossal' theme park project near Paris unveiled as Saudi Arabia's MBS visits France",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/colossal-theme-park-project-near-paris-unveiled-as-saudi-arabia-s-mbs-visits-france_6756817_4.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "us-supreme-court-delivers-trump-a-temporary-win-on-mail-in-voting-ec47b777",
@@ -343,30 +343,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/25/us-supreme-court-delivers-trump-a-temporary-win-on-mail-in-voting_6756815_4.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "trump-administration-to-revoke-visas-of-foreigners-seeking-asylum-in-u-de66bf7a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
-      "published_at": "2026-08-24T22:54:49.000Z",
-      "image": "https://s.france24.com/media/display/8069f74e-9f2e-11f1-bbcf-005056a90284/w:1024/p:16x9/71ef5231e98ab11a4b6cb91c727ec5b618113787.jpg",
-      "image_alt": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-a7bbdcb1",
@@ -389,86 +366,17 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united--99979cfa",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Donald Trump undermines surrogacy for foreign nationals in the United States",
-      "published_at": "2026-08-24T23:16:55.000Z",
-      "image": "https://img.lemde.fr/2026/08/22/0/0/6400/3200/644/322/60/0/d664009_ftp-1-z6vlr48gi0b7-5892239-01-06.jpg",
-      "image_alt": "Donald Trump undermines surrogacy for foreign nationals in the United States",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united-states_6756814_4.html"
-        }
-      ],
       "impact": 71
     },
     {
-      "id": "tornado-devastates-village-in-southwestern-france-s-aude-region-1a4178f7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Tornado devastates village in southwestern France’s Aude region",
-      "published_at": "2026-08-24T22:16:12.000Z",
-      "image": "https://s.france24.com/media/display/0fbb48e8-a007-11f1-9683-005056a97e36/w:1024/p:16x9/c2a4e67979d314a26bb09ef766339d52937ed548.jpg",
-      "image_alt": "Tornado devastates village in southwestern France’s Aude region",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "in-gaza-s-hospitals-shortages-and-obstructed-evacuations-put-patients--66b73b6e",
+      "id": "how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers-0a7aed49",
       "region": "Middle East",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "In Gaza's hospitals, shortages and obstructed evacuations put patients at risk: 'We are forced to use the same catheter 20 or 30 times'",
-      "published_at": "2026-08-24T22:21:05.000Z",
-      "image": "https://img.lemde.fr/2026/08/23/0/0/8192/4096/644/322/60/0/ad45ff9_upload-1-8t8yybunojxs-af4a1440.JPG",
-      "image_alt": "In Gaza's hospitals, shortages and obstructed evacuations put patients at risk: 'We are forced to use the same catheter 20 or 30 times'",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/in-gaza-s-hospitals-shortages-and-obstructed-evacuations-put-patients-at-risk-we-are-forced-to-use-the-same-catheter-20-or-30-times_6756811_4.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79-873fda19",
-      "region": "World",
-      "topic": "World",
       "urgency": "Update",
-      "headline": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-      "published_at": "2026-08-24T21:32:24.000Z",
+      "headline": "How US sanctions on Iran ripple through global markets and consumers",
+      "published_at": "2026-08-24T22:46:02.000Z",
       "image": "",
-      "image_alt": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+      "image_alt": "How US sanctions on Iran ripple through global markets and consumers",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -478,10 +386,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
         }
       ],
       "impact": 69
+    },
+    {
+      "id": "us-supreme-court-allows-trump-s-mail-voting-restrictions-to-proceed-79c4b2df",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Update",
+      "headline": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
+      "published_at": "2026-08-24T22:40:04.000Z",
+      "image": "",
+      "image_alt": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "us-removes-syria-from-state-sponsor-of-terrorism-list-3f619cad",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "published_at": "2026-08-24T22:32:26.000Z",
+      "image": "",
+      "image_alt": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss"
+        }
+      ],
+      "impact": 68
     },
     {
       "id": "iran-pledges-to-defy-trump-s-economic-sanctions-d3400220",
@@ -502,29 +456,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "published_at": "2026-08-24T17:29:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-      "image_alt": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 68
@@ -550,7 +481,7 @@
           "url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years"
         }
       ],
-      "impact": 67
+      "impact": 66
     },
     {
       "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
@@ -573,7 +504,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 67
+      "impact": 66
+    },
+    {
+      "id": "donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united--99979cfa",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Donald Trump undermines surrogacy for foreign nationals in the United States",
+      "published_at": "2026-08-24T23:16:55.000Z",
+      "image": "https://img.lemde.fr/2026/08/22/0/0/6400/3200/644/322/60/0/d664009_ftp-1-z6vlr48gi0b7-5892239-01-06.jpg",
+      "image_alt": "Donald Trump undermines surrogacy for foreign nationals in the United States",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united-states_6756814_4.html"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "trump-administration-to-revoke-visas-of-foreigners-seeking-asylum-in-u-de66bf7a",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
+      "published_at": "2026-08-24T22:54:49.000Z",
+      "image": "https://s.france24.com/media/display/8069f74e-9f2e-11f1-bbcf-005056a90284/w:1024/p:16x9/71ef5231e98ab11a4b6cb91c727ec5b618113787.jpg",
+      "image_alt": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "tornado-devastates-village-in-southwestern-france-s-aude-region-1a4178f7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Tornado devastates village in southwestern France’s Aude region",
+      "published_at": "2026-08-24T22:16:12.000Z",
+      "image": "https://s.france24.com/media/display/0fbb48e8-a007-11f1-9683-005056a97e36/w:1024/p:16x9/c2a4e67979d314a26bb09ef766339d52937ed548.jpg",
+      "image_alt": "Tornado devastates village in southwestern France’s Aude region",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region"
+        }
+      ],
+      "impact": 65
     }
   ]
 }
