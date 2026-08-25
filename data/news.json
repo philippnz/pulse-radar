@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:30:27.018Z",
+  "updated_at": "2026-08-25T10:26:06.369Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "how-u-s-canada-tariff-negotiations-turned-into-an-all-out-trade-war-68289a98",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "published_at": "2026-08-25T09:28:26.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg",
+      "image_alt": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions-d36faf84",
       "region": "Africa",
@@ -40,7 +63,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 86
     },
     {
       "id": "pakistan-says-significant-progress-made-in-talks-on-iran-us-war-0ca30418",
@@ -63,7 +86,30 @@
           "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
+    },
+    {
+      "id": "u-s-campaign-on-iran-s-economy-may-still-risk-regional-military-escala-21432686",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation",
+      "published_at": "2026-08-25T10:20:16.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-economy-01-qhlp/25int-iran-economy-01-qhlp-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "in-haitin-dozens-die-in-gang-coalition-attack-on-a-farming-community-ef2e4272",
@@ -86,7 +132,7 @@
           "url": "https://www.france24.com/en/in-haitin-dozens-die-in-gang-coalition-attack-on-a-farming-community"
         }
       ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-infl-ce98ef4a",
@@ -109,30 +155,7 @@
           "url": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us"
         }
       ],
-      "impact": 83
-    },
-    {
-      "id": "how-u-s-canada-tariff-negotiations-turned-into-an-all-out-trade-war-68289a98",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "published_at": "2026-08-25T05:12:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg",
-      "image_alt": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
-        }
-      ],
-      "impact": 83
+      "impact": 82
     },
     {
       "id": "us-canada-trade-war-escalates-as-trump-threatens-tariff-hike-on-vehicl-d6ef1bbc",
@@ -153,29 +176,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "what-to-know-about-trump-s-canada-tariffs-and-the-escalating-trade-war-25133827",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "What to know about Trump's Canada tariffs and the escalating trade war",
-      "published_at": "2026-08-25T07:21:46.000Z",
-      "image": "https://s.france24.com/media/display/940fbf12-a056-11f1-b782-005056bfb2b6/w:1024/p:16x9/000-C6EU6NV.jpg",
-      "image_alt": "What to know about Trump's Canada tariffs and the escalating trade war",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260825-what-to-know-about-trump-s-tariffs-on-canadian-goods-as-neigbours-spiral-into-trade-war"
         }
       ],
       "impact": 82
@@ -201,7 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 79
     },
     {
       "id": "iran-says-it-is-fully-prepared-to-counter-widened-us-economic-sanction-6655729c",
@@ -224,7 +224,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "trump-administration-to-return-diplomats-to-middle-east-embassies-d8b20e84",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump Administration to Return Diplomats to Middle East Embassies",
+      "published_at": "2026-08-25T09:32:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24us-diplomats-back-add-wlzg/24us-diplomats-back-add-wlzg-mediumSquareAt3X.jpg",
+      "image_alt": "Trump Administration to Return Diplomats to Middle East Embassies",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "kit-harington-replaces-nicholas-hoult-in-hbo-s-harry-potter-series-c4ac7b47",
@@ -247,40 +270,132 @@
           "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
-    },
-    {
-      "id": "lacking-a-military-solution-against-iran-trump-turns-to-economic-suffo-3777c625",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Lacking a military solution against Iran, Trump turns to economic suffocation",
-      "published_at": "2026-08-25T08:42:03.000Z",
-      "image": "https://img.lemde.fr/2026/08/22/25/0/8640/4320/644/322/60/0/dea3e3d_ftp-1-4twkgfxjverq-70a73e7d79f84952bb75d30922efbe84-0-14be6f4c84d5433097f0b57c919ddf8b.jpg",
-      "image_alt": "Lacking a military solution against Iran, Trump turns to economic suffocation",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/lacking-a-military-solution-against-iran-trump-turns-to-economic-suffocation_6756823_4.html"
-        }
-      ],
       "impact": 77
     },
     {
-      "id": "what-we-know-about-australia-s-bird-flu-which-has-crossed-over-to-mamm-aed16f0b",
+      "id": "what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar-a8f6f2e1",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
-      "published_at": "2026-08-25T08:36:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25int-oz-birds-01-bthg/25int-oz-birds-01-bthg-mediumSquareAt3X.jpg",
-      "image_alt": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+      "headline": "What would justice look like if there were no Rohingya left in Myanmar?",
+      "published_at": "2026-08-25T09:46:11.000Z",
+      "image": "",
+      "image_alt": "What would justice look like if there were no Rohingya left in Myanmar?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts-8abce9cb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Roadblocks and burning tyres in Libya protests over power cuts",
+      "published_at": "2026-08-25T09:45:19.000Z",
+      "image": "",
+      "image_alt": "Roadblocks and burning tyres in Libya protests over power cuts",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests-a783db33",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+      "published_at": "2026-08-25T09:43:27.000Z",
+      "image": "",
+      "image_alt": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "kremlin-adviser-warns-uk-drone-factories-could-face-attacks-c866ae5f",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Kremlin adviser warns UK drone factories could face attacks",
+      "published_at": "2026-08-25T09:34:25.000Z",
+      "image": "",
+      "image_alt": "Kremlin adviser warns UK drone factories could face attacks",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "who-are-iran-s-top-trading-partners-us-would-need-to-target-to-isolate-d4b8d3af",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Who are Iran’s top trading partners US would need to target to isolate it?",
+      "published_at": "2026-08-25T09:23:05.000Z",
+      "image": "",
+      "image_alt": "Who are Iran’s top trading partners US would need to target to isolate it?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "christian-convert-who-fled-iran-and-was-deported-by-trump-finds-new-ho-d72e28a1",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+      "published_at": "2026-08-25T09:02:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00int-Iran-Artemis-kcbz/00int-Iran-Artemis-kcbz-mediumSquareAt3X.jpg",
+      "image_alt": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -290,33 +405,33 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html"
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/christian-convert-who-fled-iran-and-was-ousted-from-us-finds-a-new-home.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "gang-attack-near-haiti-capital-leaves-around-40-dead-46850224",
+      "id": "what-happened-to-the-coveted-western-tanks-sent-to-ukraine-e557bfc7",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Gang attack near Haiti capital leaves around 40 dead",
-      "published_at": "2026-08-25T03:40:15.000Z",
-      "image": "https://img.lemde.fr/2026/08/24/304/0/5567/2783/644/322/60/0/7279ed2_ftp-1-soo3me3mgduz-2026-08-24t205005z-2015529858-rc215naju38w-rtrmadp-3-haiti-violence.JPG",
-      "image_alt": "Gang attack near Haiti capital leaves around 40 dead",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+      "published_at": "2026-08-25T09:01:55.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/00int-ukraine-tanks-klgz/00int-ukraine-tanks-klgz-mediumSquareAt3X.jpg",
+      "image_alt": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/around-40-dead-in-gang-attack-near-haiti-s-capital_6756821_4.html"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
       "id": "nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china-9e9b2667",
@@ -342,47 +457,70 @@
       "impact": 76
     },
     {
-      "id": "rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh-bcde0ade",
-      "region": "World",
-      "topic": "Society",
+      "id": "lacking-a-military-solution-against-iran-trump-turns-to-economic-suffo-3777c625",
+      "region": "Middle East",
+      "topic": "Security",
       "urgency": "Live",
-      "headline": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-      "published_at": "2026-08-25T08:24:13.000Z",
-      "image": "",
-      "image_alt": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "headline": "Lacking a military solution against Iran, Trump turns to economic suffocation",
+      "published_at": "2026-08-25T08:42:03.000Z",
+      "image": "https://img.lemde.fr/2026/08/22/25/0/8640/4320/644/322/60/0/dea3e3d_ftp-1-4twkgfxjverq-70a73e7d79f84952bb75d30922efbe84-0-14be6f4c84d5433097f0b57c919ddf8b.jpg",
+      "image_alt": "Lacking a military solution against Iran, Trump turns to economic suffocation",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/lacking-a-military-solution-against-iran-trump-turns-to-economic-suffocation_6756823_4.html"
         }
       ],
       "impact": 76
     },
     {
-      "id": "global-ocean-temperatures-hit-record-high-as-el-nino-intensifies-65352550",
-      "region": "World",
+      "id": "what-we-know-about-australia-s-bird-flu-which-has-crossed-over-to-mamm-aed16f0b",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Global ocean temperatures hit record high as El Nino intensifies",
-      "published_at": "2026-08-25T08:10:10.000Z",
-      "image": "",
-      "image_alt": "Global ocean temperatures hit record high as El Nino intensifies",
+      "headline": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+      "published_at": "2026-08-25T08:36:08.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25int-oz-birds-01-bthg/25int-oz-birds-01-bthg-mediumSquareAt3X.jpg",
+      "image_alt": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "gang-attack-near-haiti-capital-leaves-around-40-dead-46850224",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Gang attack near Haiti capital leaves around 40 dead",
+      "published_at": "2026-08-25T03:40:15.000Z",
+      "image": "https://img.lemde.fr/2026/08/24/304/0/5567/2783/644/322/60/0/7279ed2_ftp-1-soo3me3mgduz-2026-08-24t205005z-2015529858-rc215naju38w-rtrmadp-3-haiti-violence.JPG",
+      "image_alt": "Gang attack near Haiti capital leaves around 40 dead",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/around-40-dead-in-gang-attack-near-haiti-s-capital_6756821_4.html"
         }
       ],
       "impact": 76
@@ -408,52 +546,6 @@
           "url": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "thai-vendor-confronts-israeli-tourists-raises-palestinian-flag-c80351df",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
-      "published_at": "2026-08-25T07:50:26.000Z",
-      "image": "",
-      "image_alt": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "bangladesh-india-reset-stalls-over-hasina-what-would-break-the-deadloc-9c40dc64",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
-      "published_at": "2026-08-25T07:46:56.000Z",
-      "image": "",
-      "image_alt": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
@@ -477,99 +569,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "dr-congo-sees-breakthrough-as-officials-and-rebels-agree-to-peace-talk-daf0a173",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "DR Congo sees breakthrough as officials and rebels agree to peace talk roadmap",
-      "published_at": "2026-08-25T09:24:14.000Z",
-      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
-      "image_alt": "DR Congo sees breakthrough as officials and rebels agree to peace talk roadmap",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/dr-congo-sees-breakthrough-as-officials-and-rebels-agree-to-peace-talk-roadmap"
-        }
-      ],
       "impact": 74
-    },
-    {
-      "id": "us-strikes-a-vessel-in-the-eastern-pacific-killing-2-people-in-first-a-4bb1829e",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "published_at": "2026-08-24T21:40:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=140&quality=85&auto=format&fit=max&s=b792c3ef80fb455aaf096b48819f02ae",
-      "image_alt": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "translations": {
-        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "new-saudi-backed-manga-themed-amusement-park-set-to-open-near-paris-449129f9",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "New Saudi-backed manga-themed amusement park set to open near Paris",
-      "published_at": "2026-08-25T08:53:34.000Z",
-      "image": "https://s.france24.com/media/display/17e8a14a-a062-11f1-8595-005056a97e36/w:1024/p:16x9/capture-14273214306a8d5772cad044-88003552.jpg",
-      "image_alt": "New Saudi-backed manga-themed amusement park set to open near Paris",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/new-saudi-backed-manga-themed-amusement-park-set-to-open-near-paris"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "middle-east-pakistan-sees-progress-in-us-iran-mediation-009e8250",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Middle East: Pakistan sees progress in US-Iran mediation",
-      "published_at": "2026-08-25T08:09:00.000Z",
-      "image": "",
-      "image_alt": "Middle East: Pakistan sees progress in US-Iran mediation",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/middle-east-pakistan-sees-progress-in-us-iran-mediation/live-78492098?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
     }
   ]
 }
