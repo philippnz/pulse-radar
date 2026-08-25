@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:45:17.540Z",
+  "updated_at": "2026-08-25T00:59:55.379Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "iran-war-live-us-slaps-new-sanctions-on-iran-warns-tehran-trade-partne-da52d5d8",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "published_at": "2026-08-25T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-p-3330c785",
       "region": "Middle East",
@@ -40,7 +63,34 @@
           "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd03",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "published_at": "2026-08-25T00:17:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+      "image_alt": "US removes Syria from list of state sponsors of terrorism",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/24/us-removes-syria-from-list-of-state-terror-sponsors_6756810_4.html"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "us-strikes-a-vessel-in-the-eastern-pacific-killing-2-people-in-first-a-4bb1829e",
@@ -63,7 +113,30 @@
           "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific"
         }
       ],
-      "impact": 83
+      "impact": 82
+    },
+    {
+      "id": "colombia-s-new-president-abelardo-de-la-espriella-announces-immigratio-87a8f142",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "published_at": "2026-08-25T00:34:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94",
+      "image_alt": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "uk-prime-minister-burnham-arrives-in-ukraine-as-russia-amps-up-warning-209545cf",
@@ -86,30 +159,76 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "what-s-behind-domestic-political-pressure-on-ukraine-s-president-37392e5c",
+      "id": "moment-tornado-tears-through-southern-france-e1edf19d",
       "region": "Europe",
-      "topic": "Politics",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "What’s behind domestic political pressure on Ukraine’s president?",
-      "published_at": "2026-08-24T20:54:38.000Z",
-      "image": "",
-      "image_alt": "What’s behind domestic political pressure on Ukraine’s president?",
+      "headline": "Moment tornado tears through southern France",
+      "published_at": "2026-08-25T00:16:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc6/live/c223d1f0-a019-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Moment tornado tears through southern France",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T23:48:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
+      "image_alt": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "search-continues-in-tunisia-as-migrant-boat-sinking-sparks-protests-cfa6a7fb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Search continues in Tunisia as migrant boat sinking sparks protests",
+      "published_at": "2026-08-25T00:18:42.000Z",
+      "image": "",
+      "image_alt": "Search continues in Tunisia as migrant boat sinking sparks protests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 76
     },
     {
       "id": "how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers-0a7aed49",
@@ -132,17 +251,17 @@
           "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "us-supreme-court-sides-with-trump-administration-on-mail-voting-79c4b2df",
+      "id": "us-supreme-court-allows-trump-s-mail-voting-restrictions-to-proceed-79c4b2df",
       "region": "Americas",
       "topic": "Society",
       "urgency": "Live",
-      "headline": "US Supreme Court sides with Trump administration on mail voting",
+      "headline": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
       "published_at": "2026-08-24T22:40:04.000Z",
       "image": "",
-      "image_alt": "US Supreme Court sides with Trump administration on mail voting",
+      "image_alt": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
       "translations": {
         "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -155,7 +274,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "us-removes-syria-from-state-sponsor-of-terrorism-list-3f619cad",
@@ -178,17 +297,17 @@
           "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
-      "id": "jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midter-af55ec25",
+      "id": "hakeem-jeffries-jared-kushner-meeting-sparks-speculation-amid-us-midte-af55ec25",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
+      "headline": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
       "published_at": "2026-08-24T22:19:08.000Z",
       "image": "",
-      "image_alt": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
+      "image_alt": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -201,99 +320,30 @@
           "url": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79-873fda19",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-      "published_at": "2026-08-24T21:32:24.000Z",
-      "image": "",
-      "image_alt": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "displaced-palestinians-in-gaza-face-intensifying-israeli-strikes-f37db14e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-      "published_at": "2026-08-24T21:12:06.000Z",
-      "image": "",
-      "image_alt": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "iran-pledges-to-defy-trump-s-economic-sanctions-d3400220",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran Pledges to Defy Trump’s Economic Sanctions",
-      "published_at": "2026-08-24T21:12:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Pledges to Defy Trump’s Economic Sanctions",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united--99979cfa",
+      "id": "us-supreme-court-delivers-trump-a-temporary-win-on-mail-in-voting-ec47b777",
       "region": "Americas",
-      "topic": "World",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Donald Trump undermines surrogacy for foreign nationals in the United States",
-      "published_at": "2026-08-24T23:16:55.000Z",
-      "image": "https://img.lemde.fr/2026/08/22/0/0/6400/3200/644/322/60/0/d664009_ftp-1-z6vlr48gi0b7-5892239-01-06.jpg",
-      "image_alt": "Donald Trump undermines surrogacy for foreign nationals in the United States",
+      "headline": "US Supreme Court delivers Trump a temporary win on mail-in voting",
+      "published_at": "2026-08-25T00:08:36.000Z",
+      "image": "https://img.lemde.fr/2026/08/24/456/0/5472/2736/644/322/60/0/5841e98_ftp-1-rebub5ffjzq6-2026-08-24t211401z-517754907-rc2lclahncby-rtrmadp-3-usa-court-trump-ballots.JPG",
+      "image_alt": "US Supreme Court delivers Trump a temporary win on mail-in voting",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united-states_6756814_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/us-supreme-court-delivers-trump-a-temporary-win-on-mail-in-voting_6756815_4.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "trump-administration-to-revoke-visas-of-foreigners-seeking-asylum-in-u-de66bf7a",
@@ -316,7 +366,7 @@
           "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
       "id": "a-drone-killed-three-ukrainians-it-was-guided-entirely-by-a-i-a7bbdcb1",
@@ -339,17 +389,17 @@
           "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "in-gaza-s-hospitals-shortages-and-obstructed-evacuations-put-patients--66b73b6e",
-      "region": "Middle East",
+      "id": "donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united--99979cfa",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "In Gaza's hospitals, shortages and obstructed evacuations put patients at risk: 'We are forced to use the same catheter 20 or 30 times'",
-      "published_at": "2026-08-24T22:21:05.000Z",
-      "image": "https://img.lemde.fr/2026/08/23/0/0/8192/4096/644/322/60/0/ad45ff9_upload-1-8t8yybunojxs-af4a1440.JPG",
-      "image_alt": "In Gaza's hospitals, shortages and obstructed evacuations put patients at risk: 'We are forced to use the same catheter 20 or 30 times'",
+      "headline": "Donald Trump undermines surrogacy for foreign nationals in the United States",
+      "published_at": "2026-08-24T23:16:55.000Z",
+      "image": "https://img.lemde.fr/2026/08/22/0/0/6400/3200/644/322/60/0/d664009_ftp-1-z6vlr48gi0b7-5892239-01-06.jpg",
+      "image_alt": "Donald Trump undermines surrogacy for foreign nationals in the United States",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -359,10 +409,10 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/in-gaza-s-hospitals-shortages-and-obstructed-evacuations-put-patients-at-risk-we-are-forced-to-use-the-same-catheter-20-or-30-times_6756811_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/donald-trump-undermines-surrogacy-for-foreign-nationals-in-the-united-states_6756814_4.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "tornado-devastates-village-in-southwestern-france-s-aude-region-1a4178f7",
@@ -385,99 +435,76 @@
           "url": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "israel-s-netanyahu-says-iran-tried-to-assassinate-one-of-his-sons-707a7f3d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
-      "published_at": "2026-08-24T21:38:31.000Z",
-      "image": "https://s.france24.com/media/display/b473bf6c-9d84-11f1-a6cf-005056a90284/w:1024/p:16x9/2026-08-10T111823Z-2133718736-RC2IULATYH0L-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-PLAN.jpg",
-      "image_alt": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "zambia-shuts-down-court-system-89cd1097",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Zambia shuts down court system",
-      "published_at": "2026-08-24T20:58:42.000Z",
-      "image": "https://s.france24.com/media/display/d3874b96-9ff8-11f1-8347-005056a97e36/w:1024/p:16x9/DN196399-A-01-20260818-01.jpg",
-      "image_alt": "Zambia shuts down court system",
-      "translations": {
-        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/zambia-shuts-down-court-system"
-        }
-      ],
       "impact": 71
     },
     {
-      "id": "iran-faces-greatest-financial-offensive-ever-says-us-treasury-secretar-6655729c",
+      "id": "in-gaza-s-hospitals-shortages-and-obstructed-evacuations-put-patients--66b73b6e",
       "region": "Middle East",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "published_at": "2026-08-24T19:12:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-      "image_alt": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "urgency": "Live",
+      "headline": "In Gaza's hospitals, shortages and obstructed evacuations put patients at risk: 'We are forced to use the same catheter 20 or 30 times'",
+      "published_at": "2026-08-24T22:21:05.000Z",
+      "image": "https://img.lemde.fr/2026/08/23/0/0/8192/4096/644/322/60/0/ad45ff9_upload-1-8t8yybunojxs-af4a1440.JPG",
+      "image_alt": "In Gaza's hospitals, shortages and obstructed evacuations put patients at risk: 'We are forced to use the same catheter 20 or 30 times'",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/25/in-gaza-s-hospitals-shortages-and-obstructed-evacuations-put-patients-at-risk-we-are-forced-to-use-the-same-catheter-20-or-30-times_6756811_4.html"
         }
       ],
       "impact": 70
     },
     {
-      "id": "mark-carney-says-canada-can-t-accept-us-trade-deal-that-would-weaken-f-a1f3dc30",
-      "region": "Americas",
-      "topic": "Markets",
+      "id": "iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79-873fda19",
+      "region": "World",
+      "topic": "World",
       "urgency": "Update",
-      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "published_at": "2026-08-24T18:22:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/e6071ba36e600ce983b80af2024aafc2f19d0b66/1210_0_5776_4620/master/5776.jpg?width=140&quality=85&auto=format&fit=max&s=68f0306f18835dc848a1aa943c97038d",
-      "image_alt": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "headline": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+      "published_at": "2026-08-24T21:32:24.000Z",
+      "image": "",
+      "image_alt": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
       "translations": {
-        "en": "PULSE is tracking this markets update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
         }
       ],
-      "impact": 70
+      "impact": 69
+    },
+    {
+      "id": "iran-pledges-to-defy-trump-s-economic-sanctions-d3400220",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Iran Pledges to Defy Trump’s Economic Sanctions",
+      "published_at": "2026-08-24T21:12:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Pledges to Defy Trump’s Economic Sanctions",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "uk-pm-burnham-vows-support-for-ukraine-despite-outrageous-threats-from-6c51db20",
@@ -498,52 +525,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "published_at": "2026-08-24T17:24:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
-      "image_alt": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "can-argentina-s-texas-save-the-country-s-economy-9b358dc9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "published_at": "2026-08-24T18:38:37.000Z",
-      "image": "",
-      "image_alt": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html"
         }
       ],
       "impact": 68
@@ -569,7 +550,30 @@
           "url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years"
         }
       ],
-      "impact": 68
+      "impact": 67
+    },
+    {
+      "id": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl-ba3ce8b5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "published_at": "2026-08-24T17:24:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "image_alt": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 67
     }
   ]
 }
