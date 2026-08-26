@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:36:47.587Z",
+  "updated_at": "2026-08-26T12:42:04.040Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "door-was-locked-at-pakistan-hospital-where-fire-killed-14-babies-witne-fd7e67b0",
+      "region": "Asia-Pacific",
+      "topic": "Health",
+      "urgency": "Breaking",
+      "headline": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "published_at": "2026-08-26T12:32:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "translations": {
+        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "wiped-out-us-faces-surging-toilet-paper-prices-amid-trade-war-with-can-b9d90e5b",
       "region": "Americas",
@@ -40,30 +63,99 @@
           "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
-      "id": "at-least-eight-killed-hundreds-missing-after-nepal-flash-flood-9f89e679",
-      "region": "World",
-      "topic": "Climate",
+      "id": "dead-whale-washes-ashore-on-beach-in-mexico-26ccb11e",
+      "region": "Americas",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "At least eight killed, hundreds missing after Nepal flash flood",
-      "published_at": "2026-08-26T09:48:36.000Z",
+      "headline": "Dead whale washes ashore on beach in Mexico",
+      "published_at": "2026-08-26T12:04:22.000Z",
       "image": "",
-      "image_alt": "At least eight killed, hundreds missing after Nepal flash flood",
+      "image_alt": "Dead whale washes ashore on beach in Mexico",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "why-india-is-sharing-missile-secrets-with-its-private-sector-de8b6435",
+      "region": "Asia-Pacific",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Why India is sharing missile secrets with its private sector",
+      "published_at": "2026-08-26T11:32:35.000Z",
+      "image": "",
+      "image_alt": "Why India is sharing missile secrets with its private sector",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "china-advises-its-citizens-to-leave-taiwan-ally-eswatini-over-security-033193ef",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "published_at": "2026-08-26T12:17:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce4/live/81c5cb20-a138-11f1-9311-09d4e1fc9016.jpg",
+      "image_alt": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
+    },
+    {
+      "id": "panama-and-el-salvador-declare-emergency-over-el-nino-fuelled-drought-328581e3",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Panama and El Salvador declare emergency over El Nino-fuelled drought",
+      "published_at": "2026-08-26T12:37:01.000Z",
+      "image": "https://s.france24.com/media/display/242bdd3e-a146-11f1-8801-005056bfb2b6/w:1024/p:16x9/000-C6HE99F.jpg",
+      "image_alt": "Panama and El Salvador declare emergency over El Nino-fuelled drought",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260826-panama-and-el-salvador-declare-emergency-over-el-nino-fuelled-drought"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "india-assam-tea-industry-faces-climate-driven-labor-crisis-24feb511",
@@ -86,7 +178,7 @@
           "url": "https://www.dw.com/en/india-assam-tea-industry-faces-climate-driven-labor-crisis/a-78506414?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "german-airport-worker-dies-of-malaria-after-mosquito-arrives-on-plane-554e787c",
@@ -109,7 +201,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "radiation-link-in-flight-attendant-s-breast-cancer-french-court-finds-f320dfe7",
@@ -132,7 +224,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
       "id": "canada-fires-back-in-trade-war-against-trump-with-up-to-50-tariffs-2f904347",
@@ -155,7 +247,30 @@
           "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html"
         }
       ],
-      "impact": 79
+      "impact": 78
+    },
+    {
+      "id": "iran-oman-agree-on-temporary-hormuz-route-what-we-know-85e625ff",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Iran, Oman agree on temporary Hormuz route: What we know",
+      "published_at": "2026-08-26T12:05:09.000Z",
+      "image": "",
+      "image_alt": "Iran, Oman agree on temporary Hormuz route: What we know",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "at-least-14-infants-killed-in-islamabad-hospital-fire-e587029f",
@@ -178,7 +293,76 @@
           "url": "https://www.france24.com/en/video/20260826-at-least-14-infants-killed-in-islamabad-hospital-fire"
         }
       ],
-      "impact": 78
+      "impact": 77
+    },
+    {
+      "id": "mother-and-daughter-detained-by-ice-in-hospital-after-car-crash-996dac2a",
+      "region": "World",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Mother and daughter detained by ICE in hospital after car crash",
+      "published_at": "2026-08-26T11:25:08.000Z",
+      "image": "",
+      "image_alt": "Mother and daughter detained by ICE in hospital after car crash",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "photos-thousands-join-spain-s-la-tomatina-festival-for-epic-tomato-bat-080de790",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle",
+      "published_at": "2026-08-26T11:24:34.000Z",
+      "image": "",
+      "image_alt": "Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "manchester-city-sign-teenage-moroccan-midfielder-ayyoub-bouaddi-from-l-c72f46c6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille",
+      "published_at": "2026-08-26T11:06:28.000Z",
+      "image": "",
+      "image_alt": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "infantino-has-no-future-at-fifa-says-european-leagues-chief-f9b1ebd0",
@@ -201,7 +385,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "china-s-xi-to-visit-kyrgyzstan-egypt-ab2a2f82",
@@ -224,53 +408,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "is-japan-trying-to-build-bridges-with-china-after-taiwan-spat-dd5a8038",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Is Japan trying to build bridges with China after Taiwan spat?",
-      "published_at": "2026-08-26T10:28:52.000Z",
-      "image": "",
-      "image_alt": "Is Japan trying to build bridges with China after Taiwan spat?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "one-us-dollar-now-costs-2-million-rials-in-iran-and-here-s-what-it-can-16bf4875",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-      "published_at": "2026-08-26T10:00:05.000Z",
-      "image": "",
-      "image_alt": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "mpox-is-back-and-in-new-countries-how-can-this-outbreak-be-contained-571f0378",
@@ -293,53 +431,76 @@
           "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse-5729ba65",
-      "region": "World",
+      "id": "at-least-22-bodies-recovered-hundreds-missing-after-nepal-tibet-flash--44cb7fb8",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
-      "published_at": "2026-08-26T09:36:08.000Z",
-      "image": "",
-      "image_alt": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+      "headline": "At least 22 bodies recovered, hundreds missing after Nepal-Tibet flash floods",
+      "published_at": "2026-08-26T12:26:17.000Z",
+      "image": "https://s.france24.com/media/display/019e5f80-a141-11f1-98b5-005056bf30b7/w:1024/p:16x9/AP26238336532697.jpg",
+      "image_alt": "At least 22 bodies recovered, hundreds missing after Nepal-Tibet flash floods",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20260826-at-least-22-bodies-recovered-hundreds-missing-after-nepal-tibet-flash-floods"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "the-bulgarian-village-that-fears-becoming-an-iranian-target-06f9d380",
-      "region": "Middle East",
+      "id": "us-country-music-legend-dolly-parton-dies-aged-80-66095229",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The Bulgarian village that fears becoming an Iranian target",
-      "published_at": "2026-08-26T09:20:33.000Z",
-      "image": "",
-      "image_alt": "The Bulgarian village that fears becoming an Iranian target",
+      "headline": "US country music legend Dolly Parton dies, aged 80",
+      "published_at": "2026-08-26T11:40:15.000Z",
+      "image": "https://s.france24.com/media/display/f3fd0a06-a141-11f1-bb24-005056bfb2b6/w:1024/p:16x9/Dolly-Parton.png",
+      "image_alt": "US country music legend Dolly Parton dies, aged 80",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
         }
       ],
-      "impact": 75
+      "impact": 73
+    },
+    {
+      "id": "moscow-confirms-visit-of-cia-director-john-ratcliffe-e9157605",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Moscow confirms visit of CIA Director John Ratcliffe",
+      "published_at": "2026-08-26T11:24:00.000Z",
+      "image": "",
+      "image_alt": "Moscow confirms visit of CIA Director John Ratcliffe",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/moscow-confirms-visit-of-cia-director-john-ratcliffe/a-78508645?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "gamescom-2026-highlights-gaming-industry-apos-s-strength-ai-challenges-a63e4831",
@@ -362,214 +523,53 @@
           "url": "https://www.dw.com/en/gamescom-2026-highlights-gaming-industry-s-strength-ai-challenges/a-78502849?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
-    },
-    {
-      "id": "mawlid-festivities-cancelled-in-ethiopia-s-tigray-region-over-fears-of-de678fb0",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mawlid festivities cancelled in Ethiopia's Tigray region over fears of drone strikes",
-      "published_at": "2026-08-26T11:06:38.000Z",
-      "image": "https://s.france24.com/media/display/30058f5a-a13d-11f1-815b-005056a97e36/w:1024/p:16x9/EN-20260825-215119-215254-CS.jpg",
-      "image_alt": "Mawlid festivities cancelled in Ethiopia's Tigray region over fears of drone strikes",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260826-mawlid-festivities-cancelled-in-ethiopia-s-tigray-region-over-fears-of-drone-strikes"
-        }
-      ],
       "impact": 73
     },
     {
-      "id": "a-new-chapter-for-syria-s-kurds-what-integration-really-means-9c13fd2e",
+      "id": "the-information-blockade-in-gaza-must-end-9325e576",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "A new chapter for Syria’s Kurds: What integration really means",
-      "published_at": "2026-08-26T11:05:16.000Z",
-      "image": "https://s.france24.com/media/display/86aee42a-a13b-11f1-958e-005056a97e36/w:1024/p:16x9/EN-20260826-120056-120550-CS.jpg",
-      "image_alt": "A new chapter for Syria’s Kurds: What integration really means",
+      "headline": "The information blockade in Gaza must end",
+      "published_at": "2026-08-26T12:00:11.000Z",
+      "image": "https://img.lemde.fr/2026/08/25/1293/0/8640/4320/644/322/60/0/5c7ee8e_ftp-1-ci1rd9t2nboj-f3fd227e1b6b471e9e41da6f79bff7b3-2-610182f9ce2049a4a02f926104c10411.jpg",
+      "image_alt": "The information blockade in Gaza must end",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/08/26/the-information-blockade-in-gaza-must-end_6756868_23.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "pakistan-at-least-14-newborns-die-in-hospital-fire-53e92236",
+      "region": "Asia-Pacific",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Pakistan: At least 14 newborns die in hospital fire",
+      "published_at": "2026-08-26T11:26:25.000Z",
+      "image": "https://s.france24.com/media/display/4dc29370-a13e-11f1-8b57-005056a90284/w:1024/p:16x9/Pakistan-thumbnail.jpg",
+      "image_alt": "Pakistan: At least 14 newborns die in hospital fire",
+      "translations": {
+        "en": "PULSE is tracking this health update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260826-a-new-chapter-for-syria-s-kurds-what-integration-really-means"
+          "url": "https://www.france24.com/en/video/20260826-pakistan-at-least-14-newborns-die-in-hospital-fire"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "french-astronaut-adenot-takes-part-in-second-spacewalk-21bcd296",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "French astronaut Adenot takes part in second spacewalk",
-      "published_at": "2026-08-26T11:02:19.000Z",
-      "image": "https://s.france24.com/media/display/2cfc8d8c-a13c-11f1-b480-005056bf30b7/w:1024/p:16x9/EN-20260826-121318-121451-CS.jpg",
-      "image_alt": "French astronaut Adenot takes part in second spacewalk",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260826-french-astronaut-adenot-takes-part-in-second-spacewalk"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "us-proposes-expanding-un-sudan-arms-embargo-to-entire-country-51182e0b",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US proposes expanding UN Sudan arms embargo to entire country",
-      "published_at": "2026-08-26T11:00:36.000Z",
-      "image": "https://s.france24.com/media/display/67217a86-a13c-11f1-91ed-005056a90284/w:1024/p:16x9/EN-20260825-214727-214916-CS.jpg",
-      "image_alt": "US proposes expanding UN Sudan arms embargo to entire country",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260826-us-proposes-expanding-un-sudan-arms-embargo-to-entire-country"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "kremlin-says-cia-chief-met-russian-counterparts-not-putin-in-moscow-de9e5bc4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kremlin says CIA chief met Russian counterparts, not Putin, in Moscow",
-      "published_at": "2026-08-26T10:44:26.000Z",
-      "image": "https://s.france24.com/media/display/d4b988ba-4fff-11f1-bff8-005056a97e36/w:1024/p:16x9/AP26134772650160.jpg",
-      "image_alt": "Kremlin says CIA chief met Russian counterparts, not Putin, in Moscow",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260826-kremlin-says-cia-chief-met-russian-counterparts-not-putin-in-moscow"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "germany-increasingly-in-the-crosshairs-of-hybrid-attacks-4ca742d7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany increasingly in the crosshairs of hybrid attacks",
-      "published_at": "2026-08-26T10:29:05.000Z",
-      "image": "https://s.france24.com/media/display/3f0d88e4-a12a-11f1-8771-005056a90284/w:1024/p:16x9/EN-20260826-100121-100549-CS.jpg",
-      "image_alt": "Germany increasingly in the crosshairs of hybrid attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260826-germany-increasingly-in-the-crosshairs-of-hybrid-attacks"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "one-million-afghan-children-suffer-life-threatening-malnutrition-34f9336f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "One million Afghan children suffer 'life-threatening' malnutrition",
-      "published_at": "2026-08-26T10:27:34.000Z",
-      "image": "https://s.france24.com/media/display/e7f48f98-a12a-11f1-bc5b-005056a90284/w:1024/p:16x9/EN-20260826-100640-100812-CS.jpg",
-      "image_alt": "One million Afghan children suffer 'life-threatening' malnutrition",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "moringa-lattes-and-tigernut-kebabs-the-ghanaians-taking-back-the-power-490195b9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-      "published_at": "2026-08-26T09:00:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/d283de3e11da985ed88e5ee89ee456ad3f3b43df/129_0_1659_1327/master/1659.png?width=140&quality=85&auto=format&fit=max&s=e65b28a2efb9c8caf63ef4a024035cae",
-      "image_alt": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "how-u-s-canada-tariff-negotiations-turned-into-an-all-out-trade-war-68289a98",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "published_at": "2026-08-25T20:42:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg",
-      "image_alt": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     }
   ]
 }
