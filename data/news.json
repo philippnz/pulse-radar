@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T22:19:50.143Z",
+  "updated_at": "2026-08-31T00:43:40.832Z",
   "languages": [
     {
       "code": "en",
@@ -25,7 +25,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "published_at": "2026-08-30T21:15:42.000Z",
+      "published_at": "2026-08-30T23:53:03.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
       "image_alt": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "translations": {
@@ -41,6 +41,29 @@
         }
       ],
       "impact": 89
+    },
+    {
+      "id": "iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-isl-208b0bbd",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+      "published_at": "2026-08-31T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss"
+        }
+      ],
+      "impact": 86
     },
     {
       "id": "israeli-strike-kills-3-year-old-child-in-gaza-b8bd1139",
@@ -63,30 +86,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss"
         }
       ],
-      "impact": 86
-    },
-    {
-      "id": "us-strikes-iran-s-larak-island-in-first-attack-in-weeks-5de9cb0a",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "US strikes Iran’s Larak Island in first attack in weeks",
-      "published_at": "2026-08-30T20:15:47.000Z",
-      "image": "",
-      "image_alt": "US strikes Iran’s Larak Island in first attack in weeks",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss"
-        }
-      ],
-      "impact": 85
+      "impact": 83
     },
     {
       "id": "eight-killed-and-others-missing-after-ferry-capsizes-off-northern-cypr-80226a3c",
@@ -109,7 +109,30 @@
           "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 80
+    },
+    {
+      "id": "15-hikers-feared-missing-after-terrifying-flash-flooding-hits-grand-ca-a2ad7f22",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "published_at": "2026-08-30T23:52:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "image_alt": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz-f57843e5",
@@ -132,76 +155,99 @@
           "url": "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz"
         }
       ],
-      "impact": 82
+      "impact": 79
     },
     {
-      "id": "hikers-feared-missing-after-terrifying-flash-flooding-hits-grand-canyo-a2ad7f22",
+      "id": "dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood-8a3207ca",
       "region": "World",
-      "topic": "World",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "published_at": "2026-08-30T22:14:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
-      "image_alt": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "headline": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
+      "published_at": "2026-08-31T00:31:51.000Z",
+      "image": "",
+      "image_alt": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "nepal-turns-to-mass-burials-as-thousands-remain-missing-from-floods-5b2bc42a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
-      "published_at": "2026-08-30T21:11:57.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30-INT-NEPAL-BODIES-fbtp/30-INT-NEPAL-BODIES-fbtp-mediumSquareAt3X.jpg",
-      "image_alt": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "ferry-carrying-hundreds-of-passengers-capsizes-off-coast-of-cyprus-29542525",
+      "id": "flash-flooding-in-grand-canyon-leaves-more-than-20-people-missing-0eb818bf",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
-      "published_at": "2026-08-30T21:10:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30xp-cyprus-ferry1-hbmk/30xp-cyprus-ferry1-hbmk-mediumSquareAt3X.jpg",
-      "image_alt": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
+      "headline": "Flash flooding in Grand Canyon leaves more than 20 people missing",
+      "published_at": "2026-08-31T00:19:04.000Z",
+      "image": "",
+      "image_alt": "Flash flooding in Grand Canyon leaves more than 20 people missing",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "what-is-notting-hill-carnival-s-jab-jab-parade-1c39bdd9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What is Notting Hill Carnival’s Jab Jab parade?",
+      "published_at": "2026-08-30T23:29:21.000Z",
+      "image": "",
+      "image_alt": "What is Notting Hill Carnival’s Jab Jab parade?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "vote-count-starts-in-guinea-bissau-referendum-on-strengthening-preside-7f7ec0d1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "published_at": "2026-08-30T23:08:01.000Z",
+      "image": "",
+      "image_alt": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "french-lgbtq-rights-leader-hospitalised-after-despicable-homophobic-at-c18c225e",
@@ -224,168 +270,76 @@
           "url": "https://www.france24.com/en/france/20260830-french-lgbtq-activist-hospitalised-after-despicable-homophobic-attack-in-paris"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says-6385942d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
-      "published_at": "2026-08-30T21:28:16.000Z",
-      "image": "",
-      "image_alt": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings-f50988e0",
+      "id": "middle-east-live-us-strikes-iran-for-first-time-in-a-month-as-tehran-r-cd6bb137",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-      "published_at": "2026-08-30T20:50:04.000Z",
-      "image": "",
-      "image_alt": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+      "headline": "Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base",
+      "published_at": "2026-08-30T23:02:17.000Z",
+      "image": "https://s.france24.com/media/display/803bfff6-9ca4-11f1-a549-005056bf30b7/w:1024/p:16x9/2026-08-19T143107Z-71025016-RC2VXMAQM9SU-RTRMADP-3-IRAN-CRISIS-USA-CARRIER.jpg",
+      "image_alt": "Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month"
         }
       ],
-      "impact": 76
+      "impact": 72
     },
     {
-      "id": "far-right-israeli-minister-boasts-of-worse-prison-conditions-cfbafea6",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "us-treasury-bars-certain-journalists-from-g20-meeting-in-north-carolin-b98e3489",
+      "region": "Americas",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Far-right Israeli minister boasts of worse prison conditions",
-      "published_at": "2026-08-30T20:18:14.000Z",
-      "image": "https://img.lemde.fr/2026/05/20/1032/0/7016/3508/644/322/60/0/885ad40_ftp-1-eftxe2uhef7l-05db8b5e362743289250492e76525353-0-6d4b396afce74935a7695dcf2f588d4a.jpg",
-      "image_alt": "Far-right Israeli minister boasts of worse prison conditions",
+      "headline": "US Treasury bars certain journalists from G20 meeting in North Carolina",
+      "published_at": "2026-08-30T22:48:02.000Z",
+      "image": "https://s.france24.com/media/display/552900fe-9ff4-11f1-9dfb-005056bfb2b6/w:1024/p:16x9/348da3527c6d3d2c0b2149d797c9ea9560ee6767.jpg",
+      "image_alt": "US Treasury bars certain journalists from G20 meeting in North Carolina",
       "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "even-our-ancestors-do-not-remember-a-flood-of-this-scale-nepal-village-da3592b3",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "'Even our ancestors do not remember a flood of this scale': Nepal villagers face apocalypse frozen in mud",
+      "published_at": "2026-08-30T22:34:18.000Z",
+      "image": "https://img.lemde.fr/2026/08/29/512/0/5472/2736/644/322/60/0/0ac77f5_ftp-1-cpgylausq6a1-88b58f8d51284d0e98fe5420a08c50d5-0-313967a24b784bfea4f00a759d258fe1.jpg",
+      "image_alt": "'Even our ancestors do not remember a flood of this scale': Nepal villagers face apocalypse frozen in mud",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/30/far-right-israeli-minister-boasts-of-worse-prison-conditions_6756994_4.html"
+          "url": "https://www.lemonde.fr/en/environment/article/2026/08/31/even-our-ancestors-do-not-remember-a-flood-of-this-scale-nepal-villagers-face-apocalypse-frozen-in-mud_6756998_114.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "opening-a-new-chapter-syria-reopens-embassy-in-libya-after-talks-4bd6e54d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-      "published_at": "2026-08-30T20:38:56.000Z",
-      "image": "",
-      "image_alt": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "video-raging-floodwaters-sweep-away-lorry-in-the-philippines-81ae34a3",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Video: Raging floodwaters sweep away lorry in the Philippines",
-      "published_at": "2026-08-30T20:31:34.000Z",
-      "image": "",
-      "image_alt": "Video: Raging floodwaters sweep away lorry in the Philippines",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "butcher-of-bosnia-ratko-mladic-still-hailed-as-a-hero-by-some-serbs-141a7e71",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs",
-      "published_at": "2026-08-30T20:12:36.000Z",
-      "image": "",
-      "image_alt": "Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "real-madrid-cruise-past-malaga-4-0-to-maintain-mourinho-s-perfect-star-136e41bd",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
-      "published_at": "2026-08-30T19:50:15.000Z",
-      "image": "",
-      "image_alt": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 71
     },
     {
       "id": "it-s-our-plan-b-if-it-becomes-less-safe-in-the-us-americans-seek-canad-a557a9da",
@@ -408,76 +362,99 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/30/it-s-our-plan-b-if-it-becomes-less-safe-in-the-us-americans-seek-canadian-ancestry-to-apply-for-citizenship_6756997_4.html"
         }
       ],
-      "impact": 73
+      "impact": 70
     },
     {
-      "id": "google-maps-renames-lake-ontario-lake-america-in-us-but-not-canada-0499df1e",
-      "region": "Americas",
+      "id": "lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says-6385942d",
+      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Google Maps renames Lake Ontario 'Lake America' in US, but not Canada",
-      "published_at": "2026-08-30T21:40:19.000Z",
-      "image": "https://img.lemde.fr/2026/08/30/89/0/1600/800/644/322/60/0/71f7fb8_ftp-1-tv4dfqlxq49y-2026-08-30t163752z-1085179695-rc2w8naomdtk-rtrmadp-3-usa-trump-canada-google.JPG",
-      "image_alt": "Google Maps renames Lake Ontario 'Lake America' in US, but not Canada",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/08/30/google-maps-renames-lake-ontario-lake-america-in-us-but-not-canada_6756996_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "niger-coup-attempt-exposes-weakness-of-tiani-junta-dde40706",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Niger coup attempt exposes weakness of Tiani junta",
-      "published_at": "2026-08-30T20:48:28.000Z",
-      "image": "https://img.lemde.fr/2026/08/29/982/0/5889/2944/644/322/60/0/4a8f144_ftp-1-vqn4rhmomqdw-2026-08-29t195602z-1945187070-rc2i8naetli2-rtrmadp-3-niger-security.JPG",
-      "image_alt": "Niger coup attempt exposes weakness of Tiani junta",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/30/niger-coup-attempt-exposes-weakness-of-tiani-junta_6756995_124.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "fact-check-germany-apos-s-merz-misstates-record-in-ard-interview-fb5488a6",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Fact check: Germany&apos;s Merz misstates record in ARD interview",
-      "published_at": "2026-08-30T19:53:00.000Z",
+      "urgency": "Update",
+      "headline": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+      "published_at": "2026-08-30T21:28:16.000Z",
       "image": "",
-      "image_alt": "Fact check: Germany&apos;s Merz misstates record in ARD interview",
+      "image_alt": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss"
         }
       ],
-      "impact": 72
+      "impact": 69
+    },
+    {
+      "id": "nepal-turns-to-mass-burials-as-thousands-remain-missing-from-floods-5b2bc42a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+      "published_at": "2026-08-30T21:11:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30-INT-NEPAL-BODIES-fbtp/30-INT-NEPAL-BODIES-fbtp-mediumSquareAt3X.jpg",
+      "image_alt": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "ferry-carrying-hundreds-of-passengers-capsizes-off-coast-of-cyprus-29542525",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
+      "published_at": "2026-08-30T21:10:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30xp-cyprus-ferry1-hbmk/30xp-cyprus-ferry1-hbmk-mediumSquareAt3X.jpg",
+      "image_alt": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "far-right-israeli-minister-boasts-of-worse-prison-conditions-cfbafea6",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Far-right Israeli minister boasts of worse prison conditions",
+      "published_at": "2026-08-30T20:18:14.000Z",
+      "image": "https://img.lemde.fr/2026/05/20/1032/0/7016/3508/644/322/60/0/885ad40_ftp-1-eftxe2uhef7l-05db8b5e362743289250492e76525353-0-6d4b396afce74935a7695dcf2f588d4a.jpg",
+      "image_alt": "Far-right Israeli minister boasts of worse prison conditions",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/30/far-right-israeli-minister-boasts-of-worse-prison-conditions_6756994_4.html"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "a-giant-leap-forward-nasa-launches-powerful-new-space-telescope-61d0db54",
@@ -500,30 +477,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "manhunt-after-shooting-at-swiss-rave-kills-woman-22-and-injures-five-868f6bb6",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "published_at": "2026-08-30T17:49:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
-      "image_alt": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
+      "impact": 69
     },
     {
       "id": "at-least-eight-dead-in-ferry-capsize-off-northern-cyprus-82018c15",
@@ -546,17 +500,40 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/08/30/seven-dead-in-ferry-capsize-off-northern-cyprus_6756990_4.html"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
-      "id": "zambian-opposition-leader-charged-with-treason-a864eedd",
+      "id": "jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings-f50988e0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+      "published_at": "2026-08-30T20:50:04.000Z",
+      "image": "",
+      "image_alt": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss"
+        }
+      ],
+      "impact": 68
+    },
+    {
+      "id": "manhunt-after-shooting-at-swiss-rave-kills-woman-22-and-injures-five-868f6bb6",
       "region": "World",
       "topic": "World",
       "urgency": "Update",
-      "headline": "Zambian opposition leader charged with treason",
-      "published_at": "2026-08-30T17:06:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b500/live/8b349740-a44e-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Zambian opposition leader charged with treason",
+      "headline": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "published_at": "2026-08-30T17:49:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+      "image_alt": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,10 +543,33 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 70
+      "impact": 68
+    },
+    {
+      "id": "russian-strike-kills-38-near-kyiv-raising-concerns-over-ukrainian-sens-49a090c5",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russian strike kills 38 near Kyiv, raising concerns over Ukrainian sensitive urban sites",
+      "published_at": "2026-08-30T09:21:00.000Z",
+      "image": "https://img.lemde.fr/2026/08/29/613/0/7391/3695/644/322/60/0/2547585_ftp-1-3py6dbk3t0sy-81b96c73c36346a39c9aa782d85a1340-0-dc2a5725cc8f42aba8f89c5fc88a1161.jpg",
+      "image_alt": "Russian strike kills 38 near Kyiv, raising concerns over Ukrainian sensitive urban sites",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/30/russian-strike-kills-38-near-kyiv-raising-concerns-over-ukrainian-sensitive-urban-sites_6756984_4.html"
+        }
+      ],
+      "impact": 68
     }
   ]
 }
