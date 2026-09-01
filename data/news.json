@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:33:11.549Z",
+  "updated_at": "2026-09-01T23:44:48.883Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "weeks-after-failed-drone-attack-germany-points-finger-at-russia-064d9345",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "published_at": "2026-09-01T23:38:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01germany-drone-01-whvp/01germany-drone-01-whvp-mediumSquareAt3X.jpg",
+      "image_alt": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html"
+        }
+      ],
+      "impact": 88
+    },
     {
       "id": "germany-says-russia-behind-leipzig-airport-drone-attack-10a1cf73",
       "region": "Europe",
@@ -40,7 +63,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 90
+      "impact": 87
     },
     {
       "id": "deadly-car-bomb-attack-at-colombia-police-station-b71cfdbb",
@@ -63,7 +86,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 84
     },
     {
       "id": "us-strikes-iran-as-state-media-reports-four-killed-at-wedding-party-eef742c7",
@@ -71,7 +94,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "US strikes Iran as state media reports four killed at wedding party",
-      "published_at": "2026-09-01T21:32:23.000Z",
+      "published_at": "2026-09-01T21:48:28.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
       "image_alt": "US strikes Iran as state media reports four killed at wedding party",
       "translations": {
@@ -86,30 +109,53 @@
           "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 83
     },
     {
-      "id": "weeks-after-failed-drone-attack-germany-points-finger-at-russia-064d9345",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "published_at": "2026-09-01T18:22:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01germany-drone-01-whvp/01germany-drone-01-whvp-mediumSquareAt3X.jpg",
-      "image_alt": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "id": "us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-mid-79a9417b",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "US House passes funding bill to avert government shutdown ahead of midterms",
+      "published_at": "2026-09-01T22:44:28.000Z",
+      "image": "",
+      "image_alt": "US House passes funding bill to avert government shutdown ahead of midterms",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 81
+    },
+    {
+      "id": "us-urges-g20-to-cut-trade-imbalances-focus-on-china-698b67ec",
+      "region": "Asia-Pacific",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US urges G20 to cut trade imbalances, focus on China",
+      "published_at": "2026-09-01T22:21:51.000Z",
+      "image": "",
+      "image_alt": "US urges G20 to cut trade imbalances, focus on China",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "germany-accuses-russia-of-orchestrating-attempted-attack-in-leipzig-33807c48",
@@ -132,63 +178,40 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/09/01/germany-accuses-russia-of-orchestrating-attempted-attack-in-leipzig_6757062_4.html"
         }
       ],
-      "impact": 83
+      "impact": 81
     },
     {
-      "id": "palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city-1bdc3174",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-      "published_at": "2026-09-01T20:59:43.000Z",
-      "image": "",
-      "image_alt": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "what-s-driven-the-defence-deal-between-israel-and-greece-4be7f753",
+      "id": "iran-war-us-tehran-trade-fire-in-new-flare-up-70a67d26",
       "region": "Middle East",
       "topic": "Security",
-      "urgency": "Live",
-      "headline": "What’s driven the defence deal between Israel and Greece?",
-      "published_at": "2026-09-01T20:35:14.000Z",
+      "urgency": "Breaking",
+      "headline": "Iran war: US, Tehran trade fire in new flare-up",
+      "published_at": "2026-09-01T20:57:00.000Z",
       "image": "",
-      "image_alt": "What’s driven the defence deal between Israel and Greece?",
+      "image_alt": "Iran war: US, Tehran trade fire in new flare-up",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 81
     },
     {
-      "id": "canada-s-carney-says-us-must-start-being-serious-to-resolve-trade-disp-88cf68d9",
+      "id": "us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement-50f91511",
       "region": "Americas",
       "topic": "Markets",
       "urgency": "Live",
-      "headline": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
-      "published_at": "2026-09-01T20:08:25.000Z",
+      "headline": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+      "published_at": "2026-09-01T21:54:14.000Z",
       "image": "",
-      "image_alt": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
+      "image_alt": "US energy secretary will travel to Venezuela to unveil oil arrangement",
       "translations": {
         "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,10 +221,79 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 80
+    },
+    {
+      "id": "china-or-the-u-s-two-meetings-offer-competing-showcases-of-global-powe-0b553dee",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "published_at": "2026-09-01T23:38:50.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/01/world/01int-shanghai-g20-social-promo/01int-shanghai-g20-social-promo-mediumSquareAt3X.jpg",
+      "image_alt": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ariana-grande-completes-tour-and-steps-back-from-public-life-e0595bd1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ariana Grande completes tour and steps back from public life",
+      "published_at": "2026-09-01T21:41:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8517/live/fdadde60-995b-11f1-b2ab-0dd01740f9f6.jpg",
+      "image_alt": "Ariana Grande completes tour and steps back from public life",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "us-defends-trump-s-venezuela-oil-deal-ce051380",
+      "region": "Americas",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "US defends Trump's Venezuela oil deal",
+      "published_at": "2026-09-01T22:13:20.000Z",
+      "image": "https://img.lemde.fr/2026/08/31/416/0/6500/3250/644/322/60/0/dff3bd0_ftp-1-tolrg06ln9pm-2026-08-31t100048z-1750635765-rc2m9na49l9h-rtrmadp-3-usa-venezuela-oil.JPG",
+      "image_alt": "US defends Trump's Venezuela oil deal",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/02/us-defends-trump-s-venezuela-oil-deal_6757063_4.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "mark-carney-tells-us-to-start-being-serious-amid-escalating-trade-war-b08b2972",
@@ -224,53 +316,53 @@
           "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada"
         }
       ],
-      "impact": 80
+      "impact": 77
     },
     {
-      "id": "jurors-in-lindsay-clancy-trial-deadlocked-but-judge-asks-them-to-keep--8c824119",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "published_at": "2026-09-01T20:05:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
-      "image_alt": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "the-ritual-of-coffin-making-in-a-city-hit-by-ebola-f0e588b2",
+      "id": "fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-f-1d133650",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The Ritual of Coffin Making in a City Hit by Ebola",
-      "published_at": "2026-09-01T21:26:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-ebola-congo-coffins--promo-jqwk/00int-ebola-congo-coffins--promo-jqwk-mediumSquareAt3X.jpg",
-      "image_alt": "The Ritual of Coffin Making in a City Hit by Ebola",
+      "headline": "Fernandez transfers to Man City from Chelsea in joint British record fee",
+      "published_at": "2026-09-01T23:00:30.000Z",
+      "image": "",
+      "image_alt": "Fernandez transfers to Man City from Chelsea in joint British record fee",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-emp-1b1444f2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+      "published_at": "2026-09-01T22:54:04.000Z",
+      "image": "",
+      "image_alt": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran-f470cbd0",
@@ -293,30 +385,53 @@
           "url": "https://www.france24.com/en/tv-shows/business/20260901-global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport-85d2adf5",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Germany says Russia behind attempted drone attack at Leipzig airport",
-      "published_at": "2026-09-01T15:40:00.000Z",
+      "id": "urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog-78281332",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+      "published_at": "2026-09-01T21:28:00.000Z",
       "image": "",
-      "image_alt": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "image_alt": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 75
+    },
+    {
+      "id": "the-ritual-of-coffin-making-in-a-city-hit-by-ebola-f0e588b2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The Ritual of Coffin Making in a City Hit by Ebola",
+      "published_at": "2026-09-01T21:26:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-ebola-congo-coffins--promo-jqwk/00int-ebola-congo-coffins--promo-jqwk-mediumSquareAt3X.jpg",
+      "image_alt": "The Ritual of Coffin Making in a City Hit by Ebola",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "china-censors-and-punishes-to-shape-narrative-on-floods-in-tibet-a-con-700f615f",
@@ -339,30 +454,7 @@
           "url": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace-f57572bb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-      "published_at": "2026-09-01T21:03:45.000Z",
-      "image": "",
-      "image_alt": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
-        }
-      ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "explosion-near-a-power-plant-in-germany-attack-on-power-grid-under-inv-41435c97",
@@ -385,7 +477,7 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/09/01/explosion-near-a-power-plant-in-germany-attack-on-power-grid-under-investigation_6757053_4.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "war-and-sanctions-deepen-iran-apos-s-fuel-crisis-fbb88bc7",
@@ -408,17 +500,17 @@
           "url": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "germany-blames-russia-for-airport-drone-incident-hits-back-with-sancti-c438f59e",
+      "id": "g20-backs-final-statement-despite-russia-tensions-china-dissent-95c6f7af",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Germany blames Russia for airport drone incident, hits back with sanctions",
-      "published_at": "2026-09-01T20:58:01.000Z",
-      "image": "https://s.france24.com/media/display/79b2ea30-a61a-11f1-b028-005056a90284/w:1024/p:16x9/2026-08-08T101129Z-1947811119-RC2CSMA5SMYP-RTRMADP-3-GERMANY-SECURITY-DRONES.jpg",
-      "image_alt": "Germany blames Russia for airport drone incident, hits back with sanctions",
+      "headline": "G20 backs final statement despite Russia tensions, China dissent",
+      "published_at": "2026-09-01T23:39:58.000Z",
+      "image": "https://s.france24.com/media/display/9eb4266c-a65d-11f1-9ce7-005056a97e36/w:1024/p:16x9/AP26244587210452.jpg",
+      "image_alt": "G20 backs final statement despite Russia tensions, China dissent",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,47 +520,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions"
-        },
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/germany/article/2026/09/01/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions_6757058_146.html"
+          "url": "https://www.france24.com/en/americas/20260901-g20-backs-final-statement-despite-russia-tensions-china-dissent"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands-0918253d",
+      "id": "zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace-f57572bb",
       "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
-      "published_at": "2026-09-01T20:45:53.000Z",
-      "image": "",
-      "image_alt": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-short-e7a50190",
-      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
-      "published_at": "2026-09-01T20:40:55.000Z",
+      "headline": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+      "published_at": "2026-09-01T21:03:45.000Z",
       "image": "",
-      "image_alt": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+      "image_alt": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -478,56 +543,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "iranian-state-media-announces-numerous-us-strikes-on-the-country-b4d5b8d5",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iranian state media announces numerous US strikes on the country",
-      "published_at": "2026-09-01T20:38:43.000Z",
-      "image": "",
-      "image_alt": "Iranian state media announces numerous US strikes on the country",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israeli-raid-in-gaza-kills-4-palestinian-officials-say-3da3ed24",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-      "published_at": "2026-09-01T19:26:59.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01int-israel-gaza-jwhv/01int-israel-gaza-jwhv-mediumSquareAt3X.jpg",
-      "image_alt": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html"
-        }
-      ],
-      "impact": 76
+      "impact": 74
     },
     {
       "id": "echoes-of-cold-war-as-us-accused-of-meddling-in-another-brazilian-elec-9acd23eb",
@@ -550,30 +569,7 @@
           "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "nepal-s-economy-has-few-ways-to-absorb-the-cost-of-flood-damage-0b577328",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-      "published_at": "2026-09-01T19:08:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01BIZ-NEPAL-ECONOMY-kfpz/01BIZ-NEPAL-ECONOMY-kfpz-mediumSquareAt3X.jpg",
-      "image_alt": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
-        }
-      ],
-      "impact": 75
+      "impact": 74
     }
   ]
 }
