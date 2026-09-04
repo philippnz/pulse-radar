@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:57:05.379Z",
+  "updated_at": "2026-09-04T17:23:16.987Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "things-happen-how-vance-s-comment-on-iran-wedding-strike-fits-us-patte-523467d9",
+      "id": "russia-hits-ukrainian-security-headquarters-in-drone-attack-zelensky-s-2812aaa9",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "published_at": "2026-09-04T16:02:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
+      "image_alt": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
+      "id": "october-7-attack-shapes-israel-s-elections-and-fuels-political-blame-7d1a9476",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-      "published_at": "2026-09-04T13:15:36.000Z",
+      "headline": "October 7 attack shapes Israel’s elections and fuels political blame",
+      "published_at": "2026-09-04T16:20:35.000Z",
       "image": "",
-      "image_alt": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
+      "image_alt": "October 7 attack shapes Israel’s elections and fuels political blame",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,89 +60,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss"
         }
       ],
       "impact": 86
     },
     {
-      "id": "philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-thr-c6f6616d",
+      "id": "argentine-couple-to-return-nazi-looted-painting-to-rightful-owner-537d21e4",
       "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-      "published_at": "2026-09-04T13:35:55.000Z",
-      "image": "",
-      "image_alt": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "at-least-100-killed-as-yemen-s-houthis-push-towards-key-strait-d869ed59",
-      "region": "Middle East",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "At least 100 killed as Yemen’s Houthis push towards key strait",
-      "published_at": "2026-09-04T13:13:14.000Z",
-      "image": "",
-      "image_alt": "At least 100 killed as Yemen’s Houthis push towards key strait",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "philippines-vice-president-faces-arrest-over-assassination-threats-3012a764",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
       "urgency": "Live",
-      "headline": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
-      "published_at": "2026-09-04T11:23:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/04/world/04int-philippines-sara-Duterte-001/04int-philippines-sara-Duterte-001-mediumSquareAt3X.jpg",
-      "image_alt": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
+      "headline": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "published_at": "2026-09-04T17:14:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/b396bf10-829e-11f0-a21f-a946aea0c353.jpg",
+      "image_alt": "Argentine couple to return Nazi-looted painting to rightful owner",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 80
     },
     {
-      "id": "body-of-world-s-youngest-traditional-king-returns-home-to-uganda-amid--da8eaee1",
-      "region": "World",
+      "id": "europe-targeted-by-spiralling-campaign-of-sabotage-4217cb26",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "published_at": "2026-09-04T13:00:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/ee518c70-a85e-11f1-a291-b542ee92de7c.jpg",
-      "image_alt": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "headline": "Europe targeted by spiralling campaign of sabotage",
+      "published_at": "2026-09-04T16:49:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg",
+      "image_alt": "Europe targeted by spiralling campaign of sabotage",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,66 +106,20 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
     },
     {
-      "id": "yemen-s-houthis-push-toward-red-sea-strait-as-ground-fighting-escalate-d3212f0b",
-      "region": "Middle East",
+      "id": "trump-s-peace-envoys-to-visit-moscow-and-kyiv-over-weekend-af2f5b89",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
-      "published_at": "2026-09-04T13:47:35.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/00int-Yemen-NewBattles-1-tpbm/00int-Yemen-NewBattles-1-tpbm-mediumSquareAt3X.jpg",
-      "image_alt": "Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "strength-of-meloni-less-linked-to-policy-more-about-her-party-s-domina-bc4fcf0a",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Strength of Meloni less linked to policy, more about her party's dominance within govt coalition",
-      "published_at": "2026-09-04T13:24:39.000Z",
-      "image": "https://s.france24.com/media/display/d0ce575c-a861-11f1-82d3-005056bfb2b6/w:1024/p:16x9/EN-20260904-134010-134831-CS.jpg",
-      "image_alt": "Strength of Meloni less linked to policy, more about her party's dominance within govt coalition",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/strength-of-meloni-less-linked-to-policy-more-about-her-party-s-dominance-within-govt-coalition"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "uk-support-for-falkland-islands-unwavering-after-argentina-restates-cl-f9841d4b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "published_at": "2026-09-04T11:54:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg",
-      "image_alt": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "published_at": "2026-09-04T16:30:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+      "image_alt": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,112 +129,89 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 78
+      "impact": 79
     },
     {
-      "id": "europe-seeks-to-deter-russia-after-attempted-attack-in-leipzig-68984980",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Europe seeks to deter Russia after attempted attack in Leipzig",
-      "published_at": "2026-09-04T08:34:07.000Z",
-      "image": "https://img.lemde.fr/2026/09/03/1019/0/6823/3411/644/322/60/0/8e62743_ftp-1-rl7d0aayg3xr-5988889-01-06.jpg",
-      "image_alt": "Europe seeks to deter Russia after attempted attack in Leipzig",
+      "id": "rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well-bbe513b4",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Rescuers race to save10-year-old Algerian boy trapped in deep well",
+      "published_at": "2026-09-04T16:48:50.000Z",
+      "image": "",
+      "image_alt": "Rescuers race to save10-year-old Algerian boy trapped in deep well",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "french-minister-reports-two-broken-threads-no-major-damage-on-bayeux-t-c29434d2",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "French minister reports two broken threads, no major damage on Bayeux Tapestry",
+      "published_at": "2026-09-04T15:55:08.000Z",
+      "image": "https://img.lemde.fr/2026/09/03/635/0/7626/3813/644/322/60/0/02f2e2f_ftp-1-xrtejpgo4uyu-5984936-01-06.jpg",
+      "image_alt": "French minister reports two broken threads, no major damage on Bayeux Tapestry",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/04/europe-seeks-to-deter-russia-after-attempted-attack-in-leipzig_6757151_4.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "two-muslim-women-journalists-allege-police-assault-in-india-5d2fbb82",
-      "region": "Asia-Pacific",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Two Muslim women journalists allege police assault in India",
-      "published_at": "2026-09-04T13:37:43.000Z",
-      "image": "",
-      "image_alt": "Two Muslim women journalists allege police assault in India",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss"
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/04/french-minister-reports-two-broken-threads-no-major-damage-on-bayeux-tapestry_6757173_4.html"
         }
       ],
       "impact": 77
     },
     {
-      "id": "ireland-s-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-ca-68f5629e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-      "published_at": "2026-09-04T13:30:42.000Z",
-      "image": "",
-      "image_alt": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns--d8ef1040",
+      "id": "a-rare-moment-of-joy-nepal-tunnel-rescues-bring-hope-for-more-flood-su-342e01d3",
       "region": "World",
       "topic": "Climate",
       "urgency": "Live",
-      "headline": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-      "published_at": "2026-09-04T13:24:53.000Z",
-      "image": "",
-      "image_alt": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+      "headline": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "published_at": "2026-09-04T14:40:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg",
+      "image_alt": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
       "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "jerusalem-daily-israel-s-plan-to-expel-gaza-s-population-5e7cc40f",
-      "region": "Middle East",
+      "id": "us-adds-162-000-jobs-in-august-raising-fed-rate-hike-expectations-49787d07",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
-      "published_at": "2026-09-04T13:08:23.000Z",
+      "headline": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+      "published_at": "2026-09-04T16:31:20.000Z",
       "image": "",
-      "image_alt": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+      "image_alt": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -313,20 +221,66 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation-f94ba017",
+      "id": "the-number-10-shirt-must-not-retire-with-messi-e4d68aaa",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The number 10 shirt must not retire with Messi",
+      "published_at": "2026-09-04T16:31:15.000Z",
+      "image": "",
+      "image_alt": "The number 10 shirt must not retire with Messi",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "bride-walks-down-the-aisle-despite-waist-deep-flooding-7ddd3612",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bride walks down the aisle despite waist-deep flooding",
+      "published_at": "2026-09-04T16:25:14.000Z",
+      "image": "",
+      "image_alt": "Bride walks down the aisle despite waist-deep flooding",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/bride-walks-down-the-aisle-despite-waist-deep-flooding?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-sp-381a1ed9",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US envoys headed to Russia and Ukraine to relaunch mediation",
-      "published_at": "2026-09-04T12:51:57.000Z",
+      "headline": "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
+      "published_at": "2026-09-04T16:13:34.000Z",
       "image": "",
-      "image_alt": "US envoys headed to Russia and Ukraine to relaunch mediation",
+      "image_alt": "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -336,43 +290,66 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "families-turn-to-symbolic-cremation-after-nepal-floods-a911d764",
+      "id": "russian-drone-strikes-ukraine-s-security-service-headquarters-e7e47b96",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian drone strikes Ukraine’s security service headquarters",
+      "published_at": "2026-09-04T16:03:41.000Z",
+      "image": "",
+      "image_alt": "Russian drone strikes Ukraine’s security service headquarters",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "live-ipswich-town-vs-liverpool-premier-league-9bd2a4ff",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Families Turn to Symbolic Cremation After Nepal Floods",
-      "published_at": "2026-09-04T12:35:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-nepal-rites-hlcq/04int-nepal-rites-hlcq-mediumSquareAt3X.jpg",
-      "image_alt": "Families Turn to Symbolic Cremation After Nepal Floods",
+      "headline": "LIVE: Ipswich Town vs Liverpool – Premier League",
+      "published_at": "2026-09-04T16:01:06.000Z",
+      "image": "",
+      "image_alt": "LIVE: Ipswich Town vs Liverpool – Premier League",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/4/live-ipswich-town-vs-liverpool-premier-league?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "israel-says-it-is-cementing-its-foothold-in-southern-lebanon-dab7cb21",
-      "region": "Middle East",
+      "id": "russian-drone-strikes-office-of-ukraine-s-intelligence-chief-f3002e5f",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
-      "published_at": "2026-09-04T12:16:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-israel-lebanon-1-zhlc/04int-israel-lebanon-1-zhlc-mediumSquareAt3X.jpg",
-      "image_alt": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+      "headline": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
+      "published_at": "2026-09-04T15:41:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-ukraine-attack-01-glmq/04int-ukraine-attack-01-glmq-mediumSquareAt3X.jpg",
+      "image_alt": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -382,66 +359,43 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html"
+          "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html"
         }
       ],
       "impact": 76
     },
     {
-      "id": "inside-the-nepal-tunnel-rescue-operation-653846f7",
-      "region": "World",
+      "id": "un-votes-to-adopt-new-world-map-that-shows-africa-s-true-scale-1b076297",
+      "region": "Africa",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Inside the Nepal Tunnel Rescue Operation",
-      "published_at": "2026-09-04T11:20:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04nepal-floods-rescue-logistics-lhvc/04nepal-floods-rescue-logistics-lhvc-mediumSquareAt3X.jpg",
-      "image_alt": "Inside the Nepal Tunnel Rescue Operation",
+      "headline": "UN votes to adopt new world map that shows Africa’s true scale",
+      "published_at": "2026-09-04T16:49:29.000Z",
+      "image": "https://i.guim.co.uk/img/media/71b8b31a0e418f2093686dd8f0ce5c843b3989ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2a07aad732880348e9b39f966e7b4b2",
+      "image_alt": "UN votes to adopt new world map that shows Africa’s true scale",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
         }
       ],
       "impact": 75
     },
     {
-      "id": "how-vulnerable-is-germany-apos-s-infrastructure-5c1cfc0f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How vulnerable is Germany&apos;s infrastructure?",
-      "published_at": "2026-09-04T13:14:00.000Z",
-      "image": "",
-      "image_alt": "How vulnerable is Germany&apos;s infrastructure?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/how-vulnerable-is-germany-s-infrastructure/a-78990131?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "israeli-army-has-seized-lebanon-s-key-ali-al-taher-ridge-from-hezbolla-53f3ad90",
+      "id": "israel-s-west-bank-camp-displacements-could-be-crime-against-humanity--c9484210",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli army has seized Lebanon's key Ali al-Taher ridge from Hezbollah",
-      "published_at": "2026-09-04T13:27:50.000Z",
-      "image": "https://s.france24.com/media/display/d6fd5dd8-a863-11f1-8979-005056bf30b7/w:1024/p:16x9/000-C7CP76M.jpg",
-      "image_alt": "Israeli army has seized Lebanon's key Ali al-Taher ridge from Hezbollah",
+      "headline": "Israel's West Bank camp displacements could be crime against humanity, UN says",
+      "published_at": "2026-09-04T16:26:55.000Z",
+      "image": "https://s.france24.com/media/display/7cd77414-a878-11f1-bbf1-005056a90284/w:1024/p:16x9/AP25050234334915.jpg",
+      "image_alt": "Israel's West Bank camp displacements could be crime against humanity, UN says",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -451,20 +405,66 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260904-israel-says-it-has-seized-lebanon-key-ali-al-taher-ridge-from-hezbollah"
+          "url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says"
         }
       ],
       "impact": 73
     },
     {
-      "id": "unearthing-her-story-the-rise-of-women-archaeologists-1f951035",
+      "id": "us-judge-declares-mistrial-in-infanticide-case-but-freezes-ruling-to-a-b1353499",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US judge declares mistrial in infanticide case, but freezes ruling to allow appeal",
+      "published_at": "2026-09-04T16:19:16.000Z",
+      "image": "https://img.lemde.fr/2026/09/04/0/0/5653/2826/644/322/60/0/847c568_ftp-1-4ikpwjlf2jbl-2026-09-04t160013z-737352597-rc2gcna88phz-rtrmadp-3-massachusetts-crime-clancy.JPG",
+      "image_alt": "US judge declares mistrial in infanticide case, but freezes ruling to allow appeal",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/04/us-judge-declares-mistrial-in-infanticide-case-but-freezes-ruling-to-allow-appeal_6757174_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "us-reports-strong-job-growth-in-august-64e3f6d0",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US reports strong job growth in August",
+      "published_at": "2026-09-04T15:49:58.000Z",
+      "image": "https://img.lemde.fr/2026/09/04/628/0/4768/2384/644/322/60/0/50e840a_ftp-1-mqxhexoyx7kg-2026-09-04t143356z-2069094348-rc2ecna6y5fv-rtrmadp-3-usa-trump.JPG",
+      "image_alt": "US reports strong job growth in August",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/04/us-reports-strong-job-growth-in-august_6757172_19.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "italian-opposition-fragmented-no-alternative-leader-no-other-possible--ddb9335f",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Unearthing her story: The rise of women archaeologists",
-      "published_at": "2026-09-04T13:17:29.000Z",
-      "image": "https://s.france24.com/media/display/df2c639c-a85d-11f1-8595-005056a97e36/w:1024/p:16x9/ENMG-THE-51-PERCENT-ARCHEO-260904-2027-Ep-1.jpg",
-      "image_alt": "Unearthing her story: The rise of women archaeologists",
+      "headline": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
+      "published_at": "2026-09-04T15:35:05.000Z",
+      "image": "https://s.france24.com/media/display/853e8964-a871-11f1-a821-005056a90284/w:1024/p:16x9/EN-20260904-080636-081309-CS.jpg",
+      "image_alt": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,20 +474,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/the-51/20260904-unearthing-her-story-the-rise-of-women-archaeologists"
+          "url": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journa-9d21760e",
+      "id": "germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plan-73477628",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "What does acquittal in the Daphne Caruana Galizia case mean for journalists?",
-      "published_at": "2026-09-04T13:07:32.000Z",
-      "image": "https://s.france24.com/media/display/949843aa-a85d-11f1-87e4-005056bfb2b6/w:1024/p:16x9/capture-10484124756a9abbd9d12597-89660999.jpg",
-      "image_alt": "What does acquittal in the Daphne Caruana Galizia case mean for journalists?",
+      "headline": "Germany: Hans-Thomas Tillschneider, the ideologist behind the AFD’s plans in Saxony-Anhalt",
+      "published_at": "2026-09-04T15:34:36.000Z",
+      "image": "https://s.france24.com/media/display/d6490a76-a6e3-11f1-a0d9-005056a97e36/w:1024/p:16x9/Tillschneider.jpg",
+      "image_alt": "Germany: Hans-Thomas Tillschneider, the ideologist behind the AFD’s plans in Saxony-Anhalt",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -497,20 +497,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists"
+          "url": "https://www.france24.com/en/europe/20260904-germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plans-in-saxony-anhalt"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "worst-possible-timing-farage-s-reform-uk-meets-as-new-donation-scandal-86aab8d5",
+      "id": "trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-day-9450217b",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "'Worst possible timing': Farage's Reform UK meets as new donation scandal hits",
-      "published_at": "2026-09-04T13:02:16.000Z",
-      "image": "https://s.france24.com/media/display/4b3a7ab8-a860-11f1-bcff-005056bfb2b6/w:1024/p:16x9/EN-20260904-143554-144130-CS.jpg",
-      "image_alt": "'Worst possible timing': Farage's Reform UK meets as new donation scandal hits",
+      "headline": "Trump envoys Witkoff, Kushner to visit Russia and Ukraine in coming days",
+      "published_at": "2026-09-04T15:29:52.000Z",
+      "image": "https://s.france24.com/media/display/eeb14596-a874-11f1-adb2-005056a97e36/w:1024/p:16x9/EN-20260904-170306-170518-CS.jpg",
+      "image_alt": "Trump envoys Witkoff, Kushner to visit Russia and Ukraine in coming days",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -520,20 +520,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260904-worst-possible-timing-farage-s-reform-uk-meets-as-new-donation-scandal-hits"
+          "url": "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "trump-s-white-house-releases-deportation-video-games-9d86d626",
+      "id": "on-the-ground-russian-drone-strikes-ukraine-security-service-headquart-d89602c3",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump's White House releases deportation video games",
-      "published_at": "2026-09-04T13:00:12.000Z",
-      "image": "https://s.france24.com/media/display/3b156e52-a85d-11f1-a5bd-005056a97e36/w:1024/p:16x9/EN-20260904-130946-131133-CS.jpg",
-      "image_alt": "Trump's White House releases deportation video games",
+      "headline": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
+      "published_at": "2026-09-04T15:24:33.000Z",
+      "image": "https://s.france24.com/media/display/14b50efe-a874-11f1-a60d-005056a97e36/w:1024/p:16x9/EN-20260904-160145-160455-CS.jpg",
+      "image_alt": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,33 +543,33 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260904-trump-s-white-house-releases-deportation-video-games"
+          "url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv"
         }
       ],
-      "impact": 73
+      "impact": 72
     },
     {
-      "id": "romania-prosecutors-indict-andrew-tate-for-trafficking-minors-3bef0147",
+      "id": "ethan-hawke-leads-the-charge-at-deauville-s-52nd-american-film-festiva-980aca22",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Romania prosecutors indict Andrew Tate for trafficking minors",
-      "published_at": "2026-09-04T12:23:00.000Z",
-      "image": "",
-      "image_alt": "Romania prosecutors indict Andrew Tate for trafficking minors",
+      "headline": "Ethan Hawke leads the charge at Deauville's 52nd American Film Festival",
+      "published_at": "2026-09-04T15:19:41.000Z",
+      "image": "https://s.france24.com/media/display/45693300-a869-11f1-b51c-005056a97e36/w:1024/p:16x9/capture-5412786466a9acf7718eba9-73554450.jpg",
+      "image_alt": "Ethan Hawke leads the charge at Deauville's 52nd American Film Festival",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/romania-prosecutors-indict-andrew-tate-for-trafficking-minors/a-78933191?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/arts24/20260904-ethan-hawke-leads-the-charge-at-deauville-s-52nd-american-film-festival"
         }
       ],
-      "impact": 73
+      "impact": 72
     }
   ]
 }
