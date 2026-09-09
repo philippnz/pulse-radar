@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:52:08.793Z",
+  "updated_at": "2026-09-09T10:40:15.801Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "israel-s-war-leaves-lebanon-s-schools-balancing-students-and-the-displ-f8cf669c",
-      "region": "Middle East",
+      "id": "the-war-in-the-gulf-will-have-to-end-in-compromise-ddee09d4",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
-      "published_at": "2026-09-09T05:36:11.000Z",
+      "headline": "The war in the Gulf will have to end in compromise",
+      "published_at": "2026-09-09T10:09:04.000Z",
       "image": "",
-      "image_alt": "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
+      "image_alt": "The war in the Gulf will have to end in compromise",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,20 +37,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss"
+          "url": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss"
         }
       ],
       "impact": 87
     },
     {
-      "id": "us-strikes-iranian-oil-tankers-as-tehran-targets-american-base-in-jord-93271b6b",
+      "id": "iran-signals-readiness-to-escalate-war-with-u-s-amid-rising-economic-p-20dfdce4",
       "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+      "published_at": "2026-09-09T09:18:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-iran-assess-wmjt/08int-iran-assess-wmjt-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "oil-hits-100-a-barrel-for-first-time-since-july-after-us-and-houthi-st-93271b6b",
+      "region": "Americas",
       "topic": "Markets",
       "urgency": "Live",
-      "headline": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-      "published_at": "2026-09-09T04:26:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76ef/live/6d545a00-ac03-11f1-afbf-77fe6d25f635.jpg",
-      "image_alt": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "published_at": "2026-09-09T09:47:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/65350fe0-ac30-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_alt": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "translations": {
         "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -66,106 +89,152 @@
       "impact": 84
     },
     {
-      "id": "conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns-ceab4c93",
-      "region": "Asia-Pacific",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
-      "published_at": "2026-09-09T04:04:45.000Z",
-      "image": "",
-      "image_alt": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "cameraman-catches-the-moment-yemeni-government-forces-are-ambushed-15119096",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Cameraman catches the moment Yemeni government forces are ambushed",
-      "published_at": "2026-09-09T02:54:28.000Z",
-      "image": "",
-      "image_alt": "Cameraman catches the moment Yemeni government forces are ambushed",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "israel-apos-s-netanyahu-denies-uae-warned-him-of-october-7-attack-7080950e",
+      "id": "war-in-the-middle-east-iran-attacks-us-base-in-jordan-10-us-vessels-fa1fb067",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Israel&apos;s Netanyahu denies UAE warned him of October 7 attack",
-      "published_at": "2026-09-09T00:37:00.000Z",
-      "image": "",
-      "image_alt": "Israel&apos;s Netanyahu denies UAE warned him of October 7 attack",
+      "headline": "War in the Middle East: Iran attacks US base in Jordan, 10 US vessels",
+      "published_at": "2026-09-09T10:12:34.000Z",
+      "image": "https://s.france24.com/media/display/2d265d0e-ac2e-11f1-b367-005056a97e36/w:1024/p:16x9/EN-20260909-100206-100616-CS.jpg",
+      "image_alt": "War in the Middle East: Iran attacks US base in Jordan, 10 US vessels",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/israel-s-netanyahu-denies-uae-warned-him-of-october-7-attack/a-79194436?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260909-war-in-the-middle-east-iran-attacks-us-base-in-jordan-10-us-vessels"
         }
       ],
-      "impact": 79
+      "impact": 83
     },
     {
-      "id": "jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us--0c4762f5",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open",
-      "published_at": "2026-09-09T05:20:15.000Z",
-      "image": "",
-      "image_alt": "Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open",
+      "id": "france-24-report-reveals-russia-s-war-on-ukraine-s-books-and-cultural--212bd7bb",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "FRANCE 24 report reveals Russia’s war on Ukraine’s books and cultural identity",
+      "published_at": "2026-09-09T10:09:00.000Z",
+      "image": "https://s.france24.com/media/display/87a1d194-ac30-11f1-bfc8-005056bf30b7/w:1024/p:16x9/EN-20260909-101227-101424-CS.jpg",
+      "image_alt": "FRANCE 24 report reveals Russia’s war on Ukraine’s books and cultural identity",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260909-france-24-report-reveals-russia-s-war-on-ukraine-s-books-and-cultural-identity"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "europe-unites-to-pressure-israel-breaking-with-u-s-81c3e28a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Europe Unites to Pressure Israel, Breaking With U.S.",
+      "published_at": "2026-09-09T09:35:29.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10int-europe-israel-assess-mfcp/10int-europe-israel-assess-mfcp-mediumSquareAt3X.jpg",
+      "image_alt": "Europe Unites to Pressure Israel, Breaking With U.S.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/09/world/europe/britain-france-israel-settlements-trade.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "the-theme-park-at-the-heart-of-france-s-culture-war-dd57f7d9",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "The Theme Park at the Heart of France’s Culture War",
+      "published_at": "2026-09-09T05:07:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00Int-France-themepark-dispatch-promo-agnaio/00Int-France-themepark-dispatch-fgkc-mediumSquareAt3X.jpg",
+      "image_alt": "The Theme Park at the Heart of France’s Culture War",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "which-countries-banned-goods-from-settlements-but-trade-with-israel-0c768467",
+      "region": "Middle East",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Which countries banned goods from settlements but trade with Israel?",
+      "published_at": "2026-09-09T09:52:50.000Z",
+      "image": "",
+      "image_alt": "Which countries banned goods from settlements but trade with Israel?",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/9/jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us-open?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 81
     },
     {
-      "id": "us-slaps-import-ban-on-canadian-alcohol-motorbikes-and-other-goods-0e9b9649",
+      "id": "israel-s-election-campaign-is-heating-up-here-s-who-s-running-2e86b6b4",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Israel’s Election Campaign Is Heating Up. Here’s Who’s Running.",
+      "published_at": "2026-09-09T09:06:14.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09israel-election-explainer-01-lcbm/09israel-election-explainer-01-lcbm-mediumSquareAt3X.jpg",
+      "image_alt": "Israel’s Election Campaign Is Heating Up. Here’s Who’s Running.",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/09/world/middleeast/israels-election-campaign-is-heating-up-heres-whos-running.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "us-to-ban-imports-of-some-canadian-alcohol-dairy-goods-and-motorbikes-0e9b9649",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-      "published_at": "2026-09-09T03:03:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
-      "image_alt": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "headline": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "published_at": "2026-09-09T10:20:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg",
+      "image_alt": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -178,385 +247,40 @@
           "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 77
+      "impact": 80
     },
     {
-      "id": "600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru-8a946503",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "600-year-old tomb of pre-Incan Chimu kingdom found in Peru",
-      "published_at": "2026-09-09T04:57:02.000Z",
-      "image": "",
-      "image_alt": "600-year-old tomb of pre-Incan Chimu kingdom found in Peru",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "the-case-for-the-us-going-back-to-the-firing-squad-4bf99215",
+      "id": "trump-bans-canadian-alcohol-in-latest-trade-war-salvo-dc9f4cbe",
       "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "The case for the US going back to the firing squad",
-      "published_at": "2026-09-09T04:29:12.000Z",
-      "image": "",
-      "image_alt": "The case for the US going back to the firing squad",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-strikes-us-base-in-jordan-following-attacks-on-its-oil-tankers-5ae38fb7",
-      "region": "Middle East",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Iran strikes US base in Jordan following attacks on its oil tankers",
-      "published_at": "2026-09-09T03:27:16.000Z",
-      "image": "https://img.lemde.fr/2026/09/08/0/0/3800/1900/644/322/60/0/0f5af98_ftp-1-nj4v7gi5y1ua-5030418-01-06.jpg",
-      "image_alt": "Iran strikes US base in Jordan following attacks on its oil tankers",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/09/iran-attacks-us-base-in-jordan-following-attacks-on-its-oil-tankers_6757328_4.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "cluster-munitions-kill-wound-over-1-000-globally-in-2025-7a81d0d8",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Cluster munitions kill, wound over 1,000 globally in 2025",
-      "published_at": "2026-09-09T04:11:51.000Z",
-      "image": "",
-      "image_alt": "Cluster munitions kill, wound over 1,000 globally in 2025",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "it-s-hell-father-of-slain-australian-surfers-tells-mexico-homicide-tri-52a6afe6",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
-      "published_at": "2026-09-09T04:46:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/6246f2d2fbcca883458f73bf49150c7e1e9ea8b7/137_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=e9b080799ca9c7638e9a318505d1b5ce",
-      "image_alt": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
-      "translations": {
-        "en": "PULSE is tracking this society update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "babies-born-to-anaemic-mothers-have-smaller-brains-study-finds-c6b0912e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Babies born to anaemic mothers have smaller brains, study finds",
-      "published_at": "2026-09-09T04:00:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/b51e55df330640864b621f7eafdfd622daf8756e/1297_888_3180_2544/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=df3f4a0cc5e7a1153c834b40c1d32543",
-      "image_alt": "Babies born to anaemic mothers have smaller brains, study finds",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "saudi-arabia-and-yemen-s-houthis-edge-back-to-the-brink-of-war-9dc68de6",
-      "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
-      "published_at": "2026-09-08T16:35:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08xp-saudi-tbwm/08xp-saudi-tbwm-mediumSquareAt3X.jpg",
-      "image_alt": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
+      "headline": "Trump bans Canadian alcohol in latest trade war salvo",
+      "published_at": "2026-09-09T07:20:17.000Z",
+      "image": "https://img.lemde.fr/2025/07/18/174/0/5000/2500/644/322/60/0/50dc55e_upload-1-xdspeagajizt-gettyimages-2204870959.jpg",
+      "image_alt": "Trump bans Canadian alcohol in latest trade war salvo",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "ukrainian-tv-channel-building-hit-by-russian-drone-as-five-killed-in-k-5913c4a3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "published_at": "2026-09-08T17:10:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
-      "image_alt": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "iceland-s-no-vote-does-not-undermine-the-eu-s-appeal-2cae7f0e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iceland's no vote does not undermine the EU's appeal",
-      "published_at": "2026-09-09T03:30:12.000Z",
-      "image": "https://img.lemde.fr/2026/08/30/625/0/7486/3743/644/322/60/0/a63a01e_ftp-1-f7xmaitmtuyd-b50c5aa996874351baad089f51449973-0-36e9fb042fb348a781e0dc6e5b0d1360.jpg",
-      "image_alt": "Iceland's no vote does not undermine the EU's appeal",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/09/09/iceland-s-no-vote-does-not-undermine-the-eu-s-appeal_6757329_23.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/09/trump-bans-canadian-alcohol-in-latest-trade-war-salvo_6757331_4.html"
         }
       ],
-      "impact": 71
+      "impact": 80
     },
     {
-      "id": "uk-announces-sanctions-on-west-bank-settlements-prompting-furious-isra-832c384b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "published_at": "2026-09-09T01:45:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
-      "image_alt": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "refer-ndum-sobre-trump-la-carrera-para-las-elecciones-de-medio-mandato-f715b368",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Referéndum sobre Trump: la carrera para las elecciones de medio mandato de EE UU entra en su fase decisiva",
-      "published_at": "2026-09-09T03:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/TBQQJNXRUJA7FLWDAQEF7UQOQA.jpg?auth=c60f561a48ec9e653cd9d44e4058c3906193cc69d1ff878018a26ca9f25d30d1",
-      "image_alt": "Referéndum sobre Trump: la carrera para las elecciones de medio mandato de EE UU entra en su fase decisiva",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/us/2026-09-09/referendum-sobre-trump-las-midterms-de-ee-uu-entran-en-su-fase-decisiva.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "bienvenidos-a-la-trump-a-palooza-la-ins-lita-convenci-n-con-la-que-los-b018efa7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bienvenidos a la ‘Trump-a-palooza’, la insólita convención con la que los republicanos tratan de salvar las elecciones legislativas de noviembre",
-      "published_at": "2026-09-09T03:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/YQ6XWNJFXNMR7CJBFVWFEDIJQI.jpg?auth=1bac1a3b85dd7cc283595fe075fbfadfeb96fd9e30bc7135e0545129e8cbe53b",
-      "image_alt": "Bienvenidos a la ‘Trump-a-palooza’, la insólita convención con la que los republicanos tratan de salvar las elecciones legislativas de noviembre",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/us/2026-09-09/bienvenidos-a-la-trump-a-palooza-la-insolita-convencion-con-la-que-los-republicanos-tratan-de-salvar-las-elecciones-legislativas-de-noviembre.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "la-extrema-derecha-alemana-siente-el-viento-a-favor-para-ganar-las-pr--aff5ac36",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "La extrema derecha alemana siente el viento a favor para ganar las próximas elecciones regionales",
-      "published_at": "2026-09-09T03:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/LQKQEUQCGJND7FBB5E7D64X7RI.jpg?auth=d9e4fc2d86f0b2025f86e84220038cc62a83a6a6cfebb8eede373985e87482f8",
-      "image_alt": "La extrema derecha alemana siente el viento a favor para ganar las próximas elecciones regionales",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-09-09/la-extrema-derecha-alemana-siente-el-viento-a-favor-para-ganar-las-proximas-elecciones-regionales.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "rubio-launches-latin-america-tour-with-pledge-to-restore-colombia-ties-b47f3bef",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Rubio launches Latin America tour with pledge to restore Colombia ties",
-      "published_at": "2026-09-09T03:03:50.000Z",
-      "image": "https://img.lemde.fr/2026/09/08/449/0/6047/3023/644/322/60/0/7625680_ftp-1-mvttgz8cgtyt-2026-09-08t223817z-1936029243-rc29fnawze52-rtrmadp-3-usa-colombia.JPG",
-      "image_alt": "Rubio launches Latin America tour with pledge to restore Colombia ties",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/09/rubio-launches-latin-america-tour-with-pledge-to-restore-colombia-ties_6757327_4.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "europe-sidelined-by-spacex-s-dominance-in-space-as-french-german-rival-3343d1a1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Europe sidelined by SpaceX's dominance in space, as French-German rivalries deepen",
-      "published_at": "2026-09-09T03:00:20.000Z",
-      "image": "https://img.lemde.fr/2026/09/02/712/0/5568/2784/644/322/60/0/d09e047_ftp-1-hxr0sppumnl5-5976078-01-06.jpg",
-      "image_alt": "Europe sidelined by SpaceX's dominance in space, as French-German rivalries deepen",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/09/09/europe-sidelined-by-spacex-s-dominance-in-space-as-french-german-rivalries-deepen_6757325_19.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "donald-trump-takes-center-stage-in-republican-campaign-ahead-of-us-mid-59234611",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Donald Trump takes center stage in Republican campaign ahead of US midterms",
-      "published_at": "2026-09-09T03:00:09.000Z",
-      "image": "https://img.lemde.fr/2026/09/08/43/0/7040/3520/644/322/60/0/4e30650_ftp-1-m2tzhcciol2h-5027741-01-06.jpg",
-      "image_alt": "Donald Trump takes center stage in Republican campaign ahead of US midterms",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/09/donald-trump-takes-center-stage-in-republican-campaign-ahead-of-us-midterms_6757326_4.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat--5acd2d25",
-      "region": "Americas",
+      "id": "houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-s-a987e4b0",
+      "region": "Middle East",
       "topic": "Markets",
-      "urgency": "Update",
-      "headline": "US bans Canadian alcohol, motorcycles and dairy products as trade spat escalates",
-      "published_at": "2026-09-09T02:36:11.000Z",
-      "image": "https://s.france24.com/media/display/db134d28-abed-11f1-8986-005056a97e36/w:1024/p:16x9/0a11131be75eaa75c2e6b179bfeca995a738f844.jpg",
-      "image_alt": "US bans Canadian alcohol, motorcycles and dairy products as trade spat escalates",
+      "urgency": "Live",
+      "headline": "Houthis report Saudi reprisals after oil sites set ablaze in wave of strikes",
+      "published_at": "2026-09-09T10:14:29.000Z",
+      "image": "https://s.france24.com/media/display/875544f0-ac35-11f1-b65d-005056bfb2b6/w:1024/p:16x9/EN-20260909-103420-103619-CS.jpg",
+      "image_alt": "Houthis report Saudi reprisals after oil sites set ablaze in wave of strikes",
       "translations": {
         "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,10 +290,286 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates"
+          "url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes"
         }
       ],
-      "impact": 70
+      "impact": 78
+    },
+    {
+      "id": "diplomatic-row-escalates-as-uk-france-and-canada-move-to-sanction-isra-32a2c380",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements",
+      "published_at": "2026-09-09T10:10:54.000Z",
+      "image": "https://s.france24.com/media/display/44274d14-ac2f-11f1-a4f1-005056a90284/w:1024/p:16x9/EN-20260909-080426-080856-CS.jpg",
+      "image_alt": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260909-diplomatic-row-escalates-as-uk-france-and-canada-move-to-sanction-israeli-settlements"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "tycoon-to-pay-ex-wife-1-87bn-in-record-south-korea-divorce-settlement-61cae4ba",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "published_at": "2026-09-09T08:21:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad81/live/4445eef0-ac24-11f1-9bd9-7b7da208bd5c.jpg",
+      "image_alt": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "family-of-british-man-found-dead-in-grenada-ask-local-police-to-work-w-4511941e",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Breaking",
+      "headline": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "published_at": "2026-09-09T08:00:03.000Z",
+      "image": "https://i.guim.co.uk/img/media/c601f3cefd8c2ed9566d6f0f45ec20f5e9f80c3e/593_0_6014_4810/master/6014.jpg?width=140&quality=85&auto=format&fit=max&s=86e72a595fdc683d68f6ada740fed6de",
+      "image_alt": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "translations": {
+        "en": "PULSE is tracking this society update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days-cab7cb55",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israel tells UK to close East Jerusalem consulate within 30 days",
+      "published_at": "2026-09-09T10:09:06.000Z",
+      "image": "",
+      "image_alt": "Israel tells UK to close East Jerusalem consulate within 30 days",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "the-billion-euro-trade-driving-europe-apos-s-eels-to-extinction-52753752",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "The billion-euro trade driving Europe&apos;s eels to extinction",
+      "published_at": "2026-09-09T08:36:00.000Z",
+      "image": "",
+      "image_alt": "The billion-euro trade driving Europe&apos;s eels to extinction",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "trafficked-into-fraud-an-african-crisis-situation-in-cambodia-52bd0f8a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Trafficked into fraud: An African crisis situation in Cambodia",
+      "published_at": "2026-09-09T08:27:00.000Z",
+      "image": "",
+      "image_alt": "Trafficked into fraud: An African crisis situation in Cambodia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/trafficked-into-fraud-an-african-crisis-situation-in-cambodia/a-79189967?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "ukraine-russia-trade-drone-strikes-killing-6-874b8234",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Ukraine, Russia trade drone strikes, killing 6",
+      "published_at": "2026-09-09T08:14:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine, Russia trade drone strikes, killing 6",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-russia-trade-drone-strikes-killing-6/a-79196814?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "baby-orangutans-found-in-indian-forest-spark-trafficking-inquiry-fac7d4ef",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "published_at": "2026-09-09T07:44:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f6a/live/22d80770-ac20-11f1-9bd9-7b7da208bd5c.jpg",
+      "image_alt": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "turkish-jets-perform-dramatic-flyover-above-egypt-s-pyramids-dbba0169",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
+      "published_at": "2026-09-09T09:56:42.000Z",
+      "image": "",
+      "image_alt": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israeli-parties-submit-slates-for-october-knesset-elections-652650a5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli parties submit slates for October Knesset elections",
+      "published_at": "2026-09-09T09:51:01.000Z",
+      "image": "",
+      "image_alt": "Israeli parties submit slates for October Knesset elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "authorities-in-india-rescue-baby-orangutans-dumped-in-forest-6d2dd9cb",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Authorities in India rescue baby orangutans dumped in forest",
+      "published_at": "2026-09-09T09:45:17.000Z",
+      "image": "",
+      "image_alt": "Authorities in India rescue baby orangutans dumped in forest",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "pakistan-faces-new-frontier-against-attacks-balochistan-s-pashtun-area-be0d3b45",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
+      "published_at": "2026-09-09T09:44:10.000Z",
+      "image": "",
+      "image_alt": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/9/pakistan-faces-new-frontier-against-attacks-balochistans-pashtun-areas?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     }
   ]
 }
