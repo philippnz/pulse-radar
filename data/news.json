@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T01:18:26.745Z",
+  "updated_at": "2026-09-11T06:20:52.540Z",
   "languages": [
     {
       "code": "en",
@@ -20,37 +20,60 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit-1132daeb",
+      "id": "middle-east-live-trump-says-he-has-no-regrets-about-launching-iran-war-3d13a485",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-      "published_at": "2026-09-11T00:00:00.000Z",
-      "image": "",
-      "image_alt": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+      "headline": "Middle East live: Trump says he has no regrets about launching Iran war",
+      "published_at": "2026-09-11T04:52:21.000Z",
+      "image": "https://s.france24.com/media/display/af8e7fc0-ad90-11f1-9600-005056bfb2b6/w:1024/p:16x9/AP26254115285393.jpg",
+      "image_alt": "Middle East live: Trump says he has no regrets about launching Iran war",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran"
         }
       ],
-      "impact": 86
+      "impact": 82
     },
     {
-      "id": "un-envoy-warns-security-council-yemen-s-war-has-entered-dangerous-phas-7a94fa69",
-      "region": "Middle East",
+      "id": "five-killed-and-67-injured-in-russian-strike-on-shopping-centre-ukrain-6bda1949",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-      "published_at": "2026-09-10T23:46:07.000Z",
+      "headline": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "published_at": "2026-09-10T22:36:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf5/live/0371abe0-ad31-11f1-9bc8-3509bd1a4ead.png",
+      "image_alt": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "anthropic-claims-claude-ai-used-for-missile-projects-global-espionage-a1044358",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Anthropic claims Claude AI used for missile projects, global espionage",
+      "published_at": "2026-09-11T04:48:25.000Z",
       "image": "",
-      "image_alt": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+      "image_alt": "Anthropic claims Claude AI used for missile projects, global espionage",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,10 +83,171 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 81
+    },
+    {
+      "id": "is-the-us-more-anti-muslim-now-than-after-9-11-9bcb26f3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Is the US more anti-Muslim now than after 9/11?",
+      "published_at": "2026-09-11T06:00:55.000Z",
+      "image": "",
+      "image_alt": "Is the US more anti-Muslim now than after 9/11?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "hundreds-flee-as-fire-destroys-migrant-shelters-in-ceuta-1ef1da7a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hundreds flee as fire destroys migrant shelters in Ceuta",
+      "published_at": "2026-09-11T05:35:12.000Z",
+      "image": "",
+      "image_alt": "Hundreds flee as fire destroys migrant shelters in Ceuta",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "how-9-11-conspiracy-theories-moved-into-mainstream-american-politics-df55423d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How 9/11 conspiracy theories moved into mainstream American politics",
+      "published_at": "2026-09-11T05:30:05.000Z",
+      "image": "",
+      "image_alt": "How 9/11 conspiracy theories moved into mainstream American politics",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "everything-changed-the-human-cost-of-25-years-of-us-wars-ac69ddff",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘Everything changed’: The human cost of 25 years of US wars",
+      "published_at": "2026-09-11T05:27:06.000Z",
+      "image": "",
+      "image_alt": "‘Everything changed’: The human cost of 25 years of US wars",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide-06389d34",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
+      "published_at": "2026-09-11T05:25:34.000Z",
+      "image": "",
+      "image_alt": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "fenerbahce-coach-kartal-s-resignation-refused-as-bottle-thrown-in-roma-46df93c8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Fenerbahce coach Kartal’s resignation refused as bottle thrown in Roma tie",
+      "published_at": "2026-09-11T05:21:29.000Z",
+      "image": "",
+      "image_alt": "Fenerbahce coach Kartal’s resignation refused as bottle thrown in Roma tie",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/11/fenerbahce-coach-kartals-resignation-refused-by-president-as-bottles-thrown-in-roma-champions-league-tie?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final-bef78fdf",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sabalenka beats Pegula to set up Rybakina epic in US Open final",
+      "published_at": "2026-09-11T04:56:48.000Z",
+      "image": "",
+      "image_alt": "Sabalenka beats Pegula to set up Rybakina epic in US Open final",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "moscow-claims-ukraine-planned-to-start-a-war-between-russia-and-the-u--9b472edf",
@@ -86,7 +270,7 @@
           "url": "https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html"
         }
       ],
-      "impact": 81
+      "impact": 76
     },
     {
       "id": "israel-s-netanyahu-to-sue-newspaper-over-claim-uae-warned-him-of-7-oct-7270f17d",
@@ -109,30 +293,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "coach-crash-kills-several-people-in-swiss-alps-24d251fe",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Coach crash kills several people in Swiss Alps",
-      "published_at": "2026-09-11T01:01:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png",
-      "image_alt": "Coach crash kills several people in Swiss Alps",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 76
     },
     {
       "id": "more-than-20-children-killed-in-dr-congo-school-fire-0d5e1b40",
@@ -155,7 +316,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 74
     },
     {
       "id": "why-yemen-is-back-on-the-brink-of-war-905eac4f",
@@ -178,145 +339,168 @@
           "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html"
         }
       ],
-      "impact": 79
+      "impact": 74
     },
     {
-      "id": "maduro-s-wife-seeks-home-detention-as-heart-condition-worsens-in-us-cu-710925bb",
+      "id": "why-are-european-banks-moving-their-gold-out-of-the-us-bd1cdbdf",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
-      "published_at": "2026-09-11T01:07:23.000Z",
+      "headline": "Why are European banks moving their gold out of the US?",
+      "published_at": "2026-09-11T05:17:00.000Z",
       "image": "",
-      "image_alt": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+      "image_alt": "Why are European banks moving their gold out of the US?",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 73
     },
     {
-      "id": "why-is-uber-pulling-out-of-some-african-markets-5416a38a",
+      "id": "15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide-0553b337",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why is Uber pulling out of some African markets?",
-      "published_at": "2026-09-11T00:51:50.000Z",
-      "image": "",
-      "image_alt": "Why is Uber pulling out of some African markets?",
+      "headline": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "published_at": "2026-09-11T04:00:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/e66ba0e6f0cdfc07dc7018314386caa02a716e6f/376_0_3542_2833/master/3542.jpg?width=140&quality=85&auto=format&fit=max&s=5e6941dbf3f5da494f1f869983a43693",
+      "image_alt": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide"
         }
       ],
-      "impact": 77
+      "impact": 73
     },
     {
-      "id": "iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait-bbfefe1f",
-      "region": "Middle East",
+      "id": "nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-p-e0bca854",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "published_at": "2026-09-11T00:24:24.000Z",
-      "image": "",
-      "image_alt": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
+      "headline": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
+      "published_at": "2026-09-11T04:00:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/H5O3R2KEZVLJTF5YYHD5LWV5FM.jpg?auth=9bffe5de30438089a371a17f447b59af180e29284d8b6e5acf40a18e0b660512",
+      "image_alt": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss"
+          "name": "El Pais",
+          "url": "https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html"
         }
       ],
-      "impact": 76
+      "impact": 70
     },
     {
-      "id": "will-trump-pay-all-us-adults-5-000-some-trump-supporters-are-sceptical-6c093935",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
-      "published_at": "2026-09-11T00:23:58.000Z",
-      "image": "",
-      "image_alt": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere-30a9a07e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-      "published_at": "2026-09-11T00:14:59.000Z",
-      "image": "",
-      "image_alt": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "a-year-after-charlie-kirk-s-death-are-young-voters-turning-on-trump-f93b2e43",
+      "id": "coach-crash-kills-several-people-in-swiss-alps-24d251fe",
       "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
-      "published_at": "2026-09-10T23:08:55.000Z",
-      "image": "",
-      "image_alt": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
+      "urgency": "Update",
+      "headline": "Coach crash kills several people in Swiss Alps",
+      "published_at": "2026-09-11T01:01:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png",
+      "image_alt": "Coach crash kills several people in Swiss Alps",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 75
+      "impact": 70
+    },
+    {
+      "id": "los-socialdem-cratas-y-la-ultraderecha-pugnan-por-el-voto-obrero-en-su-23f1c203",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Los socialdemócratas y la ultraderecha pugnan por el voto obrero en Suecia",
+      "published_at": "2026-09-11T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/IIFTDLHFFRJBJM44XZRDY2CLQE.jpg?auth=0b6704e612c910abf35c4590bd531ca2f0c745931fb43603e53c9094ce17d291",
+      "image_alt": "Los socialdemócratas y la ultraderecha pugnan por el voto obrero en Suecia",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-09-11/los-socialdemocratas-y-la-ultraderecha-pugnan-por-el-voto-obrero-en-suecia.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "han-ganado-los-terroristas-tras-el-11-s-ffbc80dd",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "¿Han ganado los terroristas tras el 11-S?",
+      "published_at": "2026-09-11T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/UKQNKSMZEBGNRJHITCL5EZJUSI.jpg?auth=04b3ffce05b65e87be0aa3afe06b71fe6033e05e8c87c8e1ba99e4a6787ef79a",
+      "image_alt": "¿Han ganado los terroristas tras el 11-S?",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "putin-and-xi-in-india-for-brics-summit-as-ukraine-middle-east-wars-loo-e6ea137d",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Putin and Xi in India for BRICS summit as Ukraine, Middle East wars loom",
+      "published_at": "2026-09-11T02:08:34.000Z",
+      "image": "https://s.france24.com/media/display/f0d61468-acf3-11f1-ab71-005056bfb2b6/w:1024/p:16x9/7e5fcf827b46397639dc014e8f6942451ecb7847.jpg",
+      "image_alt": "Putin and Xi in India for BRICS summit as Ukraine, Middle East wars loom",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars"
+        }
+      ],
+      "impact": 69
     },
     {
       "id": "the-forever-war-in-afghanistan-25-years-in-pictures-351730a9",
@@ -339,7 +523,7 @@
           "url": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html"
         }
       ],
-      "impact": 74
+      "impact": 69
     },
     {
       "id": "several-killed-in-coach-crash-in-eastern-switzerland-b6b2e22e",
@@ -362,214 +546,30 @@
           "url": "https://www.dw.com/en/several-killed-in-coach-crash-in-eastern-switzerland/a-79221766?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "maduro-s-wife-seeks-release-from-detention-citing-ill-health-def01da3",
-      "region": "Europe",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Maduro's wife seeks release from detention, citing ill health",
-      "published_at": "2026-09-11T00:16:16.000Z",
-      "image": "https://img.lemde.fr/2026/09/03/144/0/4550/2275/644/322/60/0/ee972e2_ftp-1-tq7zn7qze32b-bc4e199da9d74790856fb09526b830f2-0-5800b4f0f5a24804aa6bf676e4318fa1.jpg",
-      "image_alt": "Maduro's wife seeks release from detention, citing ill health",
-      "translations": {
-        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/11/maduro-s-wife-seeks-release-from-detention-citing-ill-health_6757400_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "yemen-s-iran-backed-houthi-rebels-seize-strategic-red-sea-port-city-of-9f2c18b0",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-      "published_at": "2026-09-10T22:55:18.000Z",
-      "image": "https://s.france24.com/media/display/6446b3f2-abb0-11f1-b7c5-005056bfb2b6/w:1024/p:16x9/c11f1b5f361174a659ad76cf10d47f1376a66e00.jpg",
-      "image_alt": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "manchester-united-thrash-sabah-in-champions-league-return-as-fabregas--82c938e7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Manchester United thrash Sabah in Champions League return as Fabregas's Como shine on European debut",
-      "published_at": "2026-09-10T22:25:34.000Z",
-      "image": "https://s.france24.com/media/display/07011244-ad5b-11f1-a894-005056a90284/w:1024/p:16x9/554cf9a55acac96b45f8c44b72904788adbe99a5.jpg",
-      "image_alt": "Manchester United thrash Sabah in Champions League return as Fabregas's Como shine on European debut",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "canada-offers-air-defense-support-for-ukraine-as-zelenskyy-visits-94b32db9",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-      "published_at": "2026-09-10T20:35:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/be7c2941850f3cf0d37436c968f44745b159e3aa/38_0_4431_3544/master/4431.jpg?width=140&quality=85&auto=format&fit=max&s=d7f71d2dcb2b86d6931e9e5f3545e566",
-      "image_alt": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-      "translations": {
-        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "man-jailed-after-threatening-to-kill-son-s-teacher-in-french-village-f3885621",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Man jailed after threatening to kill son's teacher in French village",
-      "published_at": "2026-09-10T20:10:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg",
-      "image_alt": "Man jailed after threatening to kill son's teacher in French village",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "ancient-tombs-untouched-by-looters-are-found-under-peru-s-sands-0722463e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
-      "published_at": "2026-09-10T20:28:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/10/world/americas/10vid-peru-tombs-cover-image-v2/10vid-peru-tombs-cover-image-v2-mediumSquareAt3X.jpg",
-      "image_alt": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html"
-        }
-      ],
       "impact": 68
     },
     {
-      "id": "after-a-difficult-loss-nigeria-has-become-a-source-of-pain-for-chimama-546b1177",
-      "region": "Africa",
+      "id": "spanish-lawmakers-back-citizenship-for-sahrawis-b80e5c07",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Update",
-      "headline": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
-      "published_at": "2026-09-10T20:05:21.000Z",
+      "headline": "Spanish lawmakers back citizenship for Sahrawis",
+      "published_at": "2026-09-11T03:09:00.000Z",
       "image": "",
-      "image_alt": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
+      "image_alt": "Spanish lawmakers back citizenship for Sahrawis",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-sahrawis/a-79222841?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "yemen-s-houthis-reportedly-seize-strategic-red-sea-port-of-mokha-5885c6bd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "published_at": "2026-09-10T18:15:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg",
-      "image_alt": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "houthis-seize-strategic-red-sea-port-a-major-victory-for-iranian-ally-4e57902e",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
-      "published_at": "2026-09-10T19:31:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10int-yemen-mokha-hztm/10int-yemen-mokha-hztm-mediumSquareAt3X.jpg",
-      "image_alt": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html"
-        }
-      ],
-      "impact": 67
+      "impact": 66
     }
   ]
 }
