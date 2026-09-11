@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:56:08.543Z",
+  "updated_at": "2026-09-11T21:32:12.815Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,52 @@
     }
   ],
   "stories": [
+    {
+      "id": "declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-year-4b86a58a",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+      "published_at": "2026-09-11T19:59:41.000Z",
+      "image": "",
+      "image_alt": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "houthis-seize-a-key-red-sea-island-threatening-another-global-oil-rout-68760ef0",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+      "published_at": "2026-09-11T21:02:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11yemen-cpvm/11yemen-cpvm-mediumSquareAt3X.jpg",
+      "image_alt": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+      "translations": {
+        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+        }
+      ],
+      "impact": 82
+    },
     {
       "id": "for-china-a-mock-a-i-attack-on-wechat-signals-a-dangerous-new-era-d657365a",
       "region": "Asia-Pacific",
@@ -40,30 +86,53 @@
           "url": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html"
         }
       ],
-      "impact": 84
+      "impact": 81
     },
     {
-      "id": "rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august-9c99aed0",
-      "region": "Americas",
-      "topic": "Markets",
+      "id": "houthis-claim-major-advance-in-yemen-and-tighten-grip-on-red-sea-shipp-fefac175",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Rising petrol costs drive sharp inflation increase in US in August",
-      "published_at": "2026-09-11T17:28:11.000Z",
-      "image": "",
-      "image_alt": "Rising petrol costs drive sharp inflation increase in US in August",
+      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "published_at": "2026-09-11T20:11:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
+      "image_alt": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 79
+    },
+    {
+      "id": "ukraine-russian-strike-on-kyiv-gas-station-kills-2-87bd0468",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukraine: Russian strike on Kyiv gas station kills 2",
+      "published_at": "2026-09-11T15:53:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine: Russian strike on Kyiv gas station kills 2",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "us-commemorates-25-years-since-9-11-terror-attack-c70e85a4",
@@ -86,53 +155,7 @@
           "url": "https://www.dw.com/en/us-commemorates-25-years-since-9-11-terror-attack/a-79237898?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "houthis-seize-a-key-red-sea-island-threatening-yet-another-global-oil--68760ef0",
-      "region": "World",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route",
-      "published_at": "2026-09-11T16:27:41.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11yemen-cpvm/11yemen-cpvm-mediumSquareAt3X.jpg",
-      "image_alt": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route",
-      "translations": {
-        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "trump-uses-9-11-memorial-speech-to-defend-war-in-iran-722d5708",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Trump uses 9/11 memorial speech to defend war in Iran",
-      "published_at": "2026-09-11T15:06:40.000Z",
-      "image": "https://s.france24.com/media/display/aa227e40-adf1-11f1-827d-005056a97e36/w:1024/p:16x9/EN-20260911-163557-164214-CS.jpg",
-      "image_alt": "Trump uses 9/11 memorial speech to defend war in Iran",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran"
-        }
-      ],
-      "impact": 80
+      "impact": 78
     },
     {
       "id": "inside-an-ancient-lebanese-city-engulfed-by-war-d4d2cc15",
@@ -155,63 +178,17 @@
           "url": "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "hong-kong-s-tiananmen-activists-sentenced-to-up-to-seven-years-in-pris-b43c2e14",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "published_at": "2026-09-11T17:32:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/9ec505e0-adc9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "image_alt": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "houthis-claim-major-advance-in-yemen-and-tighten-grip-on-red-sea-shipp-fefac175",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "published_at": "2026-09-11T16:58:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
-      "image_alt": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday-96916534",
-      "region": "Middle East",
+      "id": "somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attac-dfa3e312",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-      "published_at": "2026-09-11T18:33:36.000Z",
+      "headline": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+      "published_at": "2026-09-11T21:23:51.000Z",
       "image": "",
-      "image_alt": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+      "image_alt": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -221,20 +198,66 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "as-russia-again-draws-near-a-frontline-city-fears-obliteration-this-ti-39053985",
-      "region": "Europe",
+      "id": "zohran-mamdani-commemorates-9-11-amid-widespread-criticism-4d08dac1",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-      "published_at": "2026-09-11T18:08:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/00int-ukraine-izium-HP-Promo-pfor/00int-ukraine-izium-HP-Promo-pfor-mediumSquareAt3X.jpg",
-      "image_alt": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+      "headline": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+      "published_at": "2026-09-11T21:01:23.000Z",
+      "image": "",
+      "image_alt": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "us-legislators-push-ai-safety-laws-amid-human-extinction-warnings-3152e624",
+      "region": "Americas",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "US legislators push AI safety laws amid human extinction warnings",
+      "published_at": "2026-09-11T20:59:51.000Z",
+      "image": "",
+      "image_alt": "US legislators push AI safety laws amid human extinction warnings",
+      "translations": {
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "why-emerging-powers-keep-joining-brics-even-when-they-disagree-ff8ee048",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+      "published_at": "2026-09-11T20:45:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11int-brics-explainer-fkhj/11int-brics-explainer-fkhj-mediumSquareAt3X.jpg",
+      "image_alt": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,33 +267,148 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html"
+          "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html"
         }
       ],
       "impact": 77
     },
     {
-      "id": "norway-s-princess-astrid-dies-two-days-after-attending-brother-king-ha-03fde929",
-      "region": "World",
-      "topic": "World",
+      "id": "live-saudi-shuts-east-west-oil-pipeline-after-multiple-houthi-attacks-3d13a485",
+      "region": "Middle East",
+      "topic": "Markets",
       "urgency": "Live",
-      "headline": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "published_at": "2026-09-11T16:00:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
-      "image_alt": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "headline": "🔴 Live: Saudi shuts East-West oil pipeline after multiple Houthi attacks",
+      "published_at": "2026-09-11T19:25:51.000Z",
+      "image": "",
+      "image_alt": "🔴 Live: Saudi shuts East-West oil pipeline after multiple Houthi attacks",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt-9a6f23d3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+      "published_at": "2026-09-11T20:42:05.000Z",
+      "image": "",
+      "image_alt": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "razaullah-s-six-hitting-debut-caps-pakistan-s-fightback-against-englan-a7d4663e",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+      "published_at": "2026-09-11T20:07:15.000Z",
+      "image": "",
+      "image_alt": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "can-brics-help-reshape-global-order-by-strengthening-emerging-economie-3e4616da",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Can BRICS help reshape global order by strengthening emerging economies?",
+      "published_at": "2026-09-11T20:04:02.000Z",
+      "image": "",
+      "image_alt": "Can BRICS help reshape global order by strengthening emerging economies?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested-b7e11dc1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+      "published_at": "2026-09-11T20:00:55.000Z",
+      "image": "",
+      "image_alt": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "emma-bonino-italian-campaigner-for-civil-rights-dies-at-78-596462b2",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
+      "published_at": "2026-09-11T19:47:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/11Italy-Bonino-plwh-print1/11Italy-Bonino-plwh-mediumSquareAt3X.jpg",
+      "image_alt": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
+      "translations": {
+        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "iran-war-saudi-houthi-escalation-intensifies-yemen-conflict-486fda74",
@@ -293,7 +431,7 @@
           "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "germany-charges-7-suspected-hamas-members-over-attack-plot-2004cf51",
@@ -316,178 +454,63 @@
           "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 74
     },
     {
-      "id": "at-least-46-000-displaced-by-escalating-yemen-fighting-un-0678a5bb",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "At least 46,000 displaced by escalating Yemen fighting: UN",
-      "published_at": "2026-09-11T18:14:29.000Z",
-      "image": "",
-      "image_alt": "At least 46,000 displaced by escalating Yemen fighting: UN",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-holds-memorials-for-the-9-11-attacks-25-years-later-6ac431f5",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US holds memorials for the 9/11 attacks, 25 years later",
-      "published_at": "2026-09-11T18:00:41.000Z",
-      "image": "",
-      "image_alt": "US holds memorials for the 9/11 attacks, 25 years later",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-declares-end-of-largest-recorded-cyclosporiasis-outbreak-e677fa97",
-      "region": "Americas",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "US declares end of largest recorded cyclosporiasis outbreak",
-      "published_at": "2026-09-11T17:35:36.000Z",
-      "image": "",
-      "image_alt": "US declares end of largest recorded cyclosporiasis outbreak",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "uk-lawmakers-vote-against-bill-to-legalise-assisted-dying-b315c1d7",
+      "id": "children-die-in-a-school-fire-in-bukavu-ba78a927",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "UK lawmakers vote against bill to legalise assisted dying",
-      "published_at": "2026-09-11T17:31:22.000Z",
-      "image": "",
-      "image_alt": "UK lawmakers vote against bill to legalise assisted dying",
+      "headline": "Children die in a school fire in Bukavu",
+      "published_at": "2026-09-11T20:18:17.000Z",
+      "image": "https://s.france24.com/media/display/e54c4920-ae1d-11f1-ae7e-005056bf30b7/w:1024/p:16x9/capture-10961424326aa461fc83f3e6-90411594.jpg",
+      "image_alt": "Children die in a school fire in Bukavu",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen-b5545f36",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-      "published_at": "2026-09-11T17:18:17.000Z",
-      "image": "",
-      "image_alt": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens-1ad525be",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
-      "published_at": "2026-09-11T16:21:38.000Z",
-      "image": "https://s.france24.com/media/display/60346ac2-adf7-11f1-98bc-005056bfb2b6/w:1024/p:16x9/2026-09-09T171741Z-1887204671-RC2RFNA2JH7L-RTRMADP-3-BRAZIL-ELECTION-BOLSONARO.jpg",
-      "image_alt": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens"
+          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260911-children-die-in-a-school-fire-in-bukavu"
         }
       ],
-      "impact": 76
+      "impact": 72
     },
     {
-      "id": "why-emerging-powers-keep-joining-brics-even-when-they-disagree-ff8ee048",
-      "region": "World",
+      "id": "iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-cc400fab",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
-      "published_at": "2026-09-11T16:29:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11int-brics-explainer-fkhj/11int-brics-explainer-fkhj-mediumSquareAt3X.jpg",
-      "image_alt": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+      "headline": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
+      "published_at": "2026-09-11T20:09:31.000Z",
+      "image": "https://s.france24.com/media/display/e67af742-ae18-11f1-ae71-005056a90284/w:1024/p:16x9/000-C7VR3NQ.jpg",
+      "image_alt": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260911-iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-lane"
         }
       ],
-      "impact": 75
+      "impact": 72
     },
     {
-      "id": "el-polvor-n-del-mar-rojo-se-suma-al-cierre-de-ormuz-y-agrava-la-crisis-39890905",
+      "id": "la-escalada-en-el-mar-rojo-obliga-a-arabia-saud-a-cerrar-su-nico-oleod-39890905",
       "region": "Europe",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera",
-      "published_at": "2026-09-11T14:42:10.000Z",
+      "urgency": "Live",
+      "headline": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
+      "published_at": "2026-09-11T20:16:37.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/45GU4EHEKJM3HMHN5HGCYTK6IU.jpg?auth=e995d345ae462478dff952003abd9837317e298f076a0745e5829838b0e859ca",
-      "image_alt": "El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera",
+      "image_alt": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
       "translations": {
         "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -500,63 +523,17 @@
           "url": "https://elpais.com/internacional/2026-09-11/el-polvorin-del-mar-rojo-se-suma-al-cierre-de-ormuz-y-agrava-la-crisis-petrolera.html"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
-      "id": "china-s-former-red-guards-reflect-on-their-responsibility-and-regret-w-302a91d6",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "China's former Red Guards reflect on their responsibility and regret: 'We were deceived'",
-      "published_at": "2026-09-11T17:30:02.000Z",
-      "image": "https://img.lemde.fr/2026/08/24/463/0/2970/1485/644/322/60/0/38d875f_upload-1-k96noutuhkdq-000-app1999091630003.jpg",
-      "image_alt": "China's former Red Guards reflect on their responsibility and regret: 'We were deceived'",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/11/china-s-former-red-guards-reflect-on-their-responsibility-and-regret-we-were-deceived_6757432_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "israel-says-it-has-destroyed-major-underground-hezbollah-base-b240f051",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Israel says it has destroyed major underground Hezbollah base",
-      "published_at": "2026-09-11T15:50:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg",
-      "image_alt": "Israel says it has destroyed major underground Hezbollah base",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates-ac8a7fec",
+      "id": "zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-u-e452b978",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
-      "published_at": "2026-09-11T16:11:08.000Z",
-      "image": "https://s.france24.com/media/display/15b4f1e4-ac65-11f1-9416-005056bf30b7/w:1024/p:16x9/ruusia-elex-m.jpg",
-      "image_alt": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
+      "headline": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
+      "published_at": "2026-09-11T19:13:14.000Z",
+      "image": "https://s.france24.com/media/display/8c23efbe-ae0f-11f1-929d-005056a90284/w:1024/p:16x9/2026-09-09T104246Z-849861914-RC2MFNAOGGWF-RTRMADP-3-NORWAY-ROYALS-KING-HARALD-FUNERAL.jpg",
+      "image_alt": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,7 +543,30 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates"
+          "url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "can-we-slowdown-ai-and-9-11-who-has-the-right-to-remember-640b545b",
+      "region": "Europe",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Can we slowdown AI, and 9/11, who has the right to remember?",
+      "published_at": "2026-09-11T18:43:53.000Z",
+      "image": "https://s.france24.com/media/display/ebcc439a-ae0e-11f1-86c2-005056a97e36/w:1024/p:16x9/WhatsApp-Image-2026-09-11-at-20-12-19.jpeg",
+      "image_alt": "Can we slowdown AI, and 9/11, who has the right to remember?",
+      "translations": {
+        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260911-can-we-slowdown-ai-and-9-11-who-has-the-right-to-remember"
         }
       ],
       "impact": 71
