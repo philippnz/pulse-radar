@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:26:55.157Z",
+  "updated_at": "2026-09-13T14:33:17.568Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike-c102c390",
+      "id": "iran-war-reshapes-brics-ties-but-also-exposes-divisions-2da8da44",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "published_at": "2026-09-13T08:13:56.000Z",
+      "headline": "Iran war reshapes Brics ties but also exposes divisions",
+      "published_at": "2026-09-13T11:23:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg",
+      "image_alt": "Iran war reshapes Brics ties but also exposes divisions",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "the-iran-war-reveals-the-limits-of-brics-85112c02",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "The Iran war reveals the limits of BRICS",
+      "published_at": "2026-09-13T12:46:58.000Z",
       "image": "",
-      "image_alt": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+      "image_alt": "The Iran war reveals the limits of BRICS",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,20 +60,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss"
+          "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss"
         }
       ],
       "impact": 85
     },
     {
-      "id": "six-dead-107-rescued-from-indonesian-ferry-that-went-missing-in-java-s-f1c6b50d",
+      "id": "six-dead-130-missing-after-indonesian-ferry-capsizes-in-java-sea-f1c6b50d",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "published_at": "2026-09-13T09:42:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60cb/live/50a3bc50-af48-11f1-a126-479114b35332.jpg",
-      "image_alt": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+      "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "published_at": "2026-09-13T13:30:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
+      "image_alt": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -66,10 +89,470 @@
       "impact": 84
     },
     {
+      "id": "iran-gcc-summit-what-s-behind-the-meeting-why-is-bahrain-not-attending-9fe45594",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+      "published_at": "2026-09-13T13:59:27.000Z",
+      "image": "",
+      "image_alt": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "radio-france-staff-strike-over-appointment-of-far-right-weekly-editor-a3a6caf3",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Radio France staff strike over appointment of far-right weekly editor",
+      "published_at": "2026-09-13T12:44:54.000Z",
+      "image": "https://s.france24.com/media/display/02d53bbe-af04-11f1-9d7b-005056bf30b7/w:1024/p:16x9/e1d9fdbe2d48d1241c3b6d21d639c8533611857e.jpg",
+      "image_alt": "Radio France staff strike over appointment of far-right weekly editor",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "renewed-fighting-worsens-yemen-s-humanitarian-crisis-5d4616fe",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Renewed fighting worsens Yemen’s humanitarian crisis",
+      "published_at": "2026-09-13T13:26:45.000Z",
+      "image": "",
+      "image_alt": "Renewed fighting worsens Yemen’s humanitarian crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "turkish-police-detain-dozens-in-raids-on-gay-bars-and-homes-of-lgbtq-a-afcdebd2",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "published_at": "2026-09-13T14:25:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_alt": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "legendary-canadian-boxer-george-chuvalo-dies-aged-89-2eab36a9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "published_at": "2026-09-13T14:01:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0987/live/ac9590b0-af7a-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_alt": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "iran-will-meet-with-gulf-arab-states-as-mideast-conflict-widens-dab51b66",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "published_at": "2026-09-13T11:52:17.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13iran-gulf-meeting-zlhv/13iran-gulf-meeting-zlhv-mediumSquareAt3X.jpg",
+      "image_alt": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "okinawa-set-to-elect-conservative-amid-fears-about-china-and-economy-83ddc706",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "published_at": "2026-09-13T13:42:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/13/arts/13int-japan-okinawa-election/13int-japan-okinawa-election-mediumSquareAt3X.jpg",
+      "image_alt": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "swedish-far-right-eyes-role-in-government-ad38afbd",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Swedish far-right eyes role in government",
+      "published_at": "2026-09-13T13:11:59.000Z",
+      "image": "https://s.france24.com/media/display/5d325c64-af53-11f1-8d54-005056a90284/w:1024/p:16x9/capture-20799631186aa669301c83e0-07656090.jpg",
+      "image_alt": "Swedish far-right eyes role in government",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "russians-on-the-goethe-institut-apos-hostage-to-politics-apos-c4139458",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Russians on the Goethe-Institut: &apos;Hostage to politics&apos;",
+      "published_at": "2026-09-13T11:50:00.000Z",
+      "image": "",
+      "image_alt": "Russians on the Goethe-Institut: &apos;Hostage to politics&apos;",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "villagers-in-india-tie-technician-to-cell-tower-over-5g-failure-bc72a230",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Villagers in India tie technician to cell tower over 5G failure",
+      "published_at": "2026-09-13T13:34:42.000Z",
+      "image": "",
+      "image_alt": "Villagers in India tie technician to cell tower over 5G failure",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "how-israel-s-destruction-of-south-lebanon-is-making-displacement-perma-cc437064",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How Israel’s destruction of south Lebanon is making displacement permanent",
+      "published_at": "2026-09-13T13:09:22.000Z",
+      "image": "",
+      "image_alt": "How Israel’s destruction of south Lebanon is making displacement permanent",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-bord-db90b199",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+      "published_at": "2026-09-13T13:05:40.000Z",
+      "image": "",
+      "image_alt": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "the-houthis-escalation-in-yemen-could-flop-dab48a7c",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The Houthis’ escalation in Yemen could flop",
+      "published_at": "2026-09-13T12:39:50.000Z",
+      "image": "",
+      "image_alt": "The Houthis’ escalation in Yemen could flop",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "live-manchester-united-vs-manchester-city-premier-league-06911db6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "LIVE: Manchester United vs Manchester City – Premier League",
+      "published_at": "2026-09-13T12:31:30.000Z",
+      "image": "",
+      "image_alt": "LIVE: Manchester United vs Manchester City – Premier League",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "vanuatu-ferry-capsize-leaves-one-dead-30-missing-05e6e968",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Vanuatu ferry capsize leaves one dead, 30 missing",
+      "published_at": "2026-09-13T10:09:00.000Z",
+      "image": "",
+      "image_alt": "Vanuatu ferry capsize leaves one dead, 30 missing",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "yemen-the-houthis-test-iran-s-regional-influence-79f5838f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Yemen: The Houthis test Iran's regional influence",
+      "published_at": "2026-09-13T13:29:02.000Z",
+      "image": "https://s.france24.com/media/display/e97ed2ba-adc3-11f1-b34d-005056a97e36/w:1024/p:16x9/AP26253315512845.jpg",
+      "image_alt": "Yemen: The Houthis test Iran's regional influence",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "ukraine-poland-say-russia-hit-warsaw-bound-passenger-train-e475182e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
+      "published_at": "2026-09-13T12:55:00.000Z",
+      "image": "",
+      "image_alt": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "indonesia-second-ferry-disaster-in-five-days-3a440c0c",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Indonesia: Second ferry disaster in five days",
+      "published_at": "2026-09-13T13:17:21.000Z",
+      "image": "https://s.france24.com/media/display/e2167cbc-af62-11f1-84e0-005056bfb2b6/w:1024/p:16x9/EN-20260913-121016-121213-CS.jpg",
+      "image_alt": "Indonesia: Second ferry disaster in five days",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/indonesia-second-ferry-disaster-in-five-days"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "yemen-fighting-escalates-around-the-bab-el-mandeb-strait-d6a02538",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
+      "published_at": "2026-09-13T13:15:38.000Z",
+      "image": "https://s.france24.com/media/display/abc04a1a-af6e-11f1-819a-005056a90284/w:1024/p:16x9/EN-20260913-140115-140311-CS.jpg",
+      "image_alt": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "ai-staff-genuinely-frightened-for-humanity-s-future-ex-anthropic-resea-9e45ff75",
+      "region": "World",
+      "topic": "Technology",
+      "urgency": "Update",
+      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "published_at": "2026-09-13T11:13:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
+      "image_alt": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "translations": {
+        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 72
+    },
+    {
       "id": "trump-s-canadian-tariffs-tear-at-bond-between-twins-towns-in-ontario-a-ece60c9a",
       "region": "Americas",
       "topic": "Markets",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
       "published_at": "2026-09-13T09:02:31.000Z",
       "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-canada-trade-soo-wptf/13int-canada-trade-soo-wptf-mediumSquareAt3X.jpg",
@@ -86,490 +569,7 @@
           "url": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "niger-military-government-reshuffles-army-command-weeks-after-deadly-m-043e1b87",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "published_at": "2026-09-13T08:54:32.000Z",
-      "image": "",
-      "image_alt": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "voting-under-way-in-sweden-election-that-could-see-far-right-in-govern-6ad09230",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Voting under way in Sweden election that could see far right in government",
-      "published_at": "2026-09-13T08:39:49.000Z",
-      "image": "",
-      "image_alt": "Voting under way in Sweden election that could see far right in government",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "sweden-election-a-turning-point-for-the-far-right-fa048a6d",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Sweden election: A turning point for the far right?",
-      "published_at": "2026-09-13T09:48:37.000Z",
-      "image": "https://s.france24.com/media/display/426517d8-af57-11f1-b8a8-005056a97e36/w:1024/p:16x9/EN-20260913-110343-110655-CS.jpg",
-      "image_alt": "Sweden election: A turning point for the far right?",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sweden-election-a-turning-point-for-the-far-right"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "brics-summit-what-came-out-of-the-new-delhi-meeting-25a951d6",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "BRICS summit: What came out of the New Delhi meeting",
-      "published_at": "2026-09-13T09:27:16.000Z",
-      "image": "https://s.france24.com/media/display/1bc26e46-af52-11f1-bd45-005056a90284/w:1024/p:16x9/EN-20260913-080107-080556-CS.jpg",
-      "image_alt": "BRICS summit: What came out of the New Delhi meeting",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "yemen-houthi-offensive-triggers-new-displacement-crisis-c6698859",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Yemen: Houthi offensive triggers new displacement crisis",
-      "published_at": "2026-09-13T09:18:55.000Z",
-      "image": "https://s.france24.com/media/display/f4a391aa-af4c-11f1-89fe-005056a97e36/w:1024/p:16x9/EN-20260913-100133-100308-CS.jpg",
-      "image_alt": "Yemen: Houthi offensive triggers new displacement crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-amb-ebd3ab01",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "France apologises for diplomatic spat with US to lift block on new ambassador to Washington",
-      "published_at": "2026-09-13T09:01:17.000Z",
-      "image": "https://s.france24.com/media/display/8728c102-af4e-11f1-9048-005056a97e36/w:1024/p:16x9/000-C2P7793.jpg",
-      "image_alt": "France apologises for diplomatic spat with US to lift block on new ambassador to Washington",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20260913-france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-ambassador-to-washington"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "how-iran-s-hard-liners-blew-up-the-peace-deal-with-trump-e86f6e9f",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
-      "published_at": "2026-09-13T09:02:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-escalate-mcjh/13int-iran-escalate-mcjh-mediumSquareAt3X.jpg",
-      "image_alt": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "ordinary-citizens-do-not-want-to-be-sent-to-a-war-with-no-end-in-sight-27cf91ec",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "'Ordinary citizens do not want to be sent to a war with no end in sight': Russian men consider exile",
-      "published_at": "2026-09-13T03:00:07.000Z",
-      "image": "https://img.lemde.fr/2026/09/02/447/0/8072/4036/644/322/60/0/ab835bf_ftp-1-f7nuu24uhd3g-2026-09-02t165602z-1042512196-rc24bnadngiw-rtrmadp-3-russia-dailylife.JPG",
-      "image_alt": "'Ordinary citizens do not want to be sent to a war with no end in sight': Russian men consider exile",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/13/ordinary-citizens-do-not-want-to-be-sent-to-a-war-with-no-end-in-sight-russian-men-consider-exile_6757464_4.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "france-attack-ruled-out-in-train-derailment-a7e01932",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "France: Attack ruled out in train derailment",
-      "published_at": "2026-09-13T01:14:00.000Z",
-      "image": "",
-      "image_alt": "France: Attack ruled out in train derailment",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/france-attack-ruled-out-in-train-derailment/a-79241365?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "how-9-11-changed-the-far-right-6d5c24dc",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How 9/11 changed the far right",
-      "published_at": "2026-09-13T10:25:16.000Z",
-      "image": "https://img.lemde.fr/2023/12/17/306/0/4500/2250/644/322/60/0/1a07d28_1702832254965-maxbestof174710.jpg",
-      "image_alt": "How 9/11 changed the far right",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/09/13/how-9-11-changed-the-far-right_6757467_23.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "indonesia-rescuers-search-for-130-people-after-ferry-sinks-ce51efb1",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Indonesia rescuers search for 130 people after ferry sinks",
-      "published_at": "2026-09-13T09:42:00.000Z",
-      "image": "",
-      "image_alt": "Indonesia rescuers search for 130 people after ferry sinks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/indonesia-rescuers-search-for-130-people-after-ferry-sinks/a-79248600?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "germany-thousands-rally-against-far-right-after-afd-victory-a4926e47",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany: Thousands rally against far-right after AfD victory",
-      "published_at": "2026-09-13T09:41:57.000Z",
-      "image": "https://s.france24.com/media/display/b94b4a34-af4d-11f1-9e44-005056a97e36/w:1024/p:16x9/EN-20260913-100840-101014-CS.jpg",
-      "image_alt": "Germany: Thousands rally against far-right after AfD victory",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/germany-thousands-rally-against-far-right-after-afd-victory"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "uk-police-probe-72-million-donation-to-reform-uk-e6b1d287",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "UK: Police probe £72 million donation to Reform UK",
-      "published_at": "2026-09-13T09:26:10.000Z",
-      "image": "https://s.france24.com/media/display/f7248a62-97a8-11f1-96cf-005056a97e36/w:1024/p:16x9/AP26215404300241.jpg",
-      "image_alt": "UK: Police probe £72 million donation to Reform UK",
-      "translations": {
-        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "germany-lower-saxony-local-polls-in-focus-after-afd-win-0dbea19d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany: Lower Saxony local polls in focus after AfD win",
-      "published_at": "2026-09-13T08:26:00.000Z",
-      "image": "",
-      "image_alt": "Germany: Lower Saxony local polls in focus after AfD win",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
       "impact": 72
-    },
-    {
-      "id": "a-romani-artist-in-hungary-reclaims-his-identity-cb236f47",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A Romani artist in Hungary reclaims his identity",
-      "published_at": "2026-09-13T08:16:00.000Z",
-      "image": "",
-      "image_alt": "A Romani artist in Hungary reclaims his identity",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "an-election-in-sweden-shows-shifting-priorities-b62f1427",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "An Election in Sweden Shows Shifting Priorities",
-      "published_at": "2026-09-13T04:01:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-sweden-election-ckzj/13int-sweden-election-ckzj-mediumSquareAt3X.jpg",
-      "image_alt": "An Election in Sweden Shows Shifting Priorities",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "trump-says-irish-unification-would-be-fantastic-breaking-with-preceden-c53257a3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "published_at": "2026-09-12T22:46:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12int-prexy-hcbv/12int-prexy-hcbv-mediumSquareAt3X.jpg",
-      "image_alt": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq-7a13203f",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-      "published_at": "2026-09-12T20:45:00.000Z",
-      "image": "",
-      "image_alt": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "iran-finds-escalation-is-fruitful-path-to-leverage-in-war-with-u-s-29a6bb4a",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-      "published_at": "2026-09-12T18:07:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-assess-02-kztm/13int-iran-assess-02-kztm-mediumSquareAt3X.jpg",
-      "image_alt": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "sweden-election-far-right-eyes-power-for-1st-time-7444e9c6",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Sweden election: Far right eyes power for 1st time",
-      "published_at": "2026-09-13T06:41:00.000Z",
-      "image": "",
-      "image_alt": "Sweden election: Far right eyes power for 1st time",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "saudi-arabia-shuts-key-oil-pipeline-after-drone-attack-launched-from-i-dbb34488",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "published_at": "2026-09-12T12:15:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg",
-      "image_alt": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 70
     }
   ]
 }
