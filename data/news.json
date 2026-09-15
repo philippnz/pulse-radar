@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T23:55:55.080Z",
+  "updated_at": "2026-09-15T03:21:40.039Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "israeli-attack-targets-gaza-displacement-camp-e556ee30",
+      "id": "iran-war-live-centcom-disputes-irgc-claim-supertanker-struck-by-hormuz-e8242280",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Israeli attack targets Gaza displacement camp",
-      "published_at": "2026-09-14T21:37:04.000Z",
+      "headline": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+      "published_at": "2026-09-15T00:00:00.000Z",
       "image": "",
-      "image_alt": "Israeli attack targets Gaza displacement camp",
+      "image_alt": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +37,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "russia-resupplies-military-bases-in-syria-for-first-time-under-new-dea-c2f20406",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Russia resupplies military bases in Syria for first time under new deal",
+      "published_at": "2026-09-15T00:43:47.000Z",
+      "image": "",
+      "image_alt": "Russia resupplies military bases in Syria for first time under new deal",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "in-berlin-soaring-rents-take-center-stage-in-an-election-campaign-domi-5c75b444",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "In Berlin, soaring rents take center stage in an election campaign dominated by the radical left",
+      "published_at": "2026-09-15T02:15:59.000Z",
+      "image": "https://img.lemde.fr/2026/09/11/1376/0/8256/4128/644/322/60/0/010e91c_ftp-1-loq0yxjadtyb-5059158-01-06.jpg",
+      "image_alt": "In Berlin, soaring rents take center stage in an election campaign dominated by the radical left",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/15/in-berlin-soaring-rents-take-center-stage-in-an-election-campaign-dominated-by-the-radical-left_6757534_4.html"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "russian-strike-on-train-station-near-ukraine-poland-border-seen-as-war-82999520",
@@ -63,7 +109,76 @@
           "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
         }
       ],
-      "impact": 80
+      "impact": 77
+    },
+    {
+      "id": "trump-administration-suffers-double-legal-setback-over-immigration-rul-e4ba53f9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump administration suffers double legal setback over immigration rules",
+      "published_at": "2026-09-15T02:31:18.000Z",
+      "image": "",
+      "image_alt": "Trump administration suffers double legal setback over immigration rules",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "suspected-bicycle-thief-dies-during-arrest-in-netherlands-5aa9f185",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Suspected bicycle thief dies during arrest in Netherlands",
+      "published_at": "2026-09-15T02:30:09.000Z",
+      "image": "",
+      "image_alt": "Suspected bicycle thief dies during arrest in Netherlands",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_suspected-bike-thief-dies-during-arrest-netherlands-140926?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "viral-hit-and-run-raises-road-rage-questions-in-india-748419af",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Viral hit-and-run raises road rage questions in India",
+      "published_at": "2026-09-15T02:07:17.000Z",
+      "image": "",
+      "image_alt": "Viral hit-and-run raises road rage questions in India",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "syrians-protest-as-surge-in-fuel-prices-adds-to-cost-of-living-crisis-6ef761e5",
@@ -86,30 +201,191 @@
           "url": "https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html"
         }
       ],
-      "impact": 79
+      "impact": 76
     },
     {
-      "id": "legendary-costume-designer-bob-mackie-dies-aged-87-83a9e10d",
+      "id": "panama-canal-traffic-to-be-cut-again-as-drought-from-el-ni-o-worsens-55b64cf6",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Legendary costume designer Bob Mackie dies aged 87",
-      "published_at": "2026-09-14T21:29:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg",
-      "image_alt": "Legendary costume designer Bob Mackie dies aged 87",
+      "headline": "Panama canal traffic to be cut again as drought from El Niño worsens",
+      "published_at": "2026-09-15T02:43:18.000Z",
+      "image": "https://i.guim.co.uk/img/media/a8cd351277cff5701058900b7fd425d7ef6802d1/563_0_6658_5327/master/6658.jpg?width=140&quality=85&auto=format&fit=max&s=31b8b1e1581c6bbd5975d113332e2210",
+      "image_alt": "Panama canal traffic to be cut again as drought from El Niño worsens",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino"
         }
       ],
-      "impact": 78
+      "impact": 75
+    },
+    {
+      "id": "b-tselem-israeli-settler-violence-aims-to-eliminate-palestinian-existe-c216bd6c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
+      "published_at": "2026-09-15T01:23:53.000Z",
+      "image": "",
+      "image_alt": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "geneva-talks-put-rwanda-drc-peace-deal-to-the-test-8b047345",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Geneva talks put Rwanda-DRC peace deal to the test",
+      "published_at": "2026-09-15T00:26:06.000Z",
+      "image": "",
+      "image_alt": "Geneva talks put Rwanda-DRC peace deal to the test",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "sweden-election-is-too-close-to-call-as-far-right-loses-ground-7b61e644",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Sweden election is too close to call as far right loses ground",
+      "published_at": "2026-09-15T00:06:34.000Z",
+      "image": "",
+      "image_alt": "Sweden election is too close to call as far right loses ground",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "venezuela-to-join-g20-energy-meetings-in-texas-at-us-s-invitation-c6f0f690",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Venezuela to join G20 energy meetings in Texas at US's invitation",
+      "published_at": "2026-09-15T02:44:46.000Z",
+      "image": "https://s.france24.com/media/display/47d96d1c-b098-11f1-9021-005056a97e36/w:1024/p:16x9/ea7607de8aa30c2ff2134ead7b6e53246246fe8f.jpg",
+      "image_alt": "Venezuela to join G20 energy meetings in Texas at US's invitation",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "us-judge-postpones-strict-visa-limits-for-foreign-students-and-journal-5858a3f6",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US judge postpones strict visa limits for foreign students and journalists",
+      "published_at": "2026-09-15T02:16:11.000Z",
+      "image": "https://img.lemde.fr/2026/08/25/86/0/3495/1747/644/322/60/0/1b84ae0_ftp-1-qw3i3c5trgqn-5919438-01-06.jpg",
+      "image_alt": "US judge postpones strict visa limits for foreign students and journalists",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/15/us-judge-postpones-strict-visa-limits-for-foreign-students-and-journalists_6757535_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "canada-steps-up-efforts-to-reduce-its-economic-dependence-on-the-us-d054a3cc",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Canada steps up efforts to reduce its economic dependence on the US",
+      "published_at": "2026-09-15T01:54:27.000Z",
+      "image": "https://img.lemde.fr/2026/09/06/333/0/4000/2000/644/322/60/0/8c988aa_ftp-1-ik9snsb6hx2k-5015907-01-06.jpg",
+      "image_alt": "Canada steps up efforts to reduce its economic dependence on the US",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/15/canada-steps-up-efforts-to-reduce-its-economic-dependence-on-the-us_6757532_19.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting--f82465c3",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "US Supreme Court rejects Trump bid to restrict mail ballots as voting begins",
+      "published_at": "2026-09-15T01:51:51.000Z",
+      "image": "https://s.france24.com/media/display/def44e4c-b09d-11f1-be01-005056a90284/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
+      "image_alt": "US Supreme Court rejects Trump bid to restrict mail ballots as voting begins",
+      "translations": {
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "yemen-apos-s-houthis-attack-saudis-seize-crucial-red-sea-islands-e6405f59",
@@ -132,191 +408,53 @@
           "url": "https://www.dw.com/en/yemen-s-houthis-attack-saudis-seize-crucial-red-sea-islands/a-79263838?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 72
     },
     {
-      "id": "landowners-in-texas-ask-court-to-stop-trump-border-wall-9471eb5a",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Landowners in Texas ask court to stop Trump border wall",
-      "published_at": "2026-09-14T21:44:03.000Z",
-      "image": "",
-      "image_alt": "Landowners in Texas ask court to stop Trump border wall",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants-2af9a20f",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "US repeals rules limiting greenhouse gas emissions by power plants",
-      "published_at": "2026-09-14T21:36:09.000Z",
-      "image": "",
-      "image_alt": "US repeals rules limiting greenhouse gas emissions by power plants",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance-2eda154a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-      "published_at": "2026-09-14T21:29:50.000Z",
-      "image": "",
-      "image_alt": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit-2b8619fa",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-      "published_at": "2026-09-14T21:23:53.000Z",
-      "image": "",
-      "image_alt": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed-3051ab3d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "published_at": "2026-09-14T21:20:00.000Z",
-      "image": "",
-      "image_alt": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference-b5ad0b7d",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US blocks Iran nuclear chief from attending key Vienna conference",
-      "published_at": "2026-09-14T21:19:41.000Z",
-      "image": "",
-      "image_alt": "US blocks Iran nuclear chief from attending key Vienna conference",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "israel-probing-naza-film-on-gaza-for-treason-inciting-anti-semitism-ce70434f",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-      "published_at": "2026-09-14T21:12:07.000Z",
-      "image": "",
-      "image_alt": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes-896f5a4a",
+      "id": "donald-trump-jr-s-wedding-in-the-bahamas-sponsored-by-russian-business-a34fd0d7",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
-      "published_at": "2026-09-14T22:57:26.000Z",
-      "image": "https://s.france24.com/media/display/183b4120-b084-11f1-9cad-005056a90284/w:1024/p:16x9/AP26239577216137.jpg",
-      "image_alt": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
+      "headline": "Donald Trump Jr.'s wedding in the Bahamas sponsored by Russian businessman",
+      "published_at": "2026-09-15T01:25:23.000Z",
+      "image": "https://img.lemde.fr/2026/09/11/318/0/4477/2238/644/322/60/0/06d2b38_ftp-1-5wrkycsggomn-2026-09-11t022405z-221459790-rc2qgnanvxyb-rtrmadp-3-usa-election-republicans.JPG",
+      "image_alt": "Donald Trump Jr.'s wedding in the Bahamas sponsored by Russian businessman",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/15/donald-trump-jr-s-wedding-in-the-bahamas-sponsored-by-russian-businessman_6757531_4.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspirac-471ec731",
+      "region": "Europe",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
+      "published_at": "2026-09-15T01:05:38.000Z",
+      "image": "https://s.france24.com/media/display/7b79f91a-b08a-11f1-ac1f-005056a90284/w:1024/p:16x9/2026-09-14T021020Z-1000114421-RC2MINA0CLDT-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+      "image_alt": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
+      "translations": {
+        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes"
+          "url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy"
         }
       ],
-      "impact": 73
+      "impact": 71
     },
     {
       "id": "saudi-leader-meets-u-s-commander-as-houthi-attacks-threaten-oil-market-10f376c5",
@@ -339,237 +477,99 @@
           "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "bears-venture-into-los-angeles-and-conflicts-with-humans-multiply-18e7d2c8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bears venture into Los Angeles and conflicts with humans multiply",
-      "published_at": "2026-09-14T22:44:56.000Z",
-      "image": "https://img.lemde.fr/2026/09/14/96/0/636/318/644/322/60/0/5ce14b3_upload-1-7fke6gfu731n-capture-d-e-cran-2026-09-14-a-14-59-39.png",
-      "image_alt": "Bears venture into Los Angeles and conflicts with humans multiply",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/environment/article/2026/09/15/bears-venture-into-los-angeles-and-conflicts-with-humans-multiply_6757528_114.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "alligator-alcatraz-detainees-held-in-metal-cages-the-size-of-phone-boo-e2df88a9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'Alligator Alcatraz' detainees held in metal cages the size of phone booths, report says",
-      "published_at": "2026-09-14T22:27:48.000Z",
-      "image": "https://img.lemde.fr/2026/09/14/66/0/851/425/644/322/60/0/6147b70_ftp-1-bxryuehln7rq-5089486-01-06.jpg",
-      "image_alt": "'Alligator Alcatraz' detainees held in metal cages the size of phone booths, report says",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/15/alligator-alcatraz-detainees-held-in-metal-cages-the-size-of-phone-booths-report-says_6757527_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "macklemore-dropped-from-ed-sheeran-us-tour-after-pro-palestinian-remar-bac8f4f1",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Macklemore dropped from Ed Sheeran US tour after pro-Palestinian remarks",
-      "published_at": "2026-09-14T22:20:37.000Z",
-      "image": "https://s.france24.com/media/display/6d38d806-b078-11f1-b9cc-005056a90284/w:1024/p:16x9/1729ad2e072996a142da7b053ef29307fba83d5a.jpg",
-      "image_alt": "Macklemore dropped from Ed Sheeran US tour after pro-Palestinian remarks",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260914-macklemore-dropped-from-ed-sheeran-us-tour-after-pro-palestinian-remarks"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "us-space-force-confirms-weapons-deployed-in-space-for-first-time-16a6da7a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US Space Force confirms weapons deployed in space for first time",
-      "published_at": "2026-09-14T21:56:25.000Z",
-      "image": "https://s.france24.com/media/display/54b1beee-a432-11f1-8b6d-005056bfb2b6/w:1024/p:16x9/2026-08-29T195602Z-94810877-RC2I8NAYVGKF-RTRMADP-3-SPACE-NASA-TELESCOPE.jpg",
-      "image_alt": "US Space Force confirms weapons deployed in space for first time",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "us-confirms-weapons-deployed-in-space-for-the-first-time-5bac335d",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US confirms weapons deployed in space for the first time",
-      "published_at": "2026-09-14T22:11:56.000Z",
-      "image": "https://img.lemde.fr/2026/09/02/688/0/8256/4128/644/322/60/0/dad91c0_ftp-1-emaadlurhnn3-2026-09-02t135551z-1330308515-rc2ajia66itt-rtrmadp-3-space-military-usa-china.JPG",
-      "image_alt": "US confirms weapons deployed in space for the first time",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/15/us-confirms-weapons-deployed-in-space-for-the-first-time_6757526_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "bob-mackie-fashion-designer-for-the-stars-dies-at-87-da17c4fe",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bob Mackie, fashion designer for the stars, dies at 87",
-      "published_at": "2026-09-14T21:40:59.000Z",
-      "image": "https://s.france24.com/media/display/2e195dc4-b084-11f1-8915-005056a90284/w:1024/p:16x9/EN-20260914-231210-231352-CS.jpg",
-      "image_alt": "Bob Mackie, fashion designer for the stars, dies at 87",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/bob-mackie-fashion-designer-for-the-stars-dies-at-87"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "rights-group-accuses-israel-of-dismantling-palestinian-existence-in-we-7cb9e605",
-      "region": "Middle East",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
-      "published_at": "2026-09-14T21:26:29.000Z",
-      "image": "https://s.france24.com/media/display/ef5d3dc4-b080-11f1-8b78-005056a97e36/w:1024/p:16x9/EN-20260914-230418-230604-CS.jpg",
-      "image_alt": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
-      "translations": {
-        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-3a0147d7",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
-      "published_at": "2026-09-14T21:10:30.000Z",
-      "image": "https://s.france24.com/media/display/799a26da-b07e-11f1-9b60-005056bf30b7/w:1024/p:16x9/capture-6257860516aa85f0346da31-02858738.jpg",
-      "image_alt": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activis-864da99e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
-      "published_at": "2026-09-14T21:02:50.000Z",
-      "image": "https://s.france24.com/media/display/0bb447d6-b07e-11f1-b32d-005056a97e36/w:1024/p:16x9/EN-20260914-223110-224619-CS.jpg",
-      "image_alt": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "trump-lleva-la-democracia-de-estados-unidos-a-su-nivel-m-s-bajo-en-al--ebdd910f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump lleva la democracia de Estados Unidos a su nivel más bajo en al menos medio siglo",
-      "published_at": "2026-09-14T22:01:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/DPLIUZL6O5E4VOHTVIGQF2QHMA.jpg?auth=ad76d9827273313e65c834a0e6286daec2ffab5506ed24fd5bdb3d316a953dcb",
-      "image_alt": "Trump lleva la democracia de Estados Unidos a su nivel más bajo en al menos medio siglo",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-09-15/trump-lleva-la-democracia-de-estados-unidos-a-su-nivel-mas-bajo-de-la-historia-reciente.html"
-        }
-      ],
       "impact": 70
+    },
+    {
+      "id": "legendary-costume-designer-bob-mackie-dies-aged-87-83a9e10d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Legendary costume designer Bob Mackie dies aged 87",
+      "published_at": "2026-09-14T21:29:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg",
+      "image_alt": "Legendary costume designer Bob Mackie dies aged 87",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "germany-news-merz-urges-cdu-discipline-as-pressure-grows-f7cdd105",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Germany news: Merz urges CDU discipline as pressure grows",
+      "published_at": "2026-09-15T00:02:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: Merz urges CDU discipline as pressure grows",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 66
+    },
+    {
+      "id": "dangote-refinery-launches-africa-s-biggest-ipo-for-retail-investors-e1a1701d",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Dangote refinery launches Africa’s biggest IPO for retail investors",
+      "published_at": "2026-09-15T00:05:32.000Z",
+      "image": "https://s.france24.com/media/display/17aad168-b05b-11f1-b58b-005056a90284/w:1024/p:16x9/732cb7dc19c595839564de7f85f58c87ed0476c1.jpg",
+      "image_alt": "Dangote refinery launches Africa’s biggest IPO for retail investors",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/technology/20260915-dangote-refinery-launches-africa-biggest-ipo-for-retail-investors"
+        }
+      ],
+      "impact": 65
+    },
+    {
+      "id": "kremlin-linked-russian-oligarch-helped-fund-trump-jr-apos-s-wedding-ce-2f22bdf7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Kremlin-linked Russian oligarch helped fund Trump Jr.&apos;s wedding celebration",
+      "published_at": "2026-09-14T23:02:00.000Z",
+      "image": "",
+      "image_alt": "Kremlin-linked Russian oligarch helped fund Trump Jr.&apos;s wedding celebration",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 65
     }
   ]
 }
