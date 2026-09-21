@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:01:18.080Z",
+  "updated_at": "2026-09-21T22:42:03.881Z",
   "languages": [
     {
       "code": "en",
@@ -20,35 +20,12 @@
   ],
   "stories": [
     {
-      "id": "how-is-europe-dealing-with-hybrid-war-d5bca579",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "How is Europe dealing with ‘hybrid war’?",
-      "published_at": "2026-09-21T17:12:32.000Z",
-      "image": "",
-      "image_alt": "How is Europe dealing with ‘hybrid war’?",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss"
-        }
-      ],
-      "impact": 85
-    },
-    {
       "id": "why-the-iran-backed-houthis-in-yemen-and-saudi-arabia-are-back-at-war-ed31ac73",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
-      "published_at": "2026-09-21T15:56:43.000Z",
+      "published_at": "2026-09-21T21:45:30.000Z",
       "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21yemen-wr-wtk-01-jhzp/21yemen-wr-wtk-01-jhzp-mediumSquareAt3X.jpg",
       "image_alt": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
       "translations": {
@@ -63,7 +40,30 @@
           "url": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html"
         }
       ],
-      "impact": 85
+      "impact": 87
+    },
+    {
+      "id": "millions-urged-to-evacuate-as-powerful-typhoon-dujuan-hits-japan-228f64a4",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "published_at": "2026-09-21T20:26:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f73/live/802ac5d0-b5de-11f1-88a2-d7d3c19446bf.jpg",
+      "image_alt": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 83
     },
     {
       "id": "yemenis-flee-across-red-sea-as-houthis-and-saudi-backed-forces-escalat-24954571",
@@ -86,17 +86,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 82
     },
     {
-      "id": "russia-s-election-was-engineered-to-send-a-message-putin-remains-in-co-18978bf4",
-      "region": "Europe",
+      "id": "iraq-s-prime-minister-al-zaidi-vows-to-disarm-iran-backed-militias-e136d79f",
+      "region": "Middle East",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
-      "published_at": "2026-09-21T18:09:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-russia-election-analysis-2-chvm/21int-russia-election-analysis-2-chvm-mediumSquareAt3X.jpg",
-      "image_alt": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
+      "headline": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
+      "published_at": "2026-09-21T21:04:34.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-iraq-pm-1-vmqz/21int-iraq-pm-1-vmqz-mediumSquareAt3X.jpg",
+      "image_alt": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
       "translations": {
         "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -106,10 +106,79 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html"
+          "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html"
         }
       ],
-      "impact": 82
+      "impact": 81
+    },
+    {
+      "id": "former-death-squad-leader-appears-in-military-trial-in-the-gambia-564ea17b",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "published_at": "2026-09-21T20:57:43.000Z",
+      "image": "",
+      "image_alt": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "putin-s-party-wins-supermajority-in-russia-s-parliamentary-election-67034915",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Putin’s party wins supermajority in Russia’s parliamentary election",
+      "published_at": "2026-09-21T20:17:39.000Z",
+      "image": "",
+      "image_alt": "Putin’s party wins supermajority in Russia’s parliamentary election",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "cnn-ms-now-and-politico-file-lawsuit-against-trump-s-white-house-ban-ea16baaa",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "published_at": "2026-09-21T21:52:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
+      "image_alt": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "national-security-threat-trump-s-latest-attack-on-us-media-819aa917",
@@ -132,247 +201,17 @@
           "url": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-kil-0f5f6cea",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-      "published_at": "2026-09-21T17:19:59.000Z",
-      "image": "",
-      "image_alt": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "china-expels-two-top-disloyal-military-leaders-from-communist-party-e23b1572",
-      "region": "Asia-Pacific",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "China expels two top ‘disloyal’ military leaders from Communist Party",
-      "published_at": "2026-09-21T16:56:30.000Z",
-      "image": "",
-      "image_alt": "China expels two top ‘disloyal’ military leaders from Communist Party",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "millions-urged-to-evacuate-as-powerful-typhoon-dujuan-hits-japan-228f64a4",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "published_at": "2026-09-21T14:06:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f73/live/802ac5d0-b5de-11f1-88a2-d7d3c19446bf.jpg",
-      "image_alt": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "first-uk-charges-brought-over-1994-rwanda-genocide-28dca127",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "First UK charges brought over 1994 Rwanda genocide",
-      "published_at": "2026-09-21T17:48:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/517f/live/051f1c30-b5e1-11f1-aff1-eb6baa3fda4f.jpg",
-      "image_alt": "First UK charges brought over 1994 Rwanda genocide",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "seven-ethiopian-rebel-groups-form-new-alliance-33be33c3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Seven Ethiopian rebel groups form new alliance",
-      "published_at": "2026-09-21T17:02:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/d7511890-b585-11f1-b2a3-f56f2cdf83e9.jpg",
-      "image_alt": "Seven Ethiopian rebel groups form new alliance",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "merz-vows-to-keep-coalition-together-for-germany-s-democratic-future-eeaf29f0",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "published_at": "2026-09-21T16:54:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf2e/live/a7f43980-b5d8-11f1-8c16-65d8f060d73f.jpg",
-      "image_alt": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "protesters-march-on-islamabad-over-soaring-fuel-prices-23eeddf6",
+      "id": "spectre-of-rogue-a-i-looms-over-u-n-talks-on-digital-cooperation-a9c2062a",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Protesters march on Islamabad over soaring fuel prices",
-      "published_at": "2026-09-21T17:48:51.000Z",
-      "image": "",
-      "image_alt": "Protesters march on Islamabad over soaring fuel prices",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "paramount-settles-with-us-states-in-step-towards-merger-with-warner-br-71237d07",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Paramount settles with US states in step towards merger with Warner Bros",
-      "published_at": "2026-09-21T17:42:24.000Z",
-      "image": "",
-      "image_alt": "Paramount settles with US states in step towards merger with Warner Bros",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "licence-to-kill-french-protests-decry-police-use-of-force-bill-c81e322a",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "‘Licence to kill:’ French protests decry police use-of-force bill",
-      "published_at": "2026-09-21T17:38:07.000Z",
-      "image": "",
-      "image_alt": "‘Licence to kill:’ French protests decry police use-of-force bill",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "airplane-makes-miracle-landing-as-typhoon-dujuan-hits-japan-e1250393",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan",
-      "published_at": "2026-09-21T17:32:34.000Z",
-      "image": "",
-      "image_alt": "Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/airplane-makes-miracle-landing-as-typhoon-dujuan-hits-japan?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "u-n-general-assembly-to-confront-familiar-crises-new-conflicts-and-a-i-ffe59e6c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
-      "published_at": "2026-09-21T17:01:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-unga-setup-wptm/21int-unga-setup-wptm-mediumSquareAt3X.jpg",
-      "image_alt": "U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
+      "headline": "Spectre of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
+      "published_at": "2026-09-21T21:08:36.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-unga-ai-1-tkgl/21int-unga-ai-1-tkgl-mediumSquareAt3X.jpg",
+      "image_alt": "Spectre of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -382,10 +221,240 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html"
+          "url": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html"
         }
       ],
       "impact": 76
+    },
+    {
+      "id": "how-thousands-of-migrants-stranded-in-ceuta-are-surviving-7f16fee6",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How thousands of migrants stranded in Ceuta are surviving",
+      "published_at": "2026-09-21T21:04:44.000Z",
+      "image": "",
+      "image_alt": "How thousands of migrants stranded in Ceuta are surviving",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "healthcare-in-africa-under-growing-strain-after-us-withdrawal-from-aid-2d21281d",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "published_at": "2026-09-21T22:33:40.000Z",
+      "image": "https://i.guim.co.uk/img/media/63ea0238588856f02ee6eb9c01d9cff32fba4bec/234_0_6828_5464/master/6828.jpg?width=140&quality=85&auto=format&fit=max&s=18b9e65de33ae3a8942f6d477b3de163",
+      "image_alt": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "trump-speech-inaudible-as-us-networks-boycott-white-house-event-9aa28f9d",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump speech inaudible as US networks boycott White House event",
+      "published_at": "2026-09-21T20:38:51.000Z",
+      "image": "",
+      "image_alt": "Trump speech inaudible as US networks boycott White House event",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "un-chief-guterres-calls-for-ban-on-killer-robots-98e2e26c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UN Chief Guterres calls for ban on ‘killer robots’",
+      "published_at": "2026-09-21T20:07:23.000Z",
+      "image": "",
+      "image_alt": "UN Chief Guterres calls for ban on ‘killer robots’",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-ver-a96404d9",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
+      "published_at": "2026-09-21T20:05:07.000Z",
+      "image": "",
+      "image_alt": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "u-s-strikes-on-alleged-drug-boats-could-be-criminal-u-n-expert-says-a518e5ee",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "U.S. Strikes on Alleged Drug Boats Could Be Criminal, U.N. Expert Says",
+      "published_at": "2026-09-21T19:50:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/21int-un-us-boats-1/27xp-boat-strike-gjtw-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Strikes on Alleged Drug Boats Could Be Criminal, U.N. Expert Says",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/21/world/americas/us-boat-strikes-crimes-un.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "faa-halts-flights-to-major-us-east-coast-airports-amid-outage-1b7a0272",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "FAA halts flights to major US East Coast airports amid outage",
+      "published_at": "2026-09-21T20:01:37.000Z",
+      "image": "",
+      "image_alt": "FAA halts flights to major US East Coast airports amid outage",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform-14726d34",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Embattled Gianni Infantino says he is open to talks over FIFA reform",
+      "published_at": "2026-09-21T19:50:13.000Z",
+      "image": "",
+      "image_alt": "Embattled Gianni Infantino says he is open to talks over FIFA reform",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/21/embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "russia-s-election-was-engineered-to-send-a-message-putin-remains-in-co-18978bf4",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
+      "published_at": "2026-09-21T18:09:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-russia-election-analysis-2-chvm/21int-russia-election-analysis-2-chvm-mediumSquareAt3X.jpg",
+      "image_alt": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "friedrich-merz-fights-for-political-survival-after-cdu-debacle-federal-05ee351d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Friedrich Merz fights for political survival after CDU debacle: 'Federal politics played a major role, and so did I'",
+      "published_at": "2026-09-21T22:05:17.000Z",
+      "image": "https://img.lemde.fr/2026/09/21/154/0/5418/2709/644/322/60/0/961f429_ftp-1-twmmx6ghbipk-5145475-01-06.jpg",
+      "image_alt": "Friedrich Merz fights for political survival after CDU debacle: 'Federal politics played a major role, and so did I'",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/22/friedrich-merz-fights-for-political-survival-after-cdu-debacle-federal-politics-played-a-major-role-and-so-did-i_6757795_4.html"
+        }
+      ],
+      "impact": 72
     },
     {
       "id": "typhoon-dujuan-japan-urges-two-million-to-evacuate-0d52cb07",
@@ -408,86 +477,17 @@
           "url": "https://www.france24.com/en/video/20260921-typhoon-dujuan-japan-urges-two-million-to-evacuate"
         }
       ],
-      "impact": 76
+      "impact": 72
     },
     {
-      "id": "at-92-the-bard-of-bollywood-is-still-writing-about-love-55ffef65",
-      "region": "World",
+      "id": "us-states-settle-suit-with-paramount-opening-way-to-warner-bros-mega-m-3845bc32",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "At 92, the Bard of Bollywood Is Still Writing About Love",
-      "published_at": "2026-09-21T16:27:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/08/25/multimedia/00int-india-gulzar-profile-01-wjvg/00int-india-gulzar-profile-01-wjvg-mediumSquareAt3X.jpg",
-      "image_alt": "At 92, the Bard of Bollywood Is Still Writing About Love",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "colombia-declares-public-calamity-as-wildfire-threatens-popular-touris-02b8fd81",
-      "region": "World",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Colombia declares public calamity as wildfire threatens popular tourist area",
-      "published_at": "2026-09-21T17:13:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/3281e9a82dbd317e84a01d38e562cd7163a53e78/0_0_3018_2415/master/3018.jpg?width=140&quality=85&auto=format&fit=max&s=773148e6132a267490e1885cbe8c4cd9",
-      "image_alt": "Colombia declares public calamity as wildfire threatens popular tourist area",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "german-auto-workers-protest-to-save-jobs-and-factories-in-crisis-hit-i-ad85f017",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Breaking",
-      "headline": "German auto workers protest to save jobs and factories in crisis-hit industry",
-      "published_at": "2026-09-21T13:39:03.000Z",
-      "image": "https://img.lemde.fr/2026/09/21/680/0/7288/3644/644/322/60/0/55b7068_ftp-1-5ypqmwl7xgdk-5145431-01-06.jpg",
-      "image_alt": "German auto workers protest to save jobs and factories in crisis-hit industry",
-      "translations": {
-        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/21/german-auto-workers-protest-to-save-jobs-and-factories-in-crisis-hit-industry_6757776_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "a-year-after-recognizing-palestine-france-s-lost-illusions-d4b06a72",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A year after recognizing Palestine, France's lost illusions",
-      "published_at": "2026-09-21T18:00:03.000Z",
-      "image": "https://img.lemde.fr/2026/09/18/477/0/8000/4000/644/322/60/0/ab82097_upload-1-ttmmjscqc6jd-jmug260918071.jpg",
-      "image_alt": "A year after recognizing Palestine, France's lost illusions",
+      "headline": "US states settle suit with Paramount, opening way to Warner Bros mega merger",
+      "published_at": "2026-09-21T20:19:59.000Z",
+      "image": "https://img.lemde.fr/2026/09/21/455/0/5455/2727/644/322/60/0/4c10938_ftp-1-lwfvgdycazoa-55b55931ca564feea1aacc30f15679bb-0-ecb7c43a02bc447282913451cc21cb88.jpg",
+      "image_alt": "US states settle suit with Paramount, opening way to Warner Bros mega merger",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -497,20 +497,43 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/21/a-year-after-recognizing-palestine-france-s-lost-illusions_6757790_4.html"
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/21/twelve-us-states-settle-suit-with-paramount-opening-way-to-warner-bros-mega-merger_6757794_19.html"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "banking-on-a-national-brand-bolsonaro-sons-carlos-jair-renan-run-for-p-012abd06",
+      "id": "hundreds-of-us-flights-canceled-due-to-outage-in-east-coast-airports-50c29698",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "'Banking on a national brand': Bolsonaro sons Carlos, Jair Renan run for power in Brazil's south",
-      "published_at": "2026-09-21T17:46:24.000Z",
-      "image": "https://s.france24.com/media/display/ad79a5e2-b50c-11f1-b8c1-5b4fdf021577/w:1024/p:16x9/AP25180712083292.jpg",
-      "image_alt": "'Banking on a national brand': Bolsonaro sons Carlos, Jair Renan run for power in Brazil's south",
+      "headline": "Hundreds of US flights canceled due to outage in East Coast airports",
+      "published_at": "2026-09-21T20:12:25.000Z",
+      "image": "https://img.lemde.fr/2026/09/21/490/0/5888/2944/644/322/60/0/c680705_ftp-1-lsnvuu9i5vav-3531c9cf198e48ae8d28de1eb6faa2c5-0-1ecc3065d1b545c2a4f1f3298bd5cfdc.jpg",
+      "image_alt": "Hundreds of US flights canceled due to outage in East Coast airports",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/21/hundreds-of-us-flights-canceled-due-to-outage-in-east-coast-airports_6757793_19.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "forbidden-stories-on-trump-deportation-system-france-24-s-ice-trump-an-6864c656",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Forbidden Stories on Trump deportation system: FRANCE 24's 'Ice, Trump and Africa'",
+      "published_at": "2026-09-21T19:52:07.000Z",
+      "image": "https://s.france24.com/media/display/75238390-b5f5-11f1-a29c-1d61c7110e09/w:1024/p:16x9/capture-11265319756ab18a1dd3fcd9-84125178.jpg",
+      "image_alt": "Forbidden Stories on Trump deportation system: FRANCE 24's 'Ice, Trump and Africa'",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -520,56 +543,33 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260921-bolsonaro-sons-carlos-and-race-for-power-brazil-south"
+          "url": "https://www.france24.com/en/video/20260921-forbidden-stories-on-trump-deportation-system-france24-s-ice-trump-and-africa"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
-      "id": "cnn-ms-now-and-politico-file-lawsuit-against-trump-s-white-house-ban-ea16baaa",
-      "region": "World",
-      "topic": "World",
+      "id": "us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-4c0c5fee",
+      "region": "Europe",
+      "topic": "Markets",
       "urgency": "Update",
-      "headline": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "published_at": "2026-09-21T15:58:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
-      "image_alt": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "headline": "US-China rivalry is reshaping global trade — and Europe is caught in the middle.",
+      "published_at": "2026-09-21T18:40:00.000Z",
+      "image": "",
+      "image_alt": "US-China rivalry is reshaping global trade — and Europe is caught in the middle.",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
-    },
-    {
-      "id": "ex-commander-of-china-s-military-accused-of-corruption-and-expelled-fr-b588bef9",
-      "region": "Asia-Pacific",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Ex-Commander of China’s Military Accused of Corruption and Expelled From Party",
-      "published_at": "2026-09-21T13:03:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-china-generals-corruption-qlzk/21int-china-generals-corruption-qlzk-mediumSquareAt3X.jpg",
-      "image_alt": "Ex-Commander of China’s Military Accused of Corruption and Expelled From Party",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/21/world/asia/china-generals-expelled-corruption.html"
-        }
-      ],
-      "impact": 72
+      "impact": 70
     }
   ]
 }
