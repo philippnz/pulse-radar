@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:06:58.135Z",
+  "updated_at": "2026-09-24T21:39:11.836Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,83 @@
   ],
   "stories": [
     {
-      "id": "iranian-american-group-sues-trump-over-war-d97c4e58",
-      "region": "Middle East",
+      "id": "priest-killed-and-four-injured-in-knife-attack-at-polish-abbey-241f7b81",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iranian-American group sues Trump over war",
-      "published_at": "2026-09-24T17:45:52.000Z",
+      "headline": "Priest killed and four injured in knife attack at Polish abbey",
+      "published_at": "2026-09-24T19:18:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_alt": "Priest killed and four injured in knife attack at Polish abbey",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 88
+    },
+    {
+      "id": "netanyahu-defends-israeli-military-actions-in-middle-east-in-un-speech-99e5b53e",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "published_at": "2026-09-24T21:21:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_alt": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "ethiopia-s-tigray-rebels-declare-full-blown-war-as-fighting-spreads-b39e4a3f",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ethiopia's Tigray rebels declare 'full-blown war' as fighting spreads",
+      "published_at": "2026-09-24T21:22:06.000Z",
+      "image": "https://img.lemde.fr/2026/09/24/383/0/5500/2750/644/322/60/0/fb5aa2d_ftp-1-3tcaaojbafur-2026-09-24t104048z-1156096661-rc2kpna4rucv-rtrmadp-3-ethiopia-security.JPG",
+      "image_alt": "Ethiopia's Tigray rebels declare 'full-blown war' as fighting spreads",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/24/ethiopia-s-tigray-rebels-declare-full-blown-war-as-fighting-spreads_6757916_4.html"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "portugal-beat-wales-1-0-with-felix-goal-as-nations-league-defence-begi-9a914e43",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
+      "published_at": "2026-09-24T21:07:33.000Z",
       "image": "",
-      "image_alt": "Iranian-American group sues Trump over war",
+      "image_alt": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +106,79 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss"
         }
       ],
-      "impact": 87
+      "impact": 82
+    },
+    {
+      "id": "tigray-rebels-in-full-blown-war-with-government-4a32c6ca",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Tigray rebels in 'full-blown' war with government",
+      "published_at": "2026-09-24T20:23:08.000Z",
+      "image": "https://s.france24.com/media/display/bce64688-b855-11f1-b7ff-91cf9f3cd539/w:1024/p:16x9/capture-6857433396ab586a440a986-82786000.jpg",
+      "image_alt": "Tigray rebels in 'full-blown' war with government",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "four-civilians-killed-in-pakistani-strikes-in-afghanistan-taliban-says-77450ece",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "published_at": "2026-09-24T19:02:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/34396cd0-b827-11f1-9173-8b6ede38f022.jpg",
+      "image_alt": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "ethiopia-apos-s-military-says-it-killed-hundreds-of-tplf-rebels-aeb3e7c5",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ethiopia&apos;s military says it killed hundreds of TPLF rebels",
+      "published_at": "2026-09-24T18:37:00.000Z",
+      "image": "",
+      "image_alt": "Ethiopia&apos;s military says it killed hundreds of TPLF rebels",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 81
     },
     {
       "id": "son-of-israeli-ambassador-to-u-s-critically-hurt-in-west-bank-attack-o-8ef0685f",
@@ -63,30 +201,30 @@
           "url": "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html"
         }
       ],
-      "impact": 84
+      "impact": 81
     },
     {
-      "id": "rogue-openai-agent-infiltrated-australian-government-website-in-world--a23f76d1",
-      "region": "World",
+      "id": "israel-moves-to-ban-main-palestinian-led-lists-from-election-1cbf7ab8",
+      "region": "Middle East",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "published_at": "2026-09-24T15:42:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "image_alt": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "headline": "Israel moves to ban main Palestinian-led lists from election",
+      "published_at": "2026-09-24T19:54:00.000Z",
+      "image": "",
+      "image_alt": "Israel moves to ban main Palestinian-led lists from election",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss"
         }
       ],
-      "impact": 83
+      "impact": 80
     },
     {
       "id": "rebel-offensive-against-ethiopian-army-stokes-fears-of-return-to-civil-d8856d6d",
@@ -109,155 +247,40 @@
           "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army"
         }
       ],
-      "impact": 83
+      "impact": 79
     },
     {
-      "id": "jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister-5e04886c",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-      "published_at": "2026-09-24T17:08:50.000Z",
-      "image": "",
-      "image_alt": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "collapsing-currency-and-inflation-leave-families-struggling-in-sudan-95df53b4",
-      "region": "Africa",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Collapsing currency and inflation leave families struggling in Sudan",
-      "published_at": "2026-09-24T17:03:55.000Z",
-      "image": "",
-      "image_alt": "Collapsing currency and inflation leave families struggling in Sudan",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "gaza-s-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un-c4f5caae",
+      "id": "u-n-live-updates-netanyahu-lashes-out-at-critics-and-underscores-threa-acba1e4d",
       "region": "Middle East",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-      "published_at": "2026-09-24T17:03:31.000Z",
-      "image": "",
-      "image_alt": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "hostile-but-hooked-what-s-behind-the-us-china-trade-truce-extension-4084fb1b",
-      "region": "Asia-Pacific",
-      "topic": "Markets",
       "urgency": "Live",
-      "headline": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-      "published_at": "2026-09-24T16:53:29.000Z",
-      "image": "",
-      "image_alt": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
+      "headline": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+      "published_at": "2026-09-24T21:32:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-promo-330/24unga-header-netanyahu-03-tqvm-mediumSquareAt3X.jpg",
+      "image_alt": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
       "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "four-civilians-killed-in-pakistani-airstrikes-in-afghanistan-9bfaad42",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Four civilians killed in Pakistani airstrikes in Afghanistan",
-      "published_at": "2026-09-24T16:51:30.000Z",
-      "image": "",
-      "image_alt": "Four civilians killed in Pakistani airstrikes in Afghanistan",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "a-corruption-scandal-is-reshaping-brazil-s-presidential-election-984b75d4",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
-      "published_at": "2026-09-24T16:32:25.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-brazil-supreme-court-pwhl/00int-brazil-supreme-court-pwhl-mediumSquareAt3X.jpg",
-      "image_alt": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html"
+          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
-      "id": "white-house-restores-access-to-media-outlets-banned-by-trump-after-jud-3f96308a",
-      "region": "World",
+      "id": "italy-ministers-agree-to-ban-burqa-and-niqab-in-school-and-cap-foreign-53834aa4",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "White House restores access to media outlets banned by Trump after judge's order",
-      "published_at": "2026-09-24T17:49:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg",
-      "image_alt": "White House restores access to media outlets banned by Trump after judge's order",
+      "headline": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "published_at": "2026-09-24T19:32:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg",
+      "image_alt": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -267,33 +290,217 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "party-close-to-king-leads-in-morocco-s-election-as-young-voters-stay-a-55b5e3d0",
+      "id": "susan-sarandon-hannah-einbinder-arrested-at-netanyahu-un-protest-8aecab70",
       "region": "World",
-      "topic": "Politics",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
-      "published_at": "2026-09-24T15:14:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24morocco-election-results-pgzw/24morocco-election-results-pgzw-mediumSquareAt3X.jpg",
-      "image_alt": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
+      "headline": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
+      "published_at": "2026-09-24T21:15:56.000Z",
+      "image": "",
+      "image_alt": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "dutch-pm-s-contrasting-stance-on-icc-wanted-putin-netanyahu-fc634405",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+      "published_at": "2026-09-24T21:08:30.000Z",
+      "image": "",
+      "image_alt": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "haiti-turns-to-roger-stone-to-lobby-trump-administration-c9567f72",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "published_at": "2026-09-24T20:43:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24int-haiti-stone-vgmw/24int-haiti-stone-vgmw-mediumSquareAt3X.jpg",
+      "image_alt": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html"
+          "url": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html"
         }
       ],
-      "impact": 80
+      "impact": 77
+    },
+    {
+      "id": "three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-pre-bb2d9577",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
+      "published_at": "2026-09-24T18:59:00.000Z",
+      "image": "",
+      "image_alt": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-ba-d2333688",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+      "published_at": "2026-09-24T20:54:28.000Z",
+      "image": "",
+      "image_alt": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois-0f5ea95a",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US citizen injured after wrongly arrested by ICE in Illinois",
+      "published_at": "2026-09-24T20:23:06.000Z",
+      "image": "",
+      "image_alt": "US citizen injured after wrongly arrested by ICE in Illinois",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "new-york-sues-polymarket-over-allegations-of-illegal-gambling-operatio-24bad305",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "New York sues Polymarket over allegations of illegal gambling operations",
+      "published_at": "2026-09-24T20:15:25.000Z",
+      "image": "",
+      "image_alt": "New York sues Polymarket over allegations of illegal gambling operations",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga-7b505a7d",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "REPLAY: Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+      "published_at": "2026-09-24T19:28:01.000Z",
+      "image": "https://s.france24.com/media/display/c851b5f2-b850-11f1-a883-8f3418d01115/w:1024/p:16x9/2026-09-24T183822Z-1183987970-RC2UPNA2HRCN-RTRMADP-3-UN-ASSEMBLY.jpg",
+      "image_alt": "REPLAY: Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-gl-1660b4fd",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "published_at": "2026-09-24T19:05:59.000Z",
+      "image": "https://s.france24.com/media/display/3ea7fa6e-b841-11f1-aab4-11fa9f8a3b4f/w:1024/p:16x9/2026-09-24T173904Z-397346931-RC2TPNAQ79LN-RTRMADP-3-USA-CHINA.jpg",
+      "image_alt": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "we-must-call-a-war-a-war-whether-it-is-informational-cyber-hybrid-or-c-c348e663",
@@ -316,260 +523,53 @@
           "url": "https://www.lemonde.fr/en/opinion/article/2026/09/24/we-must-call-a-war-a-war-whether-it-is-informational-cyber-hybrid-or-covert_6757906_23.html"
         }
       ],
-      "impact": 80
+      "impact": 76
     },
     {
-      "id": "eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends-5790e268",
+      "id": "what-s-triggered-the-latest-violence-in-ethiopia-47fad502",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What’s triggered the latest violence in Ethiopia?",
+      "published_at": "2026-09-24T19:34:53.000Z",
+      "image": "",
+      "image_alt": "What’s triggered the latest violence in Ethiopia?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "france-to-send-military-means-to-protect-saudi-oil-port-macron-says-8e5b9008",
       "region": "Europe",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "EU to condemn war in Ukraine at G20 even if Putin attends",
-      "published_at": "2026-09-24T13:30:00.000Z",
-      "image": "",
-      "image_alt": "EU to condemn war in Ukraine at G20 even if Putin attends",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "greek-pm-urges-uk-pm-to-return-elgin-marbles-permanently-7479ad38",
-      "region": "Europe",
-      "topic": "World",
       "urgency": "Live",
-      "headline": "Greek PM urges UK PM to return Elgin Marbles permanently",
-      "published_at": "2026-09-24T16:36:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00fa/live/d58230e0-b836-11f1-bc1f-3f186ca4140c.jpg",
-      "image_alt": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "headline": "France to send 'military means' to protect Saudi oil port, Macron says",
+      "published_at": "2026-09-24T18:53:39.000Z",
+      "image": "https://img.lemde.fr/2026/09/24/611/0/7322/3661/644/322/60/0/ffa5ea1_ftp-1-8re4wzctgqji-5174200-01-06.jpg",
+      "image_alt": "France to send 'military means' to protect Saudi oil port, Macron says",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/france/article/2026/09/24/france-to-send-military-means-to-protect-saudi-oil-port-macron-says_6757914_7.html"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "u-n-live-updates-netanyahu-under-scrutiny-at-home-and-abroad-to-speak--acba1e4d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "U.N. Live Updates: Netanyahu, Under Scrutiny at Home and Abroad, to Speak to General Assembly",
-      "published_at": "2026-09-24T17:58:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-promo-2PM/24unga-header-netanyahu-01-mtfb-mediumSquareAt3X.jpg",
-      "image_alt": "U.N. Live Updates: Netanyahu, Under Scrutiny at Home and Abroad, to Speak to General Assembly",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis-70544451",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Houthi advances in Yemen drive displacement, deepen humanitarian crisis",
-      "published_at": "2026-09-24T16:26:00.000Z",
-      "image": "",
-      "image_alt": "Houthi advances in Yemen drive displacement, deepen humanitarian crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "poland-says-fire-at-starlink-station-is-sabotage-as-denmark-warns-of-r-225c2162",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "published_at": "2026-09-24T16:00:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
-      "image_alt": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "ethiopia-s-army-says-it-has-repelled-attacks-in-first-comment-on-fresh-c7f63c92",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "published_at": "2026-09-24T15:37:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg",
-      "image_alt": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "carney-s-big-challenge-time-edd4e656",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Carney’s Big Challenge: Time",
-      "published_at": "2026-09-24T17:28:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24canada-carney-challenges-tjpk/24canada-carney-challenges-tjpk-mediumSquareAt3X.jpg",
-      "image_alt": "Carney’s Big Challenge: Time",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "saudi-arabia-downs-houthi-missiles-targeting-kingdom-official-says-db64db80",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "published_at": "2026-09-24T17:05:06.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24int-saudi-houthis-2-cgwh/24int-saudi-houthis-2-cgwh-mediumSquareAt3X.jpg",
-      "image_alt": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland-b7fb2290",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
-      "published_at": "2026-09-24T17:15:31.000Z",
-      "image": "",
-      "image_alt": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "africa-s-bid-for-a-seat-on-the-security-council-e02896f8",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Africa’s bid for a seat on the Security Council",
-      "published_at": "2026-09-24T16:58:49.000Z",
-      "image": "",
-      "image_alt": "Africa’s bid for a seat on the Security Council",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "forced-eviction-of-87-year-old-woman-spurs-outrage-in-spain-b77c14d2",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Forced Eviction of 87-Year-Old Woman Spurs Outrage in Spain",
-      "published_at": "2026-09-24T16:13:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/24/espanol/24int-SPAIN-PROTEST-02-bgqp-ES-copy1/24int-SPAIN-PROTEST-02-bgqp-mediumSquareAt3X.jpg",
-      "image_alt": "Forced Eviction of 87-Year-Old Woman Spurs Outrage in Spain",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/24/world/europe/spain-eviction-sanchez.html"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     }
   ]
 }
