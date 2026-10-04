@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:41:33.826Z",
+  "updated_at": "2026-10-04T17:15:03.172Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "kyiv-bridge-hit-in-further-russian-drone-attack-as-german-chancellor-m-64aa4378",
-      "region": "World",
+      "id": "yemen-s-government-announces-all-out-war-to-reclaim-land-from-houthis-c663564d",
+      "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "published_at": "2026-10-04T12:09:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6139/live/b7fa6620-bfe6-11f1-b4e6-d96c2bf27b65.jpg",
-      "image_alt": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "published_at": "2026-10-04T16:51:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
+      "image_alt": "Yemen's government announces all-out war to reclaim land from Houthis",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +37,33 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 90
+    },
+    {
+      "id": "germany-s-merz-in-kyiv-announces-1-5b-in-aid-urges-putin-to-end-war-7e10139a",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+      "published_at": "2026-10-04T16:38:45.000Z",
+      "image": "",
+      "image_alt": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss"
+        }
+      ],
+      "impact": 87
     },
     {
       "id": "houthis-claim-attack-on-aramco-as-yemen-conflict-escalates-ff6499d6",
@@ -48,8 +71,8 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "published_at": "2026-10-04T10:45:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-yemen-saudi-01-zkgt/04int-yemen-saudi-01-zkgt-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-04T16:03:37.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-yemen-top-bzlt/04int-yemen-top-bzlt-mediumSquareAt3X.jpg",
       "image_alt": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
@@ -63,30 +86,53 @@
           "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
         }
       ],
+      "impact": 87
+    },
+    {
+      "id": "air-strike-in-sudan-kills-un-aid-truck-driver-wfp-d1eb111c",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "published_at": "2026-10-04T16:28:43.000Z",
+      "image": "",
+      "image_alt": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss"
+        }
+      ],
       "impact": 86
     },
     {
-      "id": "what-to-know-about-brazil-s-election-pitting-lula-against-fl-vio-bolso-df848239",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "published_at": "2026-10-04T11:03:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
-      "image_alt": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "id": "kyiv-bridge-hit-in-further-russian-drone-attack-as-german-chancellor-m-64aa4378",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "published_at": "2026-10-04T12:09:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg",
+      "image_alt": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 85
     },
     {
       "id": "israeli-authorities-trade-blame-for-failure-to-flag-flydubai-co-pilot-795b3e71",
@@ -94,7 +140,7 @@
       "topic": "Markets",
       "urgency": "Live",
       "headline": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-      "published_at": "2026-10-04T11:34:40.000Z",
+      "published_at": "2026-10-04T15:01:58.000Z",
       "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-israel-flydubai-debacle-01-zvlb/04int-israel-flydubai-debacle-01-zvlb-mediumSquareAt3X.jpg",
       "image_alt": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
       "translations": {
@@ -109,53 +155,260 @@
           "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html"
         }
       ],
-      "impact": 82
-    },
-    {
-      "id": "brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsona-4608f529",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "published_at": "2026-10-04T11:15:34.000Z",
-      "image": "",
-      "image_alt": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss"
-        }
-      ],
       "impact": 81
     },
     {
-      "id": "ethiopian-government-forces-seize-tigray-capital-mekelle-as-tplf-withd-327624a3",
+      "id": "indian-police-accused-of-sexual-harassment-against-journalists-at-prot-deaccbed",
       "region": "World",
-      "topic": "Politics",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "published_at": "2026-10-04T11:05:02.000Z",
-      "image": "",
-      "image_alt": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "headline": "Indian police accused of sexual harassment against journalists at protest",
+      "published_at": "2026-10-04T17:01:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Indian police accused of sexual harassment against journalists at protest",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "christa-pike-s-prognosis-still-unclear-after-failed-execution-lawyer-s-77fecbae",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "published_at": "2026-10-04T16:24:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg",
+      "image_alt": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "iran-s-top-security-official-warns-of-dire-economic-crisis-6eb8c6e0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "published_at": "2026-10-04T13:56:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg",
+      "image_alt": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "mass-protests-demanding-poll-chief-resignation-shake-india-for-third-d-e7e67367",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mass protests demanding poll chief resignation shake India for third day",
+      "published_at": "2026-10-04T16:55:03.000Z",
+      "image": "",
+      "image_alt": "Mass protests demanding poll chief resignation shake India for third day",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss"
         }
       ],
-      "impact": 81
+      "impact": 77
+    },
+    {
+      "id": "us-marine-arrested-over-murder-of-woman-in-okinawa-japan-6bf4e8b3",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "published_at": "2026-10-04T14:36:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg",
+      "image_alt": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "watch-what-we-know-about-russian-strikes-on-kyiv-bridges-c464349f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "published_at": "2026-10-04T14:25:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "us-and-man-city-s-cavan-sullivan-becomes-youngest-international-goalsc-81edc761",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US and Man City’s Cavan Sullivan becomes youngest international goalscorer",
+      "published_at": "2026-10-04T16:23:59.000Z",
+      "image": "",
+      "image_alt": "US and Man City’s Cavan Sullivan becomes youngest international goalscorer",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "three-years-of-genocide-in-gaza-through-one-man-s-camera-f4c80509",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Three years of genocide in Gaza through one man’s camera",
+      "published_at": "2026-10-04T16:18:01.000Z",
+      "image": "",
+      "image_alt": "Three years of genocide in Gaza through one man’s camera",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "jerusalem-daily-israeli-forces-arrest-school-children-during-raid-18a8b18e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "published_at": "2026-10-04T16:04:53.000Z",
+      "image": "",
+      "image_alt": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "philippines-arrests-244-suspects-in-online-scam-crackdown-70eed1c5",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Philippines arrests 244 suspects in online scam crackdown",
+      "published_at": "2026-10-04T16:00:50.000Z",
+      "image": "",
+      "image_alt": "Philippines arrests 244 suspects in online scam crackdown",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "live-portugal-vs-norway-uefa-nations-league-7dfb5c13",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "LIVE: Portugal vs Norway – UEFA Nations League",
+      "published_at": "2026-10-04T15:47:10.000Z",
+      "image": "",
+      "image_alt": "LIVE: Portugal vs Norway – UEFA Nations League",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "it-would-have-been-easier-to-have-lost-a-leg-a-former-soldier-s-intern-3f29578c",
@@ -178,385 +431,17 @@
           "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/10/04/it-would-have-been-easier-to-have-lost-a-leg-a-former-soldier-s-internal-war-with-ptsd_6758234_117.html"
         }
       ],
-      "impact": 81
+      "impact": 76
     },
     {
-      "id": "russian-strike-hits-kyiv-amid-chancellor-merz-visit-412bd607",
+      "id": "torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-apos--345e81b1",
       "region": "Europe",
-      "topic": "Security",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "Russian strike hits Kyiv amid Chancellor Merz visit",
-      "published_at": "2026-10-04T09:52:14.000Z",
-      "image": "https://s.france24.com/media/display/e390ed6c-bfd8-11f1-82ff-dd51fcab6130/w:1024/p:16x9/EN-20261004-110613-111023-CS.jpg",
-      "image_alt": "Russian strike hits Kyiv amid Chancellor Merz visit",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "cornell-president-breaks-silence-over-alleged-campus-rape-c92706e1",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Cornell president breaks silence over alleged campus rape",
-      "published_at": "2026-10-04T11:53:09.000Z",
-      "image": "https://s.france24.com/media/display/22935d1c-bfe6-11f1-95ff-13420ab900a2/w:1024/p:16x9/EN-20261004-130412-130611-CS.jpg",
-      "image_alt": "Cornell president breaks silence over alleged campus rape",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/cornell-president-breaks-silence-over-alleged-campus-rape"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "voting-in-brazil-apos-s-2026-presidential-election-has-begun-with-poll-72f34c9a",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Voting in Brazil&apos;s 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "published_at": "2026-10-04T11:28:00.000Z",
+      "headline": "Torrential rain and flooding leave 2 dead and 1 missing in Spain&apos;s Catalonia region",
+      "published_at": "2026-10-04T11:36:00.000Z",
       "image": "",
-      "image_alt": "Voting in Brazil&apos;s 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-fl-9e5dd4b7",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-      "published_at": "2026-10-04T11:17:45.000Z",
-      "image": "https://s.france24.com/media/display/629cda5a-bfe6-11f1-b662-13420ab900a2/w:1024/p:16x9/000-C9LQ3ZQ.jpg",
-      "image_alt": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "russia-hits-kyiv-bridge-as-germany-s-merz-visits-ukraine-s-capital-51f1fa3d",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-      "published_at": "2026-10-04T11:58:14.000Z",
-      "image": "",
-      "image_alt": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "iran-says-hormuz-to-remain-closed-until-us-meets-conditions-37990875",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran says Hormuz to remain closed until US meets conditions",
-      "published_at": "2026-10-04T11:11:30.000Z",
-      "image": "",
-      "image_alt": "Iran says Hormuz to remain closed until US meets conditions",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "anger-in-the-streets-tens-of-thousands-protest-in-spain-over-housing-c-82e7de9b",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Breaking",
-      "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "published_at": "2026-10-04T03:42:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "red-bull-s-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang-d3d5967f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
-      "published_at": "2026-10-04T11:02:33.000Z",
-      "image": "",
-      "image_alt": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "is-the-sudanese-army-gaining-momentum-against-the-rsf-e18726ec",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Is the Sudanese army gaining momentum against the RSF?",
-      "published_at": "2026-10-04T10:56:12.000Z",
-      "image": "",
-      "image_alt": "Is the Sudanese army gaining momentum against the RSF?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "will-brazil-s-lula-halt-the-right-wing-wave-sweeping-latin-america-d86efc6f",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-      "published_at": "2026-10-04T10:55:40.000Z",
-      "image": "",
-      "image_alt": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "russia-s-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them-ba9cdbf7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "published_at": "2026-10-04T10:44:23.000Z",
-      "image": "",
-      "image_alt": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "brazil-election-what-to-know-as-lula-and-bolsonaro-face-off-in-2026-pr-60a5dad6",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in 2026 Presidential Race",
-      "published_at": "2026-10-04T09:02:22.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-brazil-elections-takeaways-lwfc/04int-brazil-elections-takeaways-lwfc-mediumSquareAt3X.jpg",
-      "image_alt": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in 2026 Presidential Race",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "ceuta-migrant-camp-being-removed-ahead-of-spanish-king-s-visit-30834dd1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ceuta migrant camp being removed ahead of Spanish king's visit",
-      "published_at": "2026-10-04T12:31:53.000Z",
-      "image": "https://img.lemde.fr/2026/10/01/423/0/5086/2543/644/322/60/0/3607553_ftp-1-ia88rikybebw-f532d4ec3fa04446bb548683e92ac45b-0-48380d35066543738c7286e2960f2a38.jpg",
-      "image_alt": "Ceuta migrant camp being removed ahead of Spanish king's visit",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/04/ceuta-migrant-camp-being-removed-ahead-of-spanish-king-s-visit_6758236_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "rwandan-genocide-suspect-hunter-dafroza-gauthier-dies-at-72-69d76370",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
-      "published_at": "2026-10-04T12:12:24.000Z",
-      "image": "https://s.france24.com/media/display/59ce40b6-bfd8-11f1-82be-1ff0321dbbd3/w:1024/p:16x9/AP23327396671319.jpg",
-      "image_alt": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "west-bank-palestinians-harassed-by-settlers-increasing-use-of-drones-f7e4c197",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones",
-      "published_at": "2026-10-04T12:01:27.000Z",
-      "image": "https://s.france24.com/media/display/9ad046c8-bd7a-11f1-b57d-d367a0468893/w:1024/p:16x9/Cover-Pic-Drones.png",
-      "image_alt": "West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "lula-and-bolsonaro-face-off-in-brazil-presidential-race-46abdef4",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lula and Bolsonaro face off in Brazil presidential race",
-      "published_at": "2026-10-04T11:56:08.000Z",
-      "image": "https://s.france24.com/media/display/4af16eb0-bfe7-11f1-a8ca-dd51fcab6130/w:1024/p:16x9/EN-20261004-130852-131819-CS.jpg",
-      "image_alt": "Lula and Bolsonaro face off in Brazil presidential race",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder-9d2d50b4",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Japan: US Marine arrested in Okinawa on suspicion of murder",
-      "published_at": "2026-10-04T11:15:00.000Z",
-      "image": "",
-      "image_alt": "Japan: US Marine arrested in Okinawa on suspicion of murder",
+      "image_alt": "Torrential rain and flooding leave 2 dead and 1 missing in Spain&apos;s Catalonia region",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,10 +451,125 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "woman-at-centre-of-cornell-gang-rape-lawsuit-targeted-with-threats-law-a6524d33",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+      "published_at": "2026-10-04T16:25:01.000Z",
+      "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
+      "image_alt": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe"
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "egyptian-journalist-faces-terrorism-charges-after-entire-newsroom-deta-4a1c147a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "published_at": "2026-10-04T15:16:03.000Z",
+      "image": "https://i.guim.co.uk/img/media/1fe834c7216eaf991d44faf1a59e148478cd5f86/249_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=64f0bfbe108ade269fc2c2ad78051b21",
+      "image_alt": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "us-execution-survivor-christa-pike-critically-ill-on-ventilator-2e92c3ab",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US execution survivor Christa Pike critically ill, on ventilator",
+      "published_at": "2026-10-04T16:00:46.000Z",
+      "image": "https://img.lemde.fr/2026/10/01/150/0/1200/600/644/322/60/0/b021f30_ftp-1-yirfxv20vt11-5238017-01-06.jpg",
+      "image_alt": "US execution survivor Christa Pike critically ill, on ventilator",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/04/us-execution-survivor-christa-pike-critically-ill-on-ventilator_6758242_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "brazil-goes-to-polls-in-decisive-election-for-future-of-latin-america-e4cefa03",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Brazil goes to polls in decisive election for future of Latin America",
+      "published_at": "2026-10-04T13:52:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/23d361975aea866d5650b5f7bec23cad76bf6644/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b9f8ed5c19084c13b5eba623ac80baf",
+      "image_alt": "Brazil goes to polls in decisive election for future of Latin America",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "german-chancellor-in-kyiv-ukraine-will-need-our-support-505a0259",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
+      "published_at": "2026-10-04T14:37:56.000Z",
+      "image": "https://s.france24.com/media/display/fa89a1c8-bffe-11f1-b41d-578a4b968fd6/w:1024/p:16x9/EN-20261004-160659-160855-CS.jpg",
+      "image_alt": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
