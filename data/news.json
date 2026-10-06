@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T19:39:29.190Z",
+  "updated_at": "2026-10-06T23:31:23.771Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,77 @@
   ],
   "stories": [
     {
-      "id": "drones-hit-ships-off-bulgaria-s-black-sea-coast-prime-minister-says-c85bcb54",
-      "region": "World",
-      "topic": "Politics",
+      "id": "us-death-row-inmate-christa-pike-awake-and-speaking-after-failed-execu-f17b197c",
+      "region": "Americas",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
-      "published_at": "2026-10-06T19:15:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-bulgaria-drones-wqcb/06int-bulgaria-drones-wqcb-mediumSquareAt3X.jpg",
-      "image_alt": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+      "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "published_at": "2026-10-06T22:00:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg",
+      "image_alt": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 79
+    },
+    {
+      "id": "cancer-rates-rising-faster-among-younger-people-international-study-fi-cb97112c",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Cancer rates rising faster among younger people, international study finds",
+      "published_at": "2026-10-06T21:10:49.000Z",
+      "image": "https://s.france24.com/media/display/ce6444d8-c1c8-11f1-893a-13e372f41e70/w:1024/p:16x9/EN-20261006-223109-224056-CS.jpg",
+      "image_alt": "Cancer rates rising faster among younger people, international study finds",
+      "translations": {
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-cancer-rates-rising-faster-among-younger-people-international-study-finds"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/cancer-rates-rising-faster-among-younger-people-international-study-finds"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "three-years-after-october-7-the-unending-trauma-of-a-former-israeli-ho-17bc5238",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Three years after October 7: The unending trauma of a former Israeli hostage held by Hamas for 505 days",
+      "published_at": "2026-10-06T23:16:51.000Z",
+      "image": "https://img.lemde.fr/2026/10/05/463/0/6328/3164/644/322/60/0/908c7ff_upload-1-2fvfzgbkfupe-ll-omer-shem-tov-ex-otage-israel-05.jpg",
+      "image_alt": "Three years after October 7: The unending trauma of a former Israeli hostage held by Hamas for 505 days",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/07/october-7-three-years-on-the-unending-trauma-of-a-former-israeli-hostage-held-by-hamas-for-505-days_6758336_4.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "ship-sinks-and-crew-missing-after-black-sea-drone-attack-e8d3bfd1",
@@ -63,17 +113,17 @@
           "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 78
     },
     {
-      "id": "yemen-s-taiz-residents-fear-food-and-fuel-crisis-amid-fighting-6c20ee15",
-      "region": "Middle East",
+      "id": "we-are-desperate-venezuela-s-power-cuts-fuel-growing-public-anger-4de7bad3",
+      "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
-      "published_at": "2026-10-06T17:34:32.000Z",
+      "urgency": "Live",
+      "headline": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
+      "published_at": "2026-10-06T23:05:38.000Z",
       "image": "",
-      "image_alt": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
+      "image_alt": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,145 +133,30 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "macron-makes-unexpected-appearance-at-missile-test-launch-from-nuclear-f807be7b",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Macron makes unexpected appearance at missile test launch from nuclear submarine",
-      "published_at": "2026-10-06T19:24:47.000Z",
-      "image": "https://img.lemde.fr/2026/09/29/535/0/6794/3397/644/322/60/0/4a1bae7_upload-1-yds6kxcqu3km-kzihnioglu-pol-metz-pape-leon-xiv-28092026-141.JPG",
-      "image_alt": "Macron makes unexpected appearance at missile test launch from nuclear submarine",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/06/macron-makes-unexpected-appearance-at-missile-test-launch-from-nuclear-submarine_6758331_4.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "lawyer-for-one-of-cornell-7-calls-for-special-prosecutor-to-be-removed-bbb7bd3e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "published_at": "2026-10-06T18:05:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg",
-      "image_alt": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "tear-gas-in-paris-and-marseille-as-school-protests-grow-across-france-d6af80cd",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Tear gas in Paris and Marseille as school protests grow across France",
-      "published_at": "2026-10-06T18:03:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg",
-      "image_alt": "Tear gas in Paris and Marseille as school protests grow across France",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "finland-orders-halt-to-work-on-two-google-data-centres-b4254fd6",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Finland orders halt to work on two Google data centres",
-      "published_at": "2026-10-06T17:15:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg",
-      "image_alt": "Finland orders halt to work on two Google data centres",
-      "translations": {
-        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "russia-denies-imposing-anti-plague-measures-after-lab-worker-death-cceb2e22",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia denies imposing anti-plague measures after lab worker death",
-      "published_at": "2026-10-06T19:26:27.000Z",
-      "image": "",
-      "image_alt": "Russia denies imposing anti-plague measures after lab worker death",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "uk-security-adviser-jonathan-powell-traveled-to-israel-ahead-of-consul-1652d70b",
-      "region": "Europe",
+      "id": "christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-executi-fb9f125b",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
-      "published_at": "2026-10-06T19:24:16.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-uk=israel-1-pklh/06int-uk=israel-1-pklh-mediumSquareAt3X.jpg",
-      "image_alt": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
+      "headline": "Christa Pike lawyers say she is speaking one week after failed execution",
+      "published_at": "2026-10-06T23:01:05.000Z",
+      "image": "",
+      "image_alt": "Christa Pike lawyers say she is speaking one week after failed execution",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss"
         }
       ],
       "impact": 77
@@ -232,7 +167,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Student Protests Expand to More Than 40 French Cities",
-      "published_at": "2026-10-06T19:09:19.000Z",
+      "published_at": "2026-10-06T22:27:42.000Z",
       "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live--01-ckbp/06france-protests-live--01-ckbp-mediumSquareAt3X.jpg",
       "image_alt": "Student Protests Expand to More Than 40 French Cities",
       "translations": {
@@ -250,37 +185,129 @@
       "impact": 77
     },
     {
-      "id": "live-from-the-barracks-three-juntas-launch-tv-channel-9e2ffa95",
+      "id": "fans-flood-buenos-aires-ahead-of-messi-s-final-international-match-a4144619",
       "region": "World",
-      "topic": "World",
+      "topic": "Climate",
       "urgency": "Live",
-      "headline": "Live From the Barracks: Three Juntas Launch TV Channel",
-      "published_at": "2026-10-06T18:32:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-sahel-tv-1-clbz/06int-sahel-tv-1-clbz-mediumSquareAt3X.jpg",
-      "image_alt": "Live From the Barracks: Three Juntas Launch TV Channel",
+      "headline": "Fans flood Buenos Aires ahead of Messi’s final international match",
+      "published_at": "2026-10-06T22:07:44.000Z",
+      "image": "",
+      "image_alt": "Fans flood Buenos Aires ahead of Messi’s final international match",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "catalan-separatist-puigdemont-to-return-to-spain-after-warrant-lifted-14e76ad7",
+      "id": "houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on-a12b2f69",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+      "published_at": "2026-10-06T21:57:03.000Z",
+      "image": "",
+      "image_alt": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "harry-kane-equals-england-record-scores-twice-in-3-0-win-over-czechia-5cc010a9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Harry Kane equals England record, scores twice in 3-0 win over Czechia",
+      "published_at": "2026-10-06T21:40:12.000Z",
+      "image": "",
+      "image_alt": "Harry Kane equals England record, scores twice in 3-0 win over Czechia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes-ede8aac8",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "CNN, CBS News now under one roof as Paramount-Warner Bros merger closes",
+      "published_at": "2026-10-06T21:33:59.000Z",
+      "image": "",
+      "image_alt": "CNN, CBS News now under one roof as Paramount-Warner Bros merger closes",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting-9463add3",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US arrests suspect in connection with Tumbler Ridge school shooting",
+      "published_at": "2026-10-06T21:28:35.000Z",
+      "image": "",
+      "image_alt": "US arrests suspect in connection with Tumbler Ridge school shooting",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "merino-scores-twice-as-spain-beat-croatia-2-1-in-nations-league-f1508627",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
-      "published_at": "2026-10-06T18:58:01.000Z",
+      "headline": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
+      "published_at": "2026-10-06T21:23:59.000Z",
       "image": "",
-      "image_alt": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
+      "image_alt": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -290,33 +317,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "amid-protests-kosovo-s-political-deadlock-raises-prospect-of-new-elect-00f54b4b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
-      "published_at": "2026-10-06T18:25:45.000Z",
-      "image": "",
-      "image_alt": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "kenya-records-ebola-case-for-first-time-5adda5c7",
@@ -324,8 +328,8 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Kenya Records Ebola Case for First Time",
-      "published_at": "2026-10-06T17:38:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/06/world/africa/06vid-kenya-ebola-cover-image/06vid-kenya-ebola-cover-image-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-06T21:02:07.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-kenya-ebola-kfqz/06int-kenya-ebola-kfqz-mediumSquareAt3X.jpg",
       "image_alt": "Kenya Records Ebola Case for First Time",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
@@ -339,205 +343,40 @@
           "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "indian-opposition-leaders-detained-during-voter-lists-protest-35675e05",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Indian opposition leaders detained during voter lists protest",
-      "published_at": "2026-10-06T17:47:05.000Z",
-      "image": "",
-      "image_alt": "Indian opposition leaders detained during voter lists protest",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss"
-        }
-      ],
       "impact": 75
     },
     {
-      "id": "tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali-9d11522b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
-      "published_at": "2026-10-06T17:46:52.000Z",
-      "image": "",
-      "image_alt": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "jerusalem-daily-tension-high-in-israel-ahead-of-october-7-4a20eab0",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Jerusalem Daily: Tension high in Israel ahead of October 7",
-      "published_at": "2026-10-06T17:39:19.000Z",
-      "image": "",
-      "image_alt": "Jerusalem Daily: Tension high in Israel ahead of October 7",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "brazil-has-moved-to-the-right-progressively-over-the-last-two-decades--8718b363",
+      "id": "us-man-arrested-as-second-suspect-in-canada-mass-school-shooting-plann-73af366a",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Brazil 'has moved to the right progressively over the last two decades', expert says",
-      "published_at": "2026-10-06T17:05:39.000Z",
-      "image": "https://s.france24.com/media/display/9d892e40-c1a6-11f1-b146-0f96b136895a/w:1024/p:16x9/EN-20261005-223111-224225-CS.jpg",
-      "image_alt": "Brazil 'has moved to the right progressively over the last two decades', expert says",
+      "headline": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+      "published_at": "2026-10-06T22:06:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/ed73910f4d4d8bf979ea941700960c44ebe24beb/438_0_4380_3504/master/4380.jpg?width=140&quality=85&auto=format&fit=max&s=ade5a7d2451541d93e21d1cfe185b6b5",
+      "image_alt": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "kenya-confirms-first-ebola-case-as-man-dies-in-nairobi-after-drc-retur-c1fdf5b5",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
-      "published_at": "2026-10-06T17:00:52.000Z",
-      "image": "",
-      "image_alt": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "france-erupts-overs-schools-why-the-violence-surrounding-surprise-move-fbcdc433",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France erupts overs schools: Why the violence surrounding surprise movement?",
-      "published_at": "2026-10-06T19:12:08.000Z",
-      "image": "https://s.france24.com/media/display/17fac87a-c1af-11f1-8ffe-73f176a2394c/w:1024/p:16x9/2026-10-06T130103Z-1056047386-RC2KXNAWGAT3-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "image_alt": "France erupts overs schools: Why the violence surrounding surprise movement?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "eu-seeks-ways-to-make-expansion-more-palatable-to-members-aeefd905",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "EU seeks ways to make expansion more palatable to members",
-      "published_at": "2026-10-06T18:02:00.000Z",
-      "image": "",
-      "image_alt": "EU seeks ways to make expansion more palatable to members",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could--789aaf7b",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
-      "published_at": "2026-10-06T16:53:21.000Z",
-      "image": "https://i.guim.co.uk/img/media/c630aec5eeb70ecdc9b28ef75fee330e661673a2/776_386_2017_1614/master/2017.jpg?width=140&quality=85&auto=format&fit=max&s=9e4887838a6799bd71fb74b3f5a51261",
-      "image_alt": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
-      "translations": {
-        "en": "PULSE is tracking this society update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom"
+          "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington"
         }
       ],
-      "impact": 73
+      "impact": 74
     },
     {
-      "id": "colossal-failure-death-penalty-system-in-america-is-a-broken-process-f-1f239d27",
-      "region": "Americas",
+      "id": "trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia-ec311c55",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "'Colossal failure: Death penalty system in America is a broken process from start to finish'",
-      "published_at": "2026-10-06T17:50:00.000Z",
-      "image": "https://s.france24.com/media/display/d7328256-c1a9-11f1-bbbf-0f96b136895a/w:1024/p:16x9/EN-20261002-210915-211550-CS.jpg",
-      "image_alt": "'Colossal failure: Death penalty system in America is a broken process from start to finish'",
+      "headline": "Trump says he will speak to Putin over reported plague death in Russia",
+      "published_at": "2026-10-06T22:51:48.000Z",
+      "image": "https://s.france24.com/media/display/35f3ab30-c16e-11f1-8701-73f176a2394c/w:1024/p:16x9/0d9752045f8fa082683fe0099656b7298c90813f.jpg",
+      "image_alt": "Trump says he will speak to Putin over reported plague death in Russia",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -547,33 +386,194 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish"
+          "url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "drones-hit-ships-off-bulgaria-s-black-sea-coast-prime-minister-says-c85bcb54",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+      "published_at": "2026-10-06T19:15:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-bulgaria-drones-wqcb/06int-bulgaria-drones-wqcb-mediumSquareAt3X.jpg",
+      "image_alt": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "in-brazil-scandals-fail-to-slow-flavio-bolsonaro-s-political-rise-ca768599",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "In Brazil, scandals fail to slow Flavio Bolsonaro's political rise",
+      "published_at": "2026-10-06T22:45:25.000Z",
+      "image": "https://img.lemde.fr/2026/10/04/888/0/6000/3000/644/322/60/0/a3cd914_ftp-1-jxiofxg4pvm5-2026-10-04t113706z-1302605320-rc2bwnauw3yo-rtrmadp-3-brazil-election.JPG",
+      "image_alt": "In Brazil, scandals fail to slow Flavio Bolsonaro's political rise",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/07/in-brazil-scandals-fail-to-slow-flavio-bolsonaro-s-political-rise_6758335_4.html"
         }
       ],
       "impact": 72
     },
     {
-      "id": "russia-denies-anti-plague-measures-after-pneumonia-death-018dd26f",
+      "id": "christa-pike-is-conscious-and-speaking-after-botched-execution-c7361631",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Russia denies anti-plague measures after pneumonia death",
-      "published_at": "2026-10-06T17:02:00.000Z",
-      "image": "",
-      "image_alt": "Russia denies anti-plague measures after pneumonia death",
+      "headline": "Christa Pike is conscious and speaking after botched execution",
+      "published_at": "2026-10-06T22:43:55.000Z",
+      "image": "https://img.lemde.fr/2026/09/30/115/0/2464/1232/644/322/60/0/32cecd4_ftp-1-vlkfdqljlm96-2026-09-30t135639z-1416470123-rc2ptnayxsrm-rtrmadp-3-tennessee-execution.JPG",
+      "image_alt": "Christa Pike is conscious and speaking after botched execution",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/russia-denies-anti-plague-measures-after-pneumonia-death/a-79567922?maca=en-rss-en-top-1022-rdf"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/07/christa-pike-is-conscious-and-speaking-after-botched-execution_6758334_4.html"
         }
       ],
       "impact": 72
+    },
+    {
+      "id": "pneumonic-plague-what-we-know-about-treatment-and-transmission-of-this-74a6f70f",
+      "region": "Europe",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Pneumonic plague: What we know about treatment and transmission of this disease that has 'not disappeared from the planet'",
+      "published_at": "2026-10-06T21:59:57.000Z",
+      "image": "https://img.lemde.fr/2026/10/06/4/0/3500/1750/644/322/60/0/d477e97_ftp-1-zwy0hzqeqdfa-5279072-01-06.jpg",
+      "image_alt": "Pneumonic plague: What we know about treatment and transmission of this disease that has 'not disappeared from the planet'",
+      "translations": {
+        "en": "PULSE is tracking this health update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/10/06/pneumonic-plague-what-we-know-about-treatment-and-transmission-of-this-disease-that-has-not-disappeared-from-the-planet_6758333_114.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "former-german-spy-chief-detained-over-suspected-treasonous-espionage-885a4883",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Former German spy chief detained over suspected treasonous espionage",
+      "published_at": "2026-10-06T21:34:02.000Z",
+      "image": "https://s.france24.com/media/display/95531a82-c189-11f1-8815-b942c38e4bd7/w:1024/p:16x9/91a7ef13c7a16e3d52ad91fa615eb093b8a68a0f.jpg",
+      "image_alt": "Former German spy chief detained over suspected treasonous espionage",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261006-former-german-spy-chief-detained-over-suspected-treasonous-espionage"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "kenya-reports-first-ever-ebola-death-8e95aff8",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Kenya reports first-ever Ebola death",
+      "published_at": "2026-10-06T21:28:01.000Z",
+      "image": "https://s.france24.com/media/display/c48e4248-c1cc-11f1-891c-0f96b136895a/w:1024/p:16x9/capture-12432674096ac567cfa9d0e5-47237078.jpg",
+      "image_alt": "Kenya reports first-ever Ebola death",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "ronaldo-apologizes-to-team-and-supporters-for-walkout-27108a77",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ronaldo apologizes to team and supporters for walkout",
+      "published_at": "2026-10-06T21:44:52.000Z",
+      "image": "https://img.lemde.fr/2026/10/06/0/0/2459/1229/644/322/60/0/8ec58f8_ftp-1-ad3ws8ub00hg-5283055-01-06.jpg",
+      "image_alt": "Ronaldo apologizes to team and supporters for walkout",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/10/06/ronaldo-apologizes-to-team-and-supporters-for-walkout_6758332_9.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "french-policeman-charged-after-firing-tear-gas-grenade-at-high-school--2b14c2fc",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "French policeman charged after firing tear gas grenade at high school student",
+      "published_at": "2026-10-06T21:04:02.000Z",
+      "image": "https://s.france24.com/media/display/c901ddc0-c1c8-11f1-96e9-ff8cff4603f0/w:1024/p:16x9/EN-20261006-210508-211218-CS-01.jpg",
+      "image_alt": "French policeman charged after firing tear gas grenade at high school student",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
