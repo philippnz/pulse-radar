@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:17:51.280Z",
+  "updated_at": "2026-10-08T16:44:14.750Z",
   "languages": [
     {
       "code": "en",
@@ -20,106 +20,83 @@
   ],
   "stories": [
     {
-      "id": "how-gaza-war-sped-up-india-s-shift-towards-israel-under-modi-641f64b4",
-      "region": "Middle East",
+      "id": "russian-strike-on-buses-kills-at-least-30-say-officials-as-deadly-atta-16c67f2b",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "How Gaza war sped up India’s shift towards Israel under Modi",
-      "published_at": "2026-10-08T08:31:44.000Z",
-      "image": "",
-      "image_alt": "How Gaza war sped up India’s shift towards Israel under Modi",
+      "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "published_at": "2026-10-08T16:31:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "image_alt": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 90
     },
     {
-      "id": "myanmar-s-strongman-president-is-on-a-global-quest-for-legitimacy-next-bb3804f1",
-      "region": "Asia-Pacific",
+      "id": "ethiopia-launches-drone-attack-against-eritrean-troops-who-crossed-int-f25d5f4d",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+      "published_at": "2026-10-08T16:11:32.000Z",
+      "image": "https://i.guim.co.uk/img/media/f7c272706a6817166fefebedc2838a834bf21ffd/647_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=d6b6513cc3e2a4d642983422ab695203",
+      "image_alt": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+      "translations": {
+        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "london-voters-go-to-polls-for-holborn-and-st-pancras-by-election-f133b62d",
+      "region": "World",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Myanmar’s Strongman President is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
-      "published_at": "2026-10-08T09:12:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg",
-      "image_alt": "Myanmar’s Strongman President is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "nature-can-recover-inside-the-race-to-rescue-world-s-crisis-hit-wildli-e1bf845d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife",
-      "published_at": "2026-10-08T08:37:15.000Z",
+      "headline": "London voters go to polls for Holborn and St Pancras by-election",
+      "published_at": "2026-10-08T15:19:46.000Z",
       "image": "",
-      "image_alt": "‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife",
+      "image_alt": "London voters go to polls for Holborn and St Pancras by-election",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss"
         }
       ],
       "impact": 81
     },
     {
-      "id": "yemen-apos-s-houthis-claim-strike-on-riyadh-airport-three-killed-e3736b8e",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Yemen&apos;s Houthis claim strike on Riyadh airport, three killed",
-      "published_at": "2026-10-08T05:22:00.000Z",
-      "image": "",
-      "image_alt": "Yemen&apos;s Houthis claim strike on Riyadh airport, three killed",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/yemen-s-houthis-claim-strike-on-riyadh-airport-three-killed/a-79587815?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "most-uk-diplomats-to-leave-east-jerusalem-consulate-israel-says-as-mil-bd668b32",
-      "region": "Europe",
+      "id": "venezuela-s-ex-leader-nicol-s-maduro-charged-with-conspiracy-to-commit-50c4b3f7",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "published_at": "2026-10-08T08:18:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af2/live/5079a140-c2df-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "headline": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "published_at": "2026-10-08T16:24:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg",
+      "image_alt": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,10 +106,125 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "zambia-signs-us-health-deal-after-disputes-over-data-sharing-fc138d82",
+      "region": "Americas",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Zambia signs US health deal after disputes over data-sharing",
+      "published_at": "2026-10-08T16:24:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/026e/live/4ba24bd0-c330-11f1-9981-cf94ea240e40.jpg",
+      "image_alt": "Zambia signs US health deal after disputes over data-sharing",
+      "translations": {
+        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "more-killed-in-kramatorsk-as-russia-targets-ukraine-s-transportation-s-5518e421",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+      "published_at": "2026-10-08T14:50:20.000Z",
+      "image": "",
+      "image_alt": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "how-the-houthi-conflict-is-affecting-countries-along-africa-apos-s-red-0bf50300",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "How the Houthi conflict is affecting countries along Africa&apos;s Red Sea coast — and beyond",
+      "published_at": "2026-10-08T16:11:00.000Z",
+      "image": "",
+      "image_alt": "How the Houthi conflict is affecting countries along Africa&apos;s Red Sea coast — and beyond",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 79
+    },
+    {
+      "id": "us-deportations-to-african-countries-unlawful-and-exploit-suffering-ri-5aa24f3d",
+      "region": "Americas",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "published_at": "2026-10-08T15:44:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e7/live/fdeabc50-c308-11f1-8f04-85217d686658.jpg",
+      "image_alt": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "two-latvian-nationals-arrested-after-trespassing-on-military-base-in-e-1a83967e",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Two Latvian nationals arrested after trespassing on military base in England",
+      "published_at": "2026-10-08T16:35:37.000Z",
+      "image": "https://img.lemde.fr/2026/10/08/458/0/5500/2750/644/322/60/0/7f34e0a_ftp-1-ttqobbaboywy-2026-10-08t163115z-1141603431-rc24znau81kl-rtrmadp-3-britain-security-molesworth.JPG",
+      "image_alt": "Two Latvian nationals arrested after trespassing on military base in England",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/08/two-latvian-nationals-arrested-after-trespassing-on-military-base-in-england_6758394_4.html"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "christa-pike-now-walking-after-failed-us-execution-lawyer-tells-bbc-256c32f6",
@@ -140,7 +232,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "published_at": "2026-10-08T08:13:52.000Z",
+      "published_at": "2026-10-08T15:02:32.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/3e4f37a0-c2ee-11f1-89a3-9b445bfcfe23.jpg",
       "image_alt": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "translations": {
@@ -155,40 +247,17 @@
           "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "spanish-pensioner-whose-eviction-sparked-nationwide-protests-dies-852aba6f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Spanish pensioner whose eviction sparked nationwide protests dies",
-      "published_at": "2026-10-08T07:15:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg",
-      "image_alt": "Spanish pensioner whose eviction sparked nationwide protests dies",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "absolute-nightmare-inside-the-russian-warehouses-bombarded-by-ukraine-248c9989",
-      "region": "Europe",
+      "id": "blasts-rattle-riyadh-as-saudi-arabia-hit-by-deadliest-houthi-attacks-s-4e2cb2b3",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
-      "published_at": "2026-10-08T09:01:30.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/01/world/01int-russia-wildberries-top-art-afpg/01int-russia-wildberries-top-art-afpg-mediumSquareAt3X.jpg",
-      "image_alt": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
+      "headline": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+      "published_at": "2026-10-08T16:29:54.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08Saudi-strikes-ctlw/08Saudi-strikes-ctlw-mediumSquareAt3X.jpg",
+      "image_alt": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,43 +267,43 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
+          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html"
         }
       ],
       "impact": 77
     },
     {
-      "id": "how-a-u-s-diplomat-suppressed-and-altered-reports-critical-of-israel-7eb28fed",
-      "region": "Middle East",
+      "id": "man-city-must-stick-together-after-premier-league-charges-says-haaland-09e2e62e",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
-      "published_at": "2026-10-08T09:00:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00int-usembassy-jerusalem-ltvc/00int-usembassy-jerusalem-ltvc-mediumSquareAt3X-v2.jpg",
-      "image_alt": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
+      "headline": "Man City must ‘stick together’ after Premier League charges, says Haaland",
+      "published_at": "2026-10-08T16:21:52.000Z",
+      "image": "",
+      "image_alt": "Man City must ‘stick together’ after Premier League charges, says Haaland",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "france-braces-for-a-second-day-of-mass-protests-in-a-week-ed4926c6",
-      "region": "Europe",
+      "id": "nana-patekar-indian-actor-who-embodied-the-everyman-dies-at-75-b5ab394c",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "France Braces for a Second Day of Mass Protests in a Week",
-      "published_at": "2026-10-08T08:56:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-protests-1-qbjf/08int-france-protests-1-qbjf-mediumSquareAt3X.jpg",
-      "image_alt": "France Braces for a Second Day of Mass Protests in a Week",
+      "headline": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
+      "published_at": "2026-10-08T16:18:39.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08xp-obit-nana-patekar-cblh/08xp-obit-nana-patekar-cblh-mediumSquareAt3X.jpg",
+      "image_alt": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,204 +313,112 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html"
+          "url": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html"
         }
       ],
       "impact": 77
     },
     {
-      "id": "christa-pike-almost-taken-off-life-support-before-she-woke-up-063e05fe",
+      "id": "warrants-to-search-former-prince-andrew-s-properties-were-unlawful-cou-daa9be62",
       "region": "World",
-      "topic": "World",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Christa Pike almost taken off life support before she woke up",
-      "published_at": "2026-10-08T08:29:36.000Z",
-      "image": "",
-      "image_alt": "Christa Pike almost taken off life support before she woke up",
+      "headline": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Says",
+      "published_at": "2026-10-08T16:10:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08uk-royals-andrew-gbwc/08uk-royals-andrew-gbwc-mediumSquareAt3X.jpg",
+      "image_alt": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Says",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/christa-pike-almost-taken-off-life-support-before-she-woke-up?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "video-signs-removed-from-british-consulate-in-occupied-east-jerusalem-41d7d3de",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Video: Signs removed from British consulate in occupied East Jerusalem",
-      "published_at": "2026-10-08T08:25:20.000Z",
-      "image": "",
-      "image_alt": "Video: Signs removed from British consulate in occupied East Jerusalem",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "why-israel-loves-skunk-water-877babf9",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why Israel loves skunk water",
-      "published_at": "2026-10-08T08:15:52.000Z",
-      "image": "",
-      "image_alt": "Why Israel loves skunk water",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "india-defends-satellite-internet-approval-process-after-elon-musk-jab-f6ee0ae5",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India defends satellite internet approval process after Elon Musk jab",
-      "published_at": "2026-10-08T08:15:45.000Z",
-      "image": "",
-      "image_alt": "India defends satellite internet approval process after Elon Musk jab",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/india-defends-satellite-internet-approval-process-after-elon-musk-jab?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israel-and-u-k-cut-last-minute-deal-to-avoid-full-closure-of-british-c-bb27bff4",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-      "published_at": "2026-10-08T08:01:51.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-uk-israel-wphj/08int-uk-israel-wphj-mediumSquareAt3X.jpg",
-      "image_alt": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html"
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html"
         }
       ],
-      "impact": 76
+      "impact": 77
     },
     {
-      "id": "southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal-8998e443",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Southampton manager Eckert can stay on despite role in ‘spygate’ scandal",
-      "published_at": "2026-10-08T07:49:46.000Z",
-      "image": "",
-      "image_alt": "Southampton manager Eckert can stay on despite role in ‘spygate’ scandal",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "india-s-cockroach-party-leader-carries-gen-z-s-demands-they-are-many-2dd33619",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
-      "published_at": "2026-10-08T07:10:01.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/INT-INDIA-COCKROACHES-01-hwfp/INT-INDIA-COCKROACHES-01-hwfp-mediumSquareAt3X.jpg",
-      "image_alt": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "in-somalia-war-cuts-off-entire-populations-threatened-by-famine-from-h-29368359",
+      "id": "the-wave-of-student-protests-roiling-france-f19745e2",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "In Somalia, war cuts off entire populations threatened by famine from humanitarian aid",
-      "published_at": "2026-10-08T02:00:09.000Z",
-      "image": "https://img.lemde.fr/2026/10/05/23/0/3520/1760/644/322/60/0/a2d614d_upload-1-rni29f0elpzf-068-aa-09062025-2279751.jpg",
-      "image_alt": "In Somalia, war cuts off entire populations threatened by famine from humanitarian aid",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The Wave of Student Protests Roiling France",
+      "published_at": "2026-10-08T16:04:42.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00france-protest-stack-01-vkbc/00france-protest-stack-01-vkbc-mediumSquareAt3X.jpg",
+      "image_alt": "The Wave of Student Protests Roiling France",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/08/war-cuts-off-entire-somalians-threatened-by-famine-from-humanitarian-aid_6758371_4.html"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "eu-envoy-in-beijing-for-talks-to-calm-trade-tensions-fe100183",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "EU envoy in Beijing for talks to calm trade tensions",
+      "published_at": "2026-10-08T14:42:00.000Z",
+      "image": "",
+      "image_alt": "EU envoy in Beijing for talks to calm trade tensions",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal--8ae3465e",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "UK ex-prince Andrew search warrants quashed after police accept legal error",
+      "published_at": "2026-10-08T15:53:07.000Z",
+      "image": "",
+      "image_alt": "UK ex-prince Andrew search warrants quashed after police accept legal error",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewel-ef778f38",
-      "region": "Americas",
+      "id": "video-said-to-show-mali-army-in-kidal-after-retaking-city-fa6da4cd",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell",
-      "published_at": "2026-10-08T07:12:46.000Z",
+      "headline": "Video said to show Mali army in Kidal after retaking city",
+      "published_at": "2026-10-08T15:50:35.000Z",
       "image": "",
-      "image_alt": "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell",
+      "image_alt": "Video said to show Mali army in Kidal after retaking city",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -451,20 +428,135 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "venezuela-s-nicolas-maduro-and-his-wife-charged-over-torture-allegatio-d5ddff5c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
+      "published_at": "2026-10-08T15:20:39.000Z",
+      "image": "",
+      "image_alt": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "escalating-assaults-on-ukrainian-cities-are-producing-an-enormous-toll-a97f6033",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll",
+      "published_at": "2026-10-08T14:38:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-ukraine-attack-bqcz/08int-ukraine-attack-bqcz-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "researchers-find-180-000-giant-tortoises-living-on-island-in-seychelle-42a83e7d",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Researchers find 180,000 giant tortoises living on island in Seychelles",
+      "published_at": "2026-10-08T16:11:53.000Z",
+      "image": "https://i.guim.co.uk/img/media/a80099fae73e5813db79c3007020a3e15cae6582/980_0_5315_4252/master/5315.jpg?width=140&quality=85&auto=format&fit=max&s=de2d56ea83e5c9293862eb4ed1c6ab7a",
+      "image_alt": "Researchers find 180,000 giant tortoises living on island in Seychelles",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles"
         }
       ],
       "impact": 75
     },
     {
-      "id": "middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-th-e5e4fd16",
+      "id": "what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-b-0e661858",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
+      "published_at": "2026-10-08T15:01:18.000Z",
+      "image": "",
+      "image_alt": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles-0d2e664a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+      "published_at": "2026-10-08T14:43:19.000Z",
+      "image": "",
+      "image_alt": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania-c75a0830",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
-      "published_at": "2026-10-08T08:38:00.000Z",
+      "headline": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+      "published_at": "2026-10-08T16:20:00.000Z",
       "image": "",
-      "image_alt": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
+      "image_alt": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
       "translations": {
         "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,102 +566,10 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 74
-    },
-    {
-      "id": "saudi-arabia-says-three-dead-at-airports-after-houthis-claim-attacks-a48345b1",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Saudi Arabia says three dead at airports after Houthis claim attacks",
-      "published_at": "2026-10-08T03:56:23.000Z",
-      "image": "https://img.lemde.fr/2026/10/07/0/0/4493/2246/644/322/60/0/5651322_ftp-1-wwenfwzmw3h9-5289022-01-06.jpg",
-      "image_alt": "Saudi Arabia says three dead at airports after Houthis claim attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/08/saudi-arabia-says-3-dead-at-airports-after-houthis-claim-attacks_6758376_4.html"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "most-israeli-citizens-lost-confidence-in-govt-leaders-shift-blame-bloc-ab34b650",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'Most Israeli citizens lost confidence' in govt: Leaders 'shift' blame, 'block' commission inquiry",
-      "published_at": "2026-10-08T07:42:49.000Z",
-      "image": "https://s.france24.com/media/display/a5aaf096-c2db-11f1-87fc-27c2853ad5a5/w:1024/p:16x9/EN-20261007-080628-081900-CS.jpg",
-      "image_alt": "'Most Israeli citizens lost confidence' in govt: Leaders 'shift' blame, 'block' commission inquiry",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/most-israeli-citizens-lost-confidence-in-govt-pm-leaders-shift-blame-block-commission-inquiry"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "senegal-and-morocco-set-for-afcon-title-rematch-in-swiss-sports-court-b76827fd",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Senegal and Morocco set for AFCON title rematch – in Swiss sports court",
-      "published_at": "2026-10-08T07:17:51.000Z",
-      "image": "https://s.france24.com/media/display/9d2e57b8-b87d-11f1-859e-852b23529bb9/w:1024/p:16x9/J24-CAN.jpg",
-      "image_alt": "Senegal and Morocco set for AFCON title rematch – in Swiss sports court",
-      "translations": {
-        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20261008-senegal-and-morocco-set-for-afcon-title-rematch-%E2%80%93-swiss-sports-court"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "italy-weighs-controversial-law-giving-bonus-seats-to-election-winners-1f339cd3",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
-      "published_at": "2026-10-08T04:01:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/ITALY-ELECTORAL-LAW-hfbv/ITALY-ELECTORAL-LAW-hfbv-mediumSquareAt3X.jpg",
-      "image_alt": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html"
-        }
-      ],
-      "impact": 72
     }
   ]
 }
