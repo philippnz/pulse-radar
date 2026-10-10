@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T20:14:18.246Z",
+  "updated_at": "2026-10-10T00:11:15.390Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say-5f9c18e7",
+      "id": "as-putin-wages-shadow-war-europe-looks-for-a-way-to-hit-back-683225b7",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+      "published_at": "2026-10-09T22:07:24.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08europe-hybrid-01-jwfg/08europe-hybrid-01-jwfg-mediumSquareAt3X.jpg",
+      "image_alt": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue-a2991d57",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-      "published_at": "2026-10-09T18:15:06.000Z",
+      "headline": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "published_at": "2026-10-09T20:56:01.000Z",
       "image": "",
-      "image_alt": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+      "image_alt": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +60,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
+    },
+    {
+      "id": "how-will-spain-s-housing-crisis-affect-elections-939721d5",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "How will Spain’s housing crisis affect elections?",
+      "published_at": "2026-10-09T20:39:11.000Z",
+      "image": "",
+      "image_alt": "How will Spain’s housing crisis affect elections?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-ru-8e57eaa2",
@@ -63,7 +109,99 @@
           "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war"
         }
       ],
-      "impact": 83
+      "impact": 79
+    },
+    {
+      "id": "attacker-in-flydubai-flight-meant-to-crash-into-israeli-airport-emirat-21c7c903",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+      "published_at": "2026-10-10T00:10:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-uae-flydubai-1-fctk/09int-uae-flydubai-1-fctk-mediumSquareAt3X.jpg",
+      "image_alt": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "three-men-found-guilty-of-murdering-two-australian-surfer-brothers-and-c3ee0949",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "published_at": "2026-10-09T21:55:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png",
+      "image_alt": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "trump-announces-deal-for-russian-diesel-as-zelensky-criticises-gift-to-2b3762f9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "published_at": "2026-10-09T21:54:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+      "image_alt": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "jd-vance-casts-doubt-on-firing-squad-execution-and-says-he-will-not-wa-a382270f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "published_at": "2026-10-09T21:50:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
+      "image_alt": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "uae-omani-flydubai-co-pilot-planned-suicide-attack-72ac8c8c",
@@ -86,99 +224,30 @@
           "url": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 82
+      "impact": 78
     },
     {
-      "id": "montenegro-expels-popular-russian-war-blogger-wanted-by-us-83cc312b",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Montenegro expels popular Russian war blogger wanted by US",
-      "published_at": "2026-10-09T17:48:13.000Z",
-      "image": "https://img.lemde.fr/2026/10/09/35/0/4800/2400/644/322/60/0/87436f2_ftp-1-d09glxebt0yg-5305724-01-06.jpg",
-      "image_alt": "Montenegro expels popular Russian war blogger wanted by US",
+      "id": "human-rights-lawyer-navi-pillay-is-awarded-nobel-peace-prize-c2a7b9bf",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+      "published_at": "2026-10-09T23:00:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-promo-1145a-cljm/09nobel-promo-1145a-cljm-mediumSquareAt3X.jpg",
+      "image_alt": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/09/montenegro-expels-popular-russian-war-blogger-wanted-by-us_6758432_4.html"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired--c912bf3c",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
-      "published_at": "2026-10-09T17:09:59.000Z",
-      "image": "",
-      "image_alt": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "as-putin-wages-shadow-war-europe-looks-for-a-way-to-hit-back-683225b7",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "published_at": "2026-10-09T13:09:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08europe-hybrid-01-jwfg/08europe-hybrid-01-jwfg-mediumSquareAt3X.jpg",
-      "image_alt": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html"
+          "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026"
         }
       ],
-      "impact": 81
-    },
-    {
-      "id": "trump-announces-deal-for-russian-diesel-as-zelensky-criticises-gift-to-2b3762f9",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "published_at": "2026-10-09T20:13:23.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg",
-      "image_alt": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
+      "impact": 77
     },
     {
       "id": "powerful-magnitude-7-7-earthquake-hits-panama-damaging-buildings-43c553fc",
@@ -186,7 +255,7 @@
       "topic": "Climate",
       "urgency": "Live",
       "headline": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "published_at": "2026-10-09T19:39:52.000Z",
+      "published_at": "2026-10-09T21:26:30.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
       "image_alt": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
       "translations": {
@@ -201,7 +270,76 @@
           "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
+      "impact": 77
+    },
+    {
+      "id": "mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukr-9c38020d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "published_at": "2026-10-09T22:50:15.000Z",
+      "image": "",
+      "image_alt": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-confirms-fort-hood-shooter-s-execution-will-be-by-firing-squad-c1fdc10e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+      "published_at": "2026-10-09T21:53:01.000Z",
+      "image": "",
+      "image_alt": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "schools-crisis-in-france-investment-fails-to-inspire-confidence-f7d765c7",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Schools crisis in France: Investment fails to inspire confidence",
+      "published_at": "2026-10-09T19:52:00.000Z",
+      "image": "",
+      "image_alt": "Schools crisis in France: Investment fails to inspire confidence",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war-325b2019",
@@ -224,260 +362,7 @@
           "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "attacker-in-flydubai-flight-meant-to-crash-into-israeli-airport-emirat-21c7c903",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "published_at": "2026-10-09T20:08:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-uae-flydubai-1-fctk/09int-uae-flydubai-1-fctk-mediumSquareAt3X.jpg",
-      "image_alt": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "us-unveils-sanctions-on-icc-in-move-court-condemns-as-assault-on-rule--4a93d4d6",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "published_at": "2026-10-09T18:40:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
-      "image_alt": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "jd-vance-casts-doubt-on-firing-squad-execution-and-says-he-will-not-wa-a382270f",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "published_at": "2026-10-09T18:40:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
-      "image_alt": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "human-rights-lawyer-navi-pillay-is-awarded-nobel-peace-prize-c2a7b9bf",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-      "published_at": "2026-10-09T19:57:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-promo-1145a-cljm/09nobel-promo-1145a-cljm-mediumSquareAt3X.jpg",
-      "image_alt": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-      "translations": {
-        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices-fdd7c37e",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
-      "published_at": "2026-10-09T19:47:33.000Z",
-      "image": "",
-      "image_alt": "Trump announces Russian diesel deal amid soaring US fuel prices",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "navi-pillay-former-un-human-rights-chief-wins-nobel-peace-prize-36dc6bd9",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "published_at": "2026-10-09T17:37:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
-      "image_alt": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "russian-search-engine-yandex-struggles-after-ukrainian-strikes-on-data-d7528ef9",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "published_at": "2026-10-09T17:14:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
-      "image_alt": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "translations": {
-        "en": "PULSE is tracking this technology update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "european-states-canada-japan-and-un-back-icc-against-us-sanctions-c83d12b7",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "European states, Canada, Japan and UN back ICC against US sanctions",
-      "published_at": "2026-10-09T19:32:13.000Z",
-      "image": "",
-      "image_alt": "European states, Canada, Japan and UN back ICC against US sanctions",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-h-4b45028f",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
-      "published_at": "2026-10-09T19:22:56.000Z",
-      "image": "",
-      "image_alt": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
-      "translations": {
-        "en": "PULSE is tracking this climate update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "injured-orangutan-rescued-from-indonesia-wildfires-c5dbd11c",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Injured Orangutan rescued from Indonesia wildfires",
-      "published_at": "2026-10-09T19:14:56.000Z",
-      "image": "",
-      "image_alt": "Injured Orangutan rescued from Indonesia wildfires",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "katie-zacharia-offered-position-as-white-house-press-secretary-a4f01366",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Katie Zacharia ‘offered’ position as White House press secretary",
-      "published_at": "2026-10-09T18:49:24.000Z",
-      "image": "",
-      "image_alt": "Katie Zacharia ‘offered’ position as White House press secretary",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss"
-        }
-      ],
-      "impact": 76
+      "impact": 75
     },
     {
       "id": "powerful-7-6-magnitude-earthquake-hits-panama-and-triggers-tsunami-war-d3bfc37a",
@@ -485,8 +370,8 @@
       "topic": "Climate",
       "urgency": "Live",
       "headline": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-      "published_at": "2026-10-09T19:52:48.000Z",
-      "image": "https://i.guim.co.uk/img/media/5b858ee6a18e7e29d7cc7d82f3bed35bcce0b25a/428_0_3121_2496/master/3121.jpg?width=140&quality=85&auto=format&fit=max&s=4a51102da69b57f0db8c2ca73ecf3e6a",
+      "published_at": "2026-10-09T22:48:01.000Z",
+      "image": "https://i.guim.co.uk/img/media/2cf0936815473ea813462bb7d7227483c0bfe25e/489_0_4885_3908/master/4885.jpg?width=140&quality=85&auto=format&fit=max&s=8795b12b8cef1b9168c95d59940c7b9a",
       "image_alt": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
       "translations": {
         "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
@@ -500,63 +385,17 @@
           "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
         }
       ],
-      "impact": 75
+      "impact": 74
     },
     {
-      "id": "powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning-90c67605",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning",
-      "published_at": "2026-10-09T18:41:26.000Z",
-      "image": "https://s.france24.com/media/display/1e685866-c417-11f1-a54f-77317c09f325/w:1024/p:16x9/2026-10-09T190605Z-119910366-RC2UZNAG2SLO-RTRMADP-3-PANAMA-QUAKE.jpg",
-      "image_alt": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warnings",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasan-s-executi-f08a7964",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-      "published_at": "2026-10-09T18:30:58.000Z",
-      "image": "",
-      "image_alt": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-tru-6807a7e0",
+      "id": "us-judge-rules-trump-administration-s-use-of-voter-data-unlawful-797d03e9",
       "region": "Americas",
       "topic": "Technology",
       "urgency": "Live",
-      "headline": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-      "published_at": "2026-10-09T18:23:43.000Z",
+      "headline": "US judge rules Trump administration’s use of voter data unlawful",
+      "published_at": "2026-10-09T21:29:01.000Z",
       "image": "",
-      "image_alt": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
+      "image_alt": "US judge rules Trump administration’s use of voter data unlawful",
       "translations": {
         "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -566,10 +405,171 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 74
+    },
+    {
+      "id": "africa-cup-of-nations-may-stay-as-a-biennial-event-says-caf-chief-mots-8f36acaf",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "published_at": "2026-10-09T21:17:42.000Z",
+      "image": "",
+      "image_alt": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "controversial-vaccine-trial-touted-by-rfk-jr-gets-go-ahead-in-guinea-b-7c8126ec",
+      "region": "World",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "published_at": "2026-10-09T21:36:18.000Z",
+      "image": "https://i.guim.co.uk/img/media/9b0dd26cb04cecfa9d30fecef7979eaede8617d7/512_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=e8ea85f8f687ec21d09686ea62619ec1",
+      "image_alt": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "translations": {
+        "en": "PULSE is tracking this health update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "three-men-found-guilty-of-murders-of-australian-surfer-brothers-and-us-582e3210",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+      "published_at": "2026-10-09T21:30:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=3af8f82f816ebd3d11dcdcccd67070d8",
+      "image_alt": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "magnitude-7-7-earthquake-rocks-panama-damaging-buildings-a19f967e",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Magnitude 7.7 earthquake rocks Panama, damaging buildings",
+      "published_at": "2026-10-09T23:30:44.000Z",
+      "image": "https://img.lemde.fr/2026/10/09/665/0/7976/3988/644/322/60/0/360c319_ftp-1-ymq1d1mw7moj-5312068-01-06.jpg",
+      "image_alt": "Magnitude 7.7 earthquake rocks Panama, damaging buildings",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/10/magnitude-7-7-earthquake-rocks-panama-damaging-buildings_6758440_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "germany-after-afd-victory-in-saxony-anhalt-cdu-and-ruling-coalition-fa-2b44043e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany: After AfD victory in Saxony-Anhalt, CDU and ruling coalition face threat",
+      "published_at": "2026-10-09T23:11:24.000Z",
+      "image": "https://img.lemde.fr/2026/10/07/99/0/4206/2103/644/322/60/0/8724f2c_ftp-1-9gh7yzhrjsda-2026-10-07t132903z-710794828-rc2oxnau3pc4-rtrmadp-3-germany-elections-saxony-anhalt.JPG",
+      "image_alt": "Germany: After AfD victory in Saxony-Anhalt, CDU and ruling coalition face threat",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/10/germany-after-afd-victory-in-saxony-anhalt-cdu-and-ruling-coalition-face-threat_6758439_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "nobel-peace-prize-navanethem-pillay-a-tireless-advocate-for-internatio-10f3b299",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Nobel Peace Prize: Navanethem Pillay, a tireless advocate for international justice",
+      "published_at": "2026-10-09T22:18:20.000Z",
+      "image": "https://img.lemde.fr/2026/10/09/255/0/4877/2438/644/322/60/0/24449e4_ftp-1-rlblkhheywim-59274400ffd4423e90a128a179638d99-0-68358311681348bbb6cacf55c046e9b7.jpg",
+      "image_alt": "Nobel Peace Prize: Navanethem Pillay, a tireless advocate for international justice",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/10/10/nobel-peace-prize-navanethem-pillay-a-tireless-advocate-for-international-justice_6758438_124.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "south-african-judge-awarded-nobel-peace-prize-5c65c338",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "South African judge awarded Nobel Peace Prize",
+      "published_at": "2026-10-09T21:53:23.000Z",
+      "image": "https://s.france24.com/media/display/a324549c-c42b-11f1-aa1d-53993c5f1f18/w:1024/p:16x9/capture-5919164626ac961f82872c4-40513973.jpg",
+      "image_alt": "South African judge awarded Nobel Peace Prize",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
