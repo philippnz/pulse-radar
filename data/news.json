@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T01:30:12.452Z",
+  "updated_at": "2026-10-12T08:29:30.384Z",
   "languages": [
     {
       "code": "en",
@@ -20,13 +20,36 @@
   ],
   "stories": [
     {
+      "id": "live-eu-s-top-diplomat-says-she-will-welcome-russia-ukraine-energy-cea-8698804b",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Live: EU’s top diplomat says she will welcome Russia-Ukraine energy ceasefire ‘when it holds’",
+      "published_at": "2026-10-12T05:29:41.000Z",
+      "image": "https://s.france24.com/media/display/dd06a708-c5f9-11f1-960a-3774aeac812a/w:1024/p:16x9/AP26284505371633.jpg",
+      "image_alt": "Live: EU’s top diplomat says she will welcome Russia-Ukraine energy ceasefire ‘when it holds’",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire"
+        }
+      ],
+      "impact": 81
+    },
+    {
       "id": "one-killed-11-injured-in-second-houthi-strike-on-riyadh-airport-in-two-a4f40d79",
       "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "published_at": "2026-10-11T22:45:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2165/live/f588e620-c602-11f1-9a39-31b474234113.jpg",
       "image_alt": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
@@ -40,40 +63,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 80
     },
     {
-      "id": "iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate-625e5e7d",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-      "published_at": "2026-10-12T00:00:00.000Z",
-      "image": "",
-      "image_alt": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "trump-s-energy-ceasefire-claim-welcomed-by-zelensky-but-russia-silent-551382d9",
+      "id": "zelensky-backs-trump-s-energy-ceasefire-but-says-russia-continues-to-h-551382d9",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "headline": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "published_at": "2026-10-11T21:36:40.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "image_alt": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -86,76 +86,122 @@
           "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 79
     },
     {
-      "id": "pakistani-national-killed-in-second-houthi-strike-on-riyadh-airport-f2f83233",
+      "id": "fire-burns-down-paris-s-oldest-covered-food-market-d393e2d0",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Fire burns down Paris's oldest covered food market",
+      "published_at": "2026-10-12T08:02:55.000Z",
+      "image": "https://s.france24.com/media/display/ce2023ce-c601-11f1-bf8f-53993c5f1f18/w:1024/p:16x9/March%C3%A9-des-Enfants-Rouges-Paris-May-2016.jpg",
+      "image_alt": "Fire burns down Paris's oldest covered food market",
+      "translations": {
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "investigation-into-flydubai-attacker-puts-spotlight-on-an-australian-m-e48b6f4a",
       "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
+      "published_at": "2026-10-12T07:46:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12int-oz-mosque-ckbm/12int-oz-mosque-ckbm-mediumSquareAt3X.jpg",
+      "image_alt": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "nato-top-commander-to-warn-russia-over-alliance-s-ability-to-counter-a-181ab685",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Pakistani national killed in second Houthi strike on Riyadh airport",
-      "published_at": "2026-10-11T23:20:46.000Z",
-      "image": "",
-      "image_alt": "Pakistani national killed in second Houthi strike on Riyadh airport",
+      "headline": "NATO top commander to warn Russia over alliance’s ability to counter-attack",
+      "published_at": "2026-10-12T01:41:18.000Z",
+      "image": "https://s.france24.com/media/display/f3aadfbe-c5dc-11f1-a00a-77317c09f325/w:1024/p:16x9/37a7a837cd1d509e11c2654af36581affca3d9ea.jpg",
+      "image_alt": "NATO top commander to warn Russia over alliance’s ability to counter-attack",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "alvarez-vs-m-billi-boxing-bout-to-go-ahead-in-saudi-arabia-despite-att-b152dcdf",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+      "published_at": "2026-10-12T07:40:31.000Z",
+      "image": "",
+      "image_alt": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
         }
       ],
-      "impact": 85
+      "impact": 76
     },
     {
-      "id": "footage-shows-moment-russian-strike-hits-ukrainian-grocery-store-b42978a6",
+      "id": "if-netanyahu-goes-does-anything-really-change-for-palestinians-742ca4ed",
       "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Footage shows moment Russian strike hits Ukrainian grocery store",
-      "published_at": "2026-10-11T22:49:23.000Z",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "If Netanyahu goes, does anything really change for Palestinians?",
+      "published_at": "2026-10-12T07:27:14.000Z",
       "image": "",
-      "image_alt": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "image_alt": "If Netanyahu goes, does anything really change for Palestinians?",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "cctv-shows-moment-of-deadly-houthi-strike-on-riyadh-airport-bc3de2a7",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-      "published_at": "2026-10-11T22:24:07.000Z",
-      "image": "",
-      "image_alt": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss"
-        }
-      ],
-      "impact": 84
+      "impact": 76
     },
     {
       "id": "netanyahu-seeks-probe-into-israeli-whistleblowers-featured-in-gaza-war-35d48a32",
@@ -163,7 +209,7 @@
       "topic": "Security",
       "urgency": "Breaking",
       "headline": "Netanyahu seeks probe into Israeli whistleblowers featured in Gaza war documentary",
-      "published_at": "2026-10-12T01:08:34.000Z",
+      "published_at": "2026-10-12T01:08:28.000Z",
       "image": "https://img.lemde.fr/2026/09/12/468/0/5616/2808/644/322/60/0/4196cf8_ftp-1-ldbdhokxgifh-db4f2cc67abf4659b61b95b96f8b226c-0-1177a97189ea4fc3b2b380d3bbd9501c.jpg",
       "image_alt": "Netanyahu seeks probe into Israeli whistleblowers featured in Gaza war documentary",
       "translations": {
@@ -178,30 +224,76 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/10/12/netanyahu-seeks-probe-into-israeli-whistleblowers-featured-in-gaza-war-documentary_6758492_4.html"
         }
       ],
-      "impact": 83
+      "impact": 76
     },
     {
-      "id": "fresh-houthi-strike-hits-riyadh-airport-a-day-after-deadly-attack-07cb9cae",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
-      "published_at": "2026-10-12T01:01:39.000Z",
-      "image": "https://s.france24.com/media/display/c294b8ba-c5ae-11f1-9976-77317c09f325/w:1024/p:16x9/2026-10-11T133451Z-158209492-RC211OAHP5D3-RTRMADP-3-IRAN-CRISIS-SAUDI-AIRPORT.jpg",
-      "image_alt": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
+      "id": "india-protest-live-opposition-to-march-to-supreme-court-over-vote-thef-6d56189e",
+      "region": "Asia-Pacific",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
+      "published_at": "2026-10-12T06:07:44.000Z",
+      "image": "",
+      "image_alt": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss"
         }
       ],
-      "impact": 83
+      "impact": 75
+    },
+    {
+      "id": "countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks-85b9a835",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Countries warn against travel to Saudi Arabia following Houthi attacks",
+      "published_at": "2026-10-12T05:53:45.000Z",
+      "image": "",
+      "image_alt": "Countries warn against travel to Saudi Arabia following Houthi attacks",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "germany-news-s-der-demands-cdu-supports-of-the-afd-in-saxony-anhalt-re-dd78a232",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany news: Söder demands CDU supports of the AfD in Saxony-Anhalt reveal themselves",
+      "published_at": "2026-10-12T07:46:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: Söder demands CDU supports of the AfD in Saxony-Anhalt reveal themselves",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-söder-demands-cdu-supports-of-the-afd-in-saxony-anhalt-reveal-themselves/live-79636427?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
     },
     {
       "id": "dozens-of-gold-prospectors-killed-in-strikes-on-egypt-sudan-border-rig-8fc81001",
@@ -224,270 +316,132 @@
           "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 74
     },
     {
-      "id": "ukraine-strikes-yandex-data-centre-in-third-attack-on-russian-tech-gia-56c1dab0",
+      "id": "ukraine-and-europe-seek-to-keep-pressure-on-putin-after-trump-deal-on--2b8e1d64",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "published_at": "2026-10-11T14:38:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
-      "image_alt": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "iran-s-fm-urges-diplomacy-in-call-with-saudi-counterpart-747cc4ee",
-      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran’s FM urges diplomacy in call with Saudi counterpart",
-      "published_at": "2026-10-12T00:39:08.000Z",
-      "image": "",
-      "image_alt": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+      "headline": "Ukraine and Europe seek to keep pressure on Putin after Trump deal on Russian diesel",
+      "published_at": "2026-10-12T08:17:36.000Z",
+      "image": "https://img.lemde.fr/2026/10/11/360/0/4320/2160/644/322/60/0/e415057_ftp-1-xoqxrqxpyv8n-2026-10-11t002052z-1879055146-rc2o0oazoo6o-rtrmadp-3-usa-trump.JPG",
+      "image_alt": "Ukraine and Europe seek to keep pressure on Putin after Trump deal on Russian diesel",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast-627fc416",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-      "published_at": "2026-10-12T00:21:46.000Z",
-      "image": "",
-      "image_alt": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status-11ba8fae",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ceuta or Sebta? Why one city has two names and a disputed status",
-      "published_at": "2026-10-12T00:14:46.000Z",
-      "image": "",
-      "image_alt": "Ceuta or Sebta? Why one city has two names and a disputed status",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-homeland-security-secretary-sees-no-risk-from-livestreamed-executio-0a02dab2",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-      "published_at": "2026-10-11T23:17:05.000Z",
-      "image": "",
-      "image_alt": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "live-houthi-rebels-claim-latest-attacks-on-riyadh-airport-following-sa-718ebaf2",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
-      "published_at": "2026-10-11T16:44:37.000Z",
-      "image": "",
-      "image_alt": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "new-houthi-strike-hits-riyadh-airport-day-after-deadly-strike-4be2fef3",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "New Houthi strike hits Riyadh airport, day after deadly strike",
-      "published_at": "2026-10-11T16:08:30.000Z",
-      "image": "https://img.lemde.fr/2026/10/11/308/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-to45qsfyfbiv-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG",
-      "image_alt": "New Houthi strike hits Riyadh airport, day after deadly strike",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/new-attack-hits-riyadh-airport-says-saudi-coalition_6758484_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/12/ukraine-and-europe-seek-to-keep-pressure-on-putin-after-trump-deal-on-russian-diesel_6758498_4.html"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "trump-announces-ukraine-russia-energy-ceasefire-but-kyiv-reports-fresh-d0dbc689",
+      "id": "how-green-is-europe-apos-s-urban-public-transport-a-data-driven-realit-9475d1ca",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Trump announces Ukraine-Russia energy ceasefire, but Kyiv reports fresh strikes",
-      "published_at": "2026-10-11T16:04:02.000Z",
-      "image": "https://img.lemde.fr/2026/10/05/871/0/5224/2612/644/322/60/0/e7ad7a8_ftp-1-zsght05akf2r-2026-10-05t060553z-891555137-rc25vna1ow6h-rtrmadp-3-ukraine-crisis-budget.JPG",
-      "image_alt": "Trump announces Ukraine-Russia energy ceasefire, but Kyiv reports fresh strikes",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/trump-says-russia-and-ukraine-agree-to-energy-ceasefire-zelensky-says-news-for-me_6758483_4.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "trump-claims-russia-and-ukraine-agreed-to-apos-energy-ceasefire-apos-20fc5958",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Trump claims Russia and Ukraine agreed to &apos;energy ceasefire&apos;",
-      "published_at": "2026-10-11T14:47:00.000Z",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "How green is Europe&apos;s urban public transport? A data-driven reality check",
+      "published_at": "2026-10-12T07:30:00.000Z",
       "image": "",
-      "image_alt": "Trump claims Russia and Ukraine agreed to &apos;energy ceasefire&apos;",
+      "image_alt": "How green is Europe&apos;s urban public transport? A data-driven reality check",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this technology update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 74
+      "impact": 73
     },
     {
-      "id": "france-condemns-heinous-attack-by-houthis-on-riyadh-airport-e13dc8c0",
+      "id": "uk-students-call-for-school-uniforms-to-be-banned-in-pornography-b2f3b20c",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "France condemns 'heinous attack' by Houthis on Riyadh airport",
-      "published_at": "2026-10-11T14:14:28.000Z",
-      "image": "https://img.lemde.fr/2026/10/09/807/0/989/494/644/322/60/0/fe53f23_ftp-1-zt2oj2fedi7a-81eab277aaf8413dbc3168d4c2dd84f8-0-e84712e3e06d4979b1b31c69aef8b69c.jpg",
-      "image_alt": "France condemns 'heinous attack' by Houthis on Riyadh airport",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "UK students call for school uniforms to be banned in pornography",
+      "published_at": "2026-10-12T07:24:00.000Z",
+      "image": "",
+      "image_alt": "UK students call for school uniforms to be banned in pornography",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/france-condemns-heinous-attack-by-houthis-on-riyadh-airport_6758482_4.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "hurricane-simon-batters-mexico-apos-s-pacific-coast-c7b41dea",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hurricane Simon batters Mexico&apos;s Pacific Coast",
+      "published_at": "2026-10-12T06:50:00.000Z",
+      "image": "",
+      "image_alt": "Hurricane Simon batters Mexico&apos;s Pacific Coast",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "germany-bas-quits-as-spd-co-chair-amid-coalition-friction-30904fa9",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Germany: Bas quits as SPD co-chair amid coalition friction",
+      "published_at": "2026-10-12T06:20:00.000Z",
+      "image": "",
+      "image_alt": "Germany: Bas quits as SPD co-chair amid coalition friction",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 72
     },
     {
-      "id": "saudi-arabia-weighs-response-after-houthi-attack-on-riyadh-deadliest-i-a473edf3",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Saudi Arabia weighs response after Houthi attack on Riyadh, deadliest in a decade",
-      "published_at": "2026-10-11T13:24:53.000Z",
-      "image": "https://img.lemde.fr/2026/09/22/500/0/6000/3000/644/322/60/0/48dd4c5_ftp-1-ycfbp06uea16-1c33a16633914a519332039dc309da24-0-355d5d9f59594a1abdd71479f2739dc3.jpg",
-      "image_alt": "Saudi Arabia weighs response after Houthi attack on Riyadh, deadliest in a decade",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/saudi-arabia-weighs-response-after-deadliest-houthi-attack-on-riyadh-in-a-decade_6758480_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "orangutans-released-back-into-borneo-forest-after-devastating-fires-7a7e4dd6",
+      "id": "documents-falsified-to-evade-tax-on-abramovich-s-wealth-bbc-finds-f55d23bf",
       "region": "World",
       "topic": "World",
       "urgency": "Update",
-      "headline": "Orangutans released back into Borneo forest after devastating fires",
-      "published_at": "2026-10-11T19:08:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg",
-      "image_alt": "Orangutans released back into Borneo forest after devastating fires",
+      "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "published_at": "2026-10-12T05:00:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be9/live/bde30ef0-c600-11f1-bc2e-018d645d8d21.jpg",
+      "image_alt": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -497,43 +451,43 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 69
+      "impact": 72
     },
     {
-      "id": "rapha-l-glucksmann-wins-french-left-wing-primary-with-66-of-vote-548d49b1",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
-      "published_at": "2026-10-11T17:45:32.000Z",
-      "image": "https://s.france24.com/media/display/f679fae4-c597-11f1-9dc4-77317c09f325/w:1024/p:16x9/000-D2X49EB.jpg",
-      "image_alt": "Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+      "id": "scores-of-gold-miners-killed-in-air-strikes-on-egypt-sudan-border-righ-f3c353dd",
+      "region": "Africa",
+      "topic": "Society",
+      "urgency": "Breaking",
+      "headline": "Scores of gold miners killed in air strikes on Egypt-Sudan border, rights group says",
+      "published_at": "2026-10-12T01:28:27.000Z",
+      "image": "https://s.france24.com/media/display/ed29f7ca-c5db-11f1-8dcf-29a2e29ae696/w:1024/p:16x9/AP16118579529500.jpg",
+      "image_alt": "Scores of gold miners killed in air strikes on Egypt-Sudan border, rights group says",
       "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote"
+          "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed"
         }
       ],
-      "impact": 69
+      "impact": 72
     },
     {
-      "id": "saudi-arabia-has-few-options-as-houthis-aim-at-heart-of-its-ambitions-42d5f8b8",
-      "region": "Middle East",
+      "id": "the-taliban-are-using-europe-s-fear-of-migrants-to-their-advantage-be932704",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Update",
-      "headline": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "published_at": "2026-10-11T19:57:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-saudi-assess-bvtm/11int-saudi-assess-bvtm-mediumSquareAt3X-v2.jpg",
-      "image_alt": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "headline": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
+      "published_at": "2026-10-12T05:17:03.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00int-eu-taliban-1-mjkt/00int-eu-taliban-1-mjkt-mediumSquareAt3X.jpg",
+      "image_alt": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,33 +497,79 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+          "url": "https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html"
         }
       ],
-      "impact": 67
+      "impact": 70
     },
     {
-      "id": "poland-detains-man-suspected-of-planning-assassination-of-pm-tusk-3566ee1d",
-      "region": "Europe",
+      "id": "clashes-reported-in-yemen-as-houthis-advance-towards-taiz-ca6c7e1e",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Update",
-      "headline": "Poland detains man suspected of planning assassination of PM Tusk",
-      "published_at": "2026-10-11T17:27:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg",
-      "image_alt": "Poland detains man suspected of planning assassination of PM Tusk",
+      "headline": "Clashes reported in Yemen as Houthis advance towards Taiz",
+      "published_at": "2026-10-12T05:27:22.000Z",
+      "image": "",
+      "image_alt": "Clashes reported in Yemen as Houthis advance towards Taiz",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss"
         }
       ],
-      "impact": 67
+      "impact": 69
+    },
+    {
+      "id": "china-sanctions-paraguay-belize-ministers-over-taiwan-ties-c6891704",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+      "published_at": "2026-10-12T04:58:01.000Z",
+      "image": "",
+      "image_alt": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss"
+        }
+      ],
+      "impact": 69
+    },
+    {
+      "id": "netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza-a3b4ebd0",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "published_at": "2026-10-12T04:24:18.000Z",
+      "image": "",
+      "image_alt": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss"
+        }
+      ],
+      "impact": 68
     }
   ]
 }
