@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T05:09:38.570Z",
+  "updated_at": "2026-10-14T10:24:30.087Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza-2c018fc1",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+      "published_at": "2026-10-14T09:40:20.000Z",
+      "image": "",
+      "image_alt": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
     {
       "id": "trump-hands-victories-to-putin-who-offers-more-war-in-return-26fe1f8b",
       "region": "World",
@@ -40,7 +63,145 @@
           "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
         }
       ],
-      "impact": 88
+      "impact": 82
+    },
+    {
+      "id": "turkish-police-raid-opposition-tv-station-halting-live-broadcasts-abed6880",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Turkish police raid opposition TV station, halting live broadcasts",
+      "published_at": "2026-10-14T10:07:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c8/live/c81672a0-c7ad-11f1-b41f-d7a6cb474575.jpg",
+      "image_alt": "Turkish police raid opposition TV station, halting live broadcasts",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "russian-strikes-leave-600-000-without-power-in-ukraine-as-starlink-res-191e7f6e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+      "published_at": "2026-10-14T10:04:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e25/live/5e9f4b80-c7b2-11f1-9a39-31b474234113.jpg",
+      "image_alt": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland-53365344",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Trump says oil, gas and mineral exploration to begin in Greenland",
+      "published_at": "2026-10-14T08:08:42.000Z",
+      "image": "",
+      "image_alt": "Trump says oil, gas and mineral exploration to begin in Greenland",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "germany-puts-ukrainian-on-trial-accused-of-blowing-up-nord-stream-pipe-881c1b6b",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "published_at": "2026-10-14T09:32:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
+      "image_alt": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "translations": {
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "pope-diagnosed-with-lung-cancer-but-had-successful-surgery-vatican-say-3ba9283b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "published_at": "2026-10-14T08:53:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "iran-political-infighting-deepens-as-economic-woes-mount-during-war-b90a6c93",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran: Political infighting deepens as economic woes mount during war",
+      "published_at": "2026-10-14T05:30:00.000Z",
+      "image": "",
+      "image_alt": "Iran: Political infighting deepens as economic woes mount during war",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 79
     },
     {
       "id": "saudi-energy-giant-struck-as-war-spikes-between-houthis-and-saudi-arab-c43a6407",
@@ -63,109 +224,17 @@
           "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "russian-strikes-hit-key-power-plant-in-kyiv-zelensky-says-515fc0ab",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "published_at": "2026-10-14T04:36:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg",
-      "image_alt": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "missiles-intercepted-near-riyadh-after-saudi-coalition-hits-yemen-fuel-a8608ca9",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "published_at": "2026-10-14T04:20:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
-      "image_alt": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "the-oct-7-attack-changed-israel-but-not-its-politics-8ca839b4",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "published_at": "2026-10-13T18:58:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12Israel-oct7-election-01-pkgv/12Israel-oct7-election-01-pkgv-mediumSquareAt3X-v3.jpg",
-      "image_alt": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html"
-        }
-      ],
       "impact": 78
     },
     {
-      "id": "live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-hout-c4ca7625",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Live: Saudi Arabia reports Aramco building hit and four wounded in Houthi missile attacks",
-      "published_at": "2026-10-14T03:39:11.000Z",
-      "image": "https://s.france24.com/media/display/198fed56-c109-11f1-b06f-dd51fcab6130/w:1024/p:16x9/2026-10-05T115125Z-1435469271-RC2ZWNA4FX4H-RTRMADP-3-IRAN-CRISIS-SAUDI-ARAMCO.jpg",
-      "image_alt": "Live: Saudi Arabia reports Aramco building hit and four wounded in Houthi missile attacks",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "china-and-north-korea-to-open-new-yalu-river-bridge-state-media-report-d8e5785b",
-      "region": "Asia-Pacific",
+      "id": "how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany-a08ed2bb",
+      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "published_at": "2026-10-14T04:27:18.000Z",
+      "headline": "How a radio glitch triggered a false hijack alert in Germany",
+      "published_at": "2026-10-14T09:53:54.000Z",
       "image": "",
-      "image_alt": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "image_alt": "How a radio glitch triggered a false hijack alert in Germany",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,20 +244,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss"
         }
       ],
-      "impact": 76
+      "impact": 77
     },
     {
-      "id": "singapore-s-economy-grows-more-than-5-percent-amid-ai-boom-1c47513b",
-      "region": "World",
+      "id": "china-s-exports-surge-amid-ai-driven-demand-4c561db1",
+      "region": "Asia-Pacific",
       "topic": "Technology",
       "urgency": "Live",
-      "headline": "Singapore’s economy grows more than 5 percent amid AI boom",
-      "published_at": "2026-10-14T04:25:02.000Z",
+      "headline": "China’s exports surge amid AI-driven demand",
+      "published_at": "2026-10-14T09:05:17.000Z",
       "image": "",
-      "image_alt": "Singapore’s economy grows more than 5 percent amid AI boom",
+      "image_alt": "China’s exports surge amid AI-driven demand",
       "translations": {
         "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,112 +267,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "saudi-born-engineer-for-openai-arrested-for-planting-listening-bug-ff2b083a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-      "published_at": "2026-10-14T04:16:13.000Z",
-      "image": "",
-      "image_alt": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "un-official-says-window-of-opportunity-for-peace-in-dr-congo-2a3d4834",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UN official says ‘window of opportunity’ for peace in DR Congo",
-      "published_at": "2026-10-14T03:57:24.000Z",
-      "image": "",
-      "image_alt": "UN official says ‘window of opportunity’ for peace in DR Congo",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israel-returns-22-stolen-ancient-artefacts-to-greece-2dd46eb6",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel returns 22 stolen ancient artefacts to Greece",
-      "published_at": "2026-10-14T03:23:08.000Z",
-      "image": "",
-      "image_alt": "Israel returns 22 stolen ancient artefacts to Greece",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify-df452091",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-      "published_at": "2026-10-14T03:09:46.000Z",
-      "image": "",
-      "image_alt": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts-d03bfbbd",
-      "region": "Europe",
+      "id": "india-s-cockroach-leaders-jailed-after-entering-banned-protest-site-b5ecaee5",
+      "region": "Asia-Pacific",
       "topic": "Society",
       "urgency": "Live",
-      "headline": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-      "published_at": "2026-10-14T03:06:42.000Z",
+      "headline": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
+      "published_at": "2026-10-14T08:51:36.000Z",
       "image": "",
-      "image_alt": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "image_alt": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
       "translations": {
         "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -313,66 +290,112 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss"
         }
       ],
-      "impact": 75
+      "impact": 76
     },
     {
-      "id": "un-human-rights-council-elects-15-members-in-uncontested-vote-7004736a",
+      "id": "jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show-78b27180",
       "region": "World",
-      "topic": "Society",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "UN Human Rights Council elects 15 members in uncontested vote",
-      "published_at": "2026-10-14T02:55:15.000Z",
+      "headline": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
+      "published_at": "2026-10-14T08:51:27.000Z",
       "image": "",
-      "image_alt": "UN Human Rights Council elects 15 members in uncontested vote",
+      "image_alt": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
       "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "how-do-iranians-move-money-abroad-to-avoid-us-sanctions-ce6fadd5",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How do Iranians move money abroad to avoid US sanctions?",
+      "published_at": "2026-10-14T08:24:02.000Z",
+      "image": "",
+      "image_alt": "How do Iranians move money abroad to avoid US sanctions?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss"
         }
       ],
       "impact": 75
     },
     {
-      "id": "us-judge-extends-media-outlets-apos-white-house-access-3b62b93b",
-      "region": "Americas",
+      "id": "tensions-with-teachers-pupils-and-turkiye-inside-azerbaijan-s-hijab-ro-93df61fe",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US judge extends media outlets&apos; White House access",
-      "published_at": "2026-10-14T03:46:00.000Z",
+      "headline": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
+      "published_at": "2026-10-14T07:57:45.000Z",
       "image": "",
-      "image_alt": "US judge extends media outlets&apos; White House access",
+      "image_alt": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss"
         }
       ],
-      "impact": 73
+      "impact": 75
     },
     {
-      "id": "trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign-over-a-7ef62829",
+      "id": "joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago-51a4a280",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over allegations",
-      "published_at": "2026-10-14T03:23:40.000Z",
-      "image": "https://s.france24.com/media/display/e990b07a-c722-11f1-8880-77317c09f325/w:1024/p:16x9/063-2224304390.jpg",
-      "image_alt": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over allegations",
+      "headline": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+      "published_at": "2026-10-14T08:39:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/369763803c4b71aade9b94260488cb516e1dc4f1/0_21_695_556/master/695.jpg?width=140&quality=85&auto=format&fit=max&s=3a45d804575493b18f41df01d0b5e43a",
+      "image_alt": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "super-earths-might-be-better-than-our-planet-but-are-they-reachable-5eeb4231",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'Super-Earths' might be better than our planet. But are they reachable?",
+      "published_at": "2026-10-14T09:57:51.000Z",
+      "image": "https://s.france24.com/media/display/af996446-c7b5-11f1-b9b6-3774aeac812a/w:1024/p:16x9/capture-949a10e9.jpg",
+      "image_alt": "'Super-Earths' might be better than our planet. But are they reachable?",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -382,194 +405,171 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20261014-trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign-over-allegations"
+          "url": "https://www.france24.com/en/tv-shows/press-review/20261014-super-earths-might-be-better-than-our-planet-but-are-they-reachable"
         }
       ],
-      "impact": 72
+      "impact": 73
     },
     {
-      "id": "bank-of-america-hit-with-1-2bn-fine-for-money-laundering-failings-aeba6a92",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "published_at": "2026-10-14T02:05:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b893/live/c1765210-c764-11f1-b06d-fb50486dda65.jpg",
-      "image_alt": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "arabia-saud-impulsa-alianzas-regionales-ante-el-rechazo-de-trump-a-acu-43a7f31b",
+      "id": "a-bear-with-a-taste-for-honey-winnie-the-pooh-turns-100-65117b39",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Arabia Saudí impulsa alianzas regionales ante el rechazo de Trump a acudir en su auxilio",
-      "published_at": "2026-10-14T03:45:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/G3DLF6TLHNP2HIF2YJFASLZF44.jpg?auth=e76ead2b0a2246b3870b8998e8eb89e1c9ace2fadce40e6f5e650495bc0ac99a",
-      "image_alt": "Arabia Saudí impulsa alianzas regionales ante el rechazo de Trump a acudir en su auxilio",
+      "headline": "A bear with a taste for honey: Winnie the Pooh turns 100",
+      "published_at": "2026-10-14T09:48:57.000Z",
+      "image": "https://s.france24.com/media/display/fc699420-c7b1-11f1-aeb7-e362370cce2e/w:1024/p:16x9/EN-20261014-102411-102556-CS.jpg",
+      "image_alt": "A bear with a taste for honey: Winnie the Pooh turns 100",
       "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-10-14/arabia-saudi-impulsa-alianzas-regionales-ante-el-rechazo-de-trump-a-acudir-en-su-auxilio.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-a-bear-with-a-taste-for-honey-winnie-the-pooh-turns-100"
         }
       ],
-      "impact": 71
+      "impact": 73
     },
     {
-      "id": "el-juicio-en-alemania-sobre-el-sabotaje-del-gasoducto-nord-stream-deci-27ed2b89",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "El juicio en Alemania sobre el sabotaje del gasoducto Nord Stream decidirá si fue un crimen de guerra",
-      "published_at": "2026-10-14T03:45:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XOA4TSDFTVNVNHG5ZCXLRUTYZE.jpg?auth=135a4fa03fba63f4993833af1e6e5c40819b3f36c3a45a9fa239b867b10f9d49",
-      "image_alt": "El juicio en Alemania sobre el sabotaje del gasoducto Nord Stream decidirá si fue un crimen de guerra",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-10-14/el-juicio-en-alemania-sobre-el-sabotaje-del-gasoducto-nord-stream-decidira-si-fue-un-crimen-de-guerra.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "el-alcalde-de-tirana-preso-por-corrupci-n-recurre-a-la-ia-para-goberna-f99edd36",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "El alcalde de Tirana, preso por corrupción, recurre a la IA para gobernar desde la cárcel",
-      "published_at": "2026-10-14T03:45:01.000Z",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261013/1224916_170642_video_1800.mp4",
-      "image_alt": "El alcalde de Tirana, preso por corrupción, recurre a la IA para gobernar desde la cárcel",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-10-14/el-alcalde-de-tirana-preso-por-corrupcion-recurre-a-la-ia-para-gobernar-desde-la-carcel.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "in-the-occupied-west-bank-one-palestinian-family-s-story-shows-the-lim-ef456352",
+      "id": "ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing-55632cd0",
       "region": "Europe",
       "topic": "Society",
       "urgency": "Live",
-      "headline": "In the occupied West Bank, one Palestinian family's story shows the limits of the Israeli court system",
-      "published_at": "2026-10-14T03:30:10.000Z",
-      "image": "https://img.lemde.fr/2026/10/05/42/0/5760/2880/644/322/60/0/1ce6fd5_upload-1-adkhpokzqxnf-lgeai-justice-16.jpg",
-      "image_alt": "In the occupied West Bank, one Palestinian family's story shows the limits of the Israeli court system",
+      "headline": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing",
+      "published_at": "2026-10-14T09:45:57.000Z",
+      "image": "https://s.france24.com/media/display/a903bdcc-c7ae-11f1-b98e-3774aeac812a/w:1024/p:16x9/EN-20261014-100507-100650-CS.jpg",
+      "image_alt": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing",
       "translations": {
-        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/14/in-the-occupied-west-bank-one-palestinian-family-s-story-shows-the-limits-of-the-israeli-court-system_6758585_4.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing"
         }
       ],
-      "impact": 71
+      "impact": 73
     },
     {
-      "id": "emmanuel-macron-and-chad-s-mahamat-idriss-d-by-revive-military-coopera-850b67f5",
+      "id": "spanish-royals-make-sensitive-official-visit-to-sensitive-ceuta-enclav-9760da82",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Emmanuel Macron and Chad's Mahamat Idriss Déby revive military cooperation",
-      "published_at": "2026-10-14T01:48:40.000Z",
-      "image": "https://img.lemde.fr/2026/10/13/326/0/7664/3832/644/322/60/0/96e344e_ftp-1-7sicukwehqn7-5341772-01-06.jpg",
-      "image_alt": "Emmanuel Macron and Chad's Mahamat Idriss Déby revive military cooperation",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/14/emmanuel-macron-and-chad-s-mahamat-idriss-deby-revive-military-cooperation_6758583_4.html"
-        }
-      ],
-      "impact": 70
-    },
-    {
-      "id": "pope-diagnosed-with-lung-cancer-but-had-successful-surgery-vatican-say-3ba9283b",
-      "region": "World",
       "topic": "World",
-      "urgency": "Update",
-      "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "published_at": "2026-10-14T00:17:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "urgency": "Live",
+      "headline": "Spanish royals make sensitive official visit to sensitive Ceuta enclave",
+      "published_at": "2026-10-14T09:43:39.000Z",
+      "image": "https://s.france24.com/media/display/de332ce8-c7af-11f1-9934-53993c5f1f18/w:1024/p:16x9/EN-20261014-101149-101352-CS.jpg",
+      "image_alt": "Spanish royals make sensitive official visit to sensitive Ceuta enclave",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-spanish-royals-make-sensitive-official-visit-to-sensitive-ceuta-enclave"
         }
       ],
-      "impact": 70
+      "impact": 73
     },
     {
-      "id": "germany-puts-ukrainian-on-trial-accused-of-blowing-up-nord-stream-pipe-881c1b6b",
+      "id": "ukraine-reports-russian-attacks-with-no-warnings-trump-says-us-still-s-af05288b",
       "region": "Europe",
-      "topic": "Society",
-      "urgency": "Update",
-      "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "published_at": "2026-10-13T23:42:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine reports Russian attacks with no warnings, Trump says US still sharing intel",
+      "published_at": "2026-10-14T09:41:54.000Z",
+      "image": "https://s.france24.com/media/display/bd582a60-c7ae-11f1-ab4a-53993c5f1f18/w:1024/p:16x9/EN-20261014-100203-100357-CS.jpg",
+      "image_alt": "Ukraine reports Russian attacks with no warnings, Trump says US still sharing intel",
       "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-ukraine-reports-russian-attacks-with-no-warnings-trump-says-us-still-sharing-intel"
         }
       ],
-      "impact": 70
+      "impact": 73
+    },
+    {
+      "id": "french-protests-enter-4th-week-demonstrations-backing-students-gather--8392994e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "French protests enter 4th week: Demonstrations backing students gather strength",
+      "published_at": "2026-10-14T09:40:36.000Z",
+      "image": "https://s.france24.com/media/display/b3a4f0e2-c7af-11f1-8da8-53993c5f1f18/w:1024/p:16x9/EN-20261014-100724-101053-CS.jpg",
+      "image_alt": "French protests enter 4th week: Demonstrations backing students gather strength",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-french-protests-enter-4th-week-demonstrations-backing-students-gather-strength"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder-3285238d",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
+      "published_at": "2026-10-14T09:39:35.000Z",
+      "image": "https://s.france24.com/media/display/c9a3f6ee-c7b0-11f1-831f-3774aeac812a/w:1024/p:16x9/EN-20261014-101931-102113-CS.jpg",
+      "image_alt": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "trump-fires-greece-ambassador-guilfoyle-over-ethics-scandal-6a13ab79",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump fires Greece ambassador Guilfoyle over ethics scandal",
+      "published_at": "2026-10-14T09:35:51.000Z",
+      "image": "https://s.france24.com/media/display/be853138-c7b0-11f1-834f-53993c5f1f18/w:1024/p:16x9/EN-20261014-101421-101819-CS.jpg",
+      "image_alt": "Trump fires Greece ambassador Guilfoyle over ethics scandal",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-trump-fires-greece-ambassador-guilfoyle-over-ethics-scandal"
+        }
+      ],
+      "impact": 73
     }
   ]
 }
