@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T19:57:20.791Z",
+  "updated_at": "2026-10-15T22:55:20.165Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "iran-backed-houthis-strike-presidential-palace-yemen-says-625bc781",
+      "id": "houthi-missiles-strike-government-headquarters-in-yemen-625bc781",
       "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Iran-Backed Houthis Strike Presidential Palace, Yemen Says",
-      "published_at": "2026-10-15T19:05:03.000Z",
+      "headline": "Houthi Missiles Strike Government Headquarters in Yemen",
+      "published_at": "2026-10-15T21:43:03.000Z",
       "image": "",
-      "image_alt": "Iran-Backed Houthis Strike Presidential Palace, Yemen Says",
+      "image_alt": "Houthi Missiles Strike Government Headquarters in Yemen",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -63,7 +63,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 84
     },
     {
       "id": "seven-crew-missing-after-drone-attack-leaves-tanker-ablaze-off-romania-2bc3b4bb",
@@ -86,7 +86,76 @@
           "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 82
+    },
+    {
+      "id": "bus-hits-train-stopped-on-french-side-of-channel-tunnel-with-19-injure-00114a70",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "published_at": "2026-10-15T22:37:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
+      "image_alt": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "several-people-dead-or-missing-after-istanbul-floods-2d75b068",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Several people dead or missing after Istanbul floods",
+      "published_at": "2026-10-15T21:15:46.000Z",
+      "image": "",
+      "image_alt": "Several people dead or missing after Istanbul floods",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dea-1c00f5e1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Two hospitalised after shooting at Oregon elementary school; gunman dead",
+      "published_at": "2026-10-15T21:58:33.000Z",
+      "image": "https://s.france24.com/media/display/5b534bd2-a72a-11f1-94be-005056bfb2b6/w:1024/p:16x9/AP26245835908666.jpg",
+      "image_alt": "Two hospitalised after shooting at Oregon elementary school; gunman dead",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "at-least-33-pupils-and-teacher-killed-after-school-roof-collapses-in-p-4dfeead0",
@@ -109,7 +178,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
       "id": "zelensky-rejects-trump-s-energy-ceasefire-after-us-russia-diesel-deal-9423895f",
@@ -132,30 +201,218 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/10/15/zelensky-rejects-trump-s-energy-ceasefire-after-us-russia-diesel-deal_6758650_4.html"
         }
       ],
-      "impact": 80
+      "impact": 77
     },
     {
-      "id": "trump-calls-off-livestream-of-fort-hood-attacker-s-execution-by-firing-4732b5d0",
-      "region": "World",
+      "id": "israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-clai-77b26229",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "published_at": "2026-10-15T17:47:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
-      "image_alt": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "published_at": "2026-10-15T21:57:58.000Z",
+      "image": "",
+      "image_alt": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 76
+    },
+    {
+      "id": "man-united-s-martinez-apologises-for-outburst-after-talks-with-carrick-e8bacff0",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Man United’s Martinez apologises for outburst after talks with Carrick",
+      "published_at": "2026-10-15T21:54:26.000Z",
+      "image": "",
+      "image_alt": "Man United’s Martinez apologises for outburst after talks with Carrick",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-administration-sues-california-over-noncitizens-on-voter-rolls-137c7f12",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump administration sues California over noncitizens on voter rolls",
+      "published_at": "2026-10-15T21:44:59.000Z",
+      "image": "",
+      "image_alt": "Trump administration sues California over noncitizens on voter rolls",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "violent-protests-in-albania-2cc31e1e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Violent Protests in Albania",
+      "published_at": "2026-10-15T21:40:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg",
+      "image_alt": "Violent Protests in Albania",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "kinshasa-braces-for-potential-conflict-as-kabila-joins-m23-a9246973",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Kinshasa braces for potential conflict as Kabila joins M23",
+      "published_at": "2026-10-15T20:29:20.000Z",
+      "image": "https://s.france24.com/media/display/ff8b32b4-c8d6-11f1-9f0a-4dd8ac2cf3bf/w:1024/p:16x9/capture-1f4d956c.jpg",
+      "image_alt": "Kinshasa braces for potential conflict as Kabila joins M23",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publ-a28bc19a",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+      "published_at": "2026-10-15T21:15:11.000Z",
+      "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg",
+      "image_alt": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices-3d9fef9e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+      "published_at": "2026-10-15T21:05:01.000Z",
+      "image": "",
+      "image_alt": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "ice-tactics-spark-debate-before-pivotal-us-midterm-elections-ee3c7b23",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "ICE tactics spark debate before pivotal US midterm elections",
+      "published_at": "2026-10-15T21:02:31.000Z",
+      "image": "",
+      "image_alt": "ICE tactics spark debate before pivotal US midterm elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "robots-dance-the-macarena-at-japan-tech-expo-782adb50",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Robots dance the ‘Macarena’ at Japan tech expo",
+      "published_at": "2026-10-15T21:00:01.000Z",
+      "image": "",
+      "image_alt": "Robots dance the ‘Macarena’ at Japan tech expo",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "zelensky-says-ukraine-will-resume-russian-refinery-strikes-defying-tru-92dbe4df",
@@ -163,7 +420,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "published_at": "2026-10-15T19:41:20.000Z",
+      "published_at": "2026-10-15T20:35:57.000Z",
       "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
       "image_alt": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
       "translations": {
@@ -178,30 +435,30 @@
           "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "middle-east-updates-houthis-target-yemen-government-palace-in-aden-6c17d421",
-      "region": "Middle East",
-      "topic": "Politics",
+      "id": "at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black--30d70aed",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
-      "published_at": "2026-10-15T17:44:00.000Z",
+      "headline": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+      "published_at": "2026-10-15T20:29:52.000Z",
       "image": "",
-      "image_alt": "Middle East updates: Houthis target Yemen government palace in Aden",
+      "image_alt": "At least 7 crew members missing after drone attacks on ships in Black Sea",
       "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "russia-accuses-ukraine-of-attacking-oil-refinery-after-zelensky-says-s-98fb856f",
@@ -224,316 +481,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "dying-in-ice-custody-inside-one-family-s-story-of-heartbreak-1df1ce12",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "published_at": "2026-10-15T18:57:08.000Z",
-      "image": "",
-      "image_alt": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-l-a1a1fcdf",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "published_at": "2026-10-15T18:41:41.000Z",
-      "image": "",
-      "image_alt": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "dublin-hotel-accused-of-revoking-bookings-for-an-event-to-combat-antis-a3e86efe",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-      "published_at": "2026-10-15T18:18:46.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/15/world/15int-Ireland-Hotel-top/15int-Ireland-Hotel-top-mediumSquareAt3X.jpg",
-      "image_alt": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-scraps-plan-to-livestream-military-execution-after-backlash-e4c7c6b2",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Trump scraps plan to livestream military execution after backlash",
-      "published_at": "2026-10-15T17:41:18.000Z",
-      "image": "https://img.lemde.fr/2026/10/15/280/0/4200/2100/644/322/60/0/ec2de94_upload-1-9opirkvsp9d0-sipa01303462-000002.jpg",
-      "image_alt": "Trump scraps plan to livestream military execution after backlash",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/15/trump-scraps-plan-to-livestream-military-execution-after-backlash_6758651_4.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll-8632e845",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-      "published_at": "2026-10-15T18:17:57.000Z",
-      "image": "",
-      "image_alt": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-ramps-up-third-country-us-deportations-despite-global-rights-out-140be545",
-      "region": "Americas",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Trump ramps up third-country US deportations despite global rights outcry",
-      "published_at": "2026-10-15T17:54:26.000Z",
-      "image": "",
-      "image_alt": "Trump ramps up third-country US deportations despite global rights outcry",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "a-mother-s-touch-helps-premature-babies-grow-strong-in-gaza-3f5e9f7a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A mother’s touch helps premature babies grow strong in Gaza",
-      "published_at": "2026-10-15T17:43:01.000Z",
-      "image": "",
-      "image_alt": "A mother’s touch helps premature babies grow strong in Gaza",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "second-ebola-infection-announced-in-kenya-554d4f98",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Second Ebola Infection Announced in Kenya",
-      "published_at": "2026-10-15T17:38:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-kenya-ebola-1-qgth/15int-kenya-ebola-1-qgth-mediumSquareAt3X.jpg",
-      "image_alt": "Second Ebola Infection Announced in Kenya",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "pope-leo-resumes-work-in-hospital-while-recovering-from-surgery-40199792",
-      "region": "World",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Pope Leo resumes work in hospital while recovering from surgery",
-      "published_at": "2026-10-15T17:25:09.000Z",
-      "image": "",
-      "image_alt": "Pope Leo resumes work in hospital while recovering from surgery",
-      "translations": {
-        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "meet-neha-bora-activist-and-face-of-india-s-young-protesters-6f40955b",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
-      "published_at": "2026-10-15T17:02:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-india-activist-02-bctw/00int-india-activist-02-bctw-mediumSquareAt3X.jpg",
-      "image_alt": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "dr-congo-protests-formula-1-s-indefensible-decision-to-race-in-rwanda-fe6f786a",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
-      "published_at": "2026-10-15T17:13:17.000Z",
-      "image": "",
-      "image_alt": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss"
-        }
-      ],
       "impact": 74
     },
     {
-      "id": "dying-in-detention-5421de06",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Dying in Detention",
-      "published_at": "2026-10-15T17:00:00.000Z",
-      "image": "",
-      "image_alt": "Dying in Detention",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "self-replicating-ai-is-your-fridge-a-cybersecurity-risk-9405c831",
-      "region": "Europe",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Self-replicating AI: Is your fridge a cybersecurity risk?",
-      "published_at": "2026-10-15T18:52:00.000Z",
-      "image": "",
-      "image_alt": "Self-replicating AI: Is your fridge a cybersecurity risk?",
-      "translations": {
-        "en": "PULSE is tracking this technology update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "in-ecuador-fishermen-are-the-collateral-victims-of-american-bombs-850ebbd2",
+      "id": "france-germany-reach-deal-on-future-of-car-industry-d649f7a9",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "In Ecuador, fishermen are the collateral victims of American bombs",
-      "published_at": "2026-10-15T18:30:04.000Z",
-      "image": "https://img.lemde.fr/2026/10/13/490/0/3333/1666/644/322/60/0/d42913b_upload-1-otfxzh4quv2y-105-dsc3900-editar-fishemenecuador-ja.jpg",
-      "image_alt": "In Ecuador, fishermen are the collateral victims of American bombs",
+      "headline": "France, Germany reach deal on future of car industry",
+      "published_at": "2026-10-15T21:31:49.000Z",
+      "image": "https://img.lemde.fr/2022/10/17/110/0/5021/2510/644/322/60/0/d26d009_7eadbe0adfbf4d09ae9d08d690bbceb5-7eadbe0adfbf4d09ae9d08d690bbceb5-0.jpg",
+      "image_alt": "France, Germany reach deal on future of car industry",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -543,33 +501,79 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/15/in-ecuador-fishermen-are-the-collateral-victims-of-american-bombs_6758653_4.html"
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/15/france-germany-reach-deal-on-future-of-car-industry_6758655_19.html"
         }
       ],
       "impact": 72
     },
     {
-      "id": "why-have-us-ukraine-relations-soured-ahead-of-the-midterms-03580585",
+      "id": "bus-train-collide-injuring-19-at-channel-tunnel-terminal-cf65f49c",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why have US-Ukraine relations soured ahead of the midterms?",
-      "published_at": "2026-10-15T17:54:08.000Z",
-      "image": "https://s.france24.com/media/display/b15f302e-c8ac-11f1-a90d-4dd8ac2cf3bf/w:1024/p:16x9/AP26281714511676.jpg",
-      "image_alt": "Why have US-Ukraine relations soured ahead of the midterms?",
+      "headline": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+      "published_at": "2026-10-15T20:42:00.000Z",
+      "image": "",
+      "image_alt": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "fishing-family-freedom-in-alaska-democrats-highlight-salmon-scarcity-i-19549317",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'Fishing, Family, Freedom': In Alaska, Democrats highlight salmon scarcity in hopes of flipping a Senate seat",
+      "published_at": "2026-10-15T20:57:40.000Z",
+      "image": "https://img.lemde.fr/2026/10/13/192/0/3300/1650/644/322/60/0/2b4846d_upload-1-lfbxpom7v9ez-rea11985650.jpg",
+      "image_alt": "'Fishing, Family, Freedom': In Alaska, Democrats highlight salmon scarcity in hopes of flipping a Senate seat",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/15/fishing-family-freedom-in-alaska-democrats-highlight-salmon-scarcity-in-hope-to-flip-a-senate-seat_6758654_4.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-syste-c19e1a23",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
+      "published_at": "2026-10-15T20:41:16.000Z",
+      "image": "https://s.france24.com/media/display/5e748ac4-c8d6-11f1-b56b-6313a763b466/w:1024/p:16x9/EN-20261015-183333-184231-CS.jpg",
+      "image_alt": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
+      "translations": {
+        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms"
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding"
         }
       ],
-      "impact": 72
+      "impact": 71
     }
   ]
 }
