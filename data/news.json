@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:58:34.036Z",
+  "updated_at": "2026-10-16T05:38:07.386Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "houthi-missile-attack-on-yemeni-presidential-palace-kills-five-ministe-76de81fb",
+      "id": "ship-attack-reports-near-hormuz-reach-record-high-as-oil-exports-slow-3cb35e61",
       "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "published_at": "2026-10-15T23:38:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "headline": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "published_at": "2026-10-16T05:00:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
+      "image_alt": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,33 +37,79 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 89
     },
     {
-      "id": "tip-off-foiled-us-teen-suspect-s-plot-to-attack-hindu-temple-police-sa-e67f86ac",
+      "id": "three-children-and-teacher-killed-in-us-primary-school-shooting-ec13367c",
       "region": "Americas",
-      "topic": "Security",
+      "topic": "Politics",
       "urgency": "Breaking",
-      "headline": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "published_at": "2026-10-15T23:27:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg",
-      "image_alt": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "headline": "Three children and teacher killed in US primary school shooting",
+      "published_at": "2026-10-16T03:45:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+      "image_alt": "Three children and teacher killed in US primary school shooting",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 88
+    },
+    {
+      "id": "four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-dec-3f3e1dd5",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Four killed as Indonesia battles worst forest fires in more than a decade",
+      "published_at": "2026-10-16T05:15:09.000Z",
+      "image": "",
+      "image_alt": "Four killed as Indonesia battles worst forest fires in more than a decade",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "bystander-guns-down-suspected-primary-school-shooter-in-oregon-88fb1311",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Bystander guns down suspected primary school shooter in Oregon",
+      "published_at": "2026-10-16T05:00:25.000Z",
+      "image": "",
+      "image_alt": "Bystander guns down suspected primary school shooter in Oregon",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "houthi-missiles-strike-government-headquarters-in-yemen-625bc781",
@@ -86,40 +132,17 @@
           "url": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html"
         }
       ],
-      "impact": 87
+      "impact": 82
     },
     {
-      "id": "iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airport-75937213",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-      "published_at": "2026-10-16T00:02:37.000Z",
-      "image": "",
-      "image_alt": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "iraq-parliament-approves-al-zaidi-s-cabinet-amid-growing-economic-conc-2ea9722d",
+      "id": "infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president-c72e640f",
       "region": "World",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-      "published_at": "2026-10-16T00:31:18.000Z",
+      "headline": "Infantino apologises amid calls for him to quit as FIFA president",
+      "published_at": "2026-10-16T04:45:24.000Z",
       "image": "",
-      "image_alt": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+      "image_alt": "Infantino apologises amid calls for him to quit as FIFA president",
       "translations": {
         "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,66 +152,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
-      "id": "at-least-4-including-3-children-killed-in-us-elementary-school-shootin-d86b43fa",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "At least 4, including 3 children, killed in US elementary school shooting",
-      "published_at": "2026-10-15T22:51:56.000Z",
-      "image": "",
-      "image_alt": "At least 4, including 3 children, killed in US elementary school shooting",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "bus-hits-train-stopped-on-french-side-of-channel-tunnel-with-19-injure-00114a70",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "published_at": "2026-10-15T22:37:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
-      "image_alt": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "several-people-dead-or-missing-after-istanbul-floods-2d75b068",
+      "id": "peshawar-mourns-children-killed-in-school-roof-collapse-562506cb",
       "region": "World",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "Several people dead or missing after Istanbul floods",
-      "published_at": "2026-10-15T21:15:46.000Z",
+      "headline": "Peshawar mourns children killed in school roof collapse",
+      "published_at": "2026-10-16T02:01:43.000Z",
       "image": "",
-      "image_alt": "Several people dead or missing after Istanbul floods",
+      "image_alt": "Peshawar mourns children killed in school roof collapse",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,43 +175,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss"
         }
       ],
-      "impact": 78
+      "impact": 79
     },
     {
-      "id": "two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastru-55c2ac02",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-      "published_at": "2026-10-15T23:35:26.000Z",
-      "image": "",
-      "image_alt": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "commander-in-chief-trump-puts-his-military-at-risk-2a3fa448",
+      "id": "three-children-one-teacher-killed-in-oregon-elementary-school-shooting-0cef6e2c",
       "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Three children, one teacher killed in Oregon elementary school shooting",
+      "published_at": "2026-10-16T05:15:41.000Z",
+      "image": "https://img.lemde.fr/2026/10/16/469/0/1283/641/644/322/60/0/20ce6c6_ftp-1-o2rz9yhwxmtu-2026-10-16t020246z-96086344-rc2z3oalj6ou-rtrmadp-3-oregon-shooting.JPG",
+      "image_alt": "Three children, one teacher killed in Oregon elementary school shooting",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/three-children-one-teacher-killed-in-oregon-elementary-school-shooting_6758666_4.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "houthis-launch-deadly-attack-on-presidential-palace-in-yemen-s-aden-7da7ed2b",
+      "region": "Middle East",
       "topic": "Security",
-      "urgency": "Live",
-      "headline": "Commander-in-chief Trump puts his military at risk",
-      "published_at": "2026-10-15T22:53:26.000Z",
-      "image": "https://img.lemde.fr/2026/10/14/422/0/7980/3990/644/322/60/0/e582c7a_upload-1-ixkq7b32a6b5-000-c2av8tw.jpg",
-      "image_alt": "Commander-in-chief Trump puts his military at risk",
+      "urgency": "Breaking",
+      "headline": "Houthis launch deadly attack on presidential palace in Yemen's Aden",
+      "published_at": "2026-10-16T01:00:48.000Z",
+      "image": "https://img.lemde.fr/2026/10/15/114/0/4000/2000/644/322/60/0/2ae9673_ftp-1-lgkmwz56uwrm-2026-10-15t112033z-1415565948-rc2l3oaru8eg-rtrmadp-3-iran-risis-saudi-riyadh.JPG",
+      "image_alt": "Houthis launch deadly attack on presidential palace in Yemen's Aden",
       "translations": {
         "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,20 +221,112 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/10/16/commander-in-chief-trump-puts-his-military-at-risk_6758656_23.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/houthis-launch-deadly-attack-on-presidential-palace-in-yemen-s-aden_6758658_4.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah-3d75e17f",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+      "published_at": "2026-10-16T05:28:29.000Z",
+      "image": "",
+      "image_alt": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "it-s-really-hard-to-believe-8e8aea70",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "'It's really hard to believe'",
+      "published_at": "2026-10-16T01:36:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+      "image_alt": "'It's really hard to believe'",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "at-least-five-feared-dead-in-oregon-elementary-school-shooting-1c00f5e1",
+      "id": "zelensky-says-ukraine-will-resume-russian-refinery-strikes-defying-tru-92dbe4df",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "published_at": "2026-10-16T02:48:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
+      "image_alt": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "china-tells-israel-to-stop-forced-establishment-of-west-bank-settlemen-4e18d79e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+      "published_at": "2026-10-16T02:56:21.000Z",
+      "image": "",
+      "image_alt": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "four-dead-including-three-children-in-oregon-school-shooting-1c00f5e1",
       "region": "Europe",
       "topic": "World",
       "urgency": "Breaking",
-      "headline": "At least five feared dead in Oregon elementary school shooting",
-      "published_at": "2026-10-15T21:58:33.000Z",
-      "image": "https://s.france24.com/media/display/0bdabf8a-c8eb-11f1-84b0-2d1c143cdef3/w:1024/p:16x9/AP26288796036302.jpg",
-      "image_alt": "At least five feared dead in Oregon elementary school shooting",
+      "headline": "Four dead, including three children, in Oregon school shooting",
+      "published_at": "2026-10-16T00:57:46.000Z",
+      "image": "",
+      "image_alt": "Four dead, including three children, in Oregon school shooting",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -270,7 +339,99 @@
           "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead"
         }
       ],
-      "impact": 76
+      "impact": 74
+    },
+    {
+      "id": "oregon-school-shooting-gunman-kills-3-students-and-teacher-before-bein-88b39660",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Oregon school shooting: Gunman kills 3 students and teacher before being shot dead by community member",
+      "published_at": "2026-10-15T21:59:00.000Z",
+      "image": "",
+      "image_alt": "Oregon school shooting: Gunman kills 3 students and teacher before being shot dead by community member",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "omar-al-bayoumi-the-saudi-guardian-angel-of-two-9-11-terrorists-7b848e78",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Omar al-Bayoumi, the Saudi 'guardian angel' of two 9/11 terrorists",
+      "published_at": "2026-10-16T03:38:57.000Z",
+      "image": "https://img.lemde.fr/2026/09/23/0/0/5074/2537/644/322/60/0/e2633de_upload-1-7xpxjmt1hqn1-capture-d-e-cran-2026-09-22-a-17-27-30.png",
+      "image_alt": "Omar al-Bayoumi, the Saudi 'guardian angel' of two 9/11 terrorists",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/omar-al-bayoumi-the-saudi-guardian-angel-of-two-9-11-terrorists_6758664_4.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "fbi-agents-who-worked-on-trump-classified-docs-case-sue-over-firings-abc9f9c0",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "FBI agents who worked on Trump classified docs case sue over firings",
+      "published_at": "2026-10-16T03:36:46.000Z",
+      "image": "https://img.lemde.fr/2026/10/09/12/0/6000/3000/644/322/60/0/49434ee_ftp-1-wmeryuyatshb-2026-10-09t151448z-1390770289-rc2qjnaxtipa-rtrmadp-3-usa-cyber-shinyhunters.JPG",
+      "image_alt": "FBI agents who worked on Trump classified docs case sue over firings",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/fbi-agents-who-worked-on-trump-classified-docs-case-sue-over-firings_6758663_4.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "wildfire-in-malibu-prompts-evacuation-orders-in-southern-california-ccb1ce9b",
+      "region": "Europe",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Wildfire in Malibu prompts evacuation orders in Southern California",
+      "published_at": "2026-10-16T03:23:19.000Z",
+      "image": "https://img.lemde.fr/2026/10/16/657/0/4835/2417/644/322/60/0/4dc1296_ftp-1-hptnrldxdrdx-2026-10-16t023025z-92265257-rc224oa0c0gv-rtrmadp-3-california-wildfire.JPG",
+      "image_alt": "Wildfire in Malibu prompts evacuation orders in Southern California",
+      "translations": {
+        "en": "PULSE is tracking this climate update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/10/16/wildfire-in-malibu-prompts-evacuation-orders-in-california_6758662_114.html"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "at-least-33-pupils-and-teacher-killed-after-school-roof-collapses-in-p-4dfeead0",
@@ -293,287 +454,122 @@
           "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 76
+      "impact": 71
     },
     {
-      "id": "zelensky-rejects-trump-s-energy-ceasefire-after-us-russia-diesel-deal-9423895f",
+      "id": "trump-regala-a-putin-un-nuevo-bal-n-de-ox-geno-con-el-acuerdo-sobre-el-a0df59fc",
       "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Zelensky rejects Trump's 'energy ceasefire' after US-Russia diesel deal",
-      "published_at": "2026-10-15T17:16:28.000Z",
-      "image": "https://img.lemde.fr/2026/10/15/0/0/8035/4017/644/322/60/0/1f4d210_ftp-1-l4ja2xrkvq0x-5361545-01-06.jpg",
-      "image_alt": "Zelensky rejects Trump's 'energy ceasefire' after US-Russia diesel deal",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel",
+      "published_at": "2026-10-16T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/AL3SQCCWKBOAXNN2BXMZTCVWHA.jpg?auth=fc32b0dfbd1624ed50456941adcf647a5f7c554b1a5fd7c36cad9ecbac267591",
+      "image_alt": "Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "ucrania-necesita-usar-los-sat-lites-de-starlink-en-la-guerra-pero-el-p-0a656527",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control",
+      "published_at": "2026-10-16T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/YCG6HDUAIZNIPB27YV7M52ZG4A.jpg?auth=256db47d7c2c7629ecb27ae30ca45c6a92252f7fc8504e1209ca21f5dd191bd4",
+      "image_alt": "Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-10-16/ucrania-necesita-usar-los-satelites-de-starlink-en-la-guerra-pero-el-pentagono-tiene-el-control.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "carolyn-rodrigues-birkett-candidata-a-liderar-la-onu-no-elegir-a-una-m-1255c157",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Carolyn Rodrigues-Birkett, candidata a liderar la ONU: “No elegir a una mujer sería un mensaje muy negativo para el mundo”",
+      "published_at": "2026-10-16T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/YYHYORVC6RCCVHUC3JCVQW2NLQ.jpg?auth=3b5bf9853df62bed1b72fff36077bc0bc6286700d02425a00feae9effd072f35",
+      "image_alt": "Carolyn Rodrigues-Birkett, candidata a liderar la ONU: “No elegir a una mujer sería un mensaje muy negativo para el mundo”",
+      "translations": {
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-10-16/carolyn-rodrigues-birkett-candidata-a-liderar-la-onu-no-elegir-a-una-mujer-seria-un-mensaje-muy-negativo-para-el-mundo.html"
+        }
+      ],
+      "impact": 70
+    },
+    {
+      "id": "trump-calls-renewed-ukraine-attacks-on-russian-refineries-a-disgrace-1d96462e",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump calls renewed Ukraine attacks on Russian refineries 'a disgrace'",
+      "published_at": "2026-10-16T02:38:29.000Z",
+      "image": "https://img.lemde.fr/2026/10/15/695/0/6500/3250/644/322/60/0/8d66331_ftp-1-qh5psu0uwix9-2026-10-15t171814z-1585934006-rc2t3oahmwel-rtrmadp-3-usa-trump.JPG",
+      "image_alt": "Trump calls renewed Ukraine attacks on Russian refineries 'a disgrace'",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/15/zelensky-rejects-trump-s-energy-ceasefire-after-us-russia-diesel-deal_6758650_4.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/trump-calls-renewed-ukraine-attacks-on-russian-refineries-a-disgrace_6758661_4.html"
         }
       ],
-      "impact": 75
+      "impact": 70
     },
     {
-      "id": "19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance-b80b5596",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "19 injured as minibus crashes into train at Channel Tunnel entrance",
-      "published_at": "2026-10-16T00:53:16.000Z",
-      "image": "https://s.france24.com/media/display/6a8daece-71cc-11f0-9526-005056bf30b7/w:1024/p:16x9/000-397M8WK.jpg",
-      "image_alt": "19 injured as minibus crashes into train at Channel Tunnel entrance",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261016-19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal-de8ce683",
-      "region": "Europe",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "France and Germany agree to ease EU car emissions rules in new deal",
-      "published_at": "2026-10-15T23:48:57.000Z",
-      "image": "https://s.france24.com/media/display/af286218-c8e7-11f1-8247-2d1c143cdef3/w:1024/p:16x9/AP26270718148994.jpg",
-      "image_alt": "France and Germany agree to ease EU car emissions rules in new deal",
-      "translations": {
-        "en": "PULSE is tracking this climate update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes-7c86d6f0",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Zelensky rallies European allies as US support for Ukraine wanes",
-      "published_at": "2026-10-15T23:06:00.000Z",
-      "image": "https://s.france24.com/media/display/28bbd5dc-c8d5-11f1-aec7-2d1c143cdef3/w:1024/p:16x9/80c62e6fc13f8d6a5641fe9e16da5b4e0ca12147.jpg",
-      "image_alt": "Zelensky rallies European allies as US support for Ukraine wanes",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "russia-accuses-ukraine-of-attacking-oil-refinery-after-zelensky-says-s-98fb856f",
+      "id": "live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-d-c403ed04",
       "region": "Europe",
       "topic": "Markets",
       "urgency": "Update",
-      "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "published_at": "2026-10-15T16:50:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b54/live/4c6fe8b0-c899-11f1-a64c-550be9e3c66b.jpg",
-      "image_alt": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "headline": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+      "published_at": "2026-10-16T01:50:10.000Z",
+      "image": "https://s.france24.com/media/display/72deca9a-c900-11f1-a741-4dd8ac2cf3bf/w:1024/p:16x9/AP26288658174476.jpg",
+      "image_alt": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
       "translations": {
-        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-clai-77b26229",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "published_at": "2026-10-15T21:57:58.000Z",
-      "image": "",
-      "image_alt": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "man-united-s-martinez-apologises-for-outburst-after-talks-with-carrick-e8bacff0",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Man United’s Martinez apologises for outburst after talks with Carrick",
-      "published_at": "2026-10-15T21:54:26.000Z",
-      "image": "",
-      "image_alt": "Man United’s Martinez apologises for outburst after talks with Carrick",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "trump-administration-sues-california-over-noncitizens-on-voter-rolls-137c7f12",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump administration sues California over noncitizens on voter rolls",
-      "published_at": "2026-10-15T21:44:59.000Z",
-      "image": "",
-      "image_alt": "Trump administration sues California over noncitizens on voter rolls",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "violent-protests-in-albania-2cc31e1e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Violent Protests in Albania",
-      "published_at": "2026-10-15T21:40:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg",
-      "image_alt": "Violent Protests in Albania",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html"
-        }
-      ],
-      "impact": 69
-    },
-    {
-      "id": "sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publ-a28bc19a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "published_at": "2026-10-15T21:15:11.000Z",
-      "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg",
-      "image_alt": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher"
+          "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
         }
       ],
-      "impact": 68
-    },
-    {
-      "id": "zelensky-says-ukraine-will-resume-russian-refinery-strikes-defying-tru-92dbe4df",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "published_at": "2026-10-15T20:35:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
-      "image_alt": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
-        }
-      ],
-      "impact": 68
-    },
-    {
-      "id": "trump-calls-off-livestream-of-fort-hood-attacker-s-execution-by-firing-4732b5d0",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Update",
-      "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "published_at": "2026-10-15T17:47:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
-      "image_alt": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 68
+      "impact": 70
     }
   ]
 }
