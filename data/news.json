@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T18:41:47.678Z",
+  "updated_at": "2026-10-17T21:11:56.791Z",
   "languages": [
     {
       "code": "en",
@@ -20,37 +20,60 @@
   ],
   "stories": [
     {
-      "id": "israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasef-d74a3e4f",
-      "region": "Middle East",
+      "id": "israeli-settlers-attack-palestinians-and-european-officials-in-west-ba-a0b37a78",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-      "published_at": "2026-10-17T18:26:59.000Z",
-      "image": "",
-      "image_alt": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "headline": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "published_at": "2026-10-17T20:49:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg",
+      "image_alt": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html"
         }
       ],
       "impact": 87
     },
     {
-      "id": "jerusalem-daily-israeli-settlers-attack-farmers-and-journalists-3c697ec0",
+      "id": "anti-government-protesters-battle-with-police-in-albania-471ee307",
       "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Anti-government protesters battle with police in Albania",
+      "published_at": "2026-10-17T20:53:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
+      "image_alt": "Anti-government protesters battle with police in Albania",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "will-the-eu-come-to-ukraine-s-rescue-in-war-against-russia-0c3190b6",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "published_at": "2026-10-17T17:18:50.000Z",
+      "headline": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "published_at": "2026-10-17T19:03:49.000Z",
       "image": "",
-      "image_alt": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "image_alt": "Will the EU come to Ukraine’s rescue in war against Russia?",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,33 +83,79 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 85
     },
     {
-      "id": "egypt-s-president-says-he-will-leave-office-in-2030-7a758285",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Egypt’s President Says He Will Leave Office in 2030",
-      "published_at": "2026-10-17T18:06:53.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-egypt-sisi-kqfm/17int-egypt-sisi-kqfm-mediumSquareAt3X.jpg",
-      "image_alt": "Egypt’s President Says He Will Leave Office in 2030",
+      "id": "iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz-397e0944",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Iranian TV airs video said to show tanker explosion in Hormuz",
+      "published_at": "2026-10-17T20:02:22.000Z",
+      "image": "",
+      "image_alt": "Iranian TV airs video said to show tanker explosion in Hormuz",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
+    },
+    {
+      "id": "at-least-17-killed-in-stampede-at-religious-gathering-in-india-2abd0f6f",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "At least 17 killed in stampede at religious gathering in India",
+      "published_at": "2026-10-17T19:48:54.000Z",
+      "image": "",
+      "image_alt": "At least 17 killed in stampede at religious gathering in India",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "violent-clashes-looting-and-buildings-ablaze-as-hundreds-arrested-afte-677a5979",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+      "published_at": "2026-10-17T20:52:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ac/live/03c510f0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+      "image_alt": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 80
     },
     {
       "id": "west-bank-israeli-settlers-attack-eu-diplomats-french-mayor-e5c1a58b",
@@ -109,30 +178,30 @@
           "url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 82
+      "impact": 80
     },
     {
-      "id": "yemen-fighting-rages-as-civilian-toll-from-houthi-saudi-conflict-worse-9211ba12",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "trump-waives-several-russia-sanctions-as-row-with-zelensky-intensifies-b6bb1637",
+      "region": "Europe",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
-      "published_at": "2026-10-17T16:46:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-houthi-saudi-clashes-qvhk/17int-houthi-saudi-clashes-qvhk-mediumSquareAt3X.jpg",
-      "image_alt": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "published_at": "2026-10-17T19:19:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "image_alt": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
       "id": "ukraine-war-mothers-of-kherson-opera-opens-in-poland-16d05cde",
@@ -155,7 +224,7 @@
           "url": "https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland"
         }
       ],
-      "impact": 81
+      "impact": 78
     },
     {
       "id": "israeli-settlers-attack-european-diplomatic-cars-in-west-bank-and-beat-1fabfeb5",
@@ -178,7 +247,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html"
         }
       ],
-      "impact": 80
+      "impact": 78
+    },
+    {
+      "id": "protesters-allege-police-brutality-as-violent-clashes-rage-on-in-alban-d493dd76",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Protesters allege police brutality as violent clashes rage on in Albania",
+      "published_at": "2026-10-17T20:40:38.000Z",
+      "image": "",
+      "image_alt": "Protesters allege police brutality as violent clashes rage on in Albania",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "unrest-mars-day-of-protest-in-france-as-student-movement-turns-nationa-87f321dd",
@@ -186,7 +278,7 @@
       "topic": "Society",
       "urgency": "Live",
       "headline": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-      "published_at": "2026-10-17T18:22:14.000Z",
+      "published_at": "2026-10-17T20:15:41.000Z",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg",
       "image_alt": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
       "translations": {
@@ -204,83 +296,37 @@
       "impact": 77
     },
     {
-      "id": "morocco-forms-new-government-but-except-for-women-very-little-changes-622e6bcb",
-      "region": "Europe",
-      "topic": "Politics",
+      "id": "european-diplomats-attacked-by-israeli-settlers-in-west-bank-46647e00",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Morocco forms new government, but, except for women, very little changes",
-      "published_at": "2026-10-17T17:29:39.000Z",
-      "image": "https://img.lemde.fr/2026/10/16/170/0/1024/512/644/322/60/0/25ede1f_ftp-1-bmty0lma3avb-afp-d3hv2gr-1024.jpg",
-      "image_alt": "Morocco forms new government, but, except for women, very little changes",
+      "headline": "European diplomats attacked by Israeli settlers in West Bank",
+      "published_at": "2026-10-17T18:38:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "image_alt": "European diplomats attacked by Israeli settlers in West Bank",
       "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/17/morocco-forms-new-government-but-except-for-women-very-little-changes_6758713_4.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "india-and-west-indies-denied-a-thrilling-finale-as-rain-hits-final-t20-30173bb0",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India and West Indies denied a thrilling finale as rain hits final T20",
-      "published_at": "2026-10-17T17:42:01.000Z",
-      "image": "",
-      "image_alt": "India and West Indies denied a thrilling finale as rain hits final T20",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "pope-leo-returns-to-vatican-after-lung-cancer-surgery-d50d9510",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo returns to Vatican after lung cancer surgery",
-      "published_at": "2026-10-17T17:37:52.000Z",
-      "image": "",
-      "image_alt": "Pope Leo returns to Vatican after lung cancer surgery",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-faces-bipartisan-backlash-over-russia-sanctions-waiver-b37da5d0",
+      "id": "al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looti-98c50ac2",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "published_at": "2026-10-17T17:24:07.000Z",
+      "headline": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+      "published_at": "2026-10-17T20:20:25.000Z",
       "image": "",
-      "image_alt": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "image_alt": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -290,99 +336,99 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "al-jazeera-reports-from-paris-as-protests-turn-violent-2eeddd85",
+      "id": "mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings-c07056fa",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Al Jazeera reports from Paris as protests turn violent",
-      "published_at": "2026-10-17T16:56:40.000Z",
-      "image": "",
-      "image_alt": "Al Jazeera reports from Paris as protests turn violent",
+      "headline": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+      "published_at": "2026-10-17T19:58:23.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-mexico-sentence-zqch/17int-mexico-sentence-zqch-mediumSquareAt3X.jpg",
+      "image_alt": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "why-are-latin-american-countries-building-closer-ties-with-israel-498fa493",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why are Latin American countries building closer ties with Israel?",
-      "published_at": "2026-10-17T16:54:44.000Z",
-      "image": "",
-      "image_alt": "Why are Latin American countries building closer ties with Israel?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "egypt-s-el-sisi-vows-to-defend-saudi-arabia-from-houthi-attacks-6929bdfd",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-      "published_at": "2026-10-17T16:49:07.000Z",
-      "image": "",
-      "image_alt": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "pope-leo-leaves-hospital-days-after-lung-cancer-surgery-f76392c2",
-      "region": "World",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-      "published_at": "2026-10-17T16:17:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg",
-      "image_alt": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-      "translations": {
-        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+          "url": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "kenya-confirms-four-new-ebola-cases-38a375f2",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Kenya Confirms Four New Ebola Cases",
+      "published_at": "2026-10-17T19:41:02.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg",
+      "image_alt": "Kenya Confirms Four New Ebola Cases",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate-5f5f4a03",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "published_at": "2026-10-17T19:26:13.000Z",
+      "image": "",
+      "image_alt": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klits-fea6a0af",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "published_at": "2026-10-17T19:04:00.000Z",
+      "image": "",
+      "image_alt": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss"
         }
       ],
       "impact": 75
@@ -393,7 +439,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "What to Know About the Violent Protests in Albania",
-      "published_at": "2026-10-17T16:00:58.000Z",
+      "published_at": "2026-10-17T18:57:34.000Z",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-albania-protests-wtk-fbtm/17int-albania-protests-wtk-fbtm-mediumSquareAt3X.jpg",
       "image_alt": "What to Know About the Violent Protests in Albania",
       "translations": {
@@ -411,27 +457,96 @@
       "impact": 75
     },
     {
-      "id": "indian-gen-z-protest-leader-is-released-on-bail-after-arrest-3b1c8cd0",
-      "region": "World",
-      "topic": "Society",
+      "id": "is-the-us-embassy-in-jerusalem-for-israel-or-america-d3f6b7af",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
-      "published_at": "2026-10-17T15:50:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-cockroach-twhc/17int-india-cockroach-twhc-mediumSquareAt3X.jpg",
-      "image_alt": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+      "headline": "Is the US Embassy in Jerusalem for Israel or America?",
+      "published_at": "2026-10-17T18:41:30.000Z",
+      "image": "",
+      "image_alt": "Is the US Embassy in Jerusalem for Israel or America?",
       "translations": {
-        "en": "PULSE is tracking this society update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "escalation-between-pakistan-and-afghanistan-leads-to-heavy-human-toll-9e3a0c69",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Escalation between Pakistan and Afghanistan leads to heavy human toll",
+      "published_at": "2026-10-17T20:48:10.000Z",
+      "image": "https://img.lemde.fr/2026/10/11/1032/0/8256/4128/644/322/60/0/649dd0a_upload-1-arbqhus6wkej-dsf4116.jpg",
+      "image_alt": "Escalation between Pakistan and Afghanistan leads to heavy human toll",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/17/escalation-between-pakistan-and-afghanistan-leads-to-heavy-human-toll_6758716_4.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "looters-seize-on-massive-french-protests-to-raid-and-vandalise-shops-cc946b89",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Looters seize on massive French protests to raid and vandalise shops",
+      "published_at": "2026-10-17T20:15:02.000Z",
+      "image": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg",
+      "image_alt": "Looters seize on massive French protests to raid and vandalise shops",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "yemen-fighting-rages-as-civilian-toll-from-houthi-saudi-conflict-worse-9211ba12",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Update",
+      "headline": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "published_at": "2026-10-17T16:46:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-houthi-saudi-clashes-qvhk/17int-houthi-saudi-clashes-qvhk-mediumSquareAt3X.jpg",
+      "image_alt": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html"
+          "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "us-four-killed-in-oregon-school-shooting-a409339b",
@@ -454,122 +569,7 @@
           "url": "https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "ukraine-s-increasingly-powerful-intelligence-services-worry-its-politi-36c3c655",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine's increasingly powerful intelligence services worry its political leaders",
-      "published_at": "2026-10-17T18:30:07.000Z",
-      "image": "https://img.lemde.fr/2026/10/15/770/0/3002/1501/644/322/60/0/041a81f_upload-1-o7laydtoeqiw-raf-ukr-specialservice-006.JPG",
-      "image_alt": "Ukraine's increasingly powerful intelligence services worry its political leaders",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/17/ukraine-s-increasingly-powerful-intelligence-services-worry-its-political-leaders_6758715_4.html"
-        }
-      ],
       "impact": 73
-    },
-    {
-      "id": "egypt-apos-s-ssisi-says-he-apos-ll-defend-saudi-arabia-if-asked-0de0917a",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Egypt&apos;s Ssisi says he&apos;ll defend Saudi Arabia, if asked",
-      "published_at": "2026-10-17T17:49:00.000Z",
-      "image": "",
-      "image_alt": "Egypt&apos;s Ssisi says he&apos;ll defend Saudi Arabia, if asked",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "romania-shoots-down-two-drones-over-the-black-sea-3f09401c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Romania shoots down two drones over the Black Sea",
-      "published_at": "2026-10-17T17:34:09.000Z",
-      "image": "https://img.lemde.fr/2022/06/06/153/0/6000/3000/644/322/60/0/24b5362_1654527872433-020-1401059094.jpg",
-      "image_alt": "Romania shoots down two drones over the Black Sea",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/17/romania-shoots-down-two-drones-over-the-black-sea_6758714_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "belgian-police-fire-tear-gas-at-protesters-b3230e54",
-      "region": "Europe",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Belgian police fire tear gas at protesters",
-      "published_at": "2026-10-17T17:24:50.000Z",
-      "image": "https://img.lemde.fr/2026/10/17/491/0/5900/2950/644/322/60/0/2a98b03_ftp-1-nxy9mtmjdksz-2026-10-17t092535z-530482481-rc2x4oax21vy-rtrmadp-3-belgium-protest.JPG",
-      "image_alt": "Belgian police fire tear gas at protesters",
-      "translations": {
-        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/17/belgian-police-fire-tear-gas-at-protesters_6758712_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "live-chaotic-scenes-as-organisers-of-french-protests-claim-800-000-hav-e2f70f53",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
-      "published_at": "2026-10-17T17:18:35.000Z",
-      "image": "",
-      "image_alt": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests"
-        }
-      ],
-      "impact": 72
     }
   ]
 }
