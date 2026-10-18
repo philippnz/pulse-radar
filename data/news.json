@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T20:56:28.430Z",
+  "updated_at": "2026-10-18T22:47:29.753Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,50 @@
   ],
   "stories": [
     {
-      "id": "russia-s-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says-245ff350",
-      "region": "Europe",
+      "id": "four-people-killed-in-violent-fast-moving-fire-at-canadian-military-ba-e55e7fdf",
+      "region": "Americas",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "published_at": "2026-10-18T19:11:27.000Z",
-      "image": "",
-      "image_alt": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "headline": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "published_at": "2026-10-18T22:26:15.000Z",
+      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+      "image_alt": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
         }
       ],
       "impact": 85
+    },
+    {
+      "id": "what-we-know-so-far-about-deadly-fire-at-canadian-military-base-3a3633bc",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "What we know so far about deadly fire at Canadian military base",
+      "published_at": "2026-10-18T21:37:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
+      "image_alt": "What we know so far about deadly fire at Canadian military base",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 84
     },
     {
       "id": "oil-facilities-hit-in-deadly-overnight-attack-on-st-petersburg-13481def",
@@ -63,30 +86,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
-    },
-    {
-      "id": "what-we-know-so-far-about-deadly-fire-at-canadian-military-base-3a3633bc",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "What we know so far about deadly fire at Canadian military base",
-      "published_at": "2026-10-18T19:42:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-      "image_alt": "What we know so far about deadly fire at Canadian military base",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 84
+      "impact": 83
     },
     {
       "id": "carney-says-fire-at-canadian-forces-base-wainwright-in-alberta-killed--d0dbaac7",
@@ -94,7 +94,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
-      "published_at": "2026-10-18T20:45:32.000Z",
+      "published_at": "2026-10-18T20:59:03.000Z",
       "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg",
       "image_alt": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
       "translations": {
@@ -109,30 +109,76 @@
           "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html"
         }
       ],
-      "impact": 83
+      "impact": 81
     },
     {
-      "id": "four-people-killed-in-violent-fast-moving-fire-at-canadian-military-ba-e55e7fdf",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "published_at": "2026-10-18T17:34:53.000Z",
-      "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-      "image_alt": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "id": "trump-says-suspension-of-russia-sanctions-is-to-keep-peace-negotiation-9aad51dd",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "published_at": "2026-10-18T22:10:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+      "image_alt": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "translations": {
-        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 79
+    },
+    {
+      "id": "canadian-military-base-fire-kills-at-least-four-injures-dozens-43443cce",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Canadian military base fire kills at least four, injures dozens",
+      "published_at": "2026-10-18T22:16:51.000Z",
+      "image": "https://s.france24.com/media/display/f386ca2a-cb40-11f1-afbe-638c1c1f5fd6/w:1024/p:16x9/AP26291249437617.jpg",
+      "image_alt": "Canadian military base fire kills at least four, injures dozens",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "inside-chicago-s-battle-against-the-synthetic-drugs-flooding-the-us-b106d7ca",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "published_at": "2026-10-18T21:00:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/43727360-cb12-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "macron-calls-for-calm-and-order-after-riots-across-france-55d19e02",
@@ -155,30 +201,99 @@
           "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "israeli-settlers-attack-european-diplomats-beat-french-mayor-57fdd655",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Israeli settlers attack European diplomats, beat French mayor",
-      "published_at": "2026-10-18T16:51:32.000Z",
-      "image": "https://s.france24.com/media/display/f8408122-caf6-11f1-a301-2d1c143cdef3/w:1024/p:16x9/EN-20261018-151317-151504-CS.jpg",
-      "image_alt": "Israeli settlers attack European diplomats, beat French mayor",
+      "id": "cindy-crawford-beyond-heartbroken-after-death-of-son-presley-at-27-d06bcaea",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "published_at": "2026-10-18T19:53:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
+      "image_alt": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 77
+    },
+    {
+      "id": "alberta-independence-referendum-will-separatists-survive-a-loss-155e634e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Alberta independence referendum: Will separatists survive a loss?",
+      "published_at": "2026-10-18T21:53:13.000Z",
+      "image": "",
+      "image_alt": "Alberta independence referendum: Will separatists survive a loss?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests-3277ba9a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Macron condemns violence after riots lead to looting and mass arrests",
+      "published_at": "2026-10-18T21:10:47.000Z",
+      "image": "",
+      "image_alt": "Macron condemns violence after riots lead to looting and mass arrests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "france-in-shock-after-protests-turn-into-riots-damaging-buildings-and--3cefe810",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "published_at": "2026-10-18T21:04:41.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-shock-01-qctg/18int-france-shock-01-qctg-mediumSquareAt3X.jpg",
+      "image_alt": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "fire-engulfs-albania-s-supreme-court-as-protests-enter-fifth-day-8dab02b6",
@@ -201,7 +316,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "anger-and-shame-macron-denounces-france-s-nationwide-rioting-looting-45d2eef1",
@@ -224,30 +339,7 @@
           "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
         }
       ],
-      "impact": 77
-    },
-    {
-      "id": "france-in-shock-after-protests-turn-into-riots-damaging-buildings-and--3cefe810",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "published_at": "2026-10-18T20:17:13.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-shock-01-qctg/18int-france-shock-01-qctg-mediumSquareAt3X.jpg",
-      "image_alt": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
-        }
-      ],
-      "impact": 77
+      "impact": 75
     },
     {
       "id": "what-s-behind-europe-s-youth-protests-b8f8d63d",
@@ -270,76 +362,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "india-s-crackdown-on-cockroaches-critics-and-cameras-383056da",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India’s crackdown on cockroaches, critics and cameras",
-      "published_at": "2026-10-18T19:31:45.000Z",
-      "image": "",
-      "image_alt": "India’s crackdown on cockroaches, critics and cameras",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "u-s-officials-condemn-west-bank-attacks-as-netanyahu-casts-doubt-on-th-3cc43513",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
-      "published_at": "2026-10-18T19:23:33.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg",
-      "image_alt": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "replay-french-president-emmanuel-macron-addresses-the-nation-after-unr-8c7aa3c9",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
-      "published_at": "2026-10-18T18:33:34.000Z",
-      "image": "https://s.france24.com/media/display/9cf2627e-cb21-11f1-a2c3-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-195951-200843-CS.jpg",
-      "image_alt": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest"
-        }
-      ],
-      "impact": 76
+      "impact": 74
     },
     {
       "id": "ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-att-554e1b78",
@@ -362,63 +385,63 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/10/18/ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack_6758731_4.html"
         }
       ],
-      "impact": 76
+      "impact": 74
     },
     {
-      "id": "how-will-europe-deal-with-youth-led-protests-d8601b12",
+      "id": "bomb-threat-forces-airliner-from-tel-aviv-to-divert-to-bulgaria-65f6b7e1",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "How will Europe deal with youth-led protests?",
-      "published_at": "2026-10-18T19:15:21.000Z",
-      "image": "",
-      "image_alt": "How will Europe deal with youth-led protests?",
+      "headline": "Bomb threat forces airliner from Tel Aviv to divert to Bulgaria",
+      "published_at": "2026-10-18T22:42:18.000Z",
+      "image": "https://img.lemde.fr/2026/10/18/545/0/5994/2997/644/322/60/0/b0d2378_upload-1-n6va8rhyy2vq-b0d2378-ftp-1-cog5zdv6vlfx-5221224-01-06.jpg",
+      "image_alt": "Bomb threat forces airliner from Tel Aviv to divert to Bulgaria",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/19/bomb-threat-forces-airliner-from-tel-aviv-to-divert-to-bulgaria_6758741_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "clarence-seedorf-calls-out-genocide-in-first-corinthians-press-confere-66723cf4",
-      "region": "World",
+      "id": "foucault-in-iran-the-archaeology-of-an-illusion-7d6cf072",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Clarence Seedorf calls out genocide in first Corinthians press conference",
-      "published_at": "2026-10-18T19:12:30.000Z",
-      "image": "",
-      "image_alt": "Clarence Seedorf calls out genocide in first Corinthians press conference",
+      "headline": "Foucault in Iran: The archaeology of an illusion",
+      "published_at": "2026-10-18T22:21:02.000Z",
+      "image": "https://img.lemde.fr/2026/10/14/963/0/5797/2898/644/322/60/0/220cdfa_upload-1-xyuvu836m9jk-gettyimages-982435900-1.jpg",
+      "image_alt": "Foucault in Iran: The archaeology of an illusion",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/books/article/2026/10/19/foucault-in-iran-the-archaeology-of-an-illusion_6758740_33.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "macron-says-nothing-justifies-violence-in-protests-during-address-to-n-5d9ab771",
+      "id": "trump-defends-russia-sanctions-relief-blasts-zelensky-on-peace-04d52c7f",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "🔴 Macron says 'nothing justifies' violence in protests during address to nation",
-      "published_at": "2026-10-18T19:03:57.000Z",
-      "image": "https://s.france24.com/media/display/9cf2627e-cb21-11f1-a2c3-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-195951-200843-CS.jpg",
-      "image_alt": "Macron says 'nothing justifies' violence in protests during address to nation",
+      "headline": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+      "published_at": "2026-10-18T21:59:34.000Z",
+      "image": "https://s.france24.com/media/display/c4a57392-8d19-11f1-9ad5-005056bfb2b6/w:1024/p:16x9/000-C3EB39E-1.jpg",
+      "image_alt": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,33 +451,10 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation"
+          "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions"
         }
       ],
-      "impact": 75
-    },
-    {
-      "id": "gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensif-1627ddde",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "published_at": "2026-10-18T18:44:30.000Z",
-      "image": "",
-      "image_alt": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss"
-        }
-      ],
-      "impact": 75
+      "impact": 73
     },
     {
       "id": "eu-strongly-condemns-settler-attack-on-delegation-in-west-bank-da66a98e",
@@ -477,30 +477,30 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/10/18/eu-strongly-condemns-settler-attack-on-delegation-in-west-bank_6758730_4.html"
         }
       ],
-      "impact": 75
+      "impact": 73
     },
     {
-      "id": "israel-trump-endorses-netanyahu-ahead-of-elections-ced260b9",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Israel: Trump endorses Netanyahu ahead of elections",
-      "published_at": "2026-10-18T19:06:00.000Z",
+      "id": "albania-apos-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-vi-eaedfc07",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Albania&apos;s Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+      "published_at": "2026-10-18T19:47:00.000Z",
       "image": "",
-      "image_alt": "Israel: Trump endorses Netanyahu ahead of elections",
+      "image_alt": "Albania&apos;s Prime Minister Edi Rama ignores calls to resign amid violent clashes",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 72
+      "impact": 71
     },
     {
       "id": "egypt-s-defense-chiefs-pledge-to-support-saudi-arabia-after-houthi-att-51e2c9b1",
@@ -523,53 +523,53 @@
           "url": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html"
         }
       ],
-      "impact": 72
+      "impact": 70
     },
     {
-      "id": "25-years-after-9-11-documents-reveal-saudi-elite-funding-for-al-qaeda-460cd286",
-      "region": "Middle East",
+      "id": "india-s-crackdown-on-cockroaches-critics-and-cameras-383056da",
+      "region": "Asia-Pacific",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "25 years after 9/11, documents reveal Saudi elite funding for Al-Qaeda",
-      "published_at": "2026-10-18T18:30:09.000Z",
-      "image": "https://img.lemde.fr/2026/09/27/1567/0/4114/2057/644/322/60/0/7734bb0_upload-1-vf4deot5nch8-qaida.jpg",
-      "image_alt": "25 years after 9/11, documents reveal Saudi elite funding for Al-Qaeda",
+      "urgency": "Update",
+      "headline": "India’s crackdown on cockroaches, critics and cameras",
+      "published_at": "2026-10-18T19:31:45.000Z",
+      "image": "",
+      "image_alt": "India’s crackdown on cockroaches, critics and cameras",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/18/25-years-after-9-11-documents-reveal-saudi-elite-funding-for-al-qaeda_6758737_4.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss"
         }
       ],
-      "impact": 71
+      "impact": 69
     },
     {
-      "id": "french-riots-a-gift-for-le-pen-6b8e3731",
-      "region": "Europe",
+      "id": "u-s-officials-condemn-west-bank-attacks-as-netanyahu-casts-doubt-on-th-3cc43513",
+      "region": "Americas",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "French Riots: A Gift for Le Pen?",
-      "published_at": "2026-10-18T18:25:51.000Z",
-      "image": "https://s.france24.com/media/display/95985c86-cb1c-11f1-9116-638c1c1f5fd6/w:1024/p:16x9/Untitled-Sequence-01-25.jpg",
-      "image_alt": "French Riots: A Gift for Le Pen?",
+      "urgency": "Update",
+      "headline": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+      "published_at": "2026-10-18T19:23:33.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html"
         }
       ],
-      "impact": 71
+      "impact": 69
     }
   ]
 }
