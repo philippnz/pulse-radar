@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:24:33.739Z",
+  "updated_at": "2026-10-19T22:32:34.402Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "tennis-star-svitolina-says-emotional-toll-of-ukraine-war-led-to-monfil-1abb888c",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "published_at": "2026-10-19T21:02:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
     {
       "id": "houthi-missile-strike-on-yemen-camp-kills-50-security-recruits-local-a-713f2e04",
       "region": "Middle East",
@@ -40,17 +63,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 88
+      "impact": 84
     },
     {
-      "id": "trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel-3f961ec1",
+      "id": "egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia-28d843fa",
       "region": "Middle East",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "published_at": "2026-10-19T17:16:22.000Z",
+      "urgency": "Live",
+      "headline": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "published_at": "2026-10-19T21:46:00.000Z",
       "image": "",
-      "image_alt": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+      "image_alt": "Egyptian parliament delays vote on military support for Saudi Arabia",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,20 +83,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 81
     },
     {
-      "id": "how-hsbc-s-sharia-fund-invested-millions-in-israeli-war-linked-firms-249d6d11",
-      "region": "World",
-      "topic": "Security",
+      "id": "160-people-reported-killed-in-escalating-drone-attacks-across-sudan-bab90093",
+      "region": "Africa",
+      "topic": "World",
       "urgency": "Breaking",
-      "headline": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
-      "published_at": "2026-10-19T17:14:41.000Z",
+      "headline": "160 people reported killed in escalating drone attacks across Sudan",
+      "published_at": "2026-10-19T21:38:46.000Z",
       "image": "",
-      "image_alt": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
+      "image_alt": "160 people reported killed in escalating drone attacks across Sudan",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "could-your-halal-pension-be-funding-israel-s-military-7e6fac4d",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Could your halal pension be funding Israel’s military?",
+      "published_at": "2026-10-19T21:28:02.000Z",
+      "image": "",
+      "image_alt": "Could your halal pension be funding Israel’s military?",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,33 +129,79 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 81
     },
     {
-      "id": "australian-mp-critically-injured-after-being-hit-by-car-in-apparent-at-73d1aff3",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Australian MP critically injured after being hit by car in apparent attack",
-      "published_at": "2026-10-19T14:09:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg",
-      "image_alt": "Australian MP critically injured after being hit by car in apparent attack",
+      "id": "ex-openai-worker-accused-of-planting-device-had-saudi-support-says-cou-f9cad54f",
+      "region": "Middle East",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "published_at": "2026-10-19T21:12:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+      "image_alt": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 86
+      "impact": 79
+    },
+    {
+      "id": "the-french-teen-maimed-during-school-unrest-by-tear-gas-grenade-f8a5a257",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "published_at": "2026-10-19T22:20:21.000Z",
+      "image": "",
+      "image_alt": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ukrainians-dying-because-us-restricting-intelligence-sharing-zelensky--a47baae2",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "published_at": "2026-10-19T20:49:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
+      "image_alt": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "drone-attack-near-market-kills-80-in-sudan-f44b8b32",
@@ -132,30 +224,30 @@
           "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan"
         }
       ],
-      "impact": 82
+      "impact": 78
     },
     {
-      "id": "qatar-to-announce-a-new-regional-defence-partnership-21d2a638",
-      "region": "Middle East",
-      "topic": "Security",
+      "id": "italy-faces-parallel-protests-in-the-north-and-south-70e71748",
+      "region": "Europe",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Qatar to announce a new regional defence partnership",
-      "published_at": "2026-10-19T17:27:18.000Z",
-      "image": "",
-      "image_alt": "Qatar to announce a new regional defence partnership",
+      "headline": "Italy Faces Parallel Protests in the North and South",
+      "published_at": "2026-10-19T21:55:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-mediumSquareAt3X.jpg",
+      "image_alt": "Italy Faces Parallel Protests in the North and South",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html"
         }
       ],
-      "impact": 81
+      "impact": 77
     },
     {
       "id": "can-diplomacy-stop-another-ethiopia-eritrea-war-8eeecf56",
@@ -178,7 +270,53 @@
           "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 81
+      "impact": 77
+    },
+    {
+      "id": "israeli-police-say-they-arrested-10-in-connection-with-settler-attacks-cb071dff",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Israeli police say they arrested 10 in connection with settler attacks",
+      "published_at": "2026-10-19T21:00:03.000Z",
+      "image": "",
+      "image_alt": "Israeli police say they arrested 10 in connection with settler attacks",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-approval-hits-record-low-31-percent-polls-show-republican-strugg-ae34dde5",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "published_at": "2026-10-19T20:59:05.000Z",
+      "image": "",
+      "image_alt": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "houthi-strike-on-yemen-government-military-camp-kills-at-least-50-b4a153dc",
@@ -201,53 +339,126 @@
           "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 80
+      "impact": 76
     },
     {
-      "id": "four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base-a242bc05",
-      "region": "Americas",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Four soldiers dead, dozens injured in fire at Canada military base",
-      "published_at": "2026-10-19T14:25:09.000Z",
-      "image": "https://s.france24.com/media/display/e49123dc-a087-11f1-8dc3-005056a97e36/w:1024/p:16x9/2026-08-24T163056Z-1186857443-RC2R3NAM318W-RTRMADP-3-CANADA-DEFENSE-ICEBREAKERS.jpg",
-      "image_alt": "Four soldiers dead, dozens injured in fire at Canada military base",
+      "id": "le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says-816c4c54",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Le Pen 'trying to use these events to push her popularity', expert says",
+      "published_at": "2026-10-19T20:54:57.000Z",
+      "image": "https://s.france24.com/media/display/2d2b7ad4-cbfd-11f1-9eb7-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-213106-213952-CS.jpg",
+      "image_alt": "Le Pen 'trying to use these events to push her popularity', expert says",
       "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base"
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261019-le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says"
         }
       ],
-      "impact": 80
+      "impact": 75
     },
     {
-      "id": "kenya-cult-leader-who-told-parents-to-starve-children-guilty-of-191-mu-6eafe859",
-      "region": "Africa",
+      "id": "injured-ukrainian-soldier-rescued-in-first-ever-drone-evacuation-missi-0116e9c3",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "published_at": "2026-10-19T17:18:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "headline": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+      "published_at": "2026-10-19T20:49:39.000Z",
+      "image": "",
+      "image_alt": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss"
         }
       ],
-      "impact": 79
+      "impact": 75
+    },
+    {
+      "id": "kenya-convicts-cult-leader-over-the-murder-of-190-children-be095950",
+      "region": "Africa",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Kenya convicts cult leader over the murder of 190 children",
+      "published_at": "2026-10-19T20:31:21.000Z",
+      "image": "",
+      "image_alt": "Kenya convicts cult leader over the murder of 190 children",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "trump-signs-order-launching-women-s-health-division-at-nih-white-house-b2aaad57",
+      "region": "World",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Trump signs order launching women’s health division at NIH, White House",
+      "published_at": "2026-10-19T20:29:46.000Z",
+      "image": "",
+      "image_alt": "Trump signs order launching women’s health division at NIH, White House",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "for-israelis-and-jews-in-the-u-a-e-an-eroding-sense-of-security-e008fdf2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+      "published_at": "2026-10-19T20:14:21.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00int-dubai-israel-1-kzjq/00int-dubai-israel-1-kzjq-mediumSquareAt3X.jpg",
+      "image_alt": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "who-is-abdul-malik-al-houthi-the-reclusive-houthi-leader-shaped-by-war-a3fdd38e",
@@ -270,306 +481,99 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/10/19/who-is-abdul-malik-al-houthi-the-reclusive-houthi-leader-shaped-by-war_6758804_4.html"
         }
       ],
-      "impact": 79
+      "impact": 75
     },
     {
-      "id": "ex-openai-worker-accused-of-planting-device-had-saudi-support-says-cou-f9cad54f",
-      "region": "Middle East",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "published_at": "2026-10-19T16:22:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-      "image_alt": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "obama-blasts-federal-probe-of-congresswoman-ilhan-omar-as-so-appalling-4fd2c676",
-      "region": "World",
+      "id": "germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver-5ea6b8ef",
+      "region": "Europe",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "published_at": "2026-10-19T16:16:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg",
-      "image_alt": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus-388f358d",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
-      "published_at": "2026-10-19T17:52:10.000Z",
+      "urgency": "Breaking",
+      "headline": "Germany news: Emergency at Leipzig airport sparked by novice driver",
+      "published_at": "2026-10-19T17:26:00.000Z",
       "image": "",
-      "image_alt": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
+      "image_alt": "Germany news: Emergency at Leipzig airport sparked by novice driver",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 77
+      "impact": 74
     },
     {
-      "id": "the-french-teen-maimed-during-school-unrest-by-tear-gas-grenade-f8a5a257",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "published_at": "2026-10-19T17:50:36.000Z",
-      "image": "",
-      "image_alt": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "italy-faces-parallel-protests-in-the-north-and-south-70e71748",
+      "id": "spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions-0a9f2f6c",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Italy Faces Parallel Protests in the North and South",
-      "published_at": "2026-10-19T17:44:17.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-mediumSquareAt3X.jpg",
-      "image_alt": "Italy Faces Parallel Protests in the North and South",
+      "headline": "Spain floods kill four as torrential rain inundates eastern regions",
+      "published_at": "2026-10-19T21:39:49.000Z",
+      "image": "https://s.france24.com/media/display/e9c067e8-b287-11f1-a41a-991cccd3bb73/w:1024/p:16x9/2026-09-17T090156Z-1967335667-RC2UKNAXSDKS-RTRMADP-3-EUROPE-WEATHER-SPAIN-FLOODS.jpg",
+      "image_alt": "Spain floods kill four as torrential rain inundates eastern regions",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections-9d96ddbd",
-      "region": "World",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Chuck Schumer urges FCC to block AI robocalls before elections",
-      "published_at": "2026-10-19T17:40:56.000Z",
-      "image": "",
-      "image_alt": "Chuck Schumer urges FCC to block AI robocalls before elections",
-      "translations": {
-        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-4ea23743",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Can religion help Democrats win in red states? These faith leaders hope so",
-      "published_at": "2026-10-19T17:25:53.000Z",
-      "image": "",
-      "image_alt": "Can religion help Democrats win in red states? These faith leaders hope so",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-trea-81124d50",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
-      "published_at": "2026-10-19T17:24:28.000Z",
-      "image": "",
-      "image_alt": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "12-migrants-including-an-infant-drown-in-two-incidents-off-greece-43e28379",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "12 migrants, including an infant, drown in two incidents off Greece",
-      "published_at": "2026-10-19T17:23:56.000Z",
-      "image": "",
-      "image_alt": "12 migrants, including an infant, drown in two incidents off Greece",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "fire-at-starlink-center-in-lithuania-was-sabotage-officials-say-995a49d3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
-      "published_at": "2026-10-19T15:48:05.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg",
-      "image_alt": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "france-officials-acknowledge-failure-around-riots-64c16caf",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France Officials Acknowledge ‘Failure’ Around Riots",
-      "published_at": "2026-10-19T15:29:08.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-protests-hpjv/19int-france-protests-hpjv-mediumSquareAt3X.jpg",
-      "image_alt": "France Officials Acknowledge ‘Failure’ Around Riots",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "exiled-critic-of-rwandan-president-found-beheaded-c881f31c",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Exiled critic of Rwandan president found beheaded",
-      "published_at": "2026-10-19T13:42:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
-      "image_alt": "Exiled critic of Rwandan president found beheaded",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "kenyan-starvation-cult-leader-guilty-of-murder-of-190-children-and-one-e99b3d18",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "published_at": "2026-10-19T16:08:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/1fcb4211343f1e186853a25b4e44873a28588f33/124_21_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=cc8854a028b039b4861c34a8bb8679b9",
-      "image_alt": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions"
         }
       ],
       "impact": 73
+    },
+    {
+      "id": "france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-ite-a135da75",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France tells online marketplaces to crack down on resale of looted items",
+      "published_at": "2026-10-19T21:24:55.000Z",
+      "image": "https://s.france24.com/media/display/f2ac1af2-cc02-11f1-a7cb-6313a763b466/w:1024/p:16x9/capture-88daf37e.jpg",
+      "image_alt": "France tells online marketplaces to crack down on resale of looted items",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will--91f59e27",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
+      "published_at": "2026-10-19T20:16:10.000Z",
+      "image": "https://s.france24.com/media/display/0783efda-cbf0-11f1-9d85-638c1c1f5fd6/w:1024/p:16x9/EN-20261019-184407-185127-CS.jpg",
+      "image_alt": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft"
+        }
+      ],
+      "impact": 71
     }
   ]
 }
