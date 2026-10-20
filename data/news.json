@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:58:34.547Z",
+  "updated_at": "2026-10-20T16:37:14.911Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,52 @@
     }
   ],
   "stories": [
+    {
+      "id": "swimmer-65-killed-in-shark-attack-off-south-africa-s-east-coast-7fe05807",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "published_at": "2026-10-20T15:58:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/040a/live/55e91860-cc9c-11f1-94e6-edd4c60b2e1d.jpg",
+      "image_alt": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
+      "id": "sudan-army-drones-hit-mourners-and-fuel-market-killing-more-than-300-p-ff7e710f",
+      "region": "Africa",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "published_at": "2026-10-20T16:09:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png",
+      "image_alt": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
     {
       "id": "man-charged-with-attack-on-australian-mp-as-suspect-s-father-says-she--dfd18470",
       "region": "World",
@@ -40,178 +86,132 @@
           "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 89
+      "impact": 85
     },
     {
-      "id": "australian-mp-helen-haines-remains-in-critical-condition-after-car-att-ced2d8d6",
-      "region": "World",
+      "id": "more-than-150-killed-in-sudan-drone-strike-on-disputed-abyei-border-re-d2c72c48",
+      "region": "Africa",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Australian MP Helen Haines remains in critical condition after car attack",
-      "published_at": "2026-10-20T11:29:35.000Z",
-      "image": "",
-      "image_alt": "Australian MP Helen Haines remains in critical condition after car attack",
+      "headline": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+      "published_at": "2026-10-20T16:24:47.000Z",
+      "image": "https://s.france24.com/media/display/06f56856-cc9e-11f1-acba-638c1c1f5fd6/w:1024/p:16x9/AP071212050372.jpg",
+      "image_alt": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
       "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "trump-official-claims-record-breaking-300-000-visas-were-revoked-610d5088",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Trump official claims record-breaking 300,000 visas were revoked",
+      "published_at": "2026-10-20T16:02:47.000Z",
+      "image": "",
+      "image_alt": "Trump official claims record-breaking 300,000 visas were revoked",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss"
-        }
-      ],
-      "impact": 87
-    },
-    {
-      "id": "attack-on-australian-lawmaker-prompts-calls-to-dial-down-political-ten-6e23071e",
-      "region": "World",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
-      "published_at": "2026-10-20T10:59:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20-int-oz-lawmaker-lzbf/20-int-oz-lawmaker-lzbf-mediumSquareAt3X.jpg",
-      "image_alt": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html"
-        }
-      ],
-      "impact": 87
-    },
-    {
-      "id": "zelenskyy-to-hold-talks-on-russia-ukraine-war-with-witkoff-europeans-ea0a3a22",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-      "published_at": "2026-10-20T10:24:28.000Z",
-      "image": "",
-      "image_alt": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss"
-        }
-      ],
-      "impact": 86
-    },
-    {
-      "id": "france-to-extend-curfews-after-a-night-of-calm-prime-minister-says-1a4f5dab",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
-      "published_at": "2026-10-20T11:14:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-france-riots-cpkz/20int-france-riots-cpkz-mediumSquareAt3X.jpg",
-      "image_alt": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
+          "url": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss"
         }
       ],
       "impact": 82
     },
     {
-      "id": "france-s-growing-debt-woes-how-bond-markets-set-countries-borrowing-co-a0374d8d",
+      "id": "lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis-214d754e",
       "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-      "published_at": "2026-10-20T10:53:01.000Z",
-      "image": "",
-      "image_alt": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack-de400b9a",
-      "region": "Middle East",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "published_at": "2026-10-20T10:36:57.000Z",
-      "image": "",
-      "image_alt": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "suspect-arrested-after-historic-town-hall-set-alight-4b8edebc",
-      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Suspect arrested after historic town hall set alight",
-      "published_at": "2026-10-20T11:47:39.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
-      "image_alt": "Suspect arrested after historic town hall set alight",
+      "urgency": "Breaking",
+      "headline": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+      "published_at": "2026-10-20T16:01:01.000Z",
+      "image": "",
+      "image_alt": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss"
         }
       ],
-      "impact": 80
+      "impact": 82
     },
     {
-      "id": "zelensky-prepares-for-oslo-talks-with-us-envoys-as-rubio-denies-withho-0420afff",
+      "id": "not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu-863c0ba4",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
+      "published_at": "2026-10-20T15:46:30.000Z",
+      "image": "",
+      "image_alt": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "eastern-libya-parliament-approves-2019-maritime-deal-with-turkiye-45bb5c89",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+      "published_at": "2026-10-20T15:19:17.000Z",
+      "image": "",
+      "image_alt": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "zelensky-and-us-envoys-holding-oslo-talks-as-rubio-denies-withholding--0420afff",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-      "published_at": "2026-10-20T11:30:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fb/live/f03704d0-cc7a-11f1-bed8-c51b95c602ec.jpg",
-      "image_alt": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "headline": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "published_at": "2026-10-20T16:11:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f072/live/051b0900-cc94-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -227,14 +227,14 @@
       "impact": 80
     },
     {
-      "id": "residents-warned-not-to-drink-tap-water-after-hundreds-fall-sick-near--542625cb",
-      "region": "Africa",
+      "id": "alberta-votes-overwhelmingly-to-remain-part-of-canada-a6390fdb",
+      "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
-      "published_at": "2026-10-20T11:09:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0859/live/174e7650-cc64-11f1-b1a3-5bda642ff934.jpg",
-      "image_alt": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "headline": "Alberta votes overwhelmingly to remain part of Canada",
+      "published_at": "2026-10-20T15:45:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg",
+      "image_alt": "Alberta votes overwhelmingly to remain part of Canada",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,20 +244,43 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
     },
     {
-      "id": "the-mayor-of-a-city-in-haiti-warned-of-a-massacre-no-one-listened-da47f3ae",
-      "region": "World",
+      "id": "flavio-bolsonaro-s-corrupto-stunt-sparks-viral-meme-before-brazil-elec-0420ef42",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "published_at": "2026-10-20T15:41:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/693b685efa99890c59fcc2ef30cf05e163c53c8a/307_256_1170_936/master/1170.jpg?width=140&quality=85&auto=format&fit=max&s=752490fabb0a4de0fcbc405225e12f51",
+      "image_alt": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "rubio-travels-to-india-to-strengthen-economic-ties-amid-strained-u-s-r-a021a26c",
+      "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
-      "published_at": "2026-10-20T11:46:31.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-haiti-kenscoff-massacre01-photo-mwjb/00int-haiti-kenscoff-massacre01-photo-mwjb-mediumSquareAt3X.jpg",
-      "image_alt": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+      "headline": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
+      "published_at": "2026-10-20T16:32:18.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-rubio-india-fqjh/20int-rubio-india-fqjh-mediumSquareAt3X.jpg",
+      "image_alt": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -267,20 +290,43 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html"
+          "url": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html"
         }
       ],
       "impact": 78
     },
     {
-      "id": "uk-to-deploy-typhoon-jets-to-help-defend-saudi-arabia-from-houthi-atta-60b8a231",
+      "id": "france-s-decades-long-ties-with-gulf-states-built-on-economic-developm-f5396bff",
       "region": "Europe",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
+      "published_at": "2026-10-20T15:52:47.000Z",
+      "image": "https://s.france24.com/media/display/4d3474bc-cc97-11f1-b7a6-638c1c1f5fd6/w:1024/p:16x9/EN-20261020-140836-141726-CS.jpg",
+      "image_alt": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ferry-catches-fire-near-indonesian-port-all-passengers-rescued-ac8fcf03",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
-      "published_at": "2026-10-20T11:37:43.000Z",
+      "headline": "Ferry catches fire near Indonesian port, all passengers rescued",
+      "published_at": "2026-10-20T16:13:16.000Z",
       "image": "",
-      "image_alt": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "image_alt": "Ferry catches fire near Indonesian port, all passengers rescued",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -290,10 +336,125 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss"
         }
       ],
       "impact": 77
+    },
+    {
+      "id": "france-to-extend-curfews-after-calm-night-follows-days-of-riots-1a4f5dab",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "published_at": "2026-10-20T16:06:12.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-france-riots-cpkz/20int-france-riots-cpkz-mediumSquareAt3X-v2.jpg",
+      "image_alt": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "psg-vs-barcelona-live-champions-league-e65cba01",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "PSG vs Barcelona LIVE: Champions League",
+      "published_at": "2026-10-20T16:00:00.000Z",
+      "image": "",
+      "image_alt": "PSG vs Barcelona LIVE: Champions League",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "romanian-parliament-approves-pro-eu-government-after-months-of-deadloc-46e424d8",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Romanian parliament approves pro-EU government after months of deadlock",
+      "published_at": "2026-10-20T15:48:16.000Z",
+      "image": "https://img.lemde.fr/2026/10/20/595/0/7148/3574/644/322/60/0/6a459d3_ftp-1-4rqcklgpnioz-2026-10-20t134748z-1244162878-rc217oa44ftu-rtrmadp-3-romania-politics-government.JPG",
+      "image_alt": "Romanian parliament approves pro-EU government after months of deadlock",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/20/romanian-parliament-approves-pro-eu-government-after-months-of-deadlock_6760195_4.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "french-justice-minister-promises-extremely-firm-punishment-for-rioters-3bb60e37",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "French Justice Minister promises 'extremely firm' punishment for rioters",
+      "published_at": "2026-10-20T14:37:03.000Z",
+      "image": "https://s.france24.com/media/display/373cdad0-cbea-11f1-898f-d1d2c32ebb87/w:1024/p:16x9/000-D38V3NJ.jpg",
+      "image_alt": "French Justice Minister promises 'extremely firm' punishment for rioters",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach-747c078b",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+      "published_at": "2026-10-20T15:57:47.000Z",
+      "image": "",
+      "image_alt": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss"
+        }
+      ],
+      "impact": 76
     },
     {
       "id": "hegseth-said-to-make-unannounced-visit-to-israel-for-talks-with-netany-b4dbadab",
@@ -301,7 +462,7 @@
       "topic": "World",
       "urgency": "Live",
       "headline": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
-      "published_at": "2026-10-20T11:24:03.000Z",
+      "published_at": "2026-10-20T15:21:16.000Z",
       "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-israel-hegseth-wzmj/20int-israel-hegseth-wzmj-mediumSquareAt3X.jpg",
       "image_alt": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
       "translations": {
@@ -316,260 +477,99 @@
           "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html"
         }
       ],
-      "impact": 77
+      "impact": 76
     },
     {
-      "id": "the-a-i-data-center-backlash-has-reached-a-quiet-corner-of-rural-engla-7a2e2327",
-      "region": "World",
-      "topic": "Technology",
+      "id": "yemen-s-taiz-faces-deadly-siege-as-shabwah-death-toll-rises-fe0293c9",
+      "region": "Middle East",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
-      "published_at": "2026-10-20T11:06:36.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-uk-data-01-fqvg/20int-uk-data-01-fqvg-mediumSquareAt3X.jpg",
-      "image_alt": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+      "headline": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "published_at": "2026-10-20T15:02:34.000Z",
+      "image": "",
+      "image_alt": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
       "translations": {
-        "en": "PULSE is tracking this technology update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "yemeni-city-of-taiz-running-out-of-essentials-as-houthis-close-in-7d66b331",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "published_at": "2026-10-20T14:28:28.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-yemen-taiz-1-zhtk/20int-yemen-taiz-1-zhtk-mediumSquareAt3X.jpg",
+      "image_alt": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "myanmar-s-detained-ex-leader-suu-kyi-receives-package-from-king-charle-6f73d80d",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
-      "published_at": "2026-10-20T11:07:55.000Z",
-      "image": "",
-      "image_alt": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss"
+          "url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html"
         }
       ],
       "impact": 76
     },
     {
-      "id": "masoud-pezeshkian-peace-not-surrender-f940e4ce",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Masoud Pezeshkian: Peace, Not Surrender",
-      "published_at": "2026-10-20T11:02:31.000Z",
-      "image": "",
-      "image_alt": "Masoud Pezeshkian: Peace, Not Surrender",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "french-10-year-government-bond-spread-vs-germany-highest-since-2012-c975abd1",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "French 10-year government bond spread vs Germany highest since 2012",
-      "published_at": "2026-10-20T10:07:58.000Z",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/c4672f4_upload-1-ujmazdjtr0fc-frame-841.jpg",
-      "image_alt": "French 10-year government bond spread vs Germany highest since 2012",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/10/20/french-10-year-government-bond-spread-vs-germany-highest-since-2012_6759634_19.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "trump-s-approval-ratings-plummet-what-that-means-for-the-us-midterms-f36a84d3",
+      "id": "alberta-voters-reject-plan-for-referendum-to-leave-canada-19ea2217",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trump’s approval ratings plummet: what that means for the US midterms",
-      "published_at": "2026-10-20T10:13:19.000Z",
-      "image": "",
-      "image_alt": "Trump’s approval ratings plummet: what that means for the US midterms",
+      "headline": "Alberta voters reject plan for referendum to leave Canada",
+      "published_at": "2026-10-20T16:24:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=cb87d3a4c0464016bf02e71c83492916",
+      "image_alt": "Alberta voters reject plan for referendum to leave Canada",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
         }
       ],
       "impact": 75
     },
     {
-      "id": "france-protests-show-europe-s-shift-away-from-centrist-politics-35844c00",
-      "region": "Europe",
+      "id": "bad-decisions-man-convicted-for-taking-peachy-the-flamingo-from-las-ve-d18155f1",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "France Protests Show Europe’s Shift Away From Centrist Politics",
-      "published_at": "2026-10-20T09:01:52.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-europe-democracy-analysis-lvhw/20int-europe-democracy-analysis-lvhw-mediumSquareAt3X.jpg",
-      "image_alt": "France Protests Show Europe’s Shift Away From Centrist Politics",
+      "headline": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "published_at": "2026-10-20T16:11:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/347c2b50dd40c786867351c740f195ced11a57b8/473_141_1639_1312/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=635bf0e9c4b8dc84b4bd5298215e9905",
+      "image_alt": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel"
         }
       ],
       "impact": 75
-    },
-    {
-      "id": "a-chef-celebrates-immigrant-flavors-in-anti-migrant-south-africa-081dc1b7",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
-      "published_at": "2026-10-20T09:00:10.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/00int-safrica-chef-profile01-photo-wtfv/00int-safrica-chef-profile01-photo-wtfv-mediumSquareAt3X.jpg",
-      "image_alt": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "very-poor-communicators-macron-his-govt-fail-to-address-genuine-concer-ad901eb6",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'Very poor communicators: Macron & his govt fail to address 'genuine concerns of the French people'",
-      "published_at": "2026-10-20T11:49:16.000Z",
-      "image": "https://s.france24.com/media/display/66fcfa2c-cc6f-11f1-9306-6313a763b466/w:1024/p:16x9/EN-20261019-151050-152231-CS.jpg",
-      "image_alt": "'Very poor communicators: Macron & his govt fail to address 'genuine concerns of the French people'",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/very-poor-communicators-macron-his-govt-fail-to-address-genuine-concerns-of-the-french-people"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "north-korean-workers-treated-as-apos-slaves-apos-at-russian-drone-fact-7ad424bc",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "North Korean workers treated as &apos;slaves&apos; at Russian drone factory, says new report",
-      "published_at": "2026-10-20T11:30:00.000Z",
-      "image": "",
-      "image_alt": "North Korean workers treated as &apos;slaves&apos; at Russian drone factory, says new report",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "france-imposes-curfews-after-weekend-violence-but-is-it-too-much-or-to-fdbfa01b",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France imposes curfews after weekend violence, but is it too much or too little?",
-      "published_at": "2026-10-20T11:47:03.000Z",
-      "image": "https://s.france24.com/media/display/f16b8980-cc4c-11f1-b509-6313a763b466/w:1024/p:16x9/Anglais-2026-10-20T05-22-28-363Z.jpg",
-      "image_alt": "France imposes curfews after weekend violence, but is it too much or too little?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/press-review/20261020-france-imposes-curfews-after-weekend-violence-but-is-it-too-much-or-too-little"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "uk-promises-fighter-jets-to-help-protect-saudi-from-houthi-attacks-27264571",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UK promises fighter jets to help protect Saudi from Houthi attacks",
-      "published_at": "2026-10-20T11:45:59.000Z",
-      "image": "https://img.lemde.fr/2026/03/07/300/0/3600/1800/644/322/60/0/b9b1e3b_ftp-1-whhk0qpk7y5z-2026-03-07t091059z-1534388852-rc25zjarb712-rtrmadp-3-iran-crisis-britain.JPG",
-      "image_alt": "UK promises fighter jets to help protect Saudi from Houthi attacks",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/10/20/uk-promises-fighter-jets-to-help-protect-saudi-from-houthi-attacks_6759832_4.html"
-        }
-      ],
-      "impact": 73
     }
   ]
 }
