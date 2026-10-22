@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:09:59.899Z",
+  "updated_at": "2026-10-22T00:05:23.836Z",
   "languages": [
     {
       "code": "en",
@@ -19,6 +19,29 @@
     }
   ],
   "stories": [
+    {
+      "id": "iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive-6f2bb2e7",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "published_at": "2026-10-22T00:00:00.000Z",
+      "image": "",
+      "image_alt": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
     {
       "id": "targeted-attack-on-much-loved-mp-leaves-australian-town-heartbroken-2dc1e07b",
       "region": "World",
@@ -40,53 +63,76 @@
           "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 84
     },
     {
-      "id": "russia-says-it-is-ready-to-resume-talks-with-ukraine-and-us-to-end-war-020c23c2",
+      "id": "war-in-ukraine-bolstered-by-donald-trump-s-support-vladimir-putin-refu-18c222eb",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "published_at": "2026-10-21T17:42:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
-      "image_alt": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "headline": "War in Ukraine: Bolstered by Donald Trump's support, Vladimir Putin refuses to back down",
+      "published_at": "2026-10-21T23:54:59.000Z",
+      "image": "https://img.lemde.fr/2026/10/21/0/0/4487/2243/644/322/60/0/20dc4fc_ftp-1-niattlokmzev-d07c917c76644fbca518f81f0150e33f-0-bbd01f44e6374c8792c7d096035e9d02.jpg",
+      "image_alt": "War in Ukraine: Bolstered by Donald Trump's support, Vladimir Putin refuses to back down",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/22/war-in-ukraine-bolstered-by-donald-trump-s-support-vladimir-putin-refuses-to-back-down_6761086_4.html"
         }
       ],
-      "impact": 87
+      "impact": 83
     },
     {
-      "id": "rosenberg-us-diplomatic-push-offers-little-hope-for-imminent-ukraine-p-4a380580",
-      "region": "Europe",
+      "id": "us-accuses-canada-of-election-interference-ahead-of-midterms-4cb68202",
+      "region": "Americas",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "published_at": "2026-10-21T19:58:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/adcfbb20-cd86-11f1-a64c-550be9e3c66b.jpg",
-      "image_alt": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "headline": "US accuses Canada of election interference ahead of midterms",
+      "published_at": "2026-10-21T23:52:21.000Z",
+      "image": "",
+      "image_alt": "US accuses Canada of election interference ahead of midterms",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss"
         }
       ],
-      "impact": 84
+      "impact": 82
+    },
+    {
+      "id": "sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis-a6b86e41",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Sudan’s war escalates as UN warns of wider regional crisis",
+      "published_at": "2026-10-21T22:41:43.000Z",
+      "image": "https://s.france24.com/media/display/25d330b6-cda0-11f1-942a-8bea73bbe173/w:1024/p:16x9/capture-3969bf04.jpg",
+      "image_alt": "Sudan’s war escalates as UN warns of wider regional crisis",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis"
+        }
+      ],
+      "impact": 82
     },
     {
       "id": "drone-strike-kills-more-than-150-in-abyei-in-sudan-s-civil-war-4511b27b",
@@ -109,30 +155,7 @@
           "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html"
         }
       ],
-      "impact": 83
-    },
-    {
-      "id": "neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of--b25066b9",
-      "region": "Africa",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-      "published_at": "2026-10-21T19:28:21.000Z",
-      "image": "https://s.france24.com/media/display/303326fa-cd83-11f1-989f-4da0d2c6855d/w:1024/p:16x9/EN-20261021-203844-205016-CS.jpg",
-      "image_alt": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war"
-        }
-      ],
-      "impact": 82
+      "impact": 80
     },
     {
       "id": "family-of-prison-officer-killed-by-ira-receives-state-apology-dd065b9d",
@@ -155,7 +178,53 @@
           "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 81
+      "impact": 78
+    },
+    {
+      "id": "what-happened-during-witkoff-and-kushner-s-latest-meeting-with-putin-2b218285",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "published_at": "2026-10-21T23:52:00.000Z",
+      "image": "",
+      "image_alt": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "missiles-hit-kyiv-after-russia-agrees-to-us-call-to-resume-ukraine-pea-020c23c2",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "published_at": "2026-10-21T21:27:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
+      "image_alt": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "netanyahu-s-campaign-promise-for-israel-war-and-unprecedented-isolatio-6b5cb0a7",
@@ -178,13 +247,316 @@
           "url": "https://www.lemonde.fr/en/opinion/article/2026/10/21/netanyahu-s-campaign-promise-for-israel-war-and-unprecedented-isolation_6761006_23.html"
         }
       ],
-      "impact": 80
+      "impact": 77
+    },
+    {
+      "id": "pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say-b328af36",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "published_at": "2026-10-21T23:20:58.000Z",
+      "image": "",
+      "image_alt": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "nigeria-s-first-ebola-case-matches-dr-congo-strain-health-officials-sa-301c889e",
+      "region": "Africa",
+      "topic": "Health",
+      "urgency": "Live",
+      "headline": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "published_at": "2026-10-21T23:20:12.000Z",
+      "image": "",
+      "image_alt": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "translations": {
+        "en": "PULSE is tracking this health update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threa-8de9a410",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "published_at": "2026-10-21T23:13:35.000Z",
+      "image": "",
+      "image_alt": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "rosenberg-us-diplomatic-push-offers-little-hope-for-imminent-ukraine-p-4a380580",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "published_at": "2026-10-21T19:58:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/adcfbb20-cd86-11f1-a64c-550be9e3c66b.jpg",
+      "image_alt": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "canadian-publisher-drops-writer-thelyson-orelien-over-ai-use-in-novel-fb423e23",
+      "region": "Americas",
+      "topic": "Technology",
+      "urgency": "Live",
+      "headline": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "published_at": "2026-10-21T22:16:50.000Z",
+      "image": "",
+      "image_alt": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "translations": {
+        "en": "PULSE is tracking this technology update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "video-shows-israeli-settler-assaulting-palestinian-child-05582b9b",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Video shows Israeli settler assaulting Palestinian child",
+      "published_at": "2026-10-21T22:03:54.000Z",
+      "image": "",
+      "image_alt": "Video shows Israeli settler assaulting Palestinian child",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-fr-132621c4",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+      "published_at": "2026-10-21T21:25:55.000Z",
+      "image": "https://s.france24.com/media/display/1a4b29ca-cd95-11f1-b0eb-eb48fa034ddc/w:1024/p:16x9/capture-db043303.jpg",
+      "image_alt": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261021-in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-french-anger-ngo-finds"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-french-anger-ngo-finds"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "german-youth-plan-france-style-mass-protests-fc7972a9",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "German youth plan France-style mass protests",
+      "published_at": "2026-10-21T23:11:00.000Z",
+      "image": "",
+      "image_alt": "German youth plan France-style mass protests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "france-bans-protests-in-parts-of-paris-as-macron-slams-trump-5a4dc09f",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France bans protests in parts of Paris as Macron slams Trump",
+      "published_at": "2026-10-21T22:32:00.000Z",
+      "image": "",
+      "image_alt": "France bans protests in parts of Paris as Macron slams Trump",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "greek-youth-take-inspiration-from-france-in-protests-over-living-condi-e4cf2d6e",
+      "region": "Europe",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Greek youth take inspiration from France in protests over living conditions and deteriorating public education",
+      "published_at": "2026-10-21T22:55:34.000Z",
+      "image": "https://img.lemde.fr/2026/10/21/0/0/7000/3500/644/322/60/0/5c07827_ftp-1-4aa226b5hj5o-2026-10-21t123958z-639899882-rc2l7oagq6qo-rtrmadp-3-greece-protest-students.JPG",
+      "image_alt": "Greek youth take inspiration from France in protests over living conditions and deteriorating public education",
+      "translations": {
+        "en": "PULSE is tracking this society update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/22/greek-youth-take-inspiration-from-france-in-protests-over-living-conditions-and-deteriorating-public-education_6761053_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "trump-admin-destroying-us-democracy-with-autocratic-terrorist-version--ec6617d2",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+      "published_at": "2026-10-21T22:11:27.000Z",
+      "image": "https://s.france24.com/media/display/8a7272dc-cd98-11f1-85be-eb48fa034ddc/w:1024/p:16x9/EN-20261021-183123-184644-CS.jpg",
+      "image_alt": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261021-trump-admin-destroying-us-democracy-with-autocratic-terrorist-version-of-christian-nationalism"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "pope-leo-xiv-needs-no-further-lung-cancer-treatment-vatican-says-e0354149",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
+      "published_at": "2026-10-21T21:41:19.000Z",
+      "image": "https://s.france24.com/media/display/b41a22fe-c890-11f1-a617-638c1c1f5fd6/w:1024/p:16x9/a500a554ba3451dad313bfe8432e2e3bdb181bca.jpg",
+      "image_alt": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "meta-fined-25-billion-in-new-mexico-over-cambridge-analytica-scandal-f67870a5",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
+      "published_at": "2026-10-21T21:21:41.000Z",
+      "image": "https://s.france24.com/media/display/16d2f3f4-cd8b-11f1-8bdc-19980254bb31/w:1024/p:16x9/7556d68f38536bf467bad2236ea4c8d933e4e776.jpg",
+      "image_alt": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal"
+        }
+      ],
+      "impact": 71
     },
     {
       "id": "ex-prosecutor-charged-with-treason-in-mexico-over-us-drug-raid-5b107627",
       "region": "Americas",
       "topic": "World",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Ex-prosecutor charged with treason in Mexico over US drug raid",
       "published_at": "2026-10-21T20:19:51.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0463/live/f6cb33e0-cd86-11f1-b1e7-39558e114359.jpg",
@@ -201,375 +573,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 79
-    },
-    {
-      "id": "pope-does-not-need-further-treatment-after-lung-cancer-surgery-50a5c84e",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope does not need further treatment after lung cancer surgery",
-      "published_at": "2026-10-21T20:09:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg",
-      "image_alt": "Pope does not need further treatment after lung cancer surgery",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "french-bond-yields-hit-24-year-high-after-unrest-86ab8f78",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "French bond yields hit 24-year high after unrest",
-      "published_at": "2026-10-21T20:43:53.000Z",
-      "image": "https://s.france24.com/media/display/8e693830-cd8e-11f1-82a7-ab78a7fed2ce/w:1024/p:16x9/capture-e0c7d62e.jpg",
-      "image_alt": "French bond yields hit 24-year high after unrest",
-      "translations": {
-        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "eu-prosecutors-search-european-parliament-offices-of-far-right-group-14c452f1",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "EU prosecutors search European Parliament offices of far-right group",
-      "published_at": "2026-10-21T20:21:16.000Z",
-      "image": "https://s.france24.com/media/display/350276dc-cd8c-11f1-b816-eb48fa034ddc/w:1024/p:16x9/EN-20261021-220512-220953-CS.jpg",
-      "image_alt": "EU prosecutors search European Parliament offices of far-right group",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade-a9531dd1",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
-      "published_at": "2026-10-21T20:51:23.000Z",
-      "image": "",
-      "image_alt": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "video-shows-israeli-settler-assaulting-palestinian-child-2ea27800",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Video shows Israeli settler assaulting Palestinian child",
-      "published_at": "2026-10-21T20:34:57.000Z",
-      "image": "",
-      "image_alt": "Video shows Israeli settler assaulting Palestinian child",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "jason-alexander-recalls-palestinian-protection-in-ramallah-d8cf0795",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Jason Alexander recalls Palestinian protection in Ramallah",
-      "published_at": "2026-10-21T20:18:02.000Z",
-      "image": "",
-      "image_alt": "Jason Alexander recalls Palestinian protection in Ramallah",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote-7d5381ad",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-      "published_at": "2026-10-21T19:51:29.000Z",
-      "image": "",
-      "image_alt": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "what-happened-to-australian-politician-helen-haines-640c17fb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What happened to Australian politician Helen Haines?",
-      "published_at": "2026-10-21T19:38:02.000Z",
-      "image": "",
-      "image_alt": "What happened to Australian politician Helen Haines?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "uk-conservative-party-suspends-ex-candidate-after-al-jazeera-investiga-4ee5dc46",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "UK Conservative Party suspends ex-candidate after Al Jazeera investigation",
-      "published_at": "2026-10-21T19:36:54.000Z",
-      "image": "",
-      "image_alt": "UK Conservative Party suspends ex-candidate after Al Jazeera investigation",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "macron-says-trump-does-not-like-france-and-distorts-its-troubles-a0fc5862",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-      "published_at": "2026-10-21T19:16:14.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
-      "image_alt": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "india-s-cockroach-leaders-free-after-a-week-in-jail-4edd7b1b",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "India’s ‘Cockroach’ leaders free after a week in jail",
-      "published_at": "2026-10-21T19:17:51.000Z",
-      "image": "",
-      "image_alt": "India’s ‘Cockroach’ leaders free after a week in jail",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "tunisia-jails-opposition-politician-for-four-years-over-social-media-p-e796d619",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Tunisia jails opposition politician for four years over social media posts",
-      "published_at": "2026-10-21T19:14:49.000Z",
-      "image": "",
-      "image_alt": "Tunisia jails opposition politician for four years over social media posts",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "offices-of-european-parliament-far-right-group-raided-in-eu-funds-inve-e4603d79",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Offices of European Parliament far-right group raided in EU funds investigation",
-      "published_at": "2026-10-21T18:19:49.000Z",
-      "image": "https://img.lemde.fr/2026/09/13/500/0/3000/1500/644/322/60/0/22b8dd3_upload-1-xad81jmj11wa-rn-meetingrentre-e-asurp-208943.jpg",
-      "image_alt": "Offices of European Parliament far-right group raided in EU funds investigation",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/politics/article/2026/10/21/offices-of-european-parliament-far-right-group-raided-in-eu-funds-investigation_6761007_5.html"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-41ee4009",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-      "published_at": "2026-10-21T19:32:00.000Z",
-      "image": "",
-      "image_alt": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "meta-ordered-to-pay-25-billion-in-cambridge-analytica-case-e7eaeb2a",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-      "published_at": "2026-10-21T19:27:00.000Z",
-      "image": "",
-      "image_alt": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington-c8c2d975",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Putin agrees to resume three-way talks with Kyiv and Washington",
-      "published_at": "2026-10-21T19:32:52.000Z",
-      "image": "https://s.france24.com/media/display/a08fd0b8-cd85-11f1-b980-4da0d2c6855d/w:1024/p:16x9/EN-20261021-210107-211150-CS.jpg",
-      "image_alt": "Putin agrees to resume three-way talks with Kyiv and Washington",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington"
-        }
-      ],
-      "impact": 72
+      "impact": 71
     }
   ]
 }
