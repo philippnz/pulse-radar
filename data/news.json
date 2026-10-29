@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:29:03.858Z",
+  "updated_at": "2026-10-29T19:08:23.062Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,83 @@
   ],
   "stories": [
     {
-      "id": "carney-to-push-for-closer-ties-at-canada-eu-summit-in-montreal-eff192d7",
+      "id": "at-least-14-people-killed-in-attack-on-ukraine-train-station-693b6c6a",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "At least 14 people killed in attack on Ukraine train station",
+      "published_at": "2026-10-29T18:03:21.000Z",
+      "image": "",
+      "image_alt": "At least 14 people killed in attack on Ukraine train station",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "russian-drone-attack-on-ukrainian-train-station-kills-at-least-14-offi-d4f72b2b",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "published_at": "2026-10-29T14:17:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg",
+      "image_alt": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "emboldened-by-dealings-with-trump-putin-plans-to-escalate-the-war-in-u-045c809b",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Emboldened by dealings with Trump, Putin plans to escalate the war in Ukraine",
+      "published_at": "2026-10-29T18:50:18.000Z",
+      "image": "https://img.lemde.fr/2025/10/17/87/0/3162/1581/644/322/60/0/71fb955_ftp-import-images-1-mrgrrrvmzrh4-5189049-01-06.jpg",
+      "image_alt": "Emboldened by dealings with Trump, Putin plans to escalate the war in Ukraine",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/29/emboldened-by-dealings-with-trump-putin-plans-to-escalate-the-war-in-ukraine_6767026_4.html"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "eu-chief-lays-out-vision-for-new-canada-partnership-at-montreal-summit-eff192d7",
       "region": "Europe",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Carney to push for closer ties at Canada-EU summit in Montreal",
-      "published_at": "2026-10-29T12:27:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg",
-      "image_alt": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "headline": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "published_at": "2026-10-29T17:02:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b497/live/e5c53340-d3ba-11f1-8c27-87a7c72809db.jpg",
+      "image_alt": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "translations": {
         "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,15 +109,199 @@
           "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 83
+    },
+    {
+      "id": "texas-republican-group-seeks-to-block-certification-of-state-s-electio-db41cbc1",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Texas Republican group seeks to block certification of state’s election",
+      "published_at": "2026-10-29T18:40:01.000Z",
+      "image": "",
+      "image_alt": "Texas Republican group seeks to block certification of state’s election",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs-3c881e8c",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Albanian opposition storms parliament, sets off flares and smoke bombs",
+      "published_at": "2026-10-29T18:11:46.000Z",
+      "image": "",
+      "image_alt": "Albanian opposition storms parliament, sets off flares and smoke bombs",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "u-s-hits-rwanda-with-new-sanctions-over-a-conflict-trump-declared-ende-f8b5fe5e",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared ‘Ended’",
+      "published_at": "2026-10-29T17:13:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-rwanda-1-qmkv/29int-rwanda-1-qmkv-mediumSquareAt3X.jpg",
+      "image_alt": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared ‘Ended’",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-hold-a3167c4b",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+      "published_at": "2026-10-29T16:19:14.000Z",
+      "image": "https://s.france24.com/media/display/7b09de12-d3af-11f1-b2c2-d18c5759e759/w:1024/p:16x9/000-D4RQ9NR.jpg",
+      "image_alt": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "deeply-regressive-how-the-french-government-plans-to-make-protesters-p-128cf7ca",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+      "published_at": "2026-10-29T18:15:38.000Z",
+      "image": "https://s.france24.com/media/display/a9aecc2c-cadc-11f1-93d3-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T095418Z-932457184-RC2J5OAZZ1QE-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "image_alt": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "israel-election-authorities-dispute-netanyahu-s-fraud-claims-652f8649",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Israel election: Authorities dispute Netanyahu’s fraud claims",
+      "published_at": "2026-10-29T17:32:00.000Z",
+      "image": "",
+      "image_alt": "Israel election: Authorities dispute Netanyahu’s fraud claims",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "trump-and-his-aides-helped-bolsonaro-flee-brazil-and-enter-u-s-6901cc59",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "published_at": "2026-10-29T18:53:47.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
+      "image_alt": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-say-29848ab8",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+      "published_at": "2026-10-29T18:30:04.000Z",
+      "image": "",
+      "image_alt": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss"
+        }
+      ],
+      "impact": 77
     },
     {
       "id": "netanyahu-s-bloc-leading-israel-election-but-short-of-majority-partial-066ab205",
       "region": "Middle East",
       "topic": "Politics",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "published_at": "2026-10-29T11:22:18.000Z",
+      "published_at": "2026-10-29T15:47:20.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
       "image_alt": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "translations": {
@@ -63,513 +316,260 @@
           "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 83
+      "impact": 77
     },
     {
-      "id": "with-no-clear-winner-how-could-israel-get-a-prime-minister-ff66a965",
-      "region": "Middle East",
-      "topic": "Politics",
+      "id": "finland-launches-criminal-probe-of-suspected-environmental-damage-by-g-2a161d9f",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "With No Clear Winner, How Could Israel Get a Prime Minister?",
-      "published_at": "2026-10-29T12:30:50.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v5.png",
-      "image_alt": "With No Clear Winner, How Could Israel Get a Prime Minister?",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-stat-ee2ae22d",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
-      "published_at": "2026-10-29T11:33:00.000Z",
+      "headline": "Finland launches criminal probe of suspected environmental damage by Google",
+      "published_at": "2026-10-29T18:24:13.000Z",
       "image": "",
-      "image_alt": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
+      "image_alt": "Finland launches criminal probe of suspected environmental damage by Google",
       "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-top-1022-rdf"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 76
     },
     {
-      "id": "totalenergies-hits-new-profit-record-as-middle-east-war-pushes-up-hydr-4befd545",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "TotalEnergies hits new profit record, as Middle East war pushes up hydrocarbon prices",
-      "published_at": "2026-10-29T09:59:13.000Z",
-      "image": "https://img.lemde.fr/2026/10/29/0/0/6840/3420/644/322/60/0/9b29de0_upload-1-mgkwufi3qnos-000-c9xr8g3.jpg",
-      "image_alt": "TotalEnergies hits new profit record, as Middle East war pushes up hydrocarbon prices",
+      "id": "al-jazeera-marks-30th-anniversary-with-network-overhaul-76a1b344",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Al Jazeera marks 30th anniversary with network overhaul",
+      "published_at": "2026-10-29T18:20:07.000Z",
+      "image": "",
+      "image_alt": "Al Jazeera marks 30th anniversary with network overhaul",
       "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/10/29/totalenergies-hits-new-profit-record-as-middle-east-war-pushes-up-hydrocarbon-prices_6766729_19.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss"
         }
       ],
-      "impact": 80
+      "impact": 76
     },
     {
-      "id": "record-number-of-purges-as-xi-emphasises-party-discipline-at-china-pol-ed662018",
+      "id": "fl-vio-bolsonaro-calls-himself-leader-of-brazil-after-election-loss-e5c5ce35",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "published_at": "2026-10-29T14:58:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ed/live/bd177c10-d3aa-11f1-b441-2b33b063138f.jpg",
+      "image_alt": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years-5da7d48e",
       "region": "Asia-Pacific",
-      "topic": "World",
+      "topic": "Society",
       "urgency": "Live",
-      "headline": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "published_at": "2026-10-29T12:49:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
-      "image_alt": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "israelis-await-final-election-results-as-difficult-choices-lie-ahead-fdaef7dc",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Israelis await final election results as difficult choices lie ahead",
-      "published_at": "2026-10-29T12:59:18.000Z",
-      "image": "https://s.france24.com/media/display/2a24b69c-d392-11f1-9179-79db0eb73735/w:1024/p:16x9/EN-20261029-120612-120751-CS.jpg",
-      "image_alt": "Israelis await final election results as difficult choices lie ahead",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261029-israelis-await-final-election-results-as-difficult-choices-lie-ahead"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "alaska-governor-orders-probe-into-democratic-campaign-s-alleged-links--e8eb4e27",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "published_at": "2026-10-29T11:27:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
-      "image_alt": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "audio-reveals-exchanges-between-control-centre-and-drivers-before-dead-3e2b6591",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "published_at": "2026-10-29T11:07:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26f6/live/810fd9c0-d39a-11f1-b441-2b33b063138f.jpg",
-      "image_alt": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "bangladesh-s-shadman-islam-hits-century-but-west-indies-force-collapse-ae87b99a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
-      "published_at": "2026-10-29T12:53:11.000Z",
+      "headline": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
+      "published_at": "2026-10-29T17:28:18.000Z",
       "image": "",
-      "image_alt": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
+      "image_alt": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace-92456ed1",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-      "published_at": "2026-10-29T12:18:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
-      "image_alt": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "fighting-rages-near-yemen-s-taiz-as-un-urges-humanitarian-access-3db75618",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-      "published_at": "2026-10-29T12:46:29.000Z",
-      "image": "",
-      "image_alt": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "afghan-farmers-pushed-to-opium-farming-to-make-a-living-452702bb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Afghan farmers pushed to opium farming to make a living",
-      "published_at": "2026-10-29T12:42:11.000Z",
-      "image": "",
-      "image_alt": "Afghan farmers pushed to opium farming to make a living",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/title-afghan-farmers-pushed-to-opium-farming-to-make-a-living?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law--5f60a35b",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Korean prosecutors press for death sentence in Yoon martial law case",
-      "published_at": "2026-10-29T12:36:43.000Z",
-      "image": "",
-      "image_alt": "South Korean prosecutors press for death sentence in Yoon martial law case",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia-1834d7d1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "published_at": "2026-10-29T12:32:49.000Z",
-      "image": "",
-      "image_alt": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "a-week-of-israel-s-lockdown-in-hebron-what-s-happened-when-will-it-end-1c0d63d6",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-      "published_at": "2026-10-29T12:29:05.000Z",
-      "image": "",
-      "image_alt": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "england-and-al-ahli-striker-ivan-toney-pleads-not-guilty-to-club-assau-ea3ef6cc",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
-      "published_at": "2026-10-29T12:10:57.000Z",
-      "image": "",
-      "image_alt": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/29/england-and-al-ahli-striker-ivan-toney-pleads-not-guilty-to-club-assault?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations-e6f09a7c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "King Charles on Caribbean tour as calls grow for slavery reparations",
-      "published_at": "2026-10-29T12:10:22.000Z",
-      "image": "",
-      "image_alt": "King Charles on Caribbean tour as calls grow for slavery reparations",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-a-self-described-junkie-rode-synthetic-drugs-to-oblivion-and-fame-ee8a52ed",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
-      "published_at": "2026-10-29T11:53:48.000Z",
-      "image": "https://static01.nyt.com/images/2026/07/03/multimedia/int-Estonia-plwv/int-Estonia-plwv-mediumSquareAt3X.jpg",
-      "image_alt": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "hong-kong-leader-apologizes-for-deadly-apartment-building-fire-e8b5d3c5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
-      "published_at": "2026-10-29T11:34:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/int-hongkong-fire-bvcf/int-hongkong-fire-bvcf-mediumSquareAt3X.jpg",
-      "image_alt": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "ecb-president-christine-lagarde-to-step-down-early-in-february-2027-645cd6c1",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "ECB President Christine Lagarde to step down early in February 2027",
-      "published_at": "2026-10-29T11:12:18.000Z",
-      "image": "https://img.lemde.fr/2026/10/23/658/0/5119/2559/644/322/60/0/0568b3f_ftp-1-whaozwd4ahh4-2026-10-23t040009z-710231299-rc2ojmab9f32-rtrmadp-3-ecb-policy-markets.JPG",
-      "image_alt": "ECB President Christine Lagarde to step down early in February 2027",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/10/29/ecb-president-christine-lagarde-to-step-down-early-in-february-2027_6766735_19.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "european-central-bank-ecb-head-christine-lagarde-to-step-down-in-febru-d8125090",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
-      "published_at": "2026-10-29T10:33:00.000Z",
-      "image": "",
-      "image_alt": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "spain-crash-investigators-focus-on-train-traffic-controllers-role-5a81dda4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
-      "published_at": "2026-10-29T10:32:00.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
-      "image_alt": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html"
+          "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss"
         }
       ],
       "impact": 75
     },
     {
-      "id": "france-trappes-racist-shooting-suspect-transferred-to-french-court-973c92eb",
-      "region": "Europe",
-      "topic": "Society",
+      "id": "uae-sentences-eight-people-to-life-over-arms-supplies-to-sudan-s-army-8bd06094",
+      "region": "Africa",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "France: Trappes racist shooting suspect transferred to French court",
-      "published_at": "2026-10-29T13:22:39.000Z",
-      "image": "https://s.france24.com/media/display/f3992ac0-d069-11f1-bfa8-bba4eee3dc72/w:1024/p:16x9/AP26296487849716.jpg",
-      "image_alt": "France: Trappes racist shooting suspect transferred to French court",
+      "headline": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+      "published_at": "2026-10-29T17:25:17.000Z",
+      "image": "",
+      "image_alt": "UAE sentences eight people to life over arms supplies to Sudan’s army",
       "translations": {
-        "en": "PULSE is tracking this society update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "cuts-like-a-knife-canadian-rocker-bryan-adams-trolls-trump-with-new-so-a70fcb99",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "published_at": "2026-10-29T17:49:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/d7827a476e14a9fe6c2f060b9b99453364c02b5e/205_0_4252_3403/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=3a433930e59ad86fd80c83ceb24b198c",
+      "image_alt": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "brazil-s-victory-for-the-planet-and-democracy-seven-lessons-from-lula--527a2ee6",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "published_at": "2026-10-29T17:46:38.000Z",
+      "image": "https://i.guim.co.uk/img/media/4b8061be068d0c34f7875e002f51ed5bc5855c91/299_0_2102_1682/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=7d5e04a65fae36a35be7d35843425ab3",
+      "image_alt": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "canada-and-europe-must-combine-to-avoid-being-crushed-48d9d539",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'Canada and Europe must combine to avoid being crushed'",
+      "published_at": "2026-10-29T19:00:03.000Z",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3677534_upload-1-wgsxggfi1hbc-frame-1359.jpg",
+      "image_alt": "'Canada and Europe must combine to avoid being crushed'",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/10/29/canada-and-europe-must-combine-to-avoid-being-crushed_6767027_23.html"
+        }
+      ],
+      "impact": 73
+    },
+    {
+      "id": "lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-hav-eb3b2d39",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
+      "published_at": "2026-10-29T18:09:28.000Z",
+      "image": "https://s.france24.com/media/display/ee055ada-d3bf-11f1-980e-bf1914cabd52/w:1024/p:16x9/EN-20261029-161020-161914-CS.jpg",
+      "image_alt": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261029-france-trappes-racist-shooting-suspect-transferred-to-french-court"
+          "url": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back"
         }
       ],
-      "impact": 74
+      "impact": 73
+    },
+    {
+      "id": "israeli-elections-despite-historic-victory-arab-minority-left-with-bit-ab1bd683",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli elections: Despite 'historic' victory, Arab minority left with bitter aftertaste",
+      "published_at": "2026-10-29T18:21:35.000Z",
+      "image": "https://img.lemde.fr/2026/10/27/300/0/2000/1000/644/322/60/0/d168633_upload-1-ux8r7aasyemn-ll-elections-israel-tira-14.jpg",
+      "image_alt": "Israeli elections: Despite 'historic' victory, Arab minority left with bitter aftertaste",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/29/israeli-elections-despite-historic-victory-arab-minority-left-with-bitter-aftertaste_6766993_4.html"
+        }
+      ],
+      "impact": 72
+    },
+    {
+      "id": "an-absurdity-to-blame-human-error-spain-s-deadly-train-crash-should-ne-130ab755",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
+      "published_at": "2026-10-29T17:15:50.000Z",
+      "image": "https://s.france24.com/media/display/7c4f7ce0-d3b5-11f1-a302-695cb59fade5/w:1024/p:16x9/EN-20261029-130810-131417-CS.jpg",
+      "image_alt": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/an-absurdity-to-blame-human-error-spain-s-deadly-train-crash-should-never-have-happened"
+        }
+      ],
+      "impact": 72
     }
   ]
 }
