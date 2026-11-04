@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T07:11:49.404Z",
+  "updated_at": "2026-11-04T15:38:26.218Z",
   "languages": [
     {
       "code": "en",
@@ -20,24 +20,116 @@
   ],
   "stories": [
     {
-      "id": "ex-uk-political-aide-steve-hilton-loses-bid-for-california-governor-to-a39a3535",
+      "id": "zelensky-gives-melania-trump-ukraine-s-highest-award-after-oleshky-cea-2e5bac56",
       "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
-      "published_at": "2026-11-04T07:03:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905e/live/bb2c8a80-d814-11f1-bc0e-b5a9e0785e4b.jpg",
-      "image_alt": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "published_at": "2026-11-04T15:01:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
+      "image_alt": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vg7y9eyn07o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 89
+    },
+    {
+      "id": "iranian-leaders-welcome-us-midterms-but-trump-may-still-attack-711dc49d",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "published_at": "2026-11-04T15:13:00.000Z",
+      "image": "",
+      "image_alt": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "iran-s-chief-negotiator-says-americans-voted-no-to-war-cf064f17",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran's chief negotiator says Americans voted 'no to war'",
+      "published_at": "2026-11-04T12:21:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
+      "image_alt": "Iran's chief negotiator says Americans voted 'no to war'",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "israel-s-president-could-play-key-role-in-breaking-post-election-deadl-ced587a3",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Breaking",
+      "headline": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "published_at": "2026-11-04T13:18:58.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
+      "image_alt": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "more-iranians-call-for-nuclear-weapons-after-war-with-u-s-4a4f8e82",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "published_at": "2026-11-04T13:17:49.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
+      "image_alt": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html"
         }
       ],
       "impact": 85
@@ -48,8 +140,8 @@
       "topic": "Politics",
       "urgency": "Live",
       "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "published_at": "2026-11-04T05:39:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg",
+      "published_at": "2026-11-04T14:17:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg",
       "image_alt": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
       "translations": {
         "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
@@ -66,37 +158,60 @@
       "impact": 84
     },
     {
-      "id": "as-trump-s-midterm-deadline-looms-gulf-countries-brace-for-possible-re-6bd32881",
-      "region": "Middle East",
+      "id": "how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midt-d09e476c",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-      "published_at": "2026-11-04T03:39:11.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-      "image_alt": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+      "headline": "How Trump's broken promises on war, inflation handed Democrats the midterms",
+      "published_at": "2026-11-04T15:02:07.000Z",
+      "image": "https://s.france24.com/media/display/bb2a6840-d85f-11f1-a498-a575454bc579/w:1024/p:16x9/EN-20261104-153314-153525-CS.jpg",
+      "image_alt": "How Trump's broken promises on war, inflation handed Democrats the midterms",
       "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms"
         }
       ],
-      "impact": 84
+      "impact": 83
     },
     {
-      "id": "democrat-amy-acton-makes-history-in-ohio-9a35247c",
-      "region": "World",
+      "id": "with-midterms-over-fears-of-renewed-us-war-with-iran-f9c08f30",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "With midterms over, fears of renewed US war with Iran",
+      "published_at": "2026-11-04T14:34:39.000Z",
+      "image": "https://img.lemde.fr/2026/11/03/570/0/6846/3423/644/322/60/0/7d110e7_ftp-1-aeanoawz3ljv-afp-d68w7vz.jpg",
+      "image_alt": "With midterms over, fears of renewed US war with Iran",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/04/with-midterms-over-fears-of-renewed-us-war-with-iran_6771712_4.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "why-is-the-western-us-still-counting-votes-after-election-day-ef0ccadf",
+      "region": "Americas",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "Democrat Amy Acton makes history in Ohio",
-      "published_at": "2026-11-04T06:49:23.000Z",
+      "headline": "Why is the western US still counting votes after election day?",
+      "published_at": "2026-11-04T14:35:54.000Z",
       "image": "",
-      "image_alt": "Democrat Amy Acton makes history in Ohio",
+      "image_alt": "Why is the western US still counting votes after election day?",
       "translations": {
         "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -106,20 +221,89 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 81
     },
     {
-      "id": "delhi-air-quality-worsens-ahead-of-diwali-as-firework-restrictions-ent-8f7d18ad",
+      "id": "yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-r-ed273a3d",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+      "published_at": "2026-11-04T14:08:18.000Z",
+      "image": "",
+      "image_alt": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "israel-s-president-will-start-talks-on-whether-netanyahu-or-eisenkot-c-5f569414",
+      "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "published_at": "2026-11-04T13:58:52.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
+      "image_alt": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "spanish-transport-minister-resigns-over-train-crash-disasters-b4b3b70c",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Spanish Transport Minister resigns over train crash disasters",
+      "published_at": "2026-11-04T13:52:11.000Z",
+      "image": "",
+      "image_alt": "Spanish Transport Minister resigns over train crash disasters",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "this-is-a-disaster-angry-republicans-blame-trump-for-midterms-defeat-a6edc1d9",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "published_at": "2026-11-04T06:50:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
-      "image_alt": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "published_at": "2026-11-04T13:33:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+      "image_alt": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,43 +313,158 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 78
     },
     {
-      "id": "us-midterm-election-results-democrats-flip-house-and-senate-here-apos--221602b5",
-      "region": "Americas",
-      "topic": "Politics",
+      "id": "nadal-set-to-join-real-madrid-board-of-directors-31590043",
+      "region": "World",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "US midterm election results: Democrats flip House and Senate. Here&apos;s what else the data tells us",
-      "published_at": "2026-11-04T06:34:00.000Z",
-      "image": "",
-      "image_alt": "US midterm election results: Democrats flip House and Senate. Here&apos;s what else the data tells us",
+      "headline": "Nadal set to join Real Madrid board of directors",
+      "published_at": "2026-11-04T13:21:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg",
+      "image_alt": "Nadal set to join Real Madrid board of directors",
       "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "how-the-world-reacted-to-trump-s-midterm-defeat-5-things-to-know-42fdda40",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+      "published_at": "2026-11-04T15:21:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
+      "image_alt": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia-983c6e71",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+      "published_at": "2026-11-04T15:04:34.000Z",
+      "image": "",
+      "image_alt": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress-5b022a77",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+      "published_at": "2026-11-04T15:04:08.000Z",
+      "image": "",
+      "image_alt": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "germany-news-commerce-chief-calls-for-stable-us-trade-relations-after--b2ce9866",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump&apos;s tariff policies remains",
+      "published_at": "2026-11-04T12:58:00.000Z",
+      "image": "",
+      "image_alt": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump&apos;s tariff policies remains",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 79
+      "impact": 77
     },
     {
-      "id": "2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia-67927698",
-      "region": "Europe",
+      "id": "trump-loses-control-of-congress-953111a7",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump loses control of Congress",
+      "published_at": "2026-11-04T14:42:23.000Z",
+      "image": "",
+      "image_alt": "Trump loses control of Congress",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms-1b6ce0f0",
+      "region": "Americas",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
-      "published_at": "2026-11-04T07:02:13.000Z",
-      "image": "https://s.france24.com/media/display/af1c1046-d81c-11f1-a439-695cb59fade5/w:1024/p:16x9/minia-en-bottoms.jpg",
-      "image_alt": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
+      "headline": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
+      "published_at": "2026-11-04T13:26:11.000Z",
+      "image": "https://s.france24.com/media/display/6f8dbdd8-d846-11f1-9528-d18c5759e759/w:1024/p:16x9/capture-cf6b8ece.jpg",
+      "image_alt": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
       "translations": {
         "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,296 +474,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia"
+          "url": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "democrat-roy-cooper-flips-north-carolina-senate-seat-in-state-that-vot-fd1c4ad4",
+      "id": "poland-s-crisis-over-constitutional-tribunal-points-to-fierce-campaign-1c3e770e",
       "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Democrat Roy Cooper flips North Carolina Senate seat in state that voted for Trump three times",
-      "published_at": "2026-11-04T06:47:50.000Z",
-      "image": "https://img.lemde.fr/2026/11/04/44/0/6173/3086/644/322/60/0/cbd8740_ftp-1-nqw7fipyp0b0-2026-11-04t024134z-1937636863-rc2ogoaj9tgh-rtrmadp-3-usa-election-north-carolina.JPG",
-      "image_alt": "Democrat Roy Cooper flips North Carolina Senate seat in state that voted for Trump three times",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/04/roy-cooper-wins-north-carolina-senate-race-becoming-state-s-first-democratic-senator-since-2008_6771283_4.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "india-news-election-body-opens-door-for-voter-reinclusion-2ec834a4",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "India news: Election body opens door for voter reinclusion",
-      "published_at": "2026-11-04T05:58:00.000Z",
-      "image": "",
-      "image_alt": "India news: Election body opens door for voter reinclusion",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "florida-republicans-fend-off-democrats-as-state-elects-first-black-gov-364b5244",
-      "region": "World",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Florida Republicans fend off Democrats as state elects first black governor",
-      "published_at": "2026-11-04T05:04:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
-      "image_alt": "Florida Republicans fend off Democrats as state elects first black governor",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc-81e363dd",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Africans vote in local elections seen as test for embattled ANC",
-      "published_at": "2026-11-04T06:57:06.000Z",
-      "image": "",
-      "image_alt": "South Africans vote in local elections seen as test for embattled ANC",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "firsts-for-women-and-minorities-in-us-midterm-elections-3e31c6f1",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Firsts for women and minorities in US midterm elections",
-      "published_at": "2026-11-04T06:54:23.000Z",
-      "image": "",
-      "image_alt": "Firsts for women and minorities in US midterm elections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "democratic-party-gains-us-house-majority-in-2026-midterm-elections-bb36f055",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Democratic Party gains US House majority in 2026 midterm elections",
-      "published_at": "2026-11-04T06:34:46.000Z",
-      "image": "",
-      "image_alt": "Democratic Party gains US House majority in 2026 midterm elections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "democrat-troy-jackson-unseats-longtime-republican-senator-susan-collin-a22909e7",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Democrat Troy Jackson unseats longtime Republican Senator Susan Collins in Maine",
-      "published_at": "2026-11-04T06:22:49.000Z",
-      "image": "https://img.lemde.fr/2026/11/04/0/0/5248/2624/644/322/60/0/56152e5_ftp-1-sxqq7clvgbg4-2026-11-04t060918z-620903786-rc2sgoa82vzw-rtrmadp-3-usa-election-maine.JPG",
-      "image_alt": "Democrat Troy Jackson unseats longtime Republican Senator Susan Collins in Maine",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/04/democrat-troy-jackson-unseats-longtime-republican-senator-susan-collins_6771250_4.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "house-democratic-leader-hakeem-jeffries-hails-midterm-victory-84f6ad79",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "House Democratic leader Hakeem Jeffries hails midterm victory",
-      "published_at": "2026-11-04T06:26:19.000Z",
-      "image": "",
-      "image_alt": "House Democratic leader Hakeem Jeffries hails midterm victory",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "lula-s-victory-is-a-stress-test-for-the-global-south-64d4af7a",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Lula’s victory is a stress test for the Global South",
-      "published_at": "2026-11-04T06:12:59.000Z",
-      "image": "",
-      "image_alt": "Lula’s victory is a stress test for the Global South",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel-e36f326c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
-      "published_at": "2026-11-04T05:49:43.000Z",
-      "image": "",
-      "image_alt": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "one-dead-and-another-missing-in-suspected-grizzly-bear-attack-in-canad-e339c8ca",
-      "region": "Americas",
-      "topic": "Security",
       "urgency": "Breaking",
-      "headline": "One dead and another missing in suspected grizzly bear attack in Canada",
-      "published_at": "2026-11-03T22:08:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/fceb81be290fbe0b0ac46e0b4dfc0b39aab55c9c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=e2bf59e40e4db2e6726b9bd30d40aa7b",
-      "image_alt": "One dead and another missing in suspected grizzly bear attack in Canada",
-      "translations": {
-        "en": "PULSE is tracking this security update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "democrats-dominate-nyc-races-hochul-re-elected-new-york-governor-23506a98",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Democrats dominate NYC races, Hochul re-elected New York governor",
-      "published_at": "2026-11-04T05:27:30.000Z",
-      "image": "",
-      "image_alt": "Democrats dominate NYC races, Hochul re-elected New York governor",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "democrats-flip-both-house-and-senate-in-stunning-rebuke-for-trump-a54f54bf",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Democrats flip both House and Senate in stunning rebuke for Trump",
-      "published_at": "2026-11-04T06:56:31.000Z",
-      "image": "https://img.lemde.fr/2026/11/03/66/0/3409/1704/644/322/60/0/1caa518_ftp-1-8pz4tnm6fjsh-5504449-01-06.jpg",
-      "image_alt": "Democrats flip both House and Senate in stunning rebuke for Trump",
+      "headline": "Poland's crisis over Constitutional Tribunal points to fierce campaign ahead of elections",
+      "published_at": "2026-11-04T13:16:02.000Z",
+      "image": "https://img.lemde.fr/2026/11/01/933/0/7554/3777/644/322/60/0/e5810ec_ftp-1-u0l3o3rz6ogg-afp-d63l99l.jpg",
+      "image_alt": "Poland's crisis over Constitutional Tribunal points to fierce campaign ahead of elections",
       "translations": {
         "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,102 +497,79 @@
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/04/democrats-win-both-house-and-senate-in-stunning-rebuke-for-trump_6770953_5.html"
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/04/poland-s-crisis-over-constitutional-tribunal-points-to-fierce-campaign-ahead-of-elections_6771581_4.html"
         }
       ],
-      "impact": 73
+      "impact": 76
     },
     {
-      "id": "replay-3678aa17",
-      "region": "Americas",
-      "topic": "World",
+      "id": "2026-midterms-james-talarico-the-christian-democrat-who-sent-a-politic-6219fd52",
+      "region": "Europe",
+      "topic": "Politics",
       "urgency": "Live",
-      "headline": "REPLAY",
-      "published_at": "2026-11-04T06:44:47.000Z",
-      "image": "https://s.france24.com/media/display/3725a8e4-d813-11f1-8cd7-a575454bc579/w:1024/p:16x9/EN-20261104-052452-055525-CS.jpg",
-      "image_alt": "REPLAY",
+      "headline": "2026 midterms: James Talarico, the Christian Democrat who sent a political earthquake through Texas",
+      "published_at": "2026-11-04T13:15:12.000Z",
+      "image": "https://img.lemde.fr/2026/11/04/558/0/5500/2750/644/322/60/0/4a885ba_ftp-1-tgl7fg3f5ryi-2026-11-04t055603z-1986280576-rc2sgoahtjd1-rtrmadp-3-usa-election-texas.JPG",
+      "image_alt": "2026 midterms: James Talarico, the Christian Democrat who sent a political earthquake through Texas",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261104-replay-us-midterms-today-begins-the-great-american-comeback-hakeem-jeffries"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/04/2026-midterms-james-talarico-the-christian-democrat-who-sent-a-political-earthquake-through-texas_6771580_4.html"
         }
       ],
-      "impact": 73
+      "impact": 76
     },
     {
-      "id": "midterms-2026-democrats-win-control-of-house-and-senate-as-republican--7eec19af",
-      "region": "Europe",
+      "id": "anc-faces-anger-over-poor-services-as-south-africans-vote-in-local-ele-932e5368",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Midterms 2026: Democrats win control of House and Senate as Republican strongholds fall",
-      "published_at": "2026-11-04T06:27:54.000Z",
+      "headline": "ANC faces anger over poor services as South Africans vote in local elections",
+      "published_at": "2026-11-04T14:50:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=7bceed75caf55f60ac90f3af40571ef2",
+      "image_alt": "ANC faces anger over poor services as South Africans vote in local elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining-5d884fdd",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "How big is the Republican midterms loss, and is there a silver lining?",
+      "published_at": "2026-11-04T13:59:15.000Z",
       "image": "",
-      "image_alt": "Midterms 2026: Democrats win control of House and Senate as Republican strongholds fall",
+      "image_alt": "How big is the Republican midterms loss, and is there a silver lining?",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss"
         }
       ],
-      "impact": 73
-    },
-    {
-      "id": "trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendi-00b17113",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
-      "published_at": "2026-11-04T07:09:18.000Z",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261104/1233552_065425_video_1800.mp4",
-      "image_alt": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
-      "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "El Pais",
-          "url": "https://elpais.com/us/2026-11-04/trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendido-pense-que-lo-hariamos-mejor.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "midterms-why-is-california-slower-at-counting-its-votes-07274596",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Midterms: Why is California slower at counting its votes?",
-      "published_at": "2026-11-04T05:20:17.000Z",
-      "image": "https://s.france24.com/media/display/3c51978c-d80a-11f1-93d9-a575454bc579/w:1024/p:16x9/EN-20261104-051136-051356-CS.jpg",
-      "image_alt": "Midterms: Why is California slower at counting its votes?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261104-midterms-why-is-california-slower-at-counting-its-votes"
-        }
-      ],
-      "impact": 72
+      "impact": 75
     }
   ]
 }
