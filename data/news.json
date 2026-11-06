@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:44:28.163Z",
+  "updated_at": "2026-11-06T18:48:19.787Z",
   "languages": [
     {
       "code": "en",
@@ -20,27 +20,73 @@
   ],
   "stories": [
     {
-      "id": "somalia-s-top-court-rejects-president-s-term-extension-amid-political--3bf7ce20",
-      "region": "World",
+      "id": "after-israel-s-election-who-will-get-the-first-chance-to-form-a-govern-e70c4fd1",
+      "region": "Middle East",
       "topic": "Politics",
-      "urgency": "Breaking",
-      "headline": "Somalia's top court rejects president's term extension amid political crisis",
-      "published_at": "2026-11-06T08:18:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/679b/live/77438af0-d9b1-11f1-bbc7-9574ed12e2df.jpg",
-      "image_alt": "Somalia's top court rejects president's term extension amid political crisis",
+      "urgency": "Live",
+      "headline": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+      "published_at": "2026-11-06T18:36:57.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
+      "image_alt": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "iran-war-gulf-tanker-attacked-1-seaferer-killed-26630160",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "published_at": "2026-11-06T17:47:00.000Z",
+      "image": "",
+      "image_alt": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "ai-stocks-climb-after-trillions-wiped-from-market-values-8fc8e90c",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "AI stocks climb after trillions wiped from market values",
+      "published_at": "2026-11-06T17:03:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "image_alt": "AI stocks climb after trillions wiped from market values",
+      "translations": {
+        "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 87
+      "impact": 83
     },
     {
       "id": "two-dead-after-bus-crashes-in-france-officials-say-1dbcb059",
@@ -48,7 +94,7 @@
       "topic": "World",
       "urgency": "Breaking",
       "headline": "Two dead after bus crashes in France, officials say",
-      "published_at": "2026-11-06T11:21:20.000Z",
+      "published_at": "2026-11-06T15:33:52.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
       "image_alt": "Two dead after bus crashes in France, officials say",
       "translations": {
@@ -63,17 +109,201 @@
           "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 82
     },
     {
-      "id": "death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in--84c00789",
-      "region": "Europe",
+      "id": "yemeni-gov-t-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-mar-811ba6d9",
+      "region": "World",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+      "published_at": "2026-11-06T18:09:49.000Z",
+      "image": "",
+      "image_alt": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+      "translations": {
+        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "how-paraguay-s-ueno-collapse-is-only-its-latest-banking-crisis-dfda7c5f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "How Paraguay’s Ueno collapse is only its latest banking crisis",
+      "published_at": "2026-11-06T17:42:22.000Z",
+      "image": "",
+      "image_alt": "How Paraguay’s Ueno collapse is only its latest banking crisis",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "fact-check-three-viral-iran-war-posts-debunked-0e7a6d3e",
+      "region": "Middle East",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
-      "published_at": "2026-11-06T10:15:12.000Z",
-      "image": "https://s.france24.com/media/display/46ae0b50-d9c9-11f1-b001-d18c5759e759/w:1024/p:16x9/2026-11-02T212716Z-2040630324-RC2QFOAUAPVF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.jpg",
-      "image_alt": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
+      "headline": "Fact check: Three viral Iran war posts debunked",
+      "published_at": "2026-11-06T15:29:00.000Z",
+      "image": "",
+      "image_alt": "Fact check: Three viral Iran war posts debunked",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "us-prosecutor-who-led-trump-backed-election-probe-exits-justice-depart-adb6b5b1",
+      "region": "Americas",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "US prosecutor who led Trump-backed election probe exits Justice Department",
+      "published_at": "2026-11-06T17:02:19.000Z",
+      "image": "",
+      "image_alt": "US prosecutor who led Trump-backed election probe exits Justice Department",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deep-1526e326",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+      "published_at": "2026-11-06T16:58:56.000Z",
+      "image": "",
+      "image_alt": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "russia-s-land-gains-in-ukraine-dwindle-as-its-diesel-reportedly-goes-u-5e6a80be",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+      "published_at": "2026-11-06T18:23:11.000Z",
+      "image": "",
+      "image_alt": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens-1dbfa0a9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+      "published_at": "2026-11-06T18:17:39.000Z",
+      "image": "",
+      "image_alt": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "tanzania-s-opposition-leader-gets-a-four-year-sentence-efa47b7a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
+      "published_at": "2026-11-06T17:36:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-tanzania-1-phwt/06int-tanzania-1-phwt-mediumSquareAt3X.jpg",
+      "image_alt": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "pressure-mounts-on-us-defence-chief-hegseth-after-republican-election--36a09abd",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
+      "published_at": "2026-11-06T16:45:03.000Z",
+      "image": "https://s.france24.com/media/display/e6399eb0-d9ff-11f1-8b14-a575454bc579/w:1024/p:16x9/EN-20261106-170741-170927-CS.jpg",
+      "image_alt": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
       "translations": {
         "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,43 +313,20 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine"
+          "url": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout"
         }
       ],
-      "impact": 82
+      "impact": 77
     },
     {
-      "id": "europe-still-sees-trump-as-powerful-especially-in-foreign-policy-ddb34ff3",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-      "published_at": "2026-11-06T10:00:19.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg",
-      "image_alt": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "tanzanian-opposition-leader-found-guilty-of-inciting-unrest-but-acquit-a3c55c34",
+      "id": "four-midterms-takeaways-for-2028-white-house-race-fe773657",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "published_at": "2026-11-06T11:36:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bed/live/8fde0dd0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
-      "image_alt": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "headline": "Four midterms takeaways for 2028 White House race",
+      "published_at": "2026-11-06T16:12:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+      "image_alt": "Four midterms takeaways for 2028 White House race",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,10 +336,171 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 80
+      "impact": 77
+    },
+    {
+      "id": "valencia-vs-real-madrid-la-liga-preview-team-news-predictions-b04e42e1",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
+      "published_at": "2026-11-06T17:50:13.000Z",
+      "image": "",
+      "image_alt": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "us-city-votes-to-divest-from-israel-398f6302",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US city votes to divest from Israel",
+      "published_at": "2026-11-06T17:40:13.000Z",
+      "image": "",
+      "image_alt": "US city votes to divest from Israel",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "bomb-threats-in-europe-probably-a-coordinated-campaign-ireland-says-a0e30331",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+      "published_at": "2026-11-06T17:16:56.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
+      "image_alt": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "saudi-led-forces-bombed-yemeni-home-killing-nine-family-members-relati-0161e188",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "published_at": "2026-11-06T16:59:43.000Z",
+      "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
+      "image_alt": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "wounded-french-protesters-to-sue-interior-minister-over-police-brutali-a379acf3",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Wounded French protesters to sue interior minister over police brutality",
+      "published_at": "2026-11-06T16:13:55.000Z",
+      "image": "https://s.france24.com/media/display/1048d660-d9fd-11f1-b727-d18c5759e759/w:1024/p:16x9/a4006db62a56c37deb8c8a26aeee10ea06d43a11.jpg",
+      "image_alt": "Wounded French protesters to sue interior minister over police brutality",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "wave-of-hoax-bomb-threats-to-flights-in-europe-leaves-travelers-frustr-ef953d68",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "published_at": "2026-11-06T16:21:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-bomb-threat-voices-1-vgjz/06int-bomb-threat-voices-1-vgjz-mediumSquareAt3X.jpg",
+      "image_alt": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "tesla-to-apos-wind-down-apos-production-of-flop-cybertruck-039e09bd",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Tesla to &apos;wind down&apos; production of flop Cybertruck",
+      "published_at": "2026-11-06T17:10:00.000Z",
+      "image": "",
+      "image_alt": "Tesla to &apos;wind down&apos; production of flop Cybertruck",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "paraguay-s-president-quits-after-millions-of-people-s-savings-frozen-i-fa785fff",
@@ -155,421 +523,53 @@
           "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
         }
       ],
-      "impact": 80
-    },
-    {
-      "id": "israel-president-to-announce-sunday-who-will-form-new-government-224e6e44",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Israel president to announce Sunday who will form new government",
-      "published_at": "2026-11-06T10:39:11.000Z",
-      "image": "https://s.france24.com/media/display/ead5c768-d9c9-11f1-b93b-bf1914cabd52/w:1024/p:16x9/capture-19a34eeb.jpg",
-      "image_alt": "Israel president to announce Sunday who will form new government",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261106-israel-president-to-announce-sunday-who-will-form-new-government"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal-c6f74c18",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
-      "published_at": "2026-11-06T10:38:00.000Z",
-      "image": "",
-      "image_alt": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "us-republicans-face-reckoning-after-major-midterm-election-defeat-c31497a5",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "US Republicans face reckoning after major midterm election defeat",
-      "published_at": "2026-11-06T10:37:55.000Z",
-      "image": "https://s.france24.com/media/display/ef78f86e-d9cc-11f1-9ae3-bf1914cabd52/w:1024/p:16x9/EN-20261106-110817-111007-CS.jpg",
-      "image_alt": "US Republicans face reckoning after major midterm election defeat",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261106-us-republicans-face-reckoning-after-major-midterm-election-defeat"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "at-least-two-killed-16-injured-in-school-bus-accident-in-eastern-franc-85261cb1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "At least two killed, 16 injured in school bus accident in eastern France",
-      "published_at": "2026-11-06T10:37:42.000Z",
-      "image": "https://s.france24.com/media/display/9fa0ca48-d9cb-11f1-bfa1-695cb59fade5/w:1024/p:16x9/000-D6M83MF.jpg",
-      "image_alt": "At least two killed, 16 injured in school bus accident in eastern France",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20261106-at-least-two-killed-16-injured-in-school-bus-accident-in-eastern-france"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "elon-musk-appears-to-signal-the-end-of-the-road-for-cybertruck-af31ad63",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "published_at": "2026-11-06T09:57:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg",
-      "image_alt": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "trump-signs-order-to-preserve-oval-office-as-national-monument-462c6288",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump signs order to preserve Oval Office as national monument",
-      "published_at": "2026-11-06T09:19:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg",
-      "image_alt": "Trump signs order to preserve Oval Office as national monument",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "nobody-can-stop-them-who-are-europe-s-black-bloc-protesters-369a4e4f",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-      "published_at": "2026-11-06T11:09:04.000Z",
-      "image": "",
-      "image_alt": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "macao-court-sentences-pro-democracy-ex-politician-to-12-5-years-in-jai-d07e1112",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
-      "published_at": "2026-11-06T11:08:02.000Z",
-      "image": "",
-      "image_alt": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "saudi-led-forces-bombed-yemeni-home-killing-nine-family-members-relati-0161e188",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "published_at": "2026-11-06T10:54:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
-      "image_alt": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wal-fe30849d",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
-      "published_at": "2026-11-06T09:29:00.000Z",
-      "image": "",
-      "image_alt": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "guarded-optimism-and-some-jokes-in-ukraine-over-trump-s-midterm-wipeou-bd69ee4e",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-      "published_at": "2026-11-06T10:22:23.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg",
-      "image_alt": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "european-countries-push-again-to-deport-migrants-to-rwanda-44a540af",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "European Countries Push, Again, To Deport Migrants to Rwanda",
-      "published_at": "2026-11-06T10:00:58.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg",
-      "image_alt": "European Countries Push, Again, To Deport Migrants to Rwanda",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "alberta-s-librarians-brace-for-a-new-era-of-book-bans-0680cf66",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
-      "published_at": "2026-11-06T10:00:45.000Z",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg",
-      "image_alt": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "major-construction-ongoing-near-iran-missile-bases-satellite-images-su-3a7b00a9",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Update",
-      "headline": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "published_at": "2026-11-06T07:33:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg",
-      "image_alt": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "low-pressure-in-us-midwest-brings-unseasonable-heat-to-new-york-and-bo-2f6f2769",
-      "region": "Americas",
-      "topic": "Climate",
-      "urgency": "Live",
-      "headline": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "published_at": "2026-11-06T09:54:12.000Z",
-      "image": "https://i.guim.co.uk/img/media/a7dcae1881b9409544c10f165f1a48f73083ff87/0_0_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=431971dd5b5626d882054c175b9843a5",
-      "image_alt": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "translations": {
-        "en": "PULSE is tracking this climate update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Klima-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de clima de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité climat de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "court-grants-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon-35a94d2c",
-      "region": "World",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-      "published_at": "2026-11-06T09:01:40.000Z",
-      "image": "",
-      "image_alt": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-      "translations": {
-        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "midterms-over-democrats-eye-wide-open-2028-white-house-race-95209ef4",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Midterms over, Democrats eye wide-open 2028 White House race",
-      "published_at": "2026-11-06T10:42:13.000Z",
-      "image": "https://s.france24.com/media/display/9833ed10-d9cd-11f1-9d98-1beafce15fea/w:1024/p:16x9/EN-20261106-111023-111206-CS.jpg",
-      "image_alt": "Midterms over, Democrats eye wide-open 2028 White House race",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261106-midterms-over-democrats-eye-wide-open-2028-white-house-race"
-        }
-      ],
       "impact": 73
     },
     {
-      "id": "french-bus-carrying-school-children-crashes-killing-2-14cc4982",
+      "id": "m-s-de-una-quincena-de-vuelos-europeos-reciben-nuevas-amenazas-de-bomb-3e8366b0",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "French bus carrying school children crashes, killing 2",
-      "published_at": "2026-11-06T10:10:00.000Z",
-      "image": "",
-      "image_alt": "French bus carrying school children crashes, killing 2",
+      "headline": "Más de una quincena de vuelos europeos reciben nuevas amenazas de bomba",
+      "published_at": "2026-11-06T18:30:28.000Z",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261106/1234723_151714_video_1800.mp4",
+      "image_alt": "Más de una quincena de vuelos europeos reciben nuevas amenazas de bomba",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-top-1022-rdf"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html"
         }
       ],
-      "impact": 73
+      "impact": 72
+    },
+    {
+      "id": "the-american-right-is-increasingly-opposed-to-us-support-for-israel-an-4798bb90",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'The American right is increasingly opposed to US support for Israel and dabbles in antisemitism'",
+      "published_at": "2026-11-06T17:30:03.000Z",
+      "image": "https://img.lemde.fr/2026/03/05/125/0/1500/750/644/322/60/0/d09a6fb_upload-1-ufawt3i05por-frame-1461.jpg",
+      "image_alt": "'The American right is increasingly opposed to US support for Israel and dabbles in antisemitism'",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/06/the-american-right-is-increasingly-opposed-to-us-support-for-israel-and-dabbles-in-antisemitism_6773695_23.html"
+        }
+      ],
+      "impact": 72
     }
   ]
 }
