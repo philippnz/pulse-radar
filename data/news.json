@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:37:57.113Z",
+  "updated_at": "2026-11-09T02:19:25.057Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,83 @@
   ],
   "stories": [
     {
-      "id": "president-milei-welcomes-pope-leo-during-historic-visit-to-argentina-ff453408",
+      "id": "drone-attack-suspends-production-at-iraq-s-khor-mor-gasfield-2b3dc2d2",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "published_at": "2026-11-09T01:19:09.000Z",
+      "image": "",
+      "image_alt": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
+      "id": "iran-war-live-trump-says-iron-gate-in-effect-drone-hits-iraq-gasfield-1dd415de",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "published_at": "2026-11-09T00:00:34.000Z",
+      "image": "",
+      "image_alt": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "in-argentina-pope-leo-tells-president-milei-economy-must-serve-the-nee-d5a2eae5",
       "region": "Americas",
       "topic": "Politics",
       "urgency": "Live",
-      "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
-      "published_at": "2026-11-08T22:16:50.000Z",
+      "headline": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+      "published_at": "2026-11-08T23:36:32.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
+      "image_alt": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "chancellor-merz-to-nominate-aigner-as-germany-s-first-woman-president-1dfdb5d7",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "published_at": "2026-11-08T23:39:47.000Z",
       "image": "",
-      "image_alt": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "image_alt": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
       "translations": {
         "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,10 +106,10 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
         }
       ],
-      "impact": 82
+      "impact": 79
     },
     {
       "id": "seven-dead-and-more-than-100-injured-after-trains-collide-in-egypt-fd082421",
@@ -63,7 +132,30 @@
           "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 79
+    },
+    {
+      "id": "trump-vows-comeback-as-parties-clash-over-democrat-prosecution-threats-2470b025",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Trump vows comeback as parties clash over Democrat prosecution threats",
+      "published_at": "2026-11-09T01:13:10.000Z",
+      "image": "https://s.france24.com/media/display/796e5ff4-dafa-11f1-83cc-1beafce15fea/w:1024/p:16x9/aa618a3631bceeecb3b6ee36d3cb0b937c9f5f89.jpg",
+      "image_alt": "Trump vows comeback as parties clash over Democrat prosecution threats",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats"
+        }
+      ],
+      "impact": 78
     },
     {
       "id": "saudi-aramco-tower-damaged-as-yemen-s-houthis-attack-riyadh-507618f2",
@@ -86,40 +178,63 @@
           "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
         }
       ],
-      "impact": 82
+      "impact": 78
     },
     {
-      "id": "las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campa-a-en-g-f788a858",
-      "region": "Middle East",
+      "id": "surgeon-having-lunch-near-krakow-shooting-undoubtedly-saved-officer-s--97b1a178",
+      "region": "World",
       "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
-      "published_at": "2026-11-08T22:18:55.000Z",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261108/1235375_160024_video_1800.mp4",
-      "image_alt": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
+      "urgency": "Live",
+      "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "published_at": "2026-11-08T23:34:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+      "image_alt": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "translations": {
-        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "El Pais",
-          "url": "https://elpais.com/internacional/2026-11-08/las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campana-en-gaza-y-agravan-la-crisis-humanitaria.html"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 77
     },
     {
-      "id": "us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair-537b0cc6",
+      "id": "pope-leo-delivers-stinging-rebuke-of-milei-s-austerity-measures-during-27ba2ac4",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-      "published_at": "2026-11-08T22:16:10.000Z",
+      "headline": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "published_at": "2026-11-09T02:11:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
+      "image_alt": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "india-s-night-lights-up-for-diwali-34f7acf7",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "India’s night lights up for Diwali",
+      "published_at": "2026-11-09T00:24:04.000Z",
       "image": "",
-      "image_alt": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "image_alt": "India’s night lights up for Diwali",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -129,20 +244,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secr-c6262c3a",
+      "id": "jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-al-d1d86ec4",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why Trump wants UFC chief Dana White as his new White House press secretary",
-      "published_at": "2026-11-08T22:03:54.000Z",
+      "headline": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "published_at": "2026-11-09T00:07:02.000Z",
       "image": "",
-      "image_alt": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+      "image_alt": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -152,56 +267,79 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "trains-collide-near-cairo-killing-4-ca1ad9d7",
+      "id": "nvidia-ceo-s-affair-sparks-chinese-espionage-probe-e2433de3",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Trains Collide Near Cairo, Killing 4",
-      "published_at": "2026-11-08T21:59:09.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
-      "image_alt": "Trains Collide Near Cairo, Killing 4",
+      "headline": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "published_at": "2026-11-08T23:58:53.000Z",
+      "image": "",
+      "image_alt": "Nvidia CEO’s affair sparks Chinese espionage probe",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
     },
     {
-      "id": "who-is-gadi-eisenkot-israel-s-opposition-leader-006f8a73",
-      "region": "Middle East",
+      "id": "mexican-mayor-found-alive-after-hours-long-abduction-3005cb1e",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "published_at": "2026-11-08T21:48:21.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
-      "image_alt": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "headline": "Mexican mayor found alive after hours-long abduction",
+      "published_at": "2026-11-08T23:55:37.000Z",
+      "image": "",
+      "image_alt": "Mexican mayor found alive after hours-long abduction",
       "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss"
         }
       ],
-      "impact": 77
+      "impact": 75
+    },
+    {
+      "id": "trump-says-mass-deportation-policy-was-too-tough-d4b5ee18",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Trump says mass deportation policy was 'too tough'",
+      "published_at": "2026-11-08T23:39:48.000Z",
+      "image": "https://img.lemde.fr/2026/11/08/720/0/8640/4320/644/322/60/0/2be8c15_ftp-1-5yivstjiwmad-6e6efdba815f4c32bd85dc5548ddd980-0-7da0736285d2442d8bdd7734e4153e61.jpg",
+      "image_alt": "Trump says mass deportation policy was 'too tough'",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/09/trump-says-mass-deportation-policy-was-too-tough_6775309_4.html"
+        }
+      ],
+      "impact": 75
     },
     {
       "id": "migrant-boat-sinks-off-senegal-leaving-34-dead-2f222292",
@@ -224,99 +362,53 @@
           "url": "https://www.lemonde.fr/en/international/article/2026/11/08/migrant-boat-sinks-off-senegal-leaving-34-dead_6775276_4.html"
         }
       ],
-      "impact": 77
+      "impact": 74
     },
     {
-      "id": "israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-c-aa5fb32b",
+      "id": "europe-to-press-us-on-ukraine-peace-and-iran-at-paris-g7-ministers-tal-c5005a0f",
       "region": "Europe",
-      "topic": "Politics",
+      "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
-      "published_at": "2026-11-08T21:10:13.000Z",
-      "image": "https://s.france24.com/media/display/be4c1c22-dbb5-11f1-bbd7-a575454bc579/w:1024/p:16x9/2026-11-08T152158Z-1569314181-RC2RJOASDUSW-RTRMADP-3-ISRAEL-POLITICS.jpg",
-      "image_alt": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+      "headline": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+      "published_at": "2026-11-09T02:05:00.000Z",
+      "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg",
+      "image_alt": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
       "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government"
+          "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers"
         }
       ],
-      "impact": 77
+      "impact": 73
     },
     {
-      "id": "deadly-sand-cliff-collapses-on-displaced-families-in-gaza-9148fc85",
+      "id": "las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campa-a-en-g-f788a858",
       "region": "Middle East",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Deadly sand cliff collapses on displaced families in Gaza",
-      "published_at": "2026-11-08T21:05:07.000Z",
-      "image": "",
-      "image_alt": "Deadly sand cliff collapses on displaced families in Gaza",
+      "urgency": "Breaking",
+      "headline": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
+      "published_at": "2026-11-08T22:18:55.000Z",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261108/1235375_160024_video_1800.mp4",
+      "image_alt": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-11-08/las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campana-en-gaza-y-agravan-la-crisis-humanitaria.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "why-abdul-el-sayed-s-jd-habibi-is-going-viral-online-c17c9a6c",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
-      "published_at": "2026-11-08T21:01:33.000Z",
-      "image": "",
-      "image_alt": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "germany-news-merz-to-nominate-aigner-for-president-7213c162",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Germany news: Merz to nominate Aigner for president",
-      "published_at": "2026-11-08T19:43:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Merz to nominate Aigner for president",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 76
+      "impact": 73
     },
     {
       "id": "many-killed-after-migrant-boat-sinks-off-senegal-e90c9509",
@@ -339,149 +431,76 @@
           "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 76
+      "impact": 72
     },
     {
-      "id": "pope-leo-in-latin-america-papal-politics-and-peru-4c993cc6",
+      "id": "mclaren-s-norris-wins-sao-paulo-f1-grand-prix-d32fce54",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "McLaren's Norris wins Sao Paulo F1 Grand Prix",
+      "published_at": "2026-11-09T00:01:12.000Z",
+      "image": "https://img.lemde.fr/2026/11/08/202/0/2201/1100/644/322/60/0/507caa9_ftp-1-aj8p8en7rh5p-2026-11-08t192916z-2046916370-up1emb81hfca8-rtrmadp-3-motor-f1-brazil.JPG",
+      "image_alt": "McLaren's Norris wins Sao Paulo F1 Grand Prix",
+      "translations": {
+        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/11/09/mclaren-s-norris-wins-sao-paulo-f1-grand-prix_6775342_9.html"
+        }
+      ],
+      "impact": 71
+    },
+    {
+      "id": "targeted-by-u-s-armed-group-strikes-back-in-colombia-19035447",
       "region": "Americas",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo in Latin America: Papal Politics and Peru",
-      "published_at": "2026-11-08T21:16:48.000Z",
-      "image": "https://s.france24.com/media/display/51ec3fd0-dbab-11f1-b6cb-d18c5759e759/w:1024/p:16x9/ColleenTN811.png",
-      "image_alt": "Pope Leo in Latin America: Papal Politics and Peru",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261108-pope-leo-in-latin-america-papal-politics-and-peru"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/pope-leo-in-latin-america-papal-politics-and-peru"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "iran-waiting-to-resume-talks-after-us-midterms-shock-iranian-foreign-m-adf55758",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
-      "published_at": "2026-11-08T20:51:22.000Z",
-      "image": "",
-      "image_alt": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "pope-leo-xiv-delivers-homily-to-thousands-in-uruguay-eb6373c5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo XIV delivers homily to thousands in Uruguay",
-      "published_at": "2026-11-08T20:29:47.000Z",
-      "image": "",
-      "image_alt": "Pope Leo XIV delivers homily to thousands in Uruguay",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "rangoli-makers-adapt-to-rising-costs-to-preserve-colourful-diwali-trad-25bcabf3",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
-      "published_at": "2026-11-08T20:26:01.000Z",
-      "image": "",
-      "image_alt": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "in-argentina-pope-leo-to-meet-church-at-odds-with-president-milei-d5a2eae5",
-      "region": "Americas",
-      "topic": "Politics",
       "urgency": "Update",
-      "headline": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
-      "published_at": "2026-11-08T18:26:49.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
-      "image_alt": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "headline": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+      "published_at": "2026-11-08T23:11:30.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
+      "image_alt": "Targeted by U.S., Armed Group Strikes Back in Colombia",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html"
+          "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html"
         }
       ],
-      "impact": 74
+      "impact": 70
     },
     {
-      "id": "pope-leo-arrives-in-argentina-amid-divisions-over-milei-s-austerity-bf1e888c",
-      "region": "Americas",
+      "id": "aramco-tower-hit-in-heart-of-saudi-capital-as-houthis-launch-fresh-str-f17511fb",
+      "region": "Middle East",
       "topic": "World",
-      "urgency": "Live",
-      "headline": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
-      "published_at": "2026-11-08T22:23:19.000Z",
-      "image": "https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1024/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg",
-      "image_alt": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
+      "urgency": "Update",
+      "headline": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "published_at": "2026-11-08T21:37:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+      "image_alt": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 73
+      "impact": 70
     },
     {
       "id": "egypt-train-crash-leaves-several-dead-over-100-injured-dba96087",
@@ -504,76 +523,53 @@
           "url": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 73
+      "impact": 70
     },
     {
-      "id": "migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities--237cb120",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-      "published_at": "2026-11-08T20:40:33.000Z",
-      "image": "https://s.france24.com/media/display/8db004c0-db6f-11f1-9c7c-a575454bc579/w:1024/p:16x9/c9e8d80cbfc13f8f43d3833c67fbf17f6e5ccb25.jpg",
-      "image_alt": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "yemen-s-houthis-claim-attack-on-riyadh-financial-district-aramco-skysc-6ec6b8fb",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Yemen's Houthis claim attack on Riyadh financial district, Aramco skyscraper damaged",
-      "published_at": "2026-11-08T11:13:42.000Z",
-      "image": "https://img.lemde.fr/2026/11/08/672/0/4032/2016/644/322/60/0/414d8a5_upload-1-6wjtu0icztxa-000-a6bn49e.jpg",
-      "image_alt": "Yemen's Houthis claim attack on Riyadh financial district, Aramco skyscraper damaged",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/08/saudi-capital-s-financial-district-targeted-in-attack-aramco-skyscraper-damaged_6774880_4.html"
-        }
-      ],
-      "impact": 72
-    },
-    {
-      "id": "surgeon-having-lunch-near-krakow-shooting-undoubtedly-saved-officer-s--97b1a178",
+      "id": "trains-collide-near-cairo-killing-4-ca1ad9d7",
       "region": "World",
       "topic": "World",
       "urgency": "Update",
-      "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "published_at": "2026-11-08T18:22:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-      "image_alt": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "headline": "Trains Collide Near Cairo, Killing 4",
+      "published_at": "2026-11-08T23:03:01.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
+      "image_alt": "Trains Collide Near Cairo, Killing 4",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html"
         }
       ],
-      "impact": 71
+      "impact": 69
+    },
+    {
+      "id": "reeling-from-rare-mass-shooting-poles-ask-what-set-off-young-suspect-ca2641eb",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Update",
+      "headline": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "published_at": "2026-11-08T22:48:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg",
+      "image_alt": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html"
+        }
+      ],
+      "impact": 69
     }
   ]
 }
