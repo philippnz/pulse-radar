@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T20:54:53.220Z",
+  "updated_at": "2026-11-10T03:07:05.802Z",
   "languages": [
     {
       "code": "en",
@@ -20,13 +20,36 @@
   ],
   "stories": [
     {
+      "id": "poll-finds-americans-less-likely-to-back-pro-war-candidates-by-3-1-mar-b8309b7a",
+      "region": "World",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "published_at": "2026-11-10T01:56:47.000Z",
+      "image": "",
+      "image_alt": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
+        }
+      ],
+      "impact": 86
+    },
+    {
       "id": "republican-congressman-to-force-impeachment-vote-on-defence-secretary--dfdd7bb2",
       "region": "World",
       "topic": "Security",
       "urgency": "Live",
       "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "published_at": "2026-11-09T20:23:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg",
+      "published_at": "2026-11-10T01:38:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
       "image_alt": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
@@ -40,17 +63,40 @@
           "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 84
     },
     {
-      "id": "republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defen-9eb86e27",
+      "id": "israel-s-shin-bet-finds-no-evidence-of-foreign-election-interference-68b9aafc",
       "region": "Middle East",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Israel’s Shin Bet finds no evidence of foreign election interference",
+      "published_at": "2026-11-10T01:59:59.000Z",
+      "image": "",
+      "image_alt": "Israel’s Shin Bet finds no evidence of foreign election interference",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect-c507aa09",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
-      "published_at": "2026-11-09T20:15:00.000Z",
+      "headline": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "published_at": "2026-11-09T23:46:00.000Z",
       "image": "",
-      "image_alt": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
+      "image_alt": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
       "translations": {
         "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -60,16 +106,384 @@
       "sources": [
         {
           "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-top-1022-rdf"
+          "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 84
+      "impact": 81
+    },
+    {
+      "id": "qantas-to-outsource-850-local-jobs-with-most-roles-moving-to-india-9b6cbbc6",
+      "region": "Asia-Pacific",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "published_at": "2026-11-10T01:55:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+      "image_alt": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "trump-says-fbi-investigating-nvidia-boss-s-affair-with-alleged-chinese-2eeebfe2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "published_at": "2026-11-10T01:44:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+      "image_alt": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "ukraine-war-400-000-russian-deaths-the-toll-vladimir-putin-tried-to-hi-d68049ba",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide",
+      "published_at": "2026-11-09T23:27:03.000Z",
+      "image": "https://img.lemde.fr/2026/11/09/1181/597/3994/1997/644/322/60/0/42ca6c4_upload-1-asi8g7koph3d-2025-09-12t121350z-1412449370-rc28qga4p9gt-rtrmadp-3-ukraine-crisis-russia-monument.JPG",
+      "image_alt": "Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/10/the-death-toll-putin-has-tried-to-hide-nearly-400-000-russians-killed-in-the-ukraine-war_6776332_4.html"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "2026-midterms-the-hispanic-shift-back-toward-the-democrats-is-far-from-a07fb2af",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "2026 midterms: 'The Hispanic shift back toward the Democrats is far from guaranteed in the 2028 presidential election'",
+      "published_at": "2026-11-10T02:54:47.000Z",
+      "image": "https://img.lemde.fr/2026/03/05/125/0/1500/750/644/322/60/0/d09a6fb_upload-1-ufawt3i05por-frame-1461.jpg",
+      "image_alt": "2026 midterms: 'The Hispanic shift back toward the Democrats is far from guaranteed in the 2028 presidential election'",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/10/2026-midterms-the-hispanic-shift-back-toward-the-democrats-is-far-from-guaranteed-in-the-2028-presidential-election_6776497_23.html"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "harare-demolitions-leave-families-homeless-after-years-of-building-1ccab107",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Harare demolitions leave families homeless after years of building",
+      "published_at": "2026-11-10T02:48:19.000Z",
+      "image": "",
+      "image_alt": "Harare demolitions leave families homeless after years of building",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successe-a04fd7ad",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "published_at": "2026-11-10T02:45:14.000Z",
+      "image": "",
+      "image_alt": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "epstein-associate-who-still-runs-model-agency-put-me-in-danger-says-ab-da96c13a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "published_at": "2026-11-10T00:14:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg",
+      "image_alt": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "ukraine-peace-talks-resume-with-some-flexibility-by-warring-sides-us-o-6c22ff36",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "published_at": "2026-11-10T00:09:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
+      "image_alt": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war-a4dc8688",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+      "published_at": "2026-11-09T20:15:00.000Z",
+      "image": "",
+      "image_alt": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "cameroon-sets-date-for-twice-delayed-legislative-and-local-elections-6d640a43",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Cameroon sets date for twice-delayed legislative and local elections",
+      "published_at": "2026-11-10T02:03:59.000Z",
+      "image": "",
+      "image_alt": "Cameroon sets date for twice-delayed legislative and local elections",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chine-bd2f5a48",
+      "region": "Europe",
+      "topic": "Markets",
+      "urgency": "Live",
+      "headline": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
+      "published_at": "2026-11-10T00:22:00.000Z",
+      "image": "https://s.france24.com/media/display/b5d81122-dc9b-11f1-b602-1beafce15fea/w:1024/p:16x9/EN-20261110-000700-000840-CS.jpg",
+      "image_alt": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
+      "translations": {
+        "en": "PULSE is tracking this markets update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Markt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mercados de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité marches de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "shipwreck-off-senegal-kills-dozens-as-canary-islands-declare-migrant-e-aa4f05fe",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "published_at": "2026-11-09T20:50:13.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg",
+      "image_alt": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "france-blames-iran-for-october-supermarket-cyberattack-3cbc32ff",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "France blames Iran for October supermarket cyberattack",
+      "published_at": "2026-11-10T01:01:47.000Z",
+      "image": "",
+      "image_alt": "France blames Iran for October supermarket cyberattack",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm-a976a69a",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "published_at": "2026-11-10T01:00:00.000Z",
+      "image": "",
+      "image_alt": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearan-ababb815",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+      "published_at": "2026-11-10T00:57:58.000Z",
+      "image": "",
+      "image_alt": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment-21afff54",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+      "published_at": "2026-11-10T02:24:22.000Z",
+      "image": "https://s.france24.com/media/display/7a2090b6-dcad-11f1-9ef2-d18c5759e759/w:1024/p:16x9/AP26303760183098.jpg",
+      "image_alt": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment"
+        }
+      ],
+      "impact": 73
     },
     {
       "id": "nvidia-shares-tumble-over-investigation-into-huang-s-affair-with-alleg-c1a8be3a",
       "region": "World",
       "topic": "Markets",
-      "urgency": "Live",
+      "urgency": "Update",
       "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "published_at": "2026-11-09T19:58:01.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
@@ -86,490 +500,80 @@
           "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
+      "impact": 73
     },
     {
-      "id": "shipwreck-off-senegal-kills-dozens-as-canary-islands-declare-migrant-e-aa4f05fe",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "published_at": "2026-11-09T20:50:12.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg",
-      "image_alt": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "deadly-explosion-at-iron-and-steel-plant-in-turkiye-49b909e4",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Deadly explosion at Iron and steel plant in Turkiye",
-      "published_at": "2026-11-09T20:19:18.000Z",
-      "image": "",
-      "image_alt": "Deadly explosion at Iron and steel plant in Turkiye",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "explosion-at-turkish-steel-plant-kills-at-least-16-people-850a20be",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Explosion at Turkish steel plant kills at least 16 people",
-      "published_at": "2026-11-09T19:58:40.000Z",
-      "image": "",
-      "image_alt": "Explosion at Turkish steel plant kills at least 16 people",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "turkey-steel-factory-blast-kills-at-least-17-people-12647216",
-      "region": "World",
-      "topic": "World",
+      "id": "australia-to-adopt-mandatory-ai-safeguards-f5c4ce95",
+      "region": "Asia-Pacific",
+      "topic": "Technology",
       "urgency": "Live",
-      "headline": "Turkey steel factory blast kills at least 17 people",
-      "published_at": "2026-11-09T20:42:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg",
-      "image_alt": "Turkey steel factory blast kills at least 17 people",
+      "headline": "Australia to adopt 'mandatory' AI safeguards",
+      "published_at": "2026-11-10T02:30:27.000Z",
+      "image": "https://img.lemde.fr/2026/10/28/96/0/5500/2750/644/322/60/0/ef1e14d_ftp-1-stu641nu0fpx-2026-10-28t050622z-1210934817-rc23coanawbg-rtrmadp-3-asean-philippines-defence-australia.JPG",
+      "image_alt": "Australia to adopt 'mandatory' AI safeguards",
       "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "for-ukraine-the-risk-of-war-fatigue-in-europe-looms-9c99c33b",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "For Ukraine, the risk of war fatigue in Europe looms",
-      "published_at": "2026-11-09T18:00:11.000Z",
-      "image": "https://img.lemde.fr/2026/11/03/571/0/8084/4042/644/322/60/0/b6f28ec_ftp-1-n0zvs783tftg-a63bb0e43f9545748eddac38e6d99809-0-edde899bd4ce47f3b1331d62455c1947.jpg",
-      "image_alt": "For Ukraine, the risk of war fatigue in Europe looms",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this technology update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/09/for-ukraine-the-risk-of-war-fatigue-in-europe-looms_6776134_4.html"
+          "url": "https://www.lemonde.fr/en/australia/article/2026/11/10/australia-to-adopt-mandatory-ai-safeguards_6776464_223.html"
         }
       ],
-      "impact": 80
+      "impact": 72
     },
     {
-      "id": "france-accuses-iran-of-supermarket-fridge-hacking-87181a63",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France accuses Iran of supermarket fridge hacking",
-      "published_at": "2026-11-09T20:20:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
-      "image_alt": "France accuses Iran of supermarket fridge hacking",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 79
-    },
-    {
-      "id": "trump-claims-election-fraud-again-after-crushing-midterm-defeat-5f8b8302",
-      "region": "Europe",
+      "id": "nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby--83d66830",
+      "region": "Americas",
       "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Trump claims election fraud again after crushing midterm defeat",
-      "published_at": "2026-11-09T20:36:10.000Z",
-      "image": "https://img.lemde.fr/2026/11/08/0/0/5139/2569/644/322/60/0/e2157ae_ftp-1-v1cvaz2dlwx6-4b99250b019848ea93bf4f5a5000d357-1-c8bc3bea364440a68a749c822402ca24.jpg",
-      "image_alt": "Trump claims election fraud again after crushing midterm defeat",
+      "urgency": "Update",
+      "headline": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
+      "published_at": "2026-11-09T22:17:02.000Z",
+      "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg",
+      "image_alt": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
       "translations": {
-        "en": "PULSE is tracking this politics update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/09/trump-claims-election-fraud-after-crushing-midterm-defeat_6776233_4.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "russia-s-leading-independent-newspaper-closes-after-eviction-c30ff4fb",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russia's leading independent newspaper closes after eviction",
-      "published_at": "2026-11-09T18:08:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b69a/live/f62b4ff0-dc64-11f1-a701-fddedf244c16.jpg",
-      "image_alt": "Russia's leading independent newspaper closes after eviction",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
+          "name": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government"
+        },
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government"
         }
       ],
-      "impact": 77
+      "impact": 72
     },
     {
-      "id": "russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges-b259ac94",
+      "id": "a-country-s-president-led-to-a-bank-s-stunning-rise-and-its-fall-baefd1d9",
       "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Russell Brand sentenced to 10.5 years over sexual assault charges",
-      "published_at": "2026-11-09T20:08:18.000Z",
-      "image": "",
-      "image_alt": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "published_at": "2026-11-09T21:26:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
+      "image_alt": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "south-africa-detains-foreigners-suspected-of-heading-to-join-russian-f-70d067f3",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "South Africa detains foreigners suspected of heading to join Russian forces",
-      "published_at": "2026-11-09T19:56:45.000Z",
-      "image": "",
-      "image_alt": "South Africa detains foreigners suspected of heading to join Russian forces",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "how-is-gaza-coping-with-another-severe-winter-f252ef51",
-      "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "How is Gaza coping with another severe winter?",
-      "published_at": "2026-11-09T19:47:46.000Z",
-      "image": "",
-      "image_alt": "How is Gaza coping with another severe winter?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "france-blames-iran-for-cyberattack-on-refrigeration-systems-a28736a9",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "France Blames Iran for Cyberattack on Refrigeration Systems",
-      "published_at": "2026-11-09T19:29:39.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
-      "image_alt": "France Blames Iran for Cyberattack on Refrigeration Systems",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html"
+          "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
         }
       ],
-      "impact": 76
-    },
-    {
-      "id": "mass-killing-in-poland-becomes-cause-for-a-political-fight-3f705ad8",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Mass Killing in Poland Becomes Cause for a Political Fight",
-      "published_at": "2026-11-09T18:53:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-shooting-01-wqzp/09int-poland-shooting-01-wqzp-mediumSquareAt3X.jpg",
-      "image_alt": "Mass Killing in Poland Becomes Cause for a Political Fight",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "us-agencies-unite-to-combat-rogue-drone-threats-nationwide-e1524bbf",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "US agencies unite to combat rogue drone threats nationwide",
-      "published_at": "2026-11-09T19:07:56.000Z",
-      "image": "",
-      "image_alt": "US agencies unite to combat rogue drone threats nationwide",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections-873f11b3",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump reverses stance, alleges fraud in recent US midterm elections",
-      "published_at": "2026-11-09T19:07:42.000Z",
-      "image": "",
-      "image_alt": "Trump reverses stance, alleges fraud in recent US midterm elections",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "what-s-next-for-us-republicans-and-trumpism-b69efd8a",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "What’s next for US Republicans and Trumpism?",
-      "published_at": "2026-11-09T19:02:54.000Z",
-      "image": "",
-      "image_alt": "What’s next for US Republicans and Trumpism?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "turkey-workers-killed-in-izmir-steel-plant-blast-db910970",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Turkey: Workers killed in Izmir steel plant blast",
-      "published_at": "2026-11-09T15:52:00.000Z",
-      "image": "",
-      "image_alt": "Turkey: Workers killed in Izmir steel plant blast",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "nvidia-s-huang-scandal-rattles-ai-industry-built-around-him-37c3dc3d",
-      "region": "Europe",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Nvidia's Huang scandal rattles AI industry built around him",
-      "published_at": "2026-11-09T20:09:22.000Z",
-      "image": "https://s.france24.com/media/display/b0c0757c-dc77-11f1-97b1-695cb59fade5/w:1024/p:16x9/EN-20261109-203701-204148-CS.jpg",
-      "image_alt": "Nvidia's Huang scandal rattles AI industry built around him",
-      "translations": {
-        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fr-c3424ae0",
-      "region": "Europe",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
-      "published_at": "2026-11-09T20:06:09.000Z",
-      "image": "https://s.france24.com/media/display/93dd0826-dc77-11f1-8ea8-bf1914cabd52/w:1024/p:16x9/EN-20261109-203104-203701-CS.jpg",
-      "image_alt": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
-      "translations": {
-        "en": "PULSE is tracking this technology update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault-793932d5",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "'Sexual predator' Russell Brand jailed for 10 years for rape, assault",
-      "published_at": "2026-11-09T20:03:55.000Z",
-      "image": "https://s.france24.com/media/display/f6830bca-dc76-11f1-ad17-1beafce15fea/w:1024/p:16x9/EN-20261109-201213-201409-CS.jpg",
-      "image_alt": "'Sexual predator' Russell Brand jailed for 10 years for rape, assault",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "will-eisenkot-succeed-in-minefield-of-israeli-politics-where-so-many-o-e0c8c281",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Will Eisenkot succeed in 'minefield of Israeli politics' where 'so many other generals' have failed?",
-      "published_at": "2026-11-09T20:03:31.000Z",
-      "image": "https://s.france24.com/media/display/c29d2632-dc72-11f1-8b03-1beafce15fea/w:1024/p:16x9/EN-20261109-181244-182532-CS.jpg",
-      "image_alt": "Will Eisenkot succeed in 'minefield of Israeli politics' where 'so many other generals' have failed?",
-      "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261109-will-eisenkot-succeed-in-minefield-of-israeli-politics-where-so-many-other-generals-have-failed"
-        }
-      ],
-      "impact": 73
+      "impact": 72
     }
   ]
 }
