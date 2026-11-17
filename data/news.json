@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T10:56:17.774Z",
+  "updated_at": "2026-11-17T19:37:01.365Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,37 @@
   ],
   "stories": [
     {
-      "id": "crimean-bridge-partly-collapses-as-zelensky-hails-unprecedented-attack-4b88ce23",
+      "id": "ecuadorean-fishermen-who-survived-u-s-boat-strike-sue-trump-administra-284dbb96",
+      "region": "Americas",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+      "published_at": "2026-11-17T18:26:38.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
+      "image_alt": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "putin-s-crimean-bridge-partly-collapses-as-zelensky-hails-unprecedente-4b88ce23",
       "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "published_at": "2026-11-17T10:45:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
-      "image_alt": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "published_at": "2026-11-17T16:56:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+      "image_alt": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -40,40 +63,17 @@
           "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 90
+      "impact": 87
     },
     {
-      "id": "these-ukrainians-aren-t-in-combat-but-they-deal-with-war-every-day-65f84037",
+      "id": "how-the-attack-on-crimean-bridge-unfolded-1fc54148",
       "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
-      "published_at": "2026-11-17T10:48:38.000Z",
-      "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
-      "image_alt": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
-      "translations": {
-        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html"
-        }
-      ],
-      "impact": 88
-    },
-    {
-      "id": "ukraine-accuses-russia-of-targeting-rescue-operation-after-double-tap--b1602a2d",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "published_at": "2026-11-17T05:59:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
-      "image_alt": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "headline": "How the attack on Crimean Bridge unfolded",
+      "published_at": "2026-11-17T15:38:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
+      "image_alt": "How the attack on Crimean Bridge unfolded",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -83,135 +83,112 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 85
+      "impact": 86
     },
     {
-      "id": "trump-will-miss-most-of-the-asean-summit-60958b77",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Trump Will Miss Most of the ASEAN Summit",
-      "published_at": "2026-11-17T10:51:02.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-asean-trump-01-ptql/00int-asean-trump-01-ptql-mediumSquareAt3X.jpg",
-      "image_alt": "Trump Will Miss Most of the ASEAN Summit",
+      "id": "tracking-china-s-war-of-words-against-japan-cae0c400",
+      "region": "Asia-Pacific",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Tracking China’s War of Words Against Japan",
+      "published_at": "2026-11-17T15:02:05.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+      "image_alt": "Tracking China’s War of Words Against Japan",
       "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html"
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html"
         }
       ],
       "impact": 83
     },
     {
-      "id": "mozambique-opposition-leader-faces-trial-over-deadly-2024-election-unr-6926f194",
+      "id": "palestinian-woman-72-shot-dead-by-israeli-settlers-in-west-bank-health-43de0c32",
       "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "published_at": "2026-11-17T09:20:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
-      "image_alt": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "topic": "Health",
+      "urgency": "Breaking",
+      "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "published_at": "2026-11-17T15:36:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
+      "image_alt": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this health update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesundheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de salud de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité sante de BBC News. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
-    },
-    {
-      "id": "carney-and-xi-announce-canada-china-trade-pact-a856eaeb",
-      "region": "Asia-Pacific",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Carney and Xi Announce Canada-China Trade Pact",
-      "published_at": "2026-11-17T09:46:43.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-canada-china-trade-qwgf/17int-canada-china-trade-qwgf-mediumSquareAt3X.jpg",
-      "image_alt": "Carney and Xi Announce Canada-China Trade Pact",
-      "translations": {
-        "en": "PULSE is tracking this markets update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html"
-        }
-      ],
-      "impact": 82
-    },
-    {
-      "id": "us-president-trump-arrives-in-manila-ahead-of-asean-summit-f36b9fd5",
-      "region": "Americas",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "US President Trump arrives in Manila ahead of ASEAN summit",
-      "published_at": "2026-11-17T10:13:12.000Z",
-      "image": "",
-      "image_alt": "US President Trump arrives in Manila ahead of ASEAN summit",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 81
     },
     {
-      "id": "journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica-2c71b4b4",
-      "region": "World",
-      "topic": "World",
+      "id": "organisers-hoping-for-joyful-demonstration-as-french-public-workers-st-f2634548",
+      "region": "Europe",
+      "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Journalist who exposed alleged drug links shot dead in Costa Rica",
-      "published_at": "2026-11-17T09:18:37.000Z",
-      "image": "",
-      "image_alt": "Journalist who exposed alleged drug links shot dead in Costa Rica",
+      "headline": "Organisers hoping for 'joyful' demonstration as French public workers strike",
+      "published_at": "2026-11-17T16:17:45.000Z",
+      "image": "https://s.france24.com/media/display/14ae05b2-e2a0-11f1-bbb5-1ba7ddfab527/w:1024/p:16x9/EN-20261117-150313-150536-CS.jpg",
+      "image_alt": "Organisers hoping for 'joyful' demonstration as French public workers strike",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike"
         }
       ],
-      "impact": 81
+      "impact": 80
     },
     {
-      "id": "indian-woman-gang-raped-while-pregnant-in-2002-heartbroken-after-two-p-0d60ac4d",
+      "id": "fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-region-9bb0943c",
+      "region": "Africa",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+      "published_at": "2026-11-17T15:43:00.000Z",
+      "image": "",
+      "image_alt": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+      "translations": {
+        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "jensen-huang-says-he-would-be-honoured-to-return-as-nvidia-ceo-if-boar-b83c0d15",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "published_at": "2026-11-17T09:27:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
-      "image_alt": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "published_at": "2026-11-17T18:24:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+      "image_alt": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "translations": {
         "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -221,20 +198,296 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
     },
     {
-      "id": "live-updates-trump-s-whirlwind-asia-trip-begins-in-the-philippines-c27ebd43",
+      "id": "it-was-really-scary-mother-describes-sheltering-during-russia-strikes--1c08c3b3",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "published_at": "2026-11-17T17:19:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
+      "image_alt": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "costa-rican-journalist-shot-dead-in-first-such-killing-in-25-years-486e920e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Costa Rican journalist shot dead in first such killing in 25 years",
+      "published_at": "2026-11-17T17:19:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/aa64ef87330c205b86ab607a030790f6f68e6a5f/281_0_4426_3542/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=03af4990465cadd31aede63914ff22a4",
+      "image_alt": "Costa Rican journalist shot dead in first such killing in 25 years",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "us-loses-measles-elimination-status-after-26-years-amid-record-case-nu-64916d60",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US loses measles elimination status after 26 years amid record case numbers",
+      "published_at": "2026-11-17T17:10:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+      "image_alt": "US loses measles elimination status after 26 years amid record case numbers",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "ugandan-human-trafficking-survivor-uses-music-to-fight-abuse-c275a976",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Ugandan human trafficking survivor uses music to fight abuse",
+      "published_at": "2026-11-17T19:32:44.000Z",
+      "image": "",
+      "image_alt": "Ugandan human trafficking survivor uses music to fight abuse",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-b-740dd6cf",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "published_at": "2026-11-17T19:31:30.000Z",
+      "image": "",
+      "image_alt": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "more-than-100-000-take-part-in-france-pay-protests-e70024e1",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "More than 100,000 take part in France pay protests",
+      "published_at": "2026-11-17T19:09:49.000Z",
+      "image": "",
+      "image_alt": "More than 100,000 take part in France pay protests",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "nsa-s-classified-internal-communications-network-reportedly-faces-outa-4c73605e",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "NSA’s classified internal communications network reportedly faces outage",
+      "published_at": "2026-11-17T19:03:14.000Z",
+      "image": "",
+      "image_alt": "NSA’s classified internal communications network reportedly faces outage",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "prince-william-brings-climate-prize-to-india-in-an-electric-rickshaw-8c0cbab6",
+      "region": "Asia-Pacific",
+      "topic": "Climate",
+      "urgency": "Live",
+      "headline": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+      "published_at": "2026-11-17T18:59:25.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-india-royals-01-jgqw/17int-india-royals-01-jgqw-mediumSquareAt3X.jpg",
+      "image_alt": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+      "translations": {
+        "en": "PULSE is tracking this climate update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Klima-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de clima de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité climat de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "monster-waves-threaten-california-coast-as-storms-intensify-c36583c2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Monster waves threaten California coast as storms intensify",
+      "published_at": "2026-11-17T18:53:00.000Z",
+      "image": "",
+      "image_alt": "Monster waves threaten California coast as storms intensify",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "mozambique-opposition-leader-goes-on-trial-on-terrorism-charges-263e71fa",
+      "region": "World",
+      "topic": "Society",
+      "urgency": "Live",
+      "headline": "Mozambique opposition leader goes on trial on terrorism charges",
+      "published_at": "2026-11-17T18:48:15.000Z",
+      "image": "",
+      "image_alt": "Mozambique opposition leader goes on trial on terrorism charges",
+      "translations": {
+        "en": "PULSE is tracking this society update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Gesellschafts-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de sociedad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité societe de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "indian-limbo-skater-breaks-world-record-365a55d9",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Indian limbo skater breaks world record",
+      "published_at": "2026-11-17T18:47:59.000Z",
+      "image": "",
+      "image_alt": "Indian limbo skater breaks world record",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people-a1fc2b7a",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+      "published_at": "2026-11-17T18:43:46.000Z",
+      "image": "",
+      "image_alt": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "trump-s-whirlwind-asia-trip-begins-in-the-philippines-c27ebd43",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
-      "published_at": "2026-11-17T10:52:24.000Z",
+      "headline": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
+      "published_at": "2026-11-17T18:01:43.000Z",
       "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-header-zjth/17trump-summits-header-zjth-mediumSquareAt3X-v2.jpg",
-      "image_alt": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
+      "image_alt": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -247,109 +500,17 @@
           "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit"
         }
       ],
-      "impact": 78
+      "impact": 76
     },
     {
-      "id": "saudi-arabia-replaces-military-commander-after-yemen-setbacks-b6ca0ab0",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Saudi Arabia replaces military commander after Yemen setbacks",
-      "published_at": "2026-11-17T10:44:27.000Z",
-      "image": "https://s.france24.com/media/display/e78c0f28-e26f-11f1-b18f-5f54d898a954/w:1024/p:16x9/EN-20261117-103642-103808-CS.jpg",
-      "image_alt": "Saudi Arabia replaces military commander after Yemen setbacks",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "inside-deutsche-bank-despite-scandals-and-war-in-ukraine-bank-maintain-e22056c5",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "'Inside Deutsche Bank': Despite scandals and war in Ukraine, bank maintained business ties with Russians",
-      "published_at": "2026-11-17T06:01:03.000Z",
-      "image": "https://img.lemde.fr/2026/11/16/279/0/3000/1500/644/322/60/0/1df6da8_upload-1-ung7bjh76wpv-db-03-russie.jpg",
-      "image_alt": "'Inside Deutsche Bank': Despite scandals and war in Ukraine, bank maintained business ties with Russians",
-      "translations": {
-        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/11/17/inside-deutsche-bank-despite-scandals-and-war-in-ukraine-bank-maintained-business-ties-with-russians_6782702_8.html"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda-c0cc54c6",
-      "region": "Europe",
+      "id": "from-failed-businessman-to-accused-plotter-in-the-killing-of-haiti-s-l-937efa74",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
-      "published_at": "2026-11-17T10:22:52.000Z",
-      "image": "",
-      "image_alt": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "congo-ebola-outbreak-how-fear-and-mistrust-drive-community-spread-0f8772c6",
-      "region": "Africa",
-      "topic": "Health",
-      "urgency": "Live",
-      "headline": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-      "published_at": "2026-11-17T10:07:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
-      "image_alt": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-      "translations": {
-        "en": "PULSE is tracking this health update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesundheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de salud de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité sante de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "ukraine-attacks-kerch-bridge-linking-russia-to-occupied-crimea-cf7d471c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-      "published_at": "2026-11-17T09:55:26.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
-      "image_alt": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "headline": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
+      "published_at": "2026-11-17T17:41:06.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17haiti-assassination-pastor-zgtf/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
+      "image_alt": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -359,217 +520,56 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhe-0615b6f4",
-      "region": "Asia-Pacific",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
-      "published_at": "2026-11-17T09:45:26.000Z",
-      "image": "https://s.france24.com/media/display/36dae0c6-e267-11f1-b463-695cb59fade5/w:1024/p:16x9/capture-672c7708.jpg",
-      "image_alt": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
-      "translations": {
-        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret-bf003059",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
-      "published_at": "2026-11-17T09:53:31.000Z",
-      "image": "",
-      "image_alt": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss"
+          "url": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html"
         }
       ],
       "impact": 76
     },
     {
-      "id": "powering-towns-on-pig-manure-how-denmark-has-transformed-energy-genera-1c779215",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Powering towns on pig manure: How Denmark has transformed energy generation",
-      "published_at": "2026-11-17T09:51:02.000Z",
-      "image": "",
-      "image_alt": "Powering towns on pig manure: How Denmark has transformed energy generation",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-r-85a26c99",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-      "published_at": "2026-11-17T09:29:28.000Z",
-      "image": "",
-      "image_alt": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae-3c31315a",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
-      "published_at": "2026-11-17T09:12:38.000Z",
-      "image": "",
-      "image_alt": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries-ad4dccd6",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-      "published_at": "2026-11-17T08:41:21.000Z",
-      "image": "",
-      "image_alt": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "germany-news-plans-for-rwanda-migrant-hub-come-under-fire-b59bfdb1",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Germany news: Plans for Rwanda migrant hub come under fire",
-      "published_at": "2026-11-17T10:15:00.000Z",
-      "image": "",
-      "image_alt": "Germany news: Plans for Rwanda migrant hub come under fire",
-      "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-b-125d6a4d",
+      "id": "iran-claims-attack-on-us-base-in-bahrain-3d0f749a",
       "region": "Middle East",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
-      "published_at": "2026-11-17T10:46:27.000Z",
-      "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg",
-      "image_alt": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Iran claims attack on US base in Bahrain",
+      "published_at": "2026-11-17T12:51:57.000Z",
+      "image": "https://img.lemde.fr/2026/09/02/300/0/3600/1800/644/322/60/0/49f9bb0_ftp-1-i4wfzik1htfa-5976048-01-06.jpg",
+      "image_alt": "Iran claims attack on US base in Bahrain",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
         }
       ],
-      "impact": 73
+      "impact": 76
     },
     {
-      "id": "5-european-countries-aim-to-send-rejected-asylum-seekers-to-rwanda-46dccf97",
+      "id": "ukrainian-strike-cuts-russian-occupied-crimean-bridge-c0adbe15",
       "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "5 European countries aim to send rejected asylum seekers to Rwanda",
-      "published_at": "2026-11-17T10:41:53.000Z",
-      "image": "https://s.france24.com/media/display/c03fe188-e26f-11f1-b5ff-5f54d898a954/w:1024/p:16x9/EN-20261117-103334-103526-CS.jpg",
-      "image_alt": "5 European countries aim to send rejected asylum seekers to Rwanda",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Ukrainian strike cuts Russian-occupied Crimean bridge",
+      "published_at": "2026-11-17T12:19:11.000Z",
+      "image": "https://img.lemde.fr/2026/11/17/109/0/3500/1750/644/322/60/0/1614b31_ftp-1-l0fjckoqef3d-5597401-01-06.jpg",
+      "image_alt": "Ukrainian strike cuts Russian-occupied Crimean bridge",
       "translations": {
-        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20261117-5-european-countries-aim-to-send-rejected-asylum-seekers-to-rwanda"
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/17/ukrainian-strike-cuts-russian-occupied-crimean-bridge_6782810_4.html"
         }
       ],
-      "impact": 73
+      "impact": 76
     }
   ]
 }
