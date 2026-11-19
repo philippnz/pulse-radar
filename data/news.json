@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T01:00:13.029Z",
+  "updated_at": "2026-11-19T08:36:40.551Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,60 @@
   ],
   "stories": [
     {
-      "id": "iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormu-c69230f3",
-      "region": "Middle East",
+      "id": "live-updates-trump-xi-and-putin-to-meet-for-their-first-summit-c0f9ebc4",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Live Updates: Trump, Xi and Putin to Meet for Their First Summit",
+      "published_at": "2026-11-19T08:32:22.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summit-update-vmbq/19trump-summit-update-vmbq-mediumSquareAt3X.jpg",
+      "image_alt": "Live Updates: Trump, Xi and Putin to Meet for Their First Summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "netanyahu-associates-acknowledge-role-in-setting-off-election-day-arre-b7783836",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+      "published_at": "2026-11-19T08:31:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X.jpg",
+      "image_alt": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela-cce6a870",
+      "region": "Americas",
       "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-      "published_at": "2026-11-19T00:01:02.000Z",
+      "urgency": "Live",
+      "headline": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+      "published_at": "2026-11-19T07:52:30.000Z",
       "image": "",
-      "image_alt": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "image_alt": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,20 +83,365 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss"
         }
       ],
-      "impact": 86
+      "impact": 81
     },
     {
-      "id": "claude-maker-anthropic-poised-for-more-than-1-4tn-stock-market-debut-c6d87bb3",
+      "id": "a-village-burned-its-people-killed-or-exiled-was-it-genocide-ef87c30f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+      "published_at": "2026-11-19T06:42:09.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
+      "image_alt": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+      "translations": {
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "it-s-my-friend-moment-trump-greets-putin-at-china-summit-2a218044",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+      "published_at": "2026-11-19T06:44:59.000Z",
+      "image": "",
+      "image_alt": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+      "translations": {
+        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss"
+        }
+      ],
+      "impact": 80
+    },
+    {
+      "id": "historic-three-way-summit-between-trump-xi-and-putin-starts-in-shenzhe-efb9804b",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "🔴 Historic three-way summit between Trump, Xi and Putin starts in Shenzhen, China",
+      "published_at": "2026-11-19T08:30:40.000Z",
+      "image": "",
+      "image_alt": "🔴 Historic three-way summit between Trump, Xi and Putin starts in Shenzhen, China",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "crimean-bridge-attacked-again-russia-says-8944b9bf",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Crimean Bridge attacked again, Russia says",
+      "published_at": "2026-11-19T07:32:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+      "image_alt": "Crimean Bridge attacked again, Russia says",
+      "translations": {
+        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "putin-arrives-for-historic-summit-meeting-with-xi-and-trump-to-start-s-efb9804b",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "🔴 Putin arrives for historic summit, meeting with Xi and Trump to start shortly",
+      "published_at": "2026-11-19T08:16:26.000Z",
+      "image": "",
+      "image_alt": "🔴 Putin arrives for historic summit, meeting with Xi and Trump to start shortly",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "apec-summit-trump-seeks-nuclear-arms-cuts-but-few-concrete-results-exp-c87eb840",
+      "region": "Europe",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "APEC summit: Trump seeks nuclear arms cuts, but few concrete results expected",
+      "published_at": "2026-11-19T07:47:21.000Z",
+      "image": "https://s.france24.com/media/display/fa2fa9aa-e3eb-11f1-a672-6d75ed565170/w:1024/p:16x9/EN-20261119-060726-061422-CS.jpg",
+      "image_alt": "APEC summit: Trump seeks nuclear arms cuts, but few concrete results expected",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261119-apec-summit-trump-seeks-nuclear-arms-cuts-but-few-concrete-results-expected"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "apec-summit-ai-and-tech-competition-between-us-and-china-09762b40",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "APEC summit: AI and tech competition between US and China",
+      "published_at": "2026-11-19T07:45:52.000Z",
+      "image": "https://s.france24.com/media/display/aa305392-e3ea-11f1-b104-1ba7ddfab527/w:1024/p:16x9/EN-20261119-060110-060719-CS.jpg",
+      "image_alt": "APEC summit: AI and tech competition between US and China",
+      "translations": {
+        "en": "PULSE is tracking this politics update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/beijing-summit-ai-and-tech-competition-between-us-and-china"
+        }
+      ],
+      "impact": 78
+    },
+    {
+      "id": "saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-so-69be7e3e",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+      "published_at": "2026-11-19T08:19:17.000Z",
+      "image": "",
+      "image_alt": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims-8fa88520",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+      "published_at": "2026-11-19T07:51:03.000Z",
+      "image": "",
+      "image_alt": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "charting-the-world-s-biggest-ipos-as-anthropic-overtakes-spacex-d33ae63f",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
+      "published_at": "2026-11-19T07:36:08.000Z",
+      "image": "",
+      "image_alt": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "too-early-to-determine-impact-of-us-blockade-on-iran-with-tehran-defia-03a26926",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "published_at": "2026-11-19T07:08:57.000Z",
+      "image": "",
+      "image_alt": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "netanyahu-s-last-stand-and-the-dangerous-politics-of-survival-501bc1a4",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Netanyahu’s last stand and the dangerous politics of survival",
+      "published_at": "2026-11-19T06:58:44.000Z",
+      "image": "",
+      "image_alt": "Netanyahu’s last stand and the dangerous politics of survival",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "this-is-a-remarkable-diplomatic-moment-for-china-s-xi-5f8bc95c",
+      "region": "Asia-Pacific",
+      "topic": "Politics",
+      "urgency": "Update",
+      "headline": "This is a remarkable diplomatic moment for China's Xi",
+      "published_at": "2026-11-19T04:42:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+      "image_alt": "This is a remarkable diplomatic moment for China's Xi",
+      "translations": {
+        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 76
+    },
+    {
+      "id": "could-trump-putin-and-xi-end-the-nuclear-age-dc45cbc2",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "Could Trump, Putin and Xi end the nuclear age?",
+      "published_at": "2026-11-19T06:15:55.000Z",
+      "image": "",
+      "image_alt": "Could Trump, Putin and Xi end the nuclear age?",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "middle-east-crisis-poses-largest-threat-to-energy-security-in-history--972d7dbe",
+      "region": "Middle East",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
+      "published_at": "2026-11-19T05:11:59.000Z",
+      "image": "https://s.france24.com/media/display/bfcf9412-e37f-11f1-92da-1ba7ddfab527/w:1024/p:16x9/AP26318617092767.jpg",
+      "image_alt": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
+      "translations": {
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "anthropic-valued-at-1-5-trillion-ahead-of-ai-giant-s-stock-market-debu-c6d87bb3",
       "region": "World",
       "topic": "Markets",
-      "urgency": "Live",
-      "headline": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "published_at": "2026-11-18T23:44:27.000Z",
+      "urgency": "Update",
+      "headline": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+      "published_at": "2026-11-19T02:20:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "image_alt": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "image_alt": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
       "translations": {
         "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -63,53 +454,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 84
-    },
-    {
-      "id": "russian-man-accused-of-spying-on-us-tech-defence-company-that-assists--1431aa95",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Russian man accused of spying on US tech defence company that assists Ukraine",
-      "published_at": "2026-11-18T23:28:03.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
-      "image_alt": "Russian man accused of spying on US tech defence company that assists Ukraine",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 84
-    },
-    {
-      "id": "israeli-military-launches-rare-ground-operation-in-gaza-beyond-yellow--c3261a1d",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Live",
-      "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "published_at": "2026-11-18T22:34:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-      "image_alt": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 83
+      "impact": 74
     },
     {
       "id": "inside-the-old-gas-pipeline-where-ukraine-is-fighting-an-underground-w-c73c048e",
@@ -132,441 +477,96 @@
           "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "impact": 82
+      "impact": 74
     },
     {
-      "id": "eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tarif-a03b6991",
-      "region": "Europe",
-      "topic": "Markets",
-      "urgency": "Live",
-      "headline": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-      "published_at": "2026-11-19T00:11:40.000Z",
-      "image": "",
-      "image_alt": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-      "translations": {
-        "en": "PULSE is tracking this markets update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Markt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mercados de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité marches de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "inside-limoges-city-hall-devastated-by-arson-attack-e5bee1d5",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Inside Limoges City Hall devastated by arson attack",
-      "published_at": "2026-11-18T22:23:48.000Z",
-      "image": "https://s.france24.com/media/display/a034574a-e39e-11f1-bfdd-7908c4e1a3c7/w:1024/p:16x9/capture-fa1f6e70.jpg",
-      "image_alt": "Inside Limoges City Hall devastated by arson attack",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-d79b3a7c",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
-      "published_at": "2026-11-18T21:51:43.000Z",
-      "image": "https://s.france24.com/media/display/1e5b1bea-e39a-11f1-83bd-6d75ed565170/w:1024/p:16x9/kerch.png",
-      "image_alt": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "van-gogh-painting-sells-for-record-190-4m-after-row-over-its-nazi-hist-43a2d947",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "published_at": "2026-11-19T00:49:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
-      "image_alt": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "translations": {
-        "en": "PULSE is tracking this world update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "what-the-crimean-bridge-attack-means-for-russia-ab441418",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "What the Crimean bridge attack means for Russia",
-      "published_at": "2026-11-18T20:30:00.000Z",
-      "image": "",
-      "image_alt": "What the Crimean bridge attack means for Russia",
-      "translations": {
-        "en": "PULSE is tracking this security update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-top-1022-rdf"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "trump-xi-and-putin-shake-hands-as-leaders-gather-in-china-df23ec00",
-      "region": "Asia-Pacific",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-      "published_at": "2026-11-19T00:52:56.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
-      "image_alt": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-      "translations": {
-        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "myanmar-faces-historic-genocide-verdict-at-un-court-over-rohingya-mass-cd24719f",
-      "region": "Asia-Pacific",
-      "topic": "Society",
-      "urgency": "Live",
-      "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "published_at": "2026-11-18T23:04:06.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
-      "image_alt": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "translations": {
-        "en": "PULSE is tracking this society update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Gesellschafts-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de sociedad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité societe de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "florida-pastor-found-guilty-over-2021-assassination-of-haitian-preside-94287023",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Florida pastor found guilty over 2021 assassination of Haitian president",
-      "published_at": "2026-11-18T22:31:41.000Z",
-      "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=59537ad1f77036983101f1e1e97d1281",
-      "image_alt": "Florida pastor found guilty over 2021 assassination of Haitian president",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-act-e36132f8",
-      "region": "Europe",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
-      "published_at": "2026-11-18T19:45:16.000Z",
-      "image": "https://s.france24.com/media/display/991ef9ca-e37f-11f1-b661-6d75ed565170/w:1024/p:16x9/EN-20261118-181737-182702-CS.jpg",
-      "image_alt": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
-      "translations": {
-        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player"
-        }
-      ],
-      "impact": 78
-    },
-    {
-      "id": "german-fa-backs-france-s-diallo-for-fifa-presidency-a72278ca",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "German FA backs France’s Diallo for FIFA presidency",
-      "published_at": "2026-11-19T00:44:50.000Z",
-      "image": "",
-      "image_alt": "German FA backs France’s Diallo for FIFA presidency",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "kenya-s-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-pr-c4a653fe",
-      "region": "Africa",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-      "published_at": "2026-11-19T00:40:01.000Z",
-      "image": "",
-      "image_alt": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "somalia-s-constitutional-overhaul-tests-its-fragile-federal-bargain-ac692c16",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-      "published_at": "2026-11-19T00:37:03.000Z",
-      "image": "",
-      "image_alt": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
-        }
-      ],
-      "impact": 77
-    },
-    {
-      "id": "anthropic-raises-81-3bn-in-biggest-ipo-of-all-time-4e09e8eb",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Anthropic raises $81.3bn in biggest IPO of all-time",
-      "published_at": "2026-11-19T00:20:03.000Z",
-      "image": "",
-      "image_alt": "Anthropic raises $81.3bn in biggest IPO of all-time",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resur-d8abb0b9",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
-      "published_at": "2026-11-19T00:14:40.000Z",
-      "image": "",
-      "image_alt": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "israel-uses-gaza-swimming-video-to-minimise-winter-hardships-6f641926",
+      "id": "skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-hout-dab98dd2",
       "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israel uses Gaza swimming video to minimise winter hardships",
-      "published_at": "2026-11-18T23:53:21.000Z",
-      "image": "",
-      "image_alt": "Israel uses Gaza swimming video to minimise winter hardships",
+      "headline": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
+      "published_at": "2026-11-19T07:58:16.000Z",
+      "image": "https://s.france24.com/media/display/889a1214-e3ee-11f1-801f-6d75ed565170/w:1024/p:16x9/000-A6BN49E.jpg",
+      "image_alt": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
       "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss"
-        }
-      ],
-      "impact": 76
-    },
-    {
-      "id": "crimea-bridge-attacked-again-russian-official-says-fd68ead7",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Crimea bridge attacked again, Russian official says",
-      "published_at": "2026-11-19T00:31:44.000Z",
-      "image": "https://img.lemde.fr/2026/11/17/94/0/3008/1504/644/322/60/0/17a8cb2_ftp-1-nsjlkweqwahp-2026-11-17t132708z-465711953-rc2ppoaqenqs-rtrmadp-3-ukraine-crisis-attack-crimea-sbu.JPG",
-      "image_alt": "Crimea bridge attacked again, Russian official says",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/19/crimea-bridge-attacked-again-russian-official-says_6783955_4.html"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks"
         }
       ],
       "impact": 73
     },
     {
-      "id": "grand-theft-auto-vi-released-as-gamers-rejoice-globally-0299a605",
-      "region": "Europe",
+      "id": "gaza-israel-launched-new-offensive-on-nuseirat-1bbf3668",
+      "region": "Middle East",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Grand Theft Auto VI released as gamers rejoice globally",
-      "published_at": "2026-11-18T23:58:00.000Z",
-      "image": "",
-      "image_alt": "Grand Theft Auto VI released as gamers rejoice globally",
+      "headline": "Gaza: Israel launched new offensive on Nuseirat",
+      "published_at": "2026-11-19T07:50:10.000Z",
+      "image": "https://s.france24.com/media/display/7cb17a8e-e3ec-11f1-8605-7908c4e1a3c7/w:1024/p:16x9/EN-20261119-061552-061743-CS.jpg",
+      "image_alt": "Gaza: Israel launched new offensive on Nuseirat",
       "translations": {
-        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de France 24. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-top-1022-rdf"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat"
         }
       ],
       "impact": 73
     },
     {
-      "id": "danish-pm-mette-frederiksen-moves-further-toward-the-far-right-by-invo-fd4f1fcf",
+      "id": "xi-recibe-a-trump-y-putin-en-el-inicio-de-una-reuni-n-trilateral-hist--31dc8abe",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Danish PM Mette Frederiksen moves further toward the far right by invoking the 'great replacement'",
-      "published_at": "2026-11-19T00:14:01.000Z",
-      "image": "https://img.lemde.fr/2026/11/16/405/0/4864/2432/644/322/60/0/d668e44_ftp-1-6t7aadcfkcpw-2026-11-16t154235z-407822163-rc23poajuozr-rtrmadp-3-europe-migration-rwanda.JPG",
-      "image_alt": "Danish PM Mette Frederiksen moves further toward the far right by invoking the 'great replacement'",
+      "headline": "Xi recibe a Trump y Putin en el inicio de una reunión trilateral histórica",
+      "published_at": "2026-11-19T08:32:07.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/WFPDTI5FLRPVLAJ2I4A6S3DPZE.jpg?auth=1292f54ef5fdedac7793bc8f1dfa083249e25e702d6704c44a8e4bb2fb934790",
+      "image_alt": "Xi recibe a Trump y Putin en el inicio de una reunión trilateral histórica",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from El Pais. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von El Pais. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de El Pais. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de El Pais. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/19/danish-pm-mette-frederiksen-moves-further-toward-the-far-right-by-invoking-the-great-replacement_6783922_4.html"
+          "name": "El Pais",
+          "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html"
         }
       ],
       "impact": 72
     },
     {
-      "id": "icj-to-deliver-highly-anticipated-ruling-on-rohingya-genocide-question-99041a0f",
+      "id": "is-the-ai-bubble-bursting-just-as-anthropic-goes-public-52a5c57b",
       "region": "Europe",
-      "topic": "World",
+      "topic": "Technology",
       "urgency": "Live",
-      "headline": "ICJ to deliver highly anticipated ruling on Rohingya genocide question",
-      "published_at": "2026-11-18T23:25:38.000Z",
-      "image": "https://img.lemde.fr/2025/10/22/267/0/5661/2830/644/322/60/0/0241d8f_ftp-import-images-1-l8wll82tiskj-5233489-01-06.jpg",
-      "image_alt": "ICJ to deliver highly anticipated ruling on Rohingya genocide question",
+      "headline": "Is the AI bubble bursting just as Anthropic goes public?",
+      "published_at": "2026-11-19T05:58:00.000Z",
+      "image": "",
+      "image_alt": "Is the AI bubble bursting just as Anthropic goes public?",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this technology update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Technologie-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de tecnologia de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité technologie de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/19/icj-to-deliver-highly-anticipated-ruling-on-rohingya-genocide-question_6783856_4.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-top-1022-rdf"
         }
       ],
       "impact": 72
