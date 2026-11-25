@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:41:16.228Z",
+  "updated_at": "2026-11-25T12:01:35.463Z",
   "languages": [
     {
       "code": "en",
@@ -20,14 +20,14 @@
   ],
   "stories": [
     {
-      "id": "poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-ter-75d4a6c1",
-      "region": "Middle East",
+      "id": "israeli-strike-kills-hamas-official-his-wife-and-children-0a71ace0",
+      "region": "World",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Poll finds US voters want government to end Iran war regardless of terms",
-      "published_at": "2026-11-25T01:14:22.000Z",
+      "headline": "Israeli strike kills Hamas official, his wife and children",
+      "published_at": "2026-11-25T11:24:37.000Z",
       "image": "",
-      "image_alt": "Poll finds US voters want government to end Iran war regardless of terms",
+      "image_alt": "Israeli strike kills Hamas official, his wife and children",
       "translations": {
         "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -37,20 +37,89 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss"
+        }
+      ],
+      "impact": 87
+    },
+    {
+      "id": "could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-pow-ec137425",
+      "region": "Middle East",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+      "published_at": "2026-11-25T10:27:53.000Z",
+      "image": "",
+      "image_alt": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+      "translations": {
+        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss"
         }
       ],
       "impact": 86
     },
     {
-      "id": "huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-rackete-ad056cd7",
+      "id": "colombian-police-storm-supermarket-to-free-20-held-hostage-for-17-hour-c63f2b8e",
       "region": "World",
+      "topic": "Security",
+      "urgency": "Live",
+      "headline": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "published_at": "2026-11-25T11:45:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+      "image_alt": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "translations": {
+        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "surprise-eurostar-strike-cancels-london-paris-and-brussels-trains-153ef341",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "🔴 Surprise Eurostar strike cancels London, Paris and Brussels trains",
+      "published_at": "2026-11-25T10:14:45.000Z",
+      "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1024/p:16x9/000-A6LZ3KE.jpg",
+      "image_alt": "Surprise Eurostar strike cancels London, Paris and Brussels trains",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains"
+        }
+      ],
+      "impact": 85
+    },
+    {
+      "id": "huawei-found-guilty-of-stealing-us-trade-secrets-but-acquitted-of-rack-ad056cd7",
+      "region": "Americas",
       "topic": "Markets",
       "urgency": "Live",
-      "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "published_at": "2026-11-25T01:11:57.000Z",
+      "headline": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "published_at": "2026-11-25T10:52:09.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "image_alt": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "image_alt": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "translations": {
         "en": "PULSE is tracking this markets update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Markt-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -66,106 +135,14 @@
       "impact": 84
     },
     {
-      "id": "iran-war-live-houthis-threaten-saudi-ports-over-coalition-s-hodeidah-o-b10ed5ca",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-      "published_at": "2026-11-25T00:00:00.000Z",
-      "image": "",
-      "image_alt": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
-        }
-      ],
-      "impact": 84
-    },
-    {
-      "id": "israel-s-eisenkot-secures-first-coalition-partner-in-bid-to-form-gover-ecc097be",
-      "region": "Middle East",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-      "published_at": "2026-11-25T01:30:44.000Z",
-      "image": "",
-      "image_alt": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-      "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "iraq-s-prime-minister-aims-to-wrest-more-power-from-kurdistan-region-a335b273",
-      "region": "World",
-      "topic": "Politics",
-      "urgency": "Live",
-      "headline": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
-      "published_at": "2026-11-25T00:38:34.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
-      "image_alt": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
-      "translations": {
-        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html"
-        }
-      ],
-      "impact": 81
-    },
-    {
-      "id": "gunmen-hold-dozens-hostage-in-colombia-supermarket-b7670f6d",
+      "id": "colombia-s-leader-blames-terrorist-attack-for-power-outages-ec3268e6",
       "region": "World",
       "topic": "Security",
-      "urgency": "Live",
-      "headline": "Gunmen hold dozens hostage in Colombia supermarket",
-      "published_at": "2026-11-25T00:49:35.000Z",
-      "image": "",
-      "image_alt": "Gunmen hold dozens hostage in Colombia supermarket",
-      "translations": {
-        "en": "PULSE is tracking this security update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss"
-        }
-      ],
-      "impact": 80
-    },
-    {
-      "id": "houthi-attack-on-skyscraper-in-saudi-capital-wounds-11-officials-say-36c78f75",
-      "region": "Middle East",
-      "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
-      "published_at": "2026-11-24T19:18:15.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
-      "image_alt": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "headline": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+      "published_at": "2026-11-25T08:05:15.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-colombia-blackout-gzpt/25int-colombia-blackout-gzpt-mediumSquareAt3X.jpg",
+      "image_alt": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
       "translations": {
         "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -175,20 +152,135 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html"
+          "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html"
+        }
+      ],
+      "impact": 84
+    },
+    {
+      "id": "north-korea-kicks-out-swiss-diplomats-in-spat-linked-to-ukraine-war-bb3a04fb",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "published_at": "2026-11-25T07:29:44.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
+      "image_alt": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "translations": {
+        "en": "PULSE is tracking this security update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html"
+        }
+      ],
+      "impact": 83
+    },
+    {
+      "id": "losses-mount-for-yemeni-government-as-houthi-militia-advances-5e34a7a9",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "Losses Mount for Yemeni Government as Houthi Militia Advances",
+      "published_at": "2026-11-25T11:24:10.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
+      "image_alt": "Losses Mount for Yemeni Government as Houthi Militia Advances",
+      "translations": {
+        "en": "PULSE is tracking this politics update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The New York Times. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html"
+        }
+      ],
+      "impact": 82
+    },
+    {
+      "id": "surprise-eurostar-strike-hits-paris-london-trains-92e40fc8",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Surprise Eurostar strike hits Paris-London trains",
+      "published_at": "2026-11-25T09:43:46.000Z",
+      "image": "https://img.lemde.fr/2020/02/01/581/0/3500/1750/644/322/60/0/3f62653_FW1_BRITAIN-EU-TUNNEL_0201_11.JPG",
+      "image_alt": "Surprise Eurostar strike hits Paris-London trains",
+      "translations": {
+        "en": "PULSE is tracking this security update from Le Monde. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de Le Monde. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de Le Monde. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/en/france/article/2026/11/25/surprise-eurostar-strike-hits-paris-london-trains_6788047_7.html"
+        }
+      ],
+      "impact": 81
+    },
+    {
+      "id": "sri-lankan-asylum-seeker-killed-himself-after-being-sent-by-uk-to-eswa-ef4e7886",
+      "region": "Europe",
+      "topic": "World",
+      "urgency": "Breaking",
+      "headline": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+      "published_at": "2026-11-25T11:28:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=140&quality=85&auto=format&fit=max&s=d2fbfc2ed05af5ebc82e287cb5f899e2",
+      "image_alt": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+      "translations": {
+        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini"
         }
       ],
       "impact": 80
     },
     {
-      "id": "israeli-air-strike-kills-hamas-internal-security-chief-in-gaza-828037c2",
-      "region": "Middle East",
+      "id": "colombia-president-says-all-hostages-freed-one-assailant-killed-after--99d677d8",
+      "region": "Europe",
       "topic": "Security",
       "urgency": "Breaking",
-      "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "published_at": "2026-11-24T15:35:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
-      "image_alt": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "headline": "🔴 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
+      "published_at": "2026-11-25T07:20:50.000Z",
+      "image": "",
+      "image_alt": "🔴 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
+      "translations": {
+        "en": "PULSE is tracking this security update from France 24. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Sicherheits-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de seguridad de France 24. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité securite de France 24. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights"
+        }
+      ],
+      "impact": 79
+    },
+    {
+      "id": "russia-s-own-figures-show-it-has-lost-almost-500-000-people-in-ukraine-3ae1349c",
+      "region": "Europe",
+      "topic": "Security",
+      "urgency": "Breaking",
+      "headline": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
+      "published_at": "2026-11-25T00:56:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "image_alt": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
       "translations": {
         "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -198,43 +290,43 @@
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "impact": 79
     },
     {
-      "id": "land-mine-casualties-soar-in-syria-two-years-after-war-1d9e85a5",
-      "region": "Middle East",
-      "topic": "Security",
-      "urgency": "Breaking",
-      "headline": "Land mine casualties soar in Syria, two years after war",
-      "published_at": "2026-11-24T15:17:28.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-      "image_alt": "Land mine casualties soar in Syria, two years after war",
+      "id": "all-hostages-rescued-after-colombian-security-forces-storm-supermarket-51474f06",
+      "region": "World",
+      "topic": "Politics",
+      "urgency": "Live",
+      "headline": "All hostages rescued after Colombian security forces storm supermarket, says president",
+      "published_at": "2026-11-25T09:26:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/a5c069113373baf36b55dbce4358afd21f67fadf/0_0_4722_3777/master/4722.jpg?width=140&quality=85&auto=format&fit=max&s=b06d2e6ee80812a76566c3303409e9c8",
+      "image_alt": "All hostages rescued after Colombian security forces storm supermarket, says president",
       "translations": {
-        "en": "PULSE is tracking this security update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Sicherheits-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de seguridad de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité securite de BBC News. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this politics update from The Guardian. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Politik-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de politica de The Guardian. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité politique de The Guardian. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
         }
       ],
-      "impact": 79
+      "impact": 78
     },
     {
-      "id": "senegal-fans-celebrate-afcon-legal-victory-over-morocco-a297c75e",
+      "id": "zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goa-6662d8c3",
       "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Senegal fans celebrate AFCON legal victory over Morocco",
-      "published_at": "2026-11-25T01:39:53.000Z",
+      "headline": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
+      "published_at": "2026-11-25T11:29:38.000Z",
       "image": "",
-      "image_alt": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "image_alt": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -244,20 +336,43 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss"
+        }
+      ],
+      "impact": 77
+    },
+    {
+      "id": "people-are-going-hungry-guinea-s-gold-mining-crackdown-1674540c",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "‘People are going hungry’: Guinea’s gold mining crackdown",
+      "published_at": "2026-11-25T11:10:21.000Z",
+      "image": "",
+      "image_alt": "‘People are going hungry’: Guinea’s gold mining crackdown",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert-a5d555f1",
-      "region": "Middle East",
+      "id": "shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-li-8cfe7c56",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
-      "published_at": "2026-11-25T01:21:02.000Z",
+      "headline": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
+      "published_at": "2026-11-25T11:02:03.000Z",
       "image": "",
-      "image_alt": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "image_alt": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
       "translations": {
         "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -267,158 +382,66 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss"
         }
       ],
       "impact": 76
     },
     {
-      "id": "alaska-ends-deal-to-give-voter-records-to-us-justice-department-824425c6",
-      "region": "Americas",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "Alaska ends deal to give voter records to US Justice Department",
-      "published_at": "2026-11-25T00:28:28.000Z",
-      "image": "",
-      "image_alt": "Alaska ends deal to give voter records to US Justice Department",
-      "translations": {
-        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss"
-        }
-      ],
-      "impact": 75
-    },
-    {
-      "id": "rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-f-ffd99e93",
+      "id": "the-cost-of-nigeria-s-power-failures-for-one-small-business-1349564e",
       "region": "Africa",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-      "published_at": "2026-11-24T23:39:13.000Z",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "The cost of Nigeria’s power failures for one small business",
+      "published_at": "2026-11-25T11:01:54.000Z",
       "image": "",
-      "image_alt": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "image_alt": "The cost of Nigeria’s power failures for one small business",
       "translations": {
-        "en": "PULSE is tracking this politics update from Al Jazeera. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de Al Jazeera. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss"
         }
       ],
-      "impact": 74
+      "impact": 76
     },
     {
-      "id": "hackers-and-media-outlets-expose-what-the-kremlin-tried-to-hide-at-lea-53725044",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Hackers and media outlets expose what the Kremlin tried to hide: At least 500,000 dead on the Ukrainian front",
-      "published_at": "2026-11-24T22:48:22.000Z",
-      "image": "https://img.lemde.fr/2026/11/24/500/0/4000/2000/644/322/60/0/1246bf5_upload-1-ubrjyv0vn0fs-075-ukrinform-aerialre241219-npg9k.jpg",
-      "image_alt": "Hackers and media outlets expose what the Kremlin tried to hide: At least 500,000 dead on the Ukrainian front",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/24/hackers-and-media-outlets-expose-what-the-kremlin-tried-to-hide-at-least-500-000-dead-on-the-ukrainian-front_6787717_4.html"
-        }
-      ],
-      "impact": 74
-    },
-    {
-      "id": "india-s-forgotten-youth-if-you-are-born-poor-it-is-better-not-to-be-bo-4ae6facb",
+      "id": "who-is-chen-jining-china-s-latest-politburo-member-under-investigation-5dfa604e",
       "region": "Asia-Pacific",
       "topic": "World",
       "urgency": "Live",
-      "headline": "India's forgotten youth: 'If you are born poor, it is better not to be born at all'",
-      "published_at": "2026-11-25T02:35:37.000Z",
-      "image": "https://img.lemde.fr/2026/11/20/676/0/5699/2849/644/322/60/0/abdb551_upload-1-znqcccq55nhx-amk02096-copy.jpg",
-      "image_alt": "India's forgotten youth: 'If you are born poor, it is better not to be born at all'",
+      "headline": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+      "published_at": "2026-11-25T10:50:26.000Z",
+      "image": "",
+      "image_alt": "Who is Chen Jining, China’s latest Politburo member under investigation?",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/25/india-s-forgotten-youth-if-you-are-born-poor-it-is-better-not-to-be-born-at-all_6787849_4.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss"
         }
       ],
-      "impact": 73
+      "impact": 76
     },
     {
-      "id": "kilmar-brego-garc-a-man-at-center-of-trump-deportation-battle-leaving--ed632e0b",
+      "id": "mexico-investigates-prosecutor-who-aided-the-c-i-a-over-cartel-collusi-98594593",
       "region": "Americas",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
-      "published_at": "2026-11-24T23:50:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d",
-      "image_alt": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "life-expectancy-in-cuba-falls-for-first-time-since-1950-amid-economic--6f6874e5",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-      "published_at": "2026-11-24T19:07:26.000Z",
-      "image": "https://i.guim.co.uk/img/media/3b11d19a0b33be33833eb4b1d5b03400462e0fcb/799_0_4001_3200/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=b2a835ed36b4131c0a7af3d9f5794987",
-      "image_alt": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-      "translations": {
-        "en": "PULSE is tracking this world update from The Guardian. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von The Guardian. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de The Guardian. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de The Guardian. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline"
-        }
-      ],
-      "impact": 73
-    },
-    {
-      "id": "2-men-arrested-on-suspicion-of-breaking-into-prince-william-and-kate-s-2a9b5f63",
-      "region": "World",
-      "topic": "World",
-      "urgency": "Breaking",
-      "headline": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
-      "published_at": "2026-11-24T16:31:07.000Z",
-      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
-      "image_alt": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+      "headline": "Mexico Investigates Prosecutor Who Aided the C.I.A. Over Cartel Collusion",
+      "published_at": "2026-11-25T10:04:19.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
+      "image_alt": "Mexico Investigates Prosecutor Who Aided the C.I.A. Over Cartel Collusion",
       "translations": {
         "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -428,43 +451,89 @@
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html"
+          "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html"
         }
       ],
-      "impact": 73
+      "impact": 76
     },
     {
-      "id": "israeli-left-wing-party-halts-coalition-talks-with-eisenkot-6a93a990",
-      "region": "Europe",
+      "id": "island-paradise-of-mauritius-has-sun-beaches-and-too-many-dogs-33171b74",
+      "region": "World",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Israeli left-wing party halts coalition talks with Eisenkot",
-      "published_at": "2026-11-25T01:33:19.000Z",
-      "image": "https://img.lemde.fr/2026/11/23/290/0/3478/1739/644/322/60/0/db3dab9_ftp-1-2okuikrniz0i-2026-11-23t134207z-798475549-rc2otoabgfpk-rtrmadp-3-israel-politics-netanyahu.JPG",
-      "image_alt": "Israeli left-wing party halts coalition talks with Eisenkot",
+      "headline": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
+      "published_at": "2026-11-25T10:00:48.000Z",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
+      "image_alt": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from The New York Times. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von The New York Times. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de The New York Times. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de The New York Times. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/25/israeli-left-wing-party-halts-coalition-talks-with-eisenkot_6787818_4.html"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html"
         }
       ],
-      "impact": 72
+      "impact": 76
     },
     {
-      "id": "ukraine-seeks-115-billion-in-foreign-aid-for-2027-zelensky-says-769710ef",
+      "id": "see-motorcycle-passenger-s-viral-cricket-catch-c36078df",
+      "region": "World",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "See motorcycle passenger’s viral cricket catch",
+      "published_at": "2026-11-25T10:10:47.000Z",
+      "image": "",
+      "image_alt": "See motorcycle passenger’s viral cricket catch",
+      "translations": {
+        "en": "PULSE is tracking this world update from Al Jazeera. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Al Jazeera. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Al Jazeera. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Al Jazeera. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss"
+        }
+      ],
+      "impact": 75
+    },
+    {
+      "id": "us-army-to-detonate-unstable-lead-based-explosives-in-iowa-cfaf4ecb",
+      "region": "Americas",
+      "topic": "World",
+      "urgency": "Live",
+      "headline": "US Army to detonate unstable lead-based explosives in Iowa",
+      "published_at": "2026-11-25T11:33:00.000Z",
+      "image": "",
+      "image_alt": "US Army to detonate unstable lead-based explosives in Iowa",
+      "translations": {
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
+      },
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-top-1022-rdf"
+        }
+      ],
+      "impact": 74
+    },
+    {
+      "id": "violence-against-women-its-many-forms-and-the-paths-to-justice-cb432651",
       "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
-      "published_at": "2026-11-25T01:19:31.000Z",
-      "image": "https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg",
-      "image_alt": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+      "headline": "Violence against women: Its many forms and the paths to justice",
+      "published_at": "2026-11-25T11:16:24.000Z",
+      "image": "https://s.france24.com/media/display/39cb6dfe-e8b2-11f1-9f8b-29d00e23de9a/w:1024/p:16x9/capture-8d0eb86f.jpg",
+      "image_alt": "Violence against women: Its many forms and the paths to justice",
       "translations": {
         "en": "PULSE is tracking this world update from France 24. Open the original source for the full reporting and context.",
         "de": "PULSE verfolgt dieses Welt-Update von France 24. Die vollständige Berichterstattung steht bei der Originalquelle.",
@@ -474,102 +543,33 @@
       "sources": [
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says"
+          "url": "https://www.france24.com/en/tv-shows/press-review/20261125-violence-against-women-its-many-forms-and-the-paths-to-justice"
         }
       ],
-      "impact": 72
+      "impact": 73
     },
     {
-      "id": "california-grand-jury-indicts-meghan-markle-s-father-on-child-porn-cha-bfd4829c",
-      "region": "Europe",
-      "topic": "World",
-      "urgency": "Live",
-      "headline": "California grand jury indicts Meghan Markle's father on child porn charges",
-      "published_at": "2026-11-25T00:42:08.000Z",
-      "image": "https://img.lemde.fr/2026/11/19/75/0/6000/3000/644/322/60/0/2331ec7_ftp-1-5rl3k37ililf-2026-11-19t184530z-1113808571-rc25roamj4lu-rtrmadp-3-britain-royals-meghan.JPG",
-      "image_alt": "California grand jury indicts Meghan Markle's father on child porn charges",
-      "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/25/california-grand-jury-indicts-meghan-markle-s-father-on-child-porn-charges_6787817_4.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "behind-the-nvidia-case-a-vast-network-diverting-ai-chips-to-china-4f8c17ae",
+      "id": "north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoc-2aad6a9b",
       "region": "Asia-Pacific",
-      "topic": "Technology",
-      "urgency": "Live",
-      "headline": "Behind the Nvidia case, a vast network diverting AI chips to China",
-      "published_at": "2026-11-25T00:35:19.000Z",
-      "image": "https://img.lemde.fr/2026/11/23/277/0/5000/2500/644/322/60/0/950de7d_ftp-1-38thf78ombs6-2026-11-23t142223z-1619699420-rc2rkeajxlru-rtrmadp-3-nvidia-ceo.JPG",
-      "image_alt": "Behind the Nvidia case, a vast network diverting AI chips to China",
-      "translations": {
-        "en": "PULSE is tracking this technology update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Technologie-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de tecnologia de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité technologie de Le Monde. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/11/25/behind-the-nvidia-case-a-vast-network-diverting-ai-chips-to-china_6787816_19.html"
-        }
-      ],
-      "impact": 71
-    },
-    {
-      "id": "kilmar-abrego-garcia-who-fought-being-mistakenly-sent-to-el-salvador-i-68786e72",
-      "region": "Europe",
       "topic": "World",
       "urgency": "Live",
-      "headline": "Kilmar Abrego Garcia, who fought being mistakenly sent to El Salvador, is self-deporting to Spain",
-      "published_at": "2026-11-25T00:18:26.000Z",
-      "image": "https://img.lemde.fr/2026/11/24/350/0/4195/2097/644/322/60/0/e4f50f9_ftp-1-ce7ldujkuzss-ee1643ee158a46c98bc8b60aab07c0f3-0-a58b35130153473f99988f587da6a986.jpg",
-      "image_alt": "Kilmar Abrego Garcia, who fought being mistakenly sent to El Salvador, is self-deporting to Spain",
+      "headline": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
+      "published_at": "2026-11-25T11:12:00.000Z",
+      "image": "",
+      "image_alt": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
       "translations": {
-        "en": "PULSE is tracking this world update from Le Monde. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Welt-Update von Le Monde. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de mundo de Le Monde. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité monde de Le Monde. Ouvrez la source originale pour le contexte complet."
+        "en": "PULSE is tracking this world update from Deutsche Welle. Open the original source for the full reporting and context.",
+        "de": "PULSE verfolgt dieses Welt-Update von Deutsche Welle. Die vollständige Berichterstattung steht bei der Originalquelle.",
+        "es": "PULSE sigue esta actualización de mundo de Deutsche Welle. Abre la fuente original para leer el contexto completo.",
+        "fr": "PULSE suit cette actualité monde de Deutsche Welle. Ouvrez la source originale pour le contexte complet."
       },
       "sources": [
         {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/en/international/article/2026/11/25/kilmar-abrego-garcia-who-fought-being-mistakenly-sent-to-el-salvador-is-self-deporting-to-spain_6787783_4.html"
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-top-1022-rdf"
         }
       ],
-      "impact": 71
-    },
-    {
-      "id": "indian-government-has-lost-the-plot-says-cockroach-leader-barred-from--1f9b448a",
-      "region": "Europe",
-      "topic": "Politics",
-      "urgency": "Update",
-      "headline": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "published_at": "2026-11-24T18:07:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-      "image_alt": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "translations": {
-        "en": "PULSE is tracking this politics update from BBC News. Open the original source for the full reporting and context.",
-        "de": "PULSE verfolgt dieses Politik-Update von BBC News. Die vollständige Berichterstattung steht bei der Originalquelle.",
-        "es": "PULSE sigue esta actualización de politica de BBC News. Abre la fuente original para leer el contexto completo.",
-        "fr": "PULSE suit cette actualité politique de BBC News. Ouvrez la source originale pour le contexte complet."
-      },
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "impact": 71
+      "impact": 73
     }
   ]
 }
